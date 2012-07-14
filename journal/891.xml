@@ -1,0 +1,13 @@
+<journal>
+<header><title>Why Sign</title><date>2006-02-27</date></header>
+<entry>
+    <p>As mentioned recently, I digitally sign my email. Why? After all, by signing my email I vouch for what I say (no disowning it later) and I relinquish my anonymity. Wouldn't it be better to use some anonymizing service, not attach my name to what I say, not sign my mail, etc.?</p>
+    <p>Well, no. Here's why:</p>
+    <ol>
+      <li><p>Anonymity doesn't matter. I'm proud of who I am, so I don't feel the need to be some anonymous shmoo on the Internet. (If I lived in a repressive society, I might feel differently, but in free societies anonymity isn't important, at least to me.)</p></li>
+      <li><p>Trust matters. As Francis Fukuyama has <a href="http://isbn.nu/0029109760">argued</a>, societies with a high radius of trust (i.e., in which people readily associate with those far from their own kinship groups) are more successful. I want the Internet to be successful and to be a high-radius-of-trust extension of real life. One electronic marker of whether someone is trustworthy is whether they sign their email.</p></li>
+      <li><p>Identity matters. To me, trust and identity go hand-in-hand. I don't particularly trust anonymous people -- I need to know who they are (or at least that they have a stable association with a key, a cert, a mailing list, a blog, a website, etc.). When I receive email from someone with only a nickname, I immediately discount what that person says. It goes all the way back to Aristotle's <cite>Rhetoric</cite>: one is more likely to listen to or believe the argument of one who has a good reputation (and reputation is impossible without identity).</p></li>
+    </ol>
+    <p>In the early days of the Internet (when it was almost solely an academic environment), access was tied to identity, users were not anonymous, and the medium was a high-trust microcosm of society. Today, Internet users have extremely weak identity (if any), email addresses are easily forged, no one knows who anyone is, and the result is a low-trust electronic slum. Use of digital signatures, server certificates, and the like is a way to help build a higher-trust Internet (or alternative community within the Internet). Those who use digital signatures today are like urban pioneers in a bad neighborhood. It's not clear if we're going to overcome the forces of darkness. But at least we're trying.</p>
+</entry>
+</journal>

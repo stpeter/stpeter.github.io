@@ -1,0 +1,1073 @@
+// This is the source file for Peter Saint-Andre's 
+// "River Suite" for solo guitar. 
+//
+// This piece was written sometime between 1991 and 1993.
+//
+// This music is in the public domain; for details, see:
+// http://www.saint-andre.com/me/copyright.html
+//
+// The file you are looking at was created in
+// February of 2001 using Mup 4.1 for Linux. In 1993
+// I transcribed this piece using Finale for Macintosh,
+// but the resulting file contained numerous errors
+// and the file you are looking at is the canonical 
+// representation. However, I'm calling this file 
+// "Version 0.9" simply because I have not yet had a
+// chance to verify the accuracy of every detail. 
+// Also, the textual score markings in the PDF file 
+// didn't come out so well because I don't have good  
+// TrueType fonts on my computer, so the PostScript 
+// file is of higher quality and is the preferred
+// version for printing.
+//
+header
+	title (18) "River Suite"
+	title   ""   "Peter Saint-Andre"
+footer
+	title "This work is in the public domain. No rights reserved."
+header2
+	title   "River Suite"   "Peter Saint-Andre"
+footer2
+	title "- \% -"
+score
+	time = 16/8
+	key = 1#
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+	beamstyle = 4,4,4,4,4,4,4,4
+music
+1 1: 8r; e+; b; [with >] g; e+; b; [with >] g; e+; b; [with >] g; e+; b; [with >] g; e+; [with >] g; e+;
+1 2: 1e-~; 1e-;
+mussym above 1: 16 "ferm";
+rom above 1: 1 "I - Release";
+ital above 1: 1 "Presto";
+bar
+1 1: 8r; e+; b; [with >] g; e+; b; [with >] g; e+; b; [with >] g; e+; b; [with >] g; e+; [with >] g; e+;
+1 2: 1e-~; 1e-;
+mussym above 1: 16 "ferm";
+bar
+1 1: 8r; e+; b; [with >] g; e+; b; [with >] g; e+; b; [with >] g; e+; b; [with >] g; e+; [with >] g; e+;
+1 2: 1e-~; 1e-;
+bar
+1 1: 8r; e+; b; [with >] g; e+; b; [with >] g; e+; b; [with >] g; e+; b; [with >] g; e+; [with >] g; e+;
+1 2: 1f-~; 1f-;
+bar
+1 1: 8r; e+; b; [with >] g; e+; b; [with >] g; e+; b; [with >] g; e+; b; [with >] g; e+; [with >] g; e+;
+1 2: 1g-~; 1g-;
+bar
+1 1: 8r; e+; b; [with >] g; e+; b; [with >] g; e+; b; [with >] g; e+; b; [with >] g; e+; [with >] g; e+;
+1 2: 1a-~; 1a-;
+bar
+1 1: 8r; e+; b; [with >] g; e+; b; [with >] g; e+; b; [with >] g; e+; b; [with >] g; e+; [with >] g; e+;
+1 2: 1b-~; 1b-;
+bar
+1 1: 8r; e+; b; [with >] g; e+; b; [with >] g; e+; b; [with >] g; e+; b; [with >] g; e+; [with >] g; e+;
+1 2: 1c~; 1c;
+bar
+1 1: 8r; e+; b; [with >] g; e+; b; [with >] g; e+; b; [with >] g; e+; b; [with >] g; e+; [with >] g; e+;
+1 2: 1d~; 1d;
+bar
+1 1: 8r; e+; b; [with >] g; e+; b; [with >] g; e+; b; [with >] g; e+; b; [with >] g; e+; [with >] g; e+;
+1 2: 1b-~; 1b-;
+bar
+1 1: 8r; e+; b; [with >] g; e+; b; [with >] g; e+; b; [with >] g; e+; b; [with >] g; e+; [with >] g; e+;
+1 2: 1c~; 1c;
+bar
+1 1: 8r; e+; b; [with >] g; e+; b; [with >] g; e+; b; [with >] g; e+; b; [with >] g; e+; [with >] g; e+;
+1 2: 1a-~; 1a-;
+bar
+1 1: 8r; e+; b; [with >] g; e+; b; [with >] g; e+; b; [with >] g; e+; b; [with >] g; e+; [with >] g; e+;
+1 2: 1b-~; 1b-;
+bar
+newscore
+score
+	time = 12/8
+	key = 1#
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+	beamstyle = 4.,4.,4.,4.
+music
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b;
+1 2: 4.g-; b-; f-; c;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b;
+1 2: 4.g-; b-; f-; c;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b;
+1 2: 4.g-; b-; f-; c;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b;
+1 2: 4.g-; b-; f-; c;
+bar
+newscore
+score
+	time = 9/8
+	key = 1#
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+	beamstyle = 4.,4.,4.
+music
+1 1: 8r; e+; b; r; e+; b; r; e+; b;
+1 2: 4.g-; b-; f;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b;
+1 2: 4.f-; c; e;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b;
+1 2: 4.g-; b-; f;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b;
+1 2: 4.f-; c; e;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b;
+1 2: 4.g-; b-; f;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b;
+1 2: 4.f-; c; e;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b;
+1 2: 4.g-; b-; f;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b;
+1 2: 4.f-; c; e;
+ital below 1: 1 "do not sustain";
+bar
+newscore
+score
+	time = 6/8
+	key = 1#
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+	beamstyle = 4.,4.
+music
+1 1: 8r; e+; b; r; e+; b;
+1 2: 4.c; e;
+bar rehearsal mnum
+newscore
+score
+	time = 12/8
+	key = 1#
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+	beamstyle = 4.,4.,4.,4.
+music
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b;
+1 2: 4.d; g; f; a;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; 4.r;
+1 2: 4.c; e; d; 4f; 8g;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b;
+1 2: 4.d; g; f; a;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; 4.r;
+1 2: 4.c; e; d; 4f; 8g;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b;
+1 2: 4.d; g; f; a;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; 4.r;
+1 2: 4.c; e; d; 4f; 8g;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b;
+1 2: 4.d; g; f; a;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b; 
+1 2: 4.c; e; d; f;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b; 
+1 2: 4.c; e; c; e;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; 4.r;
+1 2: 4.d; f; d; 4f; 8g;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b; 
+1 2: 4.e; g; e; g;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b; 
+1 2: 4.f; a; f; a;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b; 
+1 2: 4.c; e; c; e;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; 4.r;
+1 2: 4.d; f; d; 4f; 8g;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b; 
+1 2: 4.e; g; e; g;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b; 
+1 2: 4.f; a; f; a;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b; 
+1 2: 4.c; e; c; e;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; 4.r;
+1 2: 4.d; f; d; 4f; 8g;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b; 
+1 2: 4.e; g; e; g;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b; 
+1 2: 4.f; a; f; a;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b; 
+1 2: 4.g; b; g; b;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b; 
+1 2: 4.a; c+; a; c+;
+ital below 1: 2 "cresc.";
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b; 
+1 2: 4.a; c+; d+; c+;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b; 
+1 2: 4.b; g; f<>; d;
+ital below 1: 1 "decresc.";
+bar rehearsal mnum
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b;
+1 2: 4.d; g; f; a;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; 4.r;
+1 2: 4.c; e; d; 4f; 8g;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b;
+1 2: 4.d; g; f; a;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; 4.r;
+1 2: 4.c; e; d; 4f; 8g;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b;
+1 2: 4.d; g; f; a;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; 4.r;
+1 2: 4.c; e; d; 4f; 8g;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b;
+1 2: 4.d; g; f; a;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b; 
+1 2: 4.c; e; d; f;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b; 
+1 2: 4.c; e; c; e;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b; 
+1 2: 4.b-; f; g; f;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b; 
+1 2: 4.g; f; e; f;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b; 
+1 2: 4.b-; f; g; f;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b; 
+1 2: 4.g; f; e; f;
+bar rehearsal mnum
+1 1: 8r; g+; e+; [with >] b; g+; e+; [with >] c+; g+; e+; [with >] b; g+; e+; 
+1 2: 1.e-;
+bar
+1 1: 8r; f+; d+; [with >] a; f+; d+; [with >] b; f+; d+; [with >] a; f+; d+; 
+1 2: 1.b-;
+bar
+1 1: 8r; e+; c+; [with >] g; e+; c+; [with >] a; e+; c+; [with >] g; e+; c+; 
+1 2: 1.a-;
+bar
+1 1: 8r; f+; d+; [with >] f; f+; d+; [with >] g; f+; d+; [with >] f; f+; d+; 
+1 2: 1.b-;
+bar
+1 1: 8r; g+; e+; [with >] b; g+; e+; [with >] c+; g+; e+; [with >] b; g+; e+; 
+1 2: 1.e-;
+bar
+1 1: 8r; f+; d+; [with >] a; f+; d+; [with >] b; f+; d+; [with >] a; f+; d+; 
+1 2: 1.b-;
+bar
+1 1: 8r; e+; c+; [with >] g; e+; c+; [with >] a; e+; c+; [with >] g; e+; c+; 
+1 2: 1.a-;
+bar
+1 1: 8r; e+; b; [with >] f; e+; b; [with >] g; e+; b; [with >] f; e+; b; 
+1 2: 1.b-;
+bar rehearsal mnum
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b;
+1 2: 4.d; g; f; a;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; 4.r;
+1 2: 4.c; e; d; 4f; 8g;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b;
+1 2: 4.d; g; f; a;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; 4.r;
+1 2: 4.c; e; d; 4f; 8g;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b;
+1 2: 4.d; g; f; a;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; 4.r;
+1 2: 4.c; e; d; 4f; 8g;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b;
+1 2: 4.d; g; f; a;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b; 
+1 2: 4.c; e; d; f;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b; 
+1 2: 4.c; e; c; e;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; 4.r;
+1 2: 4.d; f; d; 4f; 8g;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b; 
+1 2: 4.e; g; e; g;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b; 
+1 2: 4.f; a; f; a;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b; 
+1 2: 4.c; e; c; e;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; 4.r;
+1 2: 4.d; f; d; 4f; 8g;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b; 
+1 2: 4.e; g; e; g;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b; 
+1 2: 4.f; a; f; a;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b; 
+1 2: 4.c; e; c; e;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; 4.r;
+1 2: 4.d; f; d; 4f; 8g;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b; 
+1 2: 4.e; g; e; g;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b; 
+1 2: 4.f; a; f; a;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b; 
+1 2: 4.g; b; g; b;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b; 
+1 2: 4.a; c+; a; c+;
+ital below 1: 2 "cresc.";
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b; 
+1 2: 4.a; c+; d+; c+;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b; 
+1 2: 4.b; g; f<>; d;
+ital below 1: 1 "decresc.";
+bar rehearsal mnum
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b;
+1 2: 4.d; g; f; a;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; 4.r;
+1 2: 4.c; e; d; 4f; 8g;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b;
+1 2: 4.d; g; f; a;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; 4.r;
+1 2: 4.c; e; d; 4f; 8g;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b;
+1 2: 4.d; g; f; a;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; 4.r;
+1 2: 4.c; e; d; 4f; 8g;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b;
+1 2: 4.d; g; f; a;
+bar
+1 1: 8r; e+; b; r; e+; b; r; e+; b; 4.r;
+1 2: 4.c; e; d; 4f; 8g;
+ital below 1: 10 "rit.";
+bar
+1 1: 2e; 1egbe+;
+roll 1: 5;
+bar
+newscore
+score
+	time = 4/4
+	key = 1#
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+	beamstyle = 4,4,4,4
+music
+1 2: 2r; 4r; 8r; 8e-~;
+rom above 1: 1 "II - Reflection";
+ital above 1: 1 "Adagio";
+bar
+1 1: 4g+b+; 8g+b+; 8a+c++; 2g+b+;
+1 2: 8e-; 8e-~; 2e-; 4e-~;
+bar
+1 1: 8f+a+; e+g+; f+a+; a+c++; 2g+b+;
+1 2: 2.e-; 4e-~;
+bar
+1 1: 4g+b+; 8g+b+; 8a+c++; 2g+b+;
+1 2: 8e-; 8e-~; 2e-; 4e-~;
+bar
+1 1: 8f+a+; e+g+; f+a+; a+c++; 2g+b+;
+1 2: 2.e-; 4e-~;
+bar
+1 1: 8f+a+; e+g+; f+a+; a+c++; g+b+; f+a+; e+g+; d+f+;
+1 2: 1e-~;
+bar
+1 1: 8e+g+; d+g+; be+; ad+; 2be+;
+1 2: 2.e-; 4e-~;
+bar
+1 1: 8f+a+; e+g+; f+a+; a+c++; g+b+; f+a+; e+g+; d+f+;
+1 2: 1e-~;
+bar
+1 1: 8e+g+; d+g+; be+; ad+; 2be+;
+1 2: 2.e-; 4e-~;
+ital below 1: 1.5 "rit.";
+bar rehearsal mnum
+1 1: [grace; slash 1] 8d+f+; 8e+g+; d+f+; be+; ad+; e+; d+; b; a;
+1 2: 1e-;
+bar
+1 1: 8g; a; b; d+; 2b;
+1 2: 2.e-; 4e-~;
+bar
+1 1: [grace; slash 1] 8d+f+; 8e+g+; d+f+; be+; ad+; e+; d+; b; a;
+1 2: 1e-~;
+bar
+1 1: 8g; f; e; d; 2e;
+1 2: 2.e-; 4e-;
+bar
+1 1: [grace; slash 1] 8d+f+; 8e+g+; d+f+; be+; ad+; e+; d+; b; a;
+1 2: 1e-;
+bar
+1 1: 8g; a; b; d+; 2b;
+1 2: 2.e-; 4e-~;
+bar
+1 1: [grace; slash 1] 8d+f+; 8e+g+; d+f+; be+; ad+; e+; d+; b; a;
+1 2: 1e-~;
+bar
+1 1: 8g; f; e; d; 2e;
+1 2: 2.e-; 4e-;
+bar
+1 1: 8e+; f+; g+; a+; 4b+; 8g+; f+;
+1 2: 2a-; 2a-;
+bar
+1 1: 4a+; 8g+; f+; g+; f+; e+; d+;
+1 2: 2a-; 2a-;
+bar
+1 1: 8e+; f+; g+; a+; 4b+; 8g+; f+;
+1 2: 2a-; 2g;
+bar
+1 1: 4a+; 8g+; f+; g+; f+; e+; d+;
+1 2: 2f; 2f;
+bar
+1 1: 8b; d+; e+; f+; 8b; d+; e+; f+;
+1 2: 2f; 2f;
+bar
+1 1: [grace; slash 1] 8d+f+; 8e+g+; d+f+; be+; ad+; e+; d+; b; a;
+1 2: 1e-;
+bar
+1 1: 8g; a; b; d+; 2b;
+1 2: 2.e-; 4e-~;
+bar
+1 1: [grace; slash 1] 8d+f+; 8e+g+; d+f+; be+; ad+; e+; d+; b; a;
+1 2: 1e-~;
+bar
+1 1: 8g; f; e; d; 2e;
+1 2: 2.e-; 4e-;
+bar
+1 1: [grace; slash 1] 8d+f+; 8e+g+; d+f+; be+; ad+; e+; b+; a+; g+;
+1 2: 1e-;
+bar
+1 1: 8f+; g+; f+; d+; 2e+;
+1 2: 2.e-; 4e-~;
+bar
+1 1: [grace; slash 1] 8d+f+; 8e+g+; d+f+; be+; ad+; e+; d+; b; a;
+1 2: 1e-~;
+bar
+1 1: 8g; f; e; d; 2e;
+1 2: 2.e-; 4e-~;
+bar
+1 1: 4g+b+; 8g+b+; 8a+c++; 2g+b+;
+1 2: 8e-; 8e-~; 2e-; 4e-~;
+bar
+1 1: 8f+a+; e+g+; f+a+; a+c++; 2g+b+;
+1 2: 2.e-; 4e-~;
+bar
+1 1: 4g+b+; 8g+b+; 8a+c++; 2g+b+;
+1 2: 8e-; 8e-~; 2e-; 4e-~;
+bar
+1 1: 8f+a+; e+g+; f+a+; a+c++; 2g+b+;
+1 2: 2.e-; 4e-~;
+bar
+1 1: 8f+a+; e+g+; f+a+; a+c++; g+b+; f+a+; e+g+; d+f+;
+1 2: 1e-~;
+bar
+1 1: 8e+g+; d+g+; be+; ad+; 2be+;
+1 2: 2.e-; 4e-~;
+bar
+1 1: 8f+a+; e+g+; f+a+; a+c++; g+b+; f+a+; e+g+; d+f+;
+1 2: 1e-~;
+bar
+1 1: 8e+g+; d+g+; be+; ad+; 2be+;
+1 2: 2.e-; 4e-;
+ital below 1: 1.5 "rit.";
+mussym above 1: 4 "ferm";
+ital below 1: 4 "pp";
+bar
+newscore
+score
+	time = 12/8
+	key = 1#
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+	beamstyle = 4.,4.,4.,4.
+music
+1 1: 8r; e+; b; [with >] b; e+; b; [with >] b; e+; b; [with >] b; e+; b;
+1 2: 1.e~;
+rom above 1: 1 "III - Run";
+ital above 1: 1 "Presto";
+ital below 1: 1 "mf";
+bar
+1 1: [with >] 8b; e+; b; [with >] b; e+; b; [with >] b; e+; b; [with >] b; e+; b;
+1 2: 1.e;
+mussym above 1: 12 "ferm";
+bar
+1 1: 8r; e+; b; [with >] b; e+; b; [with >] b; e+; b; [with >] b; e+; b;
+1 2: 1.e~;
+bar
+1 1: [with >] 8b; e+; b; [with >] b; e+; b; [with >] b; e+; b; [with >] b; e+; b;
+1 2: 1.e;
+mussym above 1: 12 "ferm";
+bar rehearsal mnum
+1 1: 8r; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+;
+1 2: 1.e;
+bar
+1 1: 8r; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+;
+1 2: 1.d;
+bar
+1 1: 8r; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+;
+1 2: 1.c;
+bar
+1 1: 8r; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+;
+1 2: 1.b-;
+bar
+1 1: 8r; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+;
+1 2: 1.e;
+bar
+1 1: 8r; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+;
+1 2: 1.d;
+bar
+1 1: 8r; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+;
+1 2: 1.c;
+bar
+1 1: 8r; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+; r; e+; e+;
+1 2: 1b-~; 8b-; 4.e<>;
+bar
+1 1: 8r; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+;
+1 2: 1.b;
+bar
+1 1: 8r; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+;
+1 2: 1.a;
+bar
+1 1: 8r; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+;
+1 2: 1.g;
+bar
+1 1: 8r; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+; r; e+; e+;
+1 2: 1f~; 8f; 4.e;
+bar
+1 1: 8r; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+;
+1 2: 1.b;
+bar
+1 1: 8r; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+;
+1 2: 1.a;
+bar
+1 1: 8r; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+;
+1 2: 1.g;
+bar
+1 1: 8r; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+;
+1 2: 1.f;
+bar
+1 1: 8r; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+;
+1 2: 1.e;
+bar
+1 1: 8r; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+;
+1 2: 1.d;
+bar
+1 1: 8r; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+;
+1 2: 1.c;
+bar
+1 1: 8r; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+;
+1 2: 1.b-;
+bar
+1 1: 8r; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+;
+1 2: 1.e;
+bar
+1 1: 8r; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+;
+1 2: 1.d;
+bar
+1 1: 8r; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+;
+1 2: 1.c;
+bar
+1 1: 8r; e+; e+; [with >] b; e+; e+; [with >] b; e+; e+; r; e+; e+;
+1 2: 1b-~; 8b-; 4.e<>;
+bar rehearsal mnum
+1 1: 8r; e+; e+; [with >] b+; e+; e+; [with >] b+; e+; e+; [with >] b+; e+; e+;
+1 2: 1.b;
+bar
+1 1: 8r; e+; e+; [with >] a+; e+; e+; [with >] a+; e+; e+; [with >] a+; e+; e+;
+1 2: 1.c+;
+bar
+1 1: 8r; e+; e+; [with >] a+; e+; e+; [with >] a+; e+; e+; [with >] a+; e+; e+;
+1 2: 1.d+;
+bar
+1 1: 8r; e+; e+; [with >] g+; e+; e+; [with >] g+; e+; e+; [with >] g+; e+; e+;
+1 2: 1.c+;
+bar
+1 1: 8r; e+; e+; [with >] b+; e+; e+; [with >] b+; e+; e+; [with >] b+; e+; e+;
+1 2: 1.b;
+bar
+1 1: 8r; e+; e+; [with >] a+; e+; e+; [with >] a+; e+; e+; [with >] a+; e+; e+;
+1 2: 1.c+;
+bar
+1 1: 8r; e+; e+; [with >] a+; e+; e+; [with >] a+; e+; e+; [with >] a+; e+; e+;
+1 2: 1.d+;
+bar
+1 1: 8r; e+; e+; [with >] g+; e+; e+; [with >] g+; e+; e+; [with >] g+; e+; e+;
+1 2: 1.c+;
+bar
+1 1: 8r; e+; e+; [with >] f+; e+; e+; [with >] f+; e+; e+; r; e+; e+;
+1 2: 1b~; 8b; 4.b;
+bar
+1 1: 8r; e+; e+; [with >] g+; e+; e+; [with >] g+; e+; e+; r; e+; e+;
+1 2: 1c+~; 8c+; 4.c+;
+bar
+1 1: 8r; e+; e+; [with >] a+; e+; e+; [with >] a+; e+; e+; r; e+; e+;
+1 2: 1d+~; 8d+; 4.d+;
+bar
+1 1: 8r; e+; e+; [with >] g+; e+; e+; [with >] g+; e+; e+; r; e+; e+;
+1 2: 1c+~; 8c+; 4.c+;
+bar
+1 1: 8r; e+; e+; [with >] g+; e+; e+; [with >] g+; e+; e+; r; e+; e+;
+1 2: 1b~; 8b; 4.b;
+bar
+1 1: 8r; e+; e+; [with >] g+; e+; e+; [with >] g+; e+; e+; r; e+; e+;
+1 2: 1c+~; 8c+; 4.c+;
+bar
+1 1: 8r; e+; e+; [with >] a+; e+; e+; [with >] a+; e+; e+; r; e+; e+;
+1 2: 1d+~; 8d+; 4.d+;
+bar
+1 1: 8r; e+; e+; [with >] b+; e+; e+; [with >] b+; e+; e+; [with >] b+; e+; e+;
+1 2: 1.e+~;
+bar
+1 1: [with >] 8b+; e+; e+; [with >] b+; e+; e+; [with >] b+; e+; e+; [with >] b+; e+; e+;
+1 2: 1.e+;
+bar
+1 1: 8r; e+; e+; [with >] b+; e+; e+; [with >] b+; e+; e+; [with >] b+; e+; e+;
+1 2: 1.e+~;
+bar
+1 1: [with >] 8b+; e+; e+; [with >] b+; e+; e+; [with >] b+; e+; e+; [with >] b+; e+; e+;
+1 2: 1.e+;
+bar
+1 1: [with >] 8e+; e+; e+; [with >] b+; e+; e+; [with >] a+; e+; e+; [with >] g+; e+; e+;
+bar
+1 1: [with >] 8f+; e+; e+; [with >] g+; e+; e+; [with >] f+; e+; e+; [with >] e+; e+; e+;
+bar
+1 1: 8r; e+; e+; [with >] b+; e+; e+; [with >] a+; e+; e+; [with >] g+; e+; e+;
+1 2: 1.e~;
+ital below 1: 1 "harm.";
+bar
+1 1: [with >] 8f+; e+; e+; [with >] g+; e+; e+; [with >] f+; e+; e+; [with >] e+; e+; e+;
+1 2: 1.e;
+bar
+1 1: 8r; e+; e+; [with >] b+; e+; e+; [with >] a+; e+; e+; [with >] g+; e+; e+;
+1 2: 1.e~;
+ital below 1: 1 "harm.";
+bar
+1 1: [with >] 8f+; e+; e+; [with >] g+; e+; e+; [with >] f+; e+; e+; [with >] e+; e+; e+;
+1 2: 1.e;
+bar
+1 1: 8r; e+; e+; [with >] b+; e+; e+; [with >] a+; e+; e+; [with >] b+; e+; e+;
+1 2: 1.e~;
+ital below 1: 1 "harm.";
+bar
+1 1: [with >] 8c++; e+; e+; [with >] b+; e+; e+; [with >] a+; e+; e+; [with >] c++; e+; e+;
+1 2: 1.e~;
+bar
+1 1: [with >] 8b+; e+; e+; [with >] a+; e+; e+; [with >] g+; e+; e+; [with >] f+; e+; e+;
+1 2: 1.e;
+bar
+1 1: [with >] 8e+; e+; e+; [with >] b+; e+; e+; [with >] a+; e+; e+; [with >] g+; e+; e+;
+bar
+1 1: [with >] 8f+; e+; e+; [with >] g+; e+; e+; [with >] f+; e+; e+; [with >] e+; e+; e+;
+bar
+1 1: 8r; e+; e+; [with >] b+; e+; e+; [with >] a+; e+; e+; [with >] g+; e+; e+;
+1 2: 1.e~;
+ital below 1: 1 "harm.";
+bar
+1 1: [with >] 8f+; e+; e+; [with >] g+; e+; e+; [with >] f+; e+; e+; [with >] e+; e+; e+;
+1 2: 1.e;
+bar
+1 1: 8r; e+; e+; [with >] b+; e+; e+; [with >] a+; e+; e+; [with >] b+; e+; e+;
+1 2: 1.e~;
+ital below 1: 1 "harm.";
+bar
+1 1: [with >] 8c++; e+; e+; [with >] b+; e+; e+; [with >] a+; e+; e+; [with >] c++; e+; e+;
+1 2: 1.e~;
+bar
+1 1: [with >] 8b+; e+; e+; [with >] a+; e+; e+; [with >] g+; e+; e+; [with >] f+; e+; e+;
+1 2: 1.e;
+bar
+1 1: 8r; e+; e+; [with >] b+; e+; e+; [with >] b+; e+; e+; [with >] b+; e+; e+;
+1 2: 1.e+;
+bar
+1 1: 8r; e+; e+; [with >] a+; e+; e+; [with >] a+; e+; e+; [with >] a+; e+; e+;
+1 2: 1.d+;
+bar
+1 1: 8r; e+; e+; [with >] g+; e+; e+; [with >] g+; e+; e+; [with >] g+; e+; e+;
+1 2: 1.c+;
+bar
+1 1: 8r; e+; e+; [with >] f+; e+; e+; [with >] f+; e+; e+; [with >] f+; e+; e+;
+1 2: 1.b+;
+bar
+1 1: 8r; e+; e+; [with >] b+; e+; e+; [with >] b+; e+; e+; [with >] b+; e+; e+;
+1 2: 1.e+;
+bar
+1 1: 8r; e+; e+; [with >] a+; e+; e+; [with >] a+; e+; e+; [with >] a+; e+; e+;
+1 2: 1.d+;
+bar
+1 1: 8r; e+; e+; [with >] g+; e+; e+; [with >] g+; e+; e+; [with >] g+; e+; e+;
+1 2: 1.c+;
+bar
+1 1: 8r; e+; e+; [with >] f+; e+; e+; [with >] f+; e+; e+; [with >] f+; e+; e+;
+1 2: 1.b~;
+bar
+1 1: [with >] 8g+; e+; e+; [with >] f+; e+; e+; [with >] g+; e+; e+; [with >] f+; e+; e+;
+1 2: 1.b;
+bar
+1 1: 8r; e+; e+; [with >] f+; e+; e+; [with >] g+; e+; e+; [with >] f+; e+; e+;
+1 2: 1.b~;
+bar
+1 1: [with >] 8g+; e+; e+; [with >] f+; e+; e+; [with >] e+; e+; e+; [with >] f+; e+; e+;
+1 2: 1.b;
+bar
+1 1: 8r; e+; e+; [with >] b+; e+; e+; [with >] b+; e+; e+; [with >] b+; e+; e+;
+1 2: 1.b~;
+bar
+1 1: [with >] 8g+; e+; e+; [with >] b+; e+; e+; [with >] f+; e+; e+; [with >] b+; e+; e+;
+1 2: 1.b;
+bar
+1 1: 8r; e+; e+; [with >] b+; e+; e+; [with >] b+; e+; e+; [with >] b+; e+; e+;
+1 2: 1.b~;
+bar
+1 1: 8f+; e+; b+; b; e+; b+; g; e+; b+; b; e+; b+;
+1 2: 1.b;
+bar rehearsal mnum
+1 1: 8r; e+; b; [with >] b; e+; b; [with >] b; e+; b; [with >] b; e+; b;
+1 2: 1.e;
+bar
+1 1: 8r; e+; b; [with >] a; e+; b; [with >] a; e+; b; [with >] a; e+; b;
+1 2: 1.d;
+bar
+1 1: 8r; e+; b; [with >] g; e+; b; [with >] g; e+; b; [with >] g; e+; b;
+1 2: 1.c;
+bar
+1 1: 8r; e+; b; [with >] f; e+; b; [with >] f; e+; b; [with >] f; e+; b;
+1 2: 1.b-;
+bar
+1 1: 8r; e+; b; [with >] b; e+; b; [with >] b; e+; b; [with >] b; e+; b;
+1 2: 1.e;
+bar
+1 1: 8r; e+; b; [with >] a; e+; b; [with >] a; e+; b; [with >] a; e+; b;
+1 2: 1.d;
+bar
+1 1: 8r; e+; b; [with >] g; e+; b; [with >] g; e+; b; [with >] g; e+; b;
+1 2: 1.c;
+bar
+1 1: 8r; e+; b; [with >] f; e+; b; [with >] f; e+; b; [with >] f; e+; b;
+1 2: 1.b-;
+bar
+1 1: 8r; e+; b; [with >] b; e+; b; [with >] g; e+; b; [with >] b; e+; b;
+1 2: 1.e;
+bar
+1 1: 8r; e+; b; [with >] a; e+; b; [with >] f; e+; b; [with >] a; e+; b;
+1 2: 1.d;
+bar
+1 1: 8r; e+; b; [with >] g; e+; b; [with >] a; e+; b; [with >] g; e+; b;
+1 2: 1.c;
+bar
+1 1: 8r; e+; b; [with >] f; e+; b; [with >] d; e+; b; [with >] f; e+; b;
+1 2: 1.b-;
+bar
+1 1: 8r; e+; b; [with >] b; e+; b; [with >] g; e+; b; [with >] b; e+; b;
+1 2: 1.e;
+bar
+1 1: 8r; e+; b; [with >] a; e+; b; [with >] f; e+; b; [with >] a; e+; b;
+1 2: 1.d;
+bar
+1 1: 8r; e+; b; [with >] g; e+; b; [with >] a; e+; b; [with >] g; e+; b;
+1 2: 1.c;
+bar
+1 1: 8r; e+; b; [with >] f; e+; b; [with >] d; e+; b; [with >] f; e+; b;
+1 2: 1.b-;
+bar
+1 1: 8r; e+; b; [with >] b; e+; b; [with >] c; e+; b; [with >] b; e+; b;
+1 2: 1.e;
+bar
+1 1: 8r; e+; b; [with >] a; e+; b; [with >] b; e+; b; [with >] a; e+; b;
+1 2: 1.d;
+bar
+1 1: 8r; e+; b; [with >] g; e+; b; [with >] a; e+; b; [with >] g; e+; b;
+1 2: 1.c;
+bar
+1 1: 8r; e+; b; [with >] f; e+; b; [with >] g; e+; b; [with >] f; e+; b;
+1 2: 1.b-;
+bar
+1 1: 8r; e+; b; [with >] b; e+; b; [with >] c+; e+; b; [with >] b; e+; b;
+1 2: 1.e;
+bar
+1 1: 8r; e+; b; [with >] a; e+; b; [with >] b; e+; b; [with >] a; e+; b;
+1 2: 1.d;
+bar
+1 1: 8r; e+; b; [with >] g; e+; b; [with >] a; e+; b; [with >] g; e+; b;
+1 2: 1.c;
+bar
+1 1: 8r; e+; b; [with >] f; e+; b; [with >] g; e+; b; [with >] f; e+; b;
+1 2: 1.b-;
+bar
+1 1: 8r; e+; b; [with >] b; e+; b; [with >] c+; e+; b; [with >] b; e+; b;
+1 2: 1.e;
+bar
+1 1: 8r; e+; b; [with >] a; e+; b; [with >] b; e+; b; [with >] a; e+; b;
+1 2: 1.d;
+bar
+1 1: 8r; e+; b; [with >] g; e+; b; [with >] a; e+; b; [with >] g; e+; b;
+1 2: 1.c;
+bar
+1 1: 8r; e+; b; [with >] f; e+; b; [with >] g; e+; b; [with >] f; e+; b;
+1 2: 1.b-~;
+bar
+1 1: 8g; e+; b; [with >] f; e+; b; [with >] e; e+; b; [with >] f; e+; b;
+1 2: 1.b-;
+bar
+1 1: 8r; e+; b; [with >] f; e+; b; [with >] g; e+; b; [with >] f; e+; b;
+1 2: 1.b-~;
+bar
+1 1: 8g; e+; b; [with >] f; e+; b; [with >] e; e+; b; [with >] f; e+; b;
+1 2: 1.b-;
+bar
+1 1: 8r; g+; e+; [with >] b; g+; e+; [with >] c+; g+; e+; [with >] b; g+; e+; 
+1 2: 1.e-;
+bar
+1 1: 8r; f+; d+; [with >] a; f+; d+; [with >] b; f+; d+; [with >] a; f+; d+; 
+1 2: 1.b-;
+bar
+1 1: 8r; e+; c+; [with >] g; e+; c+; [with >] a; e+; c+; [with >] g; e+; c+; 
+1 2: 1.a-;
+bar
+1 1: 8r; f+; d+; [with >] f; f+; d+; [with >] g; f+; d+; [with >] f; f+; d+; 
+1 2: 1.b-;
+bar
+1 1: 8r; g+; e+; [with >] b; g+; e+; [with >] c+; g+; e+; [with >] b; g+; e+; 
+1 2: 1.e-;
+bar
+1 1: 8r; f+; d+; [with >] a; f+; d+; [with >] b; f+; d+; [with >] a; f+; d+; 
+1 2: 1.b-;
+bar
+1 1: 8r; e+; c+; [with >] g; e+; c+; [with >] a; e+; c+; [with >] g; e+; c+; 
+1 2: 1.a-;
+bar
+1 1: 8r; f+; d+; [with >] a; f+; d+; [with >] b; f+; d+; [with >] a; f+; d+; 
+1 2: 1.b-;
+bar
+1 1: 8r; b+; f+; [with >] b; b+; f+; [with >] d+; b+; f+; [with >] b; b+; f+; 
+1 2: 1.e;
+bar
+1 1: 8r; a+; e+; [with >] a; a+; e+; [with >] c+; e+; e+; [with >] a; a+; e+; 
+1 2: 1.d;
+bar
+1 1: 8r; g+; d+; [with >] g; g+; d+; [with >] b&; g+; d+; [with >] g; g+; d+; 
+1 2: 1.c;
+bar
+1 1: 8r; f+; c#+; [with >] f; f+; c#+; [with >] a; f+; c#+; [with >] f; f+; c#+; 
+1 2: 1.b-;
+bar
+1 1: 8r; b+; f+; [with >] b; b+; f+; [with >] d+; b+; f+; [with >] b; b+; f+; 
+1 2: 1.e;
+bar
+1 1: 8r; a+; e+; [with >] a; a+; e+; [with >] c+; e+; e+; [with >] a; a+; e+; 
+1 2: 1.d;
+bar
+1 1: 8r; g+; d+; [with >] g; g+; d+; [with >] b&; g+; d+; [with >] g; g+; d+; 
+1 2: 1.c;
+bar
+1 1: 8r; f+; c#+; [with >] f; f+; c#+; [with >] a; f+; c#+; [with >] f; f+; c#+; 
+1 2: 1.b-;
+bar
+1 1: 8r; b+; f+; [with >] b; b+; f+; [with >] d+; b+; f+; [with >] b; b+; f+; 
+1 2: 1.e;
+bar
+1 1: 8r; a+; e+; [with >] a; a+; e+; [with >] c+; e+; e+; [with >] a; a+; e+; 
+1 2: 1.d;
+bar
+1 1: 8r; g+; d+; [with >] g; g+; d+; [with >] b&; g+; d+; [with >] g; g+; d+; 
+1 2: 1.c;
+bar
+1 1: 8r; f+; c#+; [with >] f; f+; c#+; [with >] a; f+; c#+; [with >] f; f+; c#+; 
+1 2: 1.b-~;
+bar
+1 1: [with >] 8a; f+; c#+; [with >] f; f+; c#+; [with >] e; f+; c#+; [with >] f; f+; c#+; 
+1 2: 1.b-;
+bar
+1 1: 8r; f+; c#+; [with >] f; f+; c#+; [with >] a; f+; c#+; [with >] f; f+; c#+; 
+1 2: 1.b-~;
+bar
+1 1: [with >] 8a; f+; c#+; [with >] f; f+; c#+; [with >] e; f+; c#+; [with >] f; f+; c#+; 
+1 2: 1.b-;
+bar rehearsal mnum
+1 1: 8r; e+; b; [with >] b; e+; b; [with >] b; e+; b; [with >] b; e+; b;
+1 2: 1.e;
+bar
+1 1: 8r; e+; b; [with >] b; e+; b; [with >] b; e+; b; [with >] b; e+; b;
+1 2: 1.d;
+bar
+1 1: 8r; e+; b; [with >] b; e+; b; [with >] b; e+; b; [with >] b; e+; b;
+1 2: 1.c;
+bar
+1 1: 8r; e+; b; [with >] b; e+; b; [with >] b; e+; b; [with >] b; e+; b;
+1 2: 1.b-;
+bar
+1 1: 8r; e+; b; [with >] b; e+; b; [with >] b; e+; b; [with >] b; e+; b;
+1 2: 1.e;
+bar
+1 1: 8r; e+; b; [with >] b; e+; b; [with >] b; e+; b; [with >] b; e+; b;
+1 2: 1.d;
+bar
+1 1: 8r; e+; b; [with >] b; e+; b; [with >] b; e+; b; [with >] b; e+; b;
+1 2: 1.c;
+bar
+1 1: 8r; e+; b; [with >] b; e+; b; [with >] b; e+; b; [with >] b; e+; b;
+1 2: 1.b-;
+bar
+1 1: 8r; e+; b; [with >] b; e+; b; [with >] b; e+; b; [with >] b; e+; b;
+1 2: 1.e~;
+bar
+1 1: [with >] 8g; e+; b; [with >] b; e+; b; [with >] f; e+; b; [with >] b; e+; b;
+1 2: 1.e;
+bar
+1 1: 8r; e+; b; [with >] b; e+; b; [with >] b; e+; b; [with >] b; e+; b;
+1 2: 1.e;
+bar
+1 1: [with >] 8c; e+; b; [with >] g; e+; b; [with >] b-; e+; b; [with >] d; e+; b;
+bar
+1 1: 8r; e+; b; [with >] b; e+; b; [with >] b; e+; b; [with >] b; e+; b;
+1 2: 1.e~;
+bar
+1 1: [with >] 8g; e+; b; [with >] b; e+; b; [with >] f; e+; b; [with >] b; e+; b;
+1 2: 1.e;
+bar
+1 1: 8r; e+; b; [with >] b; e+; b; [with >] b; e+; b; [with >] b; e+; b;
+1 2: 1.e;
+bar rehearsal mnum
+1 1: [with >] 8e; e+; b; [with >] b; e+; b; [with >] d; e+; b; [with >] a; e+; b;
+bar
+1 1: [with >] 8c; e+; b; [with >] g; e+; b; [with >] b-; e+; b; [with >] f; e+; b;
+bar
+1 1: [with >] 8e; e+; b; [with >] b; e+; b; [with >] d; e+; b; [with >] a; e+; b;
+bar
+newscore
+score
+	time = 6/8
+	key = 1#
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+	beamstyle = 4.,4.
+music
+1 1: [with >] 8c; e+; b; [with >] g; e+; b;
+bar
+newscore
+score
+	time = 12/8
+	key = 1#
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+	beamstyle = 4.,4.,4.,4.
+music
+1 1: 8r; e+; b; [with >] f; e+; b; [with >] b; e+; b; [with >] f; e+; b;
+1 2: 1.b-~;
+bar
+1 1: [with >] 8b; e+; b; [with >] f; e+; b; [with >] d; e+; b; [with >] f; e+; b;
+1 2: 1.b-;
+bar
+1 1: 8r; e+; b; [with >] b; e+; b; [with >] b; e+; b; [with >] b; e+; b;
+1 2: 1.b-;
+bar
+1 1: [with >] 8f; e+; b; [with >] b-; e+; b; [with >] g-; e+; b; [with >] b-; e+; b;
+bar
+1 1: 8r; e+; e+; [with >] b+; e+; e+; [with >] a+; e+; e+; [with >] g+; e+; e+;
+1 2: 1.e-~;
+bar
+1 1: [with >] 8f+; e+; e+; [with >] g+; e+; e+; [with >] f+; e+; e+; [with >] e+; e+; e+;
+1 2: 1.e-;
+bar
+1 1: 8r; e+; e+; [with >] b+; e+; e+; [with >] a+; e+; e+; [with >] g+; e+; e+;
+1 2: 1.e-~;
+bar
+1 1: [with >] 8f+; e+; e+; [with >] g+; e+; e+; [with >] f+; e+; e+; [with >] e+; e+; e+;
+1 2: 1.e-;
+bar
+1 1: 8r; e+; e+; [with >] b+; e+; e+; [with >] a+; e+; e+; [with >] g+; e+; e+;
+1 2: 1.e-~;
+bar
+1 1: [with >] 8f+; e+; e+; [with >] g+; e+; e+; [with >] f+; e+; e+; [with >] d+; e+; e+;
+1 2: 1.e-~;
+bar
+1 1: 8e+; e+; e+; [with >] b+; e+; e+; [with >] a+; e+; e+; [with >] g+; e+; e+;
+1 2: 1.e-~;
+bar
+1 1: [with >] 8f+; e+; e+; [with >] g+; e+; e+; [with >] f+; e+; e+; [with >] d+; e+; e+;
+1 2: 1.e-~;
+bar
+1 1: 8e+; e+; e+; [with >] b+; e+; e+; [with >] a+; e+; e+; [with >] g+; e+; e+;
+1 2: 1.e-~;
+bar
+1 1: [with >] 8f+; e+; e+; [with >] g+; e+; e+; [with >] f+; e+; e+; [with >] d+; e+; e+;
+1 2: 1.e-~;
+bar
+1 1: 8e+; e+; e+; [with >] b+; e+; e+; [with >] a+; e+; e+; [with >] g+; e+; e+;
+1 2: 1.e-~;
+bar
+1 1: [with >] 8f+; e+; e+; [with >] g+; e+; e+; [with >] f+; e+; e+; [with >] d+; e+; e+;
+1 2: 1.e-;
+bar
+1 1: [with >] 8e+; e+; e+; [with >] e+; e+; e+; [with >] e+; e+; e+; [with >] e+; e+; e+;
+ital below 1: 1 "rit. poco a poco";
+bar
+1 1: 4.e+; b+; a+; g+; 
+ital above 1: 1 "slower";
+ital below 1: 3 "harmonics here to end";
+bar
+1 1: 4.f+; g+; f+; d+; 
+ital above 1: 1 "rit. poco a poco";
+bar
+1 1: 8e+; e+; a+; a+; d++; d++; g++; f++; b++; b++; 4b++~e+++~;
+ital below 1: 3 "accel.";
+ital below 1: 8 "rit.";
+bar
+1 1: 1.b++e+++;
+1 2: 1.e;
+mussym above 1: 1 "ferm";
+ital below 1: 1 "ppp";
+bar 
+// end of "River Suite"

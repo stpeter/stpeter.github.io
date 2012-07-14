@@ -1,0 +1,7 @@
+<journal>
+<header><title>JMTP?</title><date>2006-01-12</date></header>
+<entry>
+    <p>After my talk at the <a href="http://www.nclug.org/">North Colorado Linux Users Group</a> the other night, I got to chatting with David Van Maren about the possibility of using the Jabber/XMPP server-to-server protocol (which includes reverse DNS lookups and, beyond that, strong server authentication if you support TLS) for exchanging inter-domain email. It's an intriguing idea, which I immediately dubbed JMTP (the Jabber Mail Transport Protocol). We've talked about this in the past but never really worked on it. One of these days I'll give it some more serious thought. ;-)</p>
+    <p>Update: Naturally I'm not the first one to think of this: both <a href="http://users.telenet.be/s.devrieze/imail/imail.pdf">Sander Devrieze</a> and <a href="http://mibus.cgcommunity.com/index.php?id=405">Robert Mibus</a> have written or coded some thoughts, and I'm sure they're not alone.</p>
+</entry>
+</journal>

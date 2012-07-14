@@ -1,0 +1,13 @@
+<journal>
+<header><title>Microblogging Over XMPP</title><date>2008-05-07</date></header>
+<entry>
+<p>There's been <a href="http://www.techcrunch.com/2008/05/05/twitter-can-be-liberated-heres-how/">plenty of talk</a> recently about using <a href="http://www.xmpp.org/">XMPP</a> to build a decentralized microblogging platform (think <a href="http://twitter.com/">Twitter</a> busted apart to run as a distributed network of microblogging providers). Indeed, as Bob Wyman <a href="http://mail.jabber.org/pipermail/standards/2008-May/018698.html">points out</a>, we have all the pieces:</p>
+<ul>
+<li>The core XMPP infrastructure, comprised of 100,000+ messaging and presence servers plus millions of end users.</li>
+<li>The <a href="http://www.xmpp.org/extensions/xep-0060.html">XMPP publish-subscribe extension</a>, specifically the <a href="http://www.xmpp.org/extensions/xep-0163.html">personal eventing</a> profile thereof, which enables your IM account to function as a virtual pubsub service and thus push out all sorts of notifications about you.</li>
+<li>The <a href="http://tools.ietf.org/html/rfc4287">Atom syndication format</a> along with the <a href="http://tools.ietf.org/html/rfc4685">Atom threading extension</a>, which (being XML) is <a href="http://www.xmpp.org/internet-drafts/draft-saintandre-atompub-notify-07.html">easily transported</a> over XMPP.</li>
+</ul>
+<p>Now it's just a matter of putting the pieces together, so <a href="http://arch.jabber.com/">Joe Hildebrand</a> and I have done just that in a little spec we call <a href="http://www.xmpp.org/extensions/inbox/microblogging.html">Microblogging Over XMPP</a>. Feedback is welcome!</p>
+<p>UPDATE: While I was at it, I pushed out a new version of <a href="http://www.xmpp.org/internet-drafts/draft-saintandre-atompub-notify-07.html">draft-saintandre-atompub-notify</a>. Enjoy!</p>
+</entry>
+</journal>

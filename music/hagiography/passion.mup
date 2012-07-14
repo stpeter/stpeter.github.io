@@ -1,0 +1,1065 @@
+// This is the source file for Peter Saint-Andre's 
+// "Passion Suite" for solo guitar.
+//
+// I think this piece was written in 1988, but
+// parts of it may have been written even earlier.
+//
+// This music is in the public domain; for details, see:
+// http://www.saint-andre.com/me/copyright.html
+//
+// The file you are looking at was created in
+// February of 2001 using Mup 4.1 for Linux. In 1993
+// I transcribed this piece using Finale for Macintosh,
+// but the resulting file contained numerous errors
+// and the file you are looking at is the canonical 
+// representation. However, I'm calling this file 
+// "Version 0.9" simply because I have not yet had a
+// chance to verify the accuracy of every detail. 
+// Also, the textual score markings in the PDF file 
+// didn't come out so well because I don't have good  
+// TrueType fonts on my computer, so the PostScript 
+// file is of higher quality and is the preferred
+// version for printing.
+//
+header
+	title (18) "Passion Suite"
+	title   "Tuning: DADGBD"   "Peter Saint-Andre"
+footer
+	title "This work is in the public domain. No rights reserved."
+header2
+	title   "Passion Suite"   "Peter Saint-Andre"
+footer2
+	title "- \% -"
+score
+	time = 3/4
+	key = 1&
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+	beamstyle = 4,4,4
+music
+// Part 1 - Variations on a Theme from Ancient Greece
+// I don't know whether this is really a theme from
+// ancient Greece, but I seem to recall that it was
+// inspired by an ancient Greek musical theme (just
+// a few notes) that I saw during high school in a 
+// book I glanced through at the Maine State Library.
+// At this point I have no idea whether the theme
+// bears any relationship to an actual piece of music
+// from ancient Greece.
+//
+// first variation
+1 1: 8a; 8g; 4.a; 8r;
+1 2: 2r; 8r; 8d;
+rom above 1: 1 "I - Variations on a Theme from Ancient Greece";
+ital above 1: 1 "Largo";
+bar
+1 1: 8r; a; d+; f+; d+; a;
+1 2: 2.d;
+bar
+1 1: 2r; 4b;
+1 2: 2d; 4r;
+bar
+newscore
+score
+	time = 4/4
+	key = 1&
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+	beamstyle = 4,4,4,4
+music
+1 1: 2a; 8g; 8b; 4a;
+bar
+newscore
+score
+	time = 3/4
+	key = 1&
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+	beamstyle = 4,4,4
+music
+1 1: 8r; a; d+; f+; d+; a;
+1 2: 2.d;
+bar
+1 1: 2r; 8d; e;
+1 2: 2d; 4r;
+bar
+newscore
+score
+	time = 4/4
+	key = 1&
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+	beamstyle = 4,4,4,4
+music
+1 1: 8f; e; d<>; g; f; e<>; 4a;
+bar
+newscore
+score
+	time = 3/4
+	key = 1&
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+	beamstyle = 4,4,4
+music
+1 1: 2r; 8ac#+e+; r;
+1 2: 2a-~; 8a-; r;
+roll 1: 3;
+bar
+1 1: 2dad+f+; 8a; g;
+roll 1: 1;
+bar
+1 1: 2a; 4b;
+bar
+newscore
+score
+	time = 4/4
+	key = 1&
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+	beamstyle = 4,4,4,4
+music
+1 1: 2a; 8b; 8b; 4a;
+bar
+newscore
+score
+	time = 3/4
+	key = 1&
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+	beamstyle = 4,4,4
+music
+1 1: 8r; a; d+; f+; d+; a;
+1 2: 2.d;
+bar
+1 1: 4r; 8d; e; f; e;
+1 2: 4d; 2r;
+bar
+newscore
+score
+	time = 4/4
+	key = 1&
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+	beamstyle = 4,4,4,4
+music
+1 1: 8d; c; d; e; d; c; 4b-;
+bar
+newscore
+score
+	time = 3/4
+	key = 1&
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+	beamstyle = 4,4,4
+music
+1 1: 8r; a; c#+; e+; c#+; a;
+1 2: 2.a-;
+bar
+1 1: 8r; a; d+; f+; d+; r;
+1 2: 2d~; 8d; 16c; 16b-;
+bar
+1 1: 8r; a; c#+; e+; c#+; a;
+1 2: 2.a-;
+bar
+1 1: 8r; a; d+; f+; d+; r;
+1 2: 2d~; 8d; 16c; 16b-;
+bar
+1 1: 8r; a; c#+; e+; c#+; a;
+1 2: 2.a-;
+bar
+1 1: 8r; a; d+; f+; d+; a;
+1 2: 2.d;
+bar
+1 2: 2.d;
+bar
+// second variation
+1 1: 8a; 8g; 4.a; 8r;
+1 2: 2r; 8r; 8a-;
+rom above 1: 1 "ii";
+bar
+1 1: 8r; a; d+; f+; d+; a;
+1 2: 2.d;
+bar
+1 1: 8d; b; a; b; 4d+;
+bar
+newscore
+score
+	time = 4/4
+	key = 1&
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+	beamstyle = 4,4,4,4
+music
+1 1: 2c+; 32b; 32c+; 16b; 4.a;
+bar
+newscore
+score
+	time = 3/4
+	key = 1&
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+	beamstyle = 4,4,4
+music
+1 1: 8r; a; d+; f+; d+; a;
+1 2: 2.d;
+bar
+1 1: 2r; 8d; e;
+1 2: 2d; 4r;
+bar
+newscore
+score
+	time = 4/4
+	key = 1&
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+	beamstyle = 4,4,4,4
+music
+1 1: 8f; e; d<>; g; f; e<>; 4a;
+bar
+newscore
+score
+	time = 3/4
+	key = 1&
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+	beamstyle = 4,4,4
+music
+1 1: 2r; 8ac#+e+; r;
+1 2: 2a-~; 8a-; r;
+roll 1: 3;
+bar
+1 1: 2dad+f+; 8a; g;
+roll 1: 1;
+bar
+1 1: 4a; 4.d+; 16d+; d+;
+bar
+1 1: 8d+; c+; b; a; b; c+;
+bar
+1 1: 8b; a; b; 32a; 32b; 16a; 8g; a;
+bar
+1 1: 8r; a; d+; f+; d+; a;
+1 2: 2.d;
+bar
+1 1: 8d; 16a; a; 4.d+; 16d+; d+;
+bar
+1 1: 8d+; c+; d+; 4e+; 16e+; e+;
+bar
+1 1: 8e+; d+; c+; 4d+; 16d+; d+;
+bar
+1 1: 8d+; c+; b; a; b; c+;
+bar
+1 1: 8b; a; b; 32a; 32b; 16a; 8g; a;
+bar
+1 1: 8r; a; d+; f+; d+; a;
+1 2: 2.d;
+bar
+1 1: 4d; 16d; e; 8f; g; f;
+bar
+newscore
+score
+	time = 4/4
+	key = 1&
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+	beamstyle = 4,4,4,4
+music
+1 1: 8e; 4c; 16d; e; 32f; e; 16d~; 8d; c; b-;
+bar
+newscore
+score
+	time = 3/4
+	key = 1&
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+	beamstyle = 4,4,4
+music
+1 1: 8r; a; c#+; e+; c#+; a;
+1 2: 2.a-;
+bar
+1 1: 8r; a; d+; f+; 4r;
+1 2: 2d; 8c; b-;
+bar
+1 1: 8r; a; c#+; 32e+; 32f+; 16e+; 8c#+; a;
+1 2: 2.a-;
+bar
+1 1: 8r; a; d+; f+; 4r;
+1 2: 2d; 8c; b-;
+bar
+1 1: 8r; a; c#+; 32e+; 32f+; 16e+; 8c#+; a;
+1 2: 2.a-;
+bar
+1 1: 8r; a; d+; f+; d+; a~;
+1 2: 2.d;
+bar
+1 1: 4a; 8a; 4.d;
+bar
+// third variation
+newscore
+score
+	time = 4/4
+	key = 1&
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+	beamstyle = 4,4,4,4
+music
+1 1: 2.a; 8g; a;
+rom above 1: 1 "iii";
+bar
+1 1: 1d;
+1 2: 2r; 2d-~;
+bar
+1 1: 4b; 2a; 8g; 8b;
+1 2: 1d-~;
+bar
+1 1: 2a; 2d;
+1 2: 1d-;
+bar
+1 1: 2r; f;
+1 2: 1d-~;
+bar
+1 1: 2g; a;
+1 2: 1d-;
+bar
+1 1: 2a-; r;
+1 2: 2r; 2d-~;
+bar
+1 1: 2.a; 8g; a;
+1 2: 1d-;
+bar
+1 1: 2.b; 4a;
+bar
+1 1: 1d;
+1 2: 2r; 2d-~;
+bar
+1 1: 2f; 4.e; 8c;
+1 2: 1d-;
+bar 
+1 1: 2.d; 4d<>;
+bar
+1 1: 2.a-; 4a-<>;
+bar
+1 1: 1d-~;
+bar
+1 1: 1d-;
+bar
+// fourth variation
+newscore
+score
+	time = 27/8
+	key = 1&
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+	beamstyle = 4.,4.,4.,4.,4.,4.,4.,4.,4.
+music
+1 1: [with >] 8a; f+; d+; [with >] a; f+; d+; [with >] a; f+; d+; [with >] a; f+; d+; [with >] a; f+; d+; [with >] a; f+; d+; [with >] g; f+; d+; [with >] a; f+; d+; [with >] a; f+; d+;
+rom above 1: 1 "iv (fast)";
+bar
+1 1: 8r; f+; d+; [with >] a; f+; d+; [with >] a; f+; d+; [with >] a; f+; d+; [with >] b; f+; d+; [with >] a; f+; d+; [with >] g; f+; d+; [with >] b; f+; d+; [with >] a; f+; d+;
+1 2: 1d~; d~; d~; 4.d;
+bar
+1 1: 8r; f+; d+; [with >] a; f+; d+; [with >] a; f+; d+; [with >] a; f+; d+; r; f+; d+; [with >] a; f+; d+; r; f+; d+; [with >] d; f+; d+; [with >] e; f+; d+;
+1 2: 1.d; 2.d; 4.d; 2.r;
+bar
+1 1: [with >] 8f; f+; d+; [with >] e; f+; d+; [with >] d; f+; d+; [with >] g; f+; d+; [with >] f; f+; d+; [with >] e; f+; d+; [with >] a; f+; d+; [with >] b; f+; d+; [with >] a; f+; d+;
+bar
+1 1: [with >] 8g; f+; d+; [with >] b; f+; d+; [with >] a; f+; d+; [with >] d; f+; d+; [with >] a; f+; d+; [with >] a; f+; d+; [with >] a; f+; d+; [with >] a; f+; d+; [with >] d; f+; d+;
+bar
+1 1: [with >] 8a; f+; d+; [with >] a; f+; d+; [with >] d+; f+; d+; [with >] d+; f+; d+; [with >] d+; f+; d+; [with >] d+; f+; d+; [with >] c+; f+; d+; [with >] b; f+; d+; [with >] a; f+; d+;
+bar
+1 1: [with >] 8b; f+; d+; [with >] c+; f+; d+; [with >] b; f+; d+; [with >] a; f+; d+; [with >] b; f+; d+; [with >] a; f+; d+; [with >] g; f+; d+; [with >] b; f+; d+; [with >] a; f+; d+;
+bar
+1 1: [with >] 8d; f+; d+; [with >] a; f+; d+; [with >] a; f+; d+; [with >] a; f+; d+; [with >] d; f+; d+; [with >] a; f+; d+; [with >] d; f+; d+; [with >] a; f+; d+; [with >] a; f+; d+;
+bar
+1 1: [with >] 8d+; f+; d+; [with >] d+; f+; d+; [with >] d+; f+; d+; [with >] d+; f+; d+; [with >] c+; f+; d+; [with >] d+; f+; d+;  [with >] 4.e+; [with >] 4.d+; [with >] 4.f+; 
+bar
+1 1: [with >] 4.e+; [with >] 4.d+; [with >] 4.f+; [with >] 4.e+; [with >] 4.d+; [with >] 4.f+; [with >] 4.e+; [with >] 4.d+; [with >] 4.c+; 
+ital below 1: 1 "rit. poco a poco";
+mussym above 1: 25 "ferm";
+bar
+newscore
+score
+	time = 9/4
+	key = 1&
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+	beamstyle = 4.,4.,4.,4.,4.,4.
+music
+1 1: [with >] 8d+; f+; d+; [with >] d+; f+; d+; [with >] d+; f+; d+; [with >] d+; f+; d+; [with >] c+; f+; d+; [with >] b; f+; d+; 
+bar
+newscore
+score
+	time = 6/4
+	key = 1&
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+	beamstyle = 4.,4.,4.,4.
+music
+1 1: [with >] 8a; f+; d+; [with >] b; f+; d+; [with >] c+; f+; d+; [with >] b; f+; d+;
+bar
+newscore
+score
+	time = 9/4
+	key = 1&
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+	beamstyle = 4.,4.,4.,4.,4.,4.
+music
+1 1: [with >] 8a; f+; d+; [with >] b; f+; d+; [with >] a; f+; d+; [with >] g; f+; d+; [with >] b; f+; d+; [with >] a; f+; d+; 
+bar
+1 1: [with >] 8d; f+; d+; [with >] a; f+; d+; [with >] a; f+; d+; [with >] a; f+; d+; [with >] d; f+; d+; [with >] a; f+; d+;
+bar
+1 1: [with >] 8d; f+; d+; [with >] d; f+; d+; [with >] e; f+; d+; [with >] f; f+; d+; [with >] e; f+; d+; [with >] d; f+; d+;
+bar
+1 1: [with >] 8c; f+; d+; [with >] d; f+; d+; [with >] e; f+; d+; [with >] d; f+; d+; [with >] c; f+; d+; [with >] b-; f+; d+;
+bar
+newscore
+score
+	time = 27/8
+	key = 1&
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+	beamstyle = 4.,4.,4.,4.,4.,4.,4.,4.,4.
+music
+1 1: 4.r; [with >] 8f+; d+; a; [with >] 8f+; d+; a; [with >] 8f+; d+; a; [with >] 8f+; d+; a; [with >] 8f+; d+; a; [with >] 8f+; d+; a; [with >] 8f+; d+; a; [with >] 8f+; d+; a;
+1 2: 1a-~; a-~; a-~; 4.a-;
+bar
+1 1: 4.r; [with >] 8e+; c#+; a; [with >] 8e+; c#+; a; [with >] 8e+; c#+; a; [with >] 8e+; c#+; a; [with >] 8e+; c#+; a; [with >] 8e+; c#+; a; [with >] 8e+; c#+; a; [with >] 8e+; c#+; a; 
+1 2: 1a-~; a-~; a-~; 4.a-;
+bar
+newscore
+score
+	time = 3/4
+	key = 1&
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+	beamstyle = 4,4,4
+music
+1 1: 8r; a; d+; f+; 4r;
+1 2: 2d; 8c; 8b-;
+bar
+1 1: 8r; a; c#+; e+; c#+; a;
+1 2: 2.a-;
+bar
+1 1: 8r; a; d+; f+; 4r;
+1 2: 2d; 8c; 32b-; 32c; 16b-;
+bar
+1 1: 8r; a; c#+; 32e+; 32f+; 16e+; 8c#+; a;
+1 2: 2.a-;
+bar
+1 1: 8r; a; d+; f+; 4gd+;
+1 2: 2d; 8c; 8b-;
+bar
+1 1: 8r; a; c#+; c#+e+; c#+; a;
+1 2: 2.a-;
+bar
+1 1: 8r; a; d+; f+; 4gd+;
+1 2: 2d; 4c;
+bar
+newscore
+score
+	time = 16/8
+	key = 1&
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+	beamstyle = 1,1
+music
+1 1: 4b-; 8d+; a; b-; d+; 4a; 4c; 8d+; a; c; d+; 4a;
+rom above 1: 1 "II - Saturnalia";
+ital above 1: 1 "Presto";
+bar
+1 1: 4d; 8d+; a; 4d; ead+; fad+; ead+; dad+; c;
+bar
+1 1: 4b-; 8d+; a; b-; d+; 4a; 4c; 8d+; a; c; d+; 4a;
+bar
+1 1: 4d; 8d+; a; 4d; ead+; fad+; ead+; dad+; c;
+bar
+1 1: 4b-; 8d+; a; b-; d+; 4a; 4c; 8d+; a; c; d+; 4a;
+bar
+1 1: 4d; 8d+; a; 4d; ead+; fad+; ead+; dad+; c;
+bar
+1 1: 4b-; 8d+; a; b-; d+; 4a; 4c; 8d+; a; c; d+; 4a;
+bar
+1 1: 4d; 8d+; a; 4d; ead+; fad+; ead+; dad+; c;
+bar
+1 1: 4b-; 8d+; a; b-; d+; a; b-; d+; a; b-; d+; a; b-; d+; a;
+bar
+1 1: 4c; 8d+; a; c; d+; g; c; e+; g; c; d+; g; c; c+; g;
+bar
+1 1: 4d; 8d+; a; d; d+; 4a; 4e; 8d+; a; e; d+; 4a;
+bar
+1 1: 4fad+; ead+; dad+; cad+; 8d; e; f; e; 4d; c;
+bar
+1 1: 4b-; 8d+; a; b-; d+; a; b-; d+; a; b-; d+; a; b-; d+; a;
+bar
+1 1: 4c; 8d+; a; c; d+; g; c; e+; g; c; d+; g; c; c+; g;
+bar
+1 1: 4d; 8d+; a; d; d+; 4a; 4e; 8d+; a; e; d+; 4a;
+bar
+1 1: 4fad+; ead+; dad+; cad+; 8d; e; f; e; 4d; c;
+bar
+1 1: 4b-; 8d+; a; b-; d+; a; b-; d+; a; b-; d+; a; b-; d+; a;
+bar
+1 1: 4c; 8d+; a; c; d+; g; c; e+; g; c; d+; g; c; c+; g;
+bar
+1 1: 4d; 8d+; a; d; d+; 4a; 4e; 8d+; a; e; d+; 4a;
+bar
+1 1: 4f; 8d+; a; f; d+; 4a; 4g; 8d+; a; g; d+; 4a;
+bar
+1 1: 4a; 8f+; d+; a; f+; d+; a; f+; d+; a; 4a+; 8f+; 4a; 
+bar
+1 1: 4b; 8f+; d+; b; f+; d+; b; f+; d+; b; 4b+; 8f+; 4b; 
+bar
+1 1: 4a; 8f+; d+; a; f+; d+; a; f+; d+; a; 4a+; 8f+; 4a; 
+bar
+1 1: 4b; 8f+; d+; b; f+; d+; b; f+; d+; b; 4b+; 8f+; 4b; 
+bar
+1 1: 4a; 8f+; d+; a; f+; d+; a; f+; d+; a; f+; d+; a; f+; d+; 
+bar
+1 1: 4a; 8e+; d+; a; e+; d+; a; e+; d+; a; e+; d+; a; e+; d+; 
+bar
+1 1: 4a; 8e+; c#+; a; e+; c#+; a; e+; c#+; a; 4e+; 8c#+; 4a; 
+bar rehearsal mnum
+1 1: 4r; 8a+; f+; d; g+; e+; d; f+; d+; d; 4e+; 8c+; 4d; 
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; 8a+; f+; d; g+; e+; d; f+; d+; d; 4e+; 8c+; 4d; 
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; 8a+; f+; d; g+; e+; d; f+; d+; d; 4e+; 8c+; 4d; 
+1 2: 1d-~; 1d-;
+bar
+1 1: 4.fb; gc+; 2ad+; 8d; a; d+; a; 4d;
+bar
+1 1: 4r; 8a+; f+; d; g+; e+; d; f+; d+; d; 4e+; 8c+; 4d; 
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; 8a+; f+; d; g+; e+; d; f+; d+; d; 4e+; 8c+; 4d; 
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; 8a+; f+; d; g+; e+; d; f+; d+; d; 4e+; 8c+; 4d; 
+1 2: 1d-~; 1d-;
+bar
+1 1: 4.fb; gc+; 2ad+; 8d; a; d+; a; 4d;
+bar
+1 1: 4r; 8a+; f+; d; g+; e+; d; f+; d+; d; 4e+; 8c+; 4d; 
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; a+f+; g+e+; f+d+; 8b+; f+; d; 4a+; 8f+; 4d;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; 8a+; f+; d; g+; e+; d; f+; d+; d; 4e+; 8c+; 4d; 
+1 2: 1d-~; 1d-;
+bar
+1 1: 4.fb; gc+; 2ad+; 8d; a; d+; a; 4d;
+bar
+1 1: 4.fb; gc+; 2ad+; 8d; a; d+; a; 4d;
+bar
+newscore
+score
+	time = 10/8
+	key = 1&
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+	beamstyle = 4.,4.,2
+music
+1 1: 4.fb; gc+; 2ad+;
+bar
+newscore
+score
+	time = 14/8
+	key = 1&
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+	beamstyle = 2,2,2,4
+music
+1 1: 8d; a; d+; a; d; a; d+; a; d; a; 4d+; c; 
+bar rehearsal mnum
+newscore
+score
+	time = 16/8
+	key = 1&
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+	beamstyle = 1,1
+music
+1 1: 4b-; 8d+; a; b-; d+; 4a; 4c; 8d+; a; c; d+; 4a;
+bar
+1 1: 4d; 8d+; a; 4d; ead+; fad+; ead+; dad+; c;
+bar
+1 1: 4b-; 8d+; a; b-; d+; 4a; 4c; 8d+; a; c; d+; 4a;
+bar
+1 1: 4d; 8d+; a; 4d; ead+; fad+; ead+; dad+; c;
+bar
+1 1: 4b-; 8d+; a; b-; d+; 4a; 4c; 8d+; a; c; d+; 4a;
+bar
+1 1: 4d; 8d+; a; 4d; ead+; fad+; ead+; dad+; c;
+bar
+1 1: 4b-; 8d+; a; b-; d+; 4a; 4c; 8d+; a; c; d+; 4a;
+bar
+1 1: 4d; 8d+; a; 4d; ead+; fad+; ead+; dad+; c;
+bar
+1 1: 4b-; 8d+; a; b-; d+; a; b-; d+; a; b-; d+; a; b-; d+; a;
+bar
+1 1: 4c; 8d+; a; c; d+; g; c; e+; g; c; d+; g; c; c+; g;
+bar
+1 1: 4d; 8d+; a; d; d+; 4a; 4e; 8d+; a; e; d+; 4a;
+bar
+1 1: 4fad+; ead+; dad+; cad+; 8d; e; f; e; 4d; c;
+bar
+1 1: 4b-; 8d+; a; b-; d+; a; b-; d+; a; b-; d+; a; b-; d+; a;
+bar
+1 1: 4c; 8d+; a; c; d+; g; c; e+; g; c; d+; g; c; c+; g;
+bar
+1 1: 4d; 8d+; a; d; d+; 4a; 4e; 8d+; a; e; d+; 4a;
+bar
+1 1: 4fad+; ead+; dad+; cad+; 8d; e; f; e; 4d; c;
+bar
+1 1: 4b-; 8d+; a; b-; d+; a; b-; d+; a; b-; d+; a; b-; d+; a;
+bar
+1 1: 4c; 8d+; a; c; d+; g; c; e+; g; c; d+; g; c; c+; g;
+bar
+1 1: 4d; 8d+; a; d; d+; 4a; 4e; 8d+; a; e; d+; 4a;
+bar
+1 1: 4f; 8d+; a; f; d+; 4a; 4g; 8d+; a; g; d+; 4a;
+bar
+1 1: 4a; 8f+; d+; a; f+; d+; a; f+; d+; a; 4a+; 8f+; 4a; 
+bar
+1 1: 4b; 8f+; d+; b; f+; d+; b; f+; d+; b; 4b+; 8f+; 4b; 
+bar
+1 1: 4a; 8f+; d+; a; f+; d+; a; f+; d+; a; 4a+; 8f+; 4a; 
+bar
+1 1: 4b; 8f+; d+; b; f+; d+; b; f+; d+; b; 4b+; 8f+; 4b; 
+bar
+1 1: 4a; 8f+; d+; a; f+; d+; a; f+; d+; a; f+; d+; a; f+; d+; 
+bar
+1 1: 4a; 8e+; d+; a; e+; d+; a; e+; d+; a; e+; d+; a; e+; d+; 
+bar
+1 1: 4a; 8e+; c#+; a; e+; c#+; a; e+; c#+; a; 4e+; 8c#+; 4a; 
+bar rehearsal mnum
+1 1: 4r; f+a+; e+g+; d+f+; 4.c+e+; ad+; 4gc+;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; f+a+; e+g+; d+f+; 4.c+e+; ad+; 4gc+;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; f+a+; e+g+; d+f+; 4.c+e+; ad+; 4gc+;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4.fb; gc+; 2ad+; 8d; a; d+; a; 4d;
+bar
+1 1: 4r; f+a+; e+g+; d+f+; 4.c+e+; ad+; 4gc+;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; f+a+; e+g+; d+f+; 4.c+e+; ad+; 4gc+;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; f+a+; e+g+; d+f+; 4.c+e+; ad+; 4gc+;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4.fb; gc+; 2ad+; 8d; a; d+; a; 4d;
+bar
+1 1: 4r; f+a+; e+g+; d+f+; 4.c+e+; ad+; 4gc+;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; f+a+; e+g+; f+a+; 8b+; f+; d; 4a+; 8f+; 4d;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; f+a+; e+g+; d+f+; 4.c+e+; ad+; 4gc+;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4.fb; gc+; 2ad+; 8d; a; d+; a; 4d;
+bar
+1 1: 4.fb; gc+; 2ad+; 8d; a; d+; a; 4d;
+bar
+1 1: 4.fb; gc+; 2ad+; 8d; a; d+; a; 4d;
+bar
+1 1: 4cgd+; 8c; g; d+; g; 4c; 4b-ad+; 8b-; a; d+; a; 4b-;
+bar
+1 1: 4cgd+; 8c; g; d+; g; 4c; 4dad+; 8d; a; d+; a; 4d;
+bar
+1 1: 4cgd+; 8c; g; d+; g; 4c; 4b-ad+; 8b-; a; d+; a; 4b-;
+bar
+1 1: 4cgd+; 8c; g; d+; g; 4c; 8d; a; 2d+; 4c;
+ital below 1: 1 "rit.";
+bar
+newscore
+score
+	time = 14/8
+	key = 1&
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+	beamstyle = 4.,4.,4,2,4
+music
+1 1: 8b-; a; d+; c; g; d+; d; a; 2d+; 4c;
+ital above 1: 1 "slower";
+bar
+1 1: 8b-; a; d+; c; g; d+; d; a; 2d+; 4c;
+bar
+1 1: 8b-; a; d+; c; g; d+; d; a; 2d+; 4c;
+bar
+1 1: 8b-; a; d+; c; g; d+; d; a; 2d+; 4c;
+bar
+newscore
+score
+	time = 12/8
+	key = 1&
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+	beamstyle = 4.,4.,4.,4.
+music
+1 1: 8b-; a; d+; c; g; d+; d; a; d+; c; g; d+;
+ital above 1: 1 "fast";
+bar
+1 1: 8b-; a; d+; c; g; d+; d; a; d+; c; g; d+;
+bar
+1 1: 8b-; a; d+; c; g; d+; d; a; d+; c; g; d+;
+bar
+newscore
+score
+	time = 6/8
+	key = 1&
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+	beamstyle = 4.,4.
+music
+1 1: 8b-; a; d+; c; g; d+; 
+ital below 1: 1 "rit. poco a poco";
+bar
+newscore
+score
+	time = 12/8
+	key = 1&
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+	beamstyle = 4.,4.,4.,4.
+music
+1 1: d; a; d+; 2f+; 32e+; 32f+; 16e+; 8d+; c+<>; 4d+;
+ital below 1: 1 "rit.";
+mussym above 1: 11 "ferm";
+bar
+1 1: d; a; d+; 2f+; 32e+; 32f+; 16e+; 8d+; c+<>; 4d+;
+mussym above 1: 11 "ferm";
+bar
+1 1: 8d; a; d+; f+; d+; a; d; a; d+; f+; d+; a;
+rom above 1: 1 "III - The Darkest Hour";
+ital above 1: 1 "Adagio";
+bar
+1 1: 8d; a; d+; f+; d+; a; d; a; d+; f+; d+; f;
+bar
+1 1: 8e; b; e+; g+; e+; b; e; b; e+; g+; e+; d;
+bar
+1 1: 8c#; a; c#+; e; c+; bn-; a-; a; c+; e+; c+; 16f; e;
+bar
+1 1: 8d; a; d+; f+; d+; a-; d; a; d+; f+; d+; a-;
+bar
+1 1: 8d; a; d+; f+; d+; a-; d; a; d+; f+; d+; f;
+bar
+1 1: 8e; b; e+; g+; e+; b; e; b; e+; g+; e+; 32d; e; 16d;
+bar
+1 1: 8c#; a; c#+; e; c+; 32bn-; 32c; 16b-; 8a-; a; c+; e+; c+; 16f; e;
+bar
+1 1: 8d; a; d+; f+; d+; a-; d; a; d+; f+; d+; a-;
+bar
+1 1: 8d; a; d+; f+; d+; a-; d-; a; d+; f+; d+; f;
+bar
+1 1: 8e; b; e+; g+; e+; b; e; b; e+; g+; e+; b;
+bar
+1 1: 8f; c+; f+; a+; f+; c+; f; c+; f+; a+; f+; c+;
+bar
+1 1: 8g; c#+; e+; a+; e+; c+; g; c+; e+; a+; e+; c+;
+bar
+1 1: 8ac#+e+a+; g; f; e; f; g; fad+f+; e; d; c#ac#+e+; d; e;
+roll 1: 1; 7; 10;
+bar
+1 1: 8d; a; d+; f+; d+; a-; d; a; d+; f+; d+; a-;
+bar
+1 1: 8d; a; d+; f+; d+; a-; d; a; d+; f+; d+; f;
+bar
+1 1: 8e; b; e+; g+; e+; b; e; b; e+; g+; e+; 32d; e; 16d;
+bar
+1 1: 8c#; a; c#+; e; c+; 32bn-; 32c; 16b-; 8a-; a; c+; e+; c+; 16f; e;
+bar
+newscore
+score
+	time = 7/8
+	key = 1&
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+	beamstyle = 4.,4,4
+music
+1 1: 16d; c; d; e; f; g; a; g; f; e; f; e; d; c#;
+bar
+newscore
+score
+	time = 12/8
+	key = 1&
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+	beamstyle = 4.,4.,4.,4.
+music
+1 1: 8d; a; d+; f+; d+; a-; d; a; d+; f+; d+; a-;
+bar
+1 1: 8d; a; d+; f+; d+; a-; d-; a; d+; f+; d+; f;
+bar
+1 1: 8e; b; e+; g+; e+; b; e; b; e+; g+; e+; b;
+bar
+1 1: 8f; c+; f+; a+; f+; c+; f; c+; f+; a+; f+; c+;
+bar
+1 1: 8f; c+; f+; a+; f+; c+; f; c+; f+; a+; f+; c+;
+bar
+1 1: 8g; c#+; e+; a+; e+; c+; g; c+; e+; a+; e+; c+;
+bar
+1 1: 8g; c#+; e+; a+; e+; c+; g; c+; e+; a+; e+; c+;
+bar
+1 1: 8a; f+; a+; d++; a+; f+; a; f+; a+; d++; a+; f+;
+bar
+1 1: 8a; f+; a+; d++; a+; f+; a; f+; a+; d++; a+; f+;
+bar
+1 1: 8b; e+; g+; b+; g+; e+; b; e+; g+; b+; g+; e+;
+bar
+1 1: 8b; e+; g+; b+; g+; e+; b; e+; g+; b+; g+; e+;
+bar
+1 1: 8c+; e+; g+; c++; g+; e+; c+; e+; g+; c++; g+; e+;
+bar
+1 1: 8c+; e+; g+; c++; g+; e+; c+; e+; g+; c++; g+; e+;
+bar
+1 1: 8d+; f#+; a+; d++; a+; f#+; d+; f#+; a+; d++; a+; f#+;
+bar
+1 1: 8d+; f#+; a+; d++; a+; f#+; 2.d+f#+a+d++;
+roll 1: 7;
+bar
+newscore
+score
+	time = 16/8
+	key = 2#
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+	beamstyle = 4,4.,4.,4.,4.,4
+music
+1 1: 4r; 8d++; a+; f+; d++; a+; f+; c++; a+; e+; 4c++; 8a+; 4e+;
+1 2: 1d-~; 1d-;
+rom above 1: 1 "IV - Song of Light Returning";
+ital above 1: 1 "Allegro";
+bar
+1 1: 4r; 8b+; g+; d+; b+; g+; d+; a+; f+; d+; 4a+; 8f+; 4d+;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; 8b+; g+; d+; b+; g+; d+; a+; f+; d+; 4a+; 8f+; 4d+;
+1 2: 1d-~; 1d-;
+bar
+1 1: 8r; a+; e+; c+; g+; d+; b; 4ad+f+; 8a; 4c+e+; 2ad+;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; 8d++; a+; f+; d++; a+; f+; c++; a+; e+; 4c++; 8a+; 4e+;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; 8b+; g+; d+; b+; g+; d+; a+; f+; d+; 4a+; 8f+; 4d+;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; 8b+; g+; d+; b+; g+; d+; a+; f+; d+; 4a+; 8f+; 4d+;
+1 2: 1d-~; 1d-;
+bar
+1 1: 8r; a+; e+; c+; g+; d+; b; 4ad+f+; 8a; 4c+e+; 2ad+;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; 8d++; a+; f+; d++; a+; f+; c++; a+; e+; 4c++; 8a+; 4e+;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; 8e++; c++; a+; e++; c++; a+; d++; b+; g+; 4d++; 8b+; 4g+;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; 8f++; d++; a+; f++; d++; a+; e++; c++; a+; 4e++; 8c++; 4a+;
+1 2: 1d-~; 1d-;
+bar
+1 1: 8r; d++; b+; g+; d++; b+; 4g+; f+a+d++; e+a+c++; 2f+a+d++; 
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; 8d++; a+; f+; d++; a+; f+; c++; a+; e+; 4c++; 8a+; 4e+;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; 8b+; g+; d+; b+; g+; d+; a+; f+; d+; 4a+; 8f+; 4d+;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; 8b+; g+; d+; b+; g+; d+; a+; f+; d+; 4a+; 8f+; 4d+;
+1 2: 1d-~; 1d-;
+bar
+1 1: 8r; a+; e+; c+; g+; d+; b; 4ad+f+; 8a; 4c+e+; 2ad+;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; 8f+; d+; a; f+; d+; a; e+; c+; a; 4e+; 8c+; 4a;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; 8g+; d+; b; g+; d+; b; d+; b; g; 4e+; 8c+; 4a;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; 8f+; d+; a; f+; d+; a; e+; c+; a; 4e+; 8c+; 4a;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; 8g+; d+; b; g+; d+; b; a+; e+; c+; 4a+; 8e+; 4c+;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; 8f+; d+; a; f+; d+; a; e+; c+; a; 4e+; 8c+; 4a;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; 8g+; d+; b; g+; d+; b; d+; b; g; 4e+; 8c+; 4a;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; 8f+; d+; a; f+; d+; a; e+; c+; a; 4e+; 8c+; 4a;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; 8g+; d+; b; g+; d+; b; a+; e+; c+; 4a+; 8e+; 4c+;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; 8d++; a+; f+; d++; a+; f+; g+; d+; b; 4g+; 8d+; 4b;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; 8a+; e+; c+; a+; e+; c+; g+; e+; cn+; 4a+; 8f+; 4d+;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; 8d++; a+; f+; d++; a+; f+; g+; d+; b; 4g+; 8d+; 4b;
+1 2: 1d-~; 1d-;
+bar
+1 1: 8r; a+; e+; c+; a+; e+; 4c+; e+a+c++; d+g+b+; 2d+f+a+;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; 8d++; a+; f+; d++; a+; f+; g+; d+; b; 4g+; 8d+; 4b;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; 8a+; e+; c+; a+; e+; c+; g+; e+; cn+; 4a+; 8f+; 4d+;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; 8d++; a+; f+; d++; a+; f+; g+; d+; b; 4g+; 8d+; 4b;
+1 2: 1d-~; 1d-;
+bar
+1 1: 8r; a+; e+; c+; a+; e+; 4c+; e+a+c++; d+g+b+; 2d+f+a+;
+1 2: 1d-~; 1d-;
+bar rehearsal mnum
+1 1: 4r; 8ad+f+; 4ac+e+; 8ad+f+; 4ac+e+; 4r; 8d+g+b+; 4d+f+a+; 8d+g+b+; 4d+f+a+;
+1 2: 1d-a-d; 1d-a-d;
+roll 1 2: 1; 9;
+bar
+1 1: 4r; 8ad+f+; 4ac+e+; 8ad+f+; 4ac+e+; 4r; 4.d+g+b+; 4.d+f+a+;
+1 2: 1d-a-d; 1d-a-d;
+roll 1 2: 1; 9;
+bar
+1 1: 4r; 8ad+f+; 4ac+e+; 8ad+f+; 4ac+e+; 4r; 8d+g+b+; 4d+f+a+; 8d+g+b+; 4d+f+a+;
+1 2: 1d-a-d; 1d-a-d;
+roll 1 2: 1; 9;
+bar
+1 1: 4r; 8ad+f+; 4ac+e+; 8ad+f+; 4ac+e+; 4r; 4.d+g+b+; 4.d+f+a+;
+1 2: 1d-a-d; 1d-a-d;
+roll 1 2: 1; 9;
+bar
+1 1: 4r; 8ad+f+; 4ac+e+; 8ad+f+; 4ac+e+; 4r; 8d+g+b+; 4d+f+a+; 8d+g+b+; 4d+f+a+;
+1 2: 1d-a-d; 1d-a-d;
+roll 1 2: 1; 9;
+bar
+1 1: 4r; 8ad+f+; 4ac+e+; 8ad+f+; 4ac+e+; 4r; 4.d+g+b+; 4.d+f+a+;
+1 2: 1d-a-d; 1d-a-d;
+roll 1 2: 1; 9;
+bar
+1 1: 8r; d+; b; g; d+; b; g; 4d+; 8b; 8g; 4d+; 8b; 4g;
+1 2: 1d-~; 1d-;
+bar
+1 1: 8r; d++; b+; g+; d++; b+; g+; 4d++; 8b+; 8g+; 4d++; 8b+; 4g+;
+1 2: 1d~; 1d;
+ital below 1: 3 "harmonics";
+mussym above 1: 15 "ferm";
+bar
+1 1: 8r; d++; a+; f+; c++; a+; e+; 4d+g+b+; d+f+a+; 8d+g+b+; 2d+f+a+; 
+1 2: 1d-~; 1d-;
+bar
+1 1: 8r; a+; e+; c+; g+; d+; b; 4ad+f+; 8a; 4c+e+; 2ad+;
+1 2: 1d-~; 1d-;
+bar
+1 1: 8r; d++; a+; f+; c++; a+; e+; 4d+g+b+; d+f+a+; 8d+g+b+; 2d+f+a+; 
+1 2: 1d-~; 1d-;
+bar
+1 1: 8r; a+; e+; c+; g+; d+; b; 4ad+f+; 8a; 4c+e+; 2ad+;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; 8f+; d+; a; f+; d+; a; e+; c+; a; 4e+; 8c+; 4a;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; 8g+; d+; b; g+; d+; b; d+; b; g; 4e+; 8c+; 4a;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; 8f+; d+; a; f+; d+; a; e+; c+; a; 4e+; 8c+; 4a;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; 8g+; d+; b; g+; d+; b; a+; e+; c+; 4a+; 8e+; 4c+;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; 8f+; d+; a; f+; d+; a; e+; c+; a; 4e+; 8c+; 4a;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; 8g+; d+; b; g+; d+; b; d+; b; g; 4e+; 8c+; 4a;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; 8f+; d+; a; f+; d+; a; e+; c+; a; 4e+; 8c+; 4a;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; 8g+; d+; b; g+; d+; b; a+; e+; c+; 4a+; 8e+; 4c+;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; 8d++; a+; f+; d++; a+; f+; g+; d+; b; 4g+; 8d+; 4b;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; 8a+; e+; c+; a+; e+; c+; g+; e+; cn+; 4a+; 8f+; 4d+;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; 8d++; a+; f+; d++; a+; f+; g+; d+; b; 4g+; 8d+; 4b;
+1 2: 1d-~; 1d-;
+bar
+1 1: 8r; a+; e+; c+; a+; e+; 4c+; e+a+c++; d+g+b+; 2d+f+a+;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; 8d++; a+; f+; d++; a+; f+; g+; d+; b; 4g+; 8d+; 4b;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; 8a+; e+; c+; a+; e+; c+; g+; e+; cn+; 4a+; 8f+; 4d+;
+1 2: 1d-~; 1d-;
+bar
+1 1: 4r; 8d++; a+; f+; d++; a+; f+; g+; d+; b; 4g+; 8d+; 4b;
+1 2: 1d-~; 1d-;
+bar
+1 1: 8r; a+; e+; c+; a+; e+; c+; a; 4d+g+b+; e+a+c++; 2f+a+d++;
+1 2: 1d-~; 1d-;
+ital below 1: 1 "rit. poco a poco";
+mussym above 1: 13 "ferm";
+roll 1: 9; 11; 13;
+bar
+// end of "Passion Suite"

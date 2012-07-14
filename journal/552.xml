@@ -1,0 +1,9 @@
+<journal>
+<header><title>Minding the Store</title><date>2004-07-06</date></header>
+<entry>
+    <p>The technology behind email is called "store-and-forward": when I send you an email message, in general it is stored on your ISP's servers until you ask for your messages, at which point your ISP's servers forward it on to you. (The premise behind instant messaging is quite different: if you are online, your server delivers it to you immediately without ever storing it; if you are offline, it may or may not store it for later delivery.)</p>
+    <p>This may seem a bit arcane, but now the difference has not only technical but also legal implications: as reported in the New York Times, "last week a federal appeals court in Boston ruled that federal wiretap laws do not apply to e-mail messages if they are stored, even for a millisecond, on the computers of the Internet providers that process them - meaning that it can be legal for the government or others to read such messages without a court order."</p>
+    <p>In other words, your email messages are fair game for snoops both commercial and governmental. But since IM messages are not stored, they may be marginally safer from the snoops, at least under the laws of the government headquartered in the city of Washington. End-to-end encryption, anyone?</p>
+    <p><a href="http://www.jabber.org/"/></p>
+</entry>
+</journal>

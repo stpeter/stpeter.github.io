@@ -1,0 +1,6 @@
+<journal>
+<header><title>WoT's Happening</title><date>2005-05-02</date></header>
+<entry>
+    <p>Over at the Financial Cryptography blog, Ian Grigg has posted some thoughts on <a href="http://www.financialcryptography.com/mt/archives/000451.html">CAcert as a reputation system</a>. Although he says that in general reputation systems don't work, he argues that <a href="http://www.cacert.org/">CAcert</a> provides a benefit (free certificates) to those who participate in its Web of Trust (WoT), thus avoiding the incentive problems with existing reputation systems (i.e., what's in it for me?). Granted, the universe of people who think that a free certificate is a wonderful thing is small, but they are the people who matter as far as I'm concerned. (As previously noted, I'm working to assure more folks in Denver so that we can build a critical mass of local assurers.)</p>
+</entry>
+</journal>

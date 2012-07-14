@@ -1,0 +1,6 @@
+<journal>
+<header><title>Prosodical Readings</title><date>2010-01-24</date></header>
+<entry>
+<p>I run <a href="http://prosody.im/">Prosody</a> as my personal XMPP server at stpeter.im, so last night I decided to take a look at its <a href="http://prosody.im/source/start">source code</a>. It's quite a pleasure to read! I might need to take a more serious look at the <a href="http://www.lua.org/">Lua programming language</a> because it seems to encourage readable code (though I think the Prosody team has a lot to do with it, too).</p>
+</entry>
+</journal>

@@ -1,0 +1,7 @@
+<journal>
+<header><title>Security Progress</title><date>2009-02-20</date></header>
+<entry>
+<p>I hate to say this, but it's an embarrassment that after 10 years we still don't have good, usable end-to-end encryption for XMPP. Lately several folks have been working to change that, led by Dirk Meyer (whom I had the pleasure to meet at the recent <a href="http://xmpp.org/summit/summit6.shtml">XMPP Summit</a>). Dirk and I have been working hard on a technology we're calling <a href="http://xmpp.org/extensions/inbox/jingle-xtls.html">XTLS</a>, which was originally inspired by some comments I received from <a href="http://www.educatedguesswork.org/">Eric Rescorla</a> regarding the potential to use Transport Layer Security for end-to-end encryption of IM messages (and everything else we send over XMPP). I think this approach is starting to take shape, but it is still very much a work in progress so feedback is welcome on the <a href="http://mail.jabber.org/mailman/listinfo/security">security@xmpp.org</a> discussion list.</p>
+<p> UPDATE: The latest version is now an IETF Internet-Draft available <a href="http://tools.ietf.org/html/draft-meyer-xmpp-e2e-encryption">here</a>.</p>
+</entry>
+</journal>

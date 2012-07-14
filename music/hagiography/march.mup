@@ -1,0 +1,507 @@
+// This is the source file to the sheet music for 
+// Peter Saint-Andre's song "March".
+//
+// I wrote the words and music for this song in 1988.
+//
+// Find out more about my music at http://music.stpeter.im/
+//
+// I have placed this song into the public domain; visit
+// http://stpeter.im/ for details.
+//
+// This file was originally created in February of 2001 
+// using Mup 4.1 for Linux, and subsequently corrected in
+// December of 2009 using Mupmate for Mac. Many thanks to
+// John and Bill of Arkkra Enterprises for their software;
+// visit http://arkkra.com/ for more information.
+//
+// Note: The bass line in this song bears a resemblance 
+// to one from the Yes song "Awaken", but I originally 
+// wrote it in 1989 for a song of mine entitled 
+// "Do You See What I See". I borrowed it for "March" 
+// in early 1999, six months or so before I ever heard 
+// "Awaken". It's a common enough riff, I suppose. 
+//
+header
+	title (18) "March"
+	title   ""   "Peter Saint-Andre"
+footer
+	title "This song is in the public domain. No rights reserved."
+header2
+	title   "March"   "Peter Saint-Andre"
+footer2
+	title "- \% -"
+score
+	time = 4/4
+	key = 1#
+	staffs = 3
+	clef = treble
+	vscheme = 2o
+        beamstyle = 2,2
+staff 3
+        clef = bass
+music
+ital above 1: 1 "Moderately Fast";
+rom above 2: 1 "Tuning:\nEBEGBE";
+2 2: 1e-b-e slur;
+bar
+2 1: 16e++; 16d++<>; 4d++<>; 2d++; 16b+; a+;
+2 2: 1e-b-e slur;
+bar
+2 1: 1b+;
+2 2: 1e-b-e;
+bar
+2 1: 4r; 2.fbd+f+b+;
+2 2: 1b-<>;
+roll 2: 2;
+ital below 2: 1 "harm., 8va";
+bar
+2 1: 16b+; 16a+<>; 4a+<>; 2a+; 16f+; e+;
+2 2: 1b-<>;
+bar
+2 1: 1f+;
+2 2: 1b-;
+bar
+2 1: 4r; 2.be+g+b+e++;
+2 2: 1e<>;
+roll 2: 2;
+ital below 2: 1 "harm., 8va";
+bar
+2 1: 16e++; 16d++<>; 4d++<>; 2d++; 16b+; a+;
+2 2: 1e<>;
+bar
+2 1: 1b+;
+2 2: 1e;
+bar
+2 1: 4r; 2.fbd+f+b+;
+2 2: 1b-<>;
+roll 2: 2;
+ital below 2: 1 "harm., 8va";
+bar
+2 1: 16b+; 16a+<>; 4a+<>; 2a+; 16f+; e+;
+2 2: 1b-<>;
+bar
+2 1: 4.f+; 8e+; d+; e+; 4f+;
+2 2: 1b-;
+bar
+2 1: 4r; 2.be+g+b+e++;
+2 2: 1e<>;
+roll 2: 2;
+ital below 2: 1 "harm., 8va";
+bar
+2 1: 16e++; 16d++<>; 4d++<>; 2d++; 16b+; a+;
+2 2: 1e<>;
+bar
+2 1: 4.b+; 8a+; g+; a+; 4b+;
+2 2: 1e;
+bar
+2 1: 4r; 2.fbd+f+b+;
+2 2: 1b-<>;
+roll 2: 2;
+ital below 2: 1 "harm., 8va";
+bar
+2 1: 16b+; 16a+<>; 4a+<>; 2a+; 16f+; e+;
+2 2: 1b-<>;
+bar
+2 1: 2f+<>; 8f+; 8ad+; 16ad+ slur; be+ slur; 8be+;
+2 2: 1b-;
+bar
+2 1: 4e-b-e; 8.ebe+g+b+e++; 16ebe+g+b+e++; 8ebe+f+ =p b+e++; 8.ebe+g+b+e++; 16ebe+g+b+e++; 8ebe+g+b+e++;
+print (p.x + 2.5, p.y - 12.5) "not harm.";
+line (p.x, p.y) to (p.x + 2.5, p.y - 12.5);
+ital below 2: 2 "harm.";
+bar
+2 1: 16e++; 8.d++; d++; 16d++; 8d++; 4d++; 16b+; a+;
+bar
+2 1: 8.b+; 16b+; 8b+; 8.b+; 16b+; 8b+; 16b+; b+; 8b+; 
+2 2: 1b;
+bar
+2 1: 4b; 8.bf+b+d++f++b++; 16bf+b+d++f++b++; 8bf+b+d++f++b++; 8.bf+b+d++f++b++; 16bf+b+d++f++b++; 8bf+b+d++f++b++;
+ital below 2: 1 "harm.";
+bar
+2 1: 16b+; 8.a+; a+; 16a+; 8a+; 4a+; 16f+; e+;
+bar
+2 1: 8.e+<e+>f+; 16e+<e+>f+; 8e+f+; 8.e+<e+>f+; 16e+<e+>f+; 8e+f+; 16ad+; 8.be+; 
+bar
+2 1: 4e-b-e; 8.ebe+g+b+e++; 16ebe+g+b+e++; 8ebe+f+ =p b+e++; 8.ebe+g+b+e++; 16ebe+g+b+e++; 8ebe+g+b+e++;
+print (p.x + 2.5, p.y - 12.5) "not harm.";
+line (p.x, p.y) to (p.x + 2.5, p.y - 12.5);
+ital below 2: 2 "harm.";
+bar
+2 1: 16e++; 8.d++; d++; 16d++; 8d++; 4d++; 16b+; a+;
+bar
+2 1: 8.b+; 16b+; 8b+; 8.b+; 16b+; 8b+; 16b+; b+; 8b+; 
+2 2: 1b;
+bar
+2 1: 4b; 8.bf+b+d++f++b++; 16bf+b+d++f++b++; 8bf+b+d++f++b++; 8.bf+b+d++f++b++; 16bf+b+d++f++b++; 8bf+b+d++f++b++;
+ital below 2: 1 "harm.";
+bar
+2 1: 16b+; 8.a+; a+; 16a+; 8a+; 4a+; 16f+; e+;
+bar
+2 1: 8r; e+; 4e+; 8e+; 4e+; 8e+; 
+2 2: 4.f+; 4.f+; 4f+;
+bar
+2 1: 8r; e+; 4e+; 8e+; 4e+; 8e+; 
+2 2: 4.d+; 4.d+; 4d+;
+bar
+2 1: 8r; bd+e+; 4bd+e+; 8bd+e+; 4bd+e+; 8bd+e+; 
+2 2: 4.b; 4.b; 4b;
+bar
+2 1: 8r; bd+e+; 4bd+e+; 8bd+e+; 8bd+e+; 4bd+e+; 
+2 2: 4.b; 4a; 4.b;
+3 1: 4.f+b+; 4.e+a+; 4f+b+ slur;
+bar
+2 1: 8r; bd+e+; 4bd+e+; 8bd+e+; 4bd+e+; 8bd+e+; 
+2 2: 4.b; 4.b; 4b;
+3 1: 1f+b+;
+bar
+2 1: 8r; bd+e+; 4bd+e+; 8bd+e+; 8bd+e+; 4bd+e+; 
+2 2: 4.b; 4a; 4.b;
+3 1: 4.f+b+; 4.e+a+; 4f+b+ slur;
+bar
+2 1: 8r; bd+e+; 4bd+e+; 8bd+e+; 4bd+e+; 8bd+e+; 
+2 2: 4.b; 4.b; 4b;
+3 1: 1f+b+;
+bar
+2 1: 8r; bd+e+; 4bd+e+; 8bd+e+; 8bd+e+; 4bd+e+; 
+2 2: 4.b; 4a; 4.b;
+3 1: 4.f+b+; 4.e+a+; 4f+b+ slur;
+bar
+2 1: 8r; bd+e+; 4bd+e+; 8bd+e+; 4bd+e+; 8bd+e+; 
+2 2: 4.b; 4.b; 4b;
+3 1: 1f+b+;
+bar
+2 1: 16bd+e+; 16bd+e+; 8bd+e+; 8bd+e+; 16bd+e+; 16bd+e+; 16bd+e+; 16bd+e+; 8bd+e+; 8bd+e+; 8bd+e+;
+3 1: 16b+; 16b+; 8b+; 8b+; 16b+; 16b+; 16b+; 16b+; 8b+; 8b+; 8b+;
+bar
+// end intro
+// start main section
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar rehearsal mnum
+// begin first verse
+1 1: 4g; 8f; e; f; b-; 4r;
+lyrics 1: "In like a li-on";
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+1 1: 8g; f; e; 4f; 4.r;
+lyrics 1: "out like a lamb";
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+1 1: 8g; f; e; 4f; d; 8e<>;
+lyrics 1: "That's how our love has been";
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+1 1: 4e; 4r; 2r;
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+1 1: 4g; 8f; e; f; b-; 4r;
+lyrics 1: "In like a li-on";
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+1 1: 8g; f; e; 4f; 4.r;
+lyrics 1: "out like a lamb";
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+1 1: 8g; f; e; 4f; d; 8e<>;
+lyrics 1: "That's how our love has been";
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+1 1: 4e; 4r; 2r;
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+1 1: 4r; 8e; f; g; e; 4r;
+lyrics 1: "Storm and pa-ssion";
+2 1: 4a-ea; 8a-eac+e+a+; [xnote] 16a-eac+e+a+; [xnote] 16a-eac+e+a+; 16a-eac+e+a+; a-eac+e+a+; [xnote] a-eac+e+a+; [xnote] a-eac+e+a+; a-eac+e+a+; a-eac+e+a+; [xnote] a-eac+e+a+; [xnote] a-eac+e+a+;
+3 1: 4a-; e; 16a-; b-; d; e; 8f; e;
+bar
+1 1: 4g; f; g; a;
+lyrics 1: "sky of fi-re";
+2 1: 4b-fb; 8b-fbd+f+b+; [xnote] 16b-fbd+f+b+; [xnote] 16b-fbd+f+b+; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4b-; f; 16b-; d; e; f; 8g; f;
+bar
+1 1: 4r; 8e; f; 4g; 8r; e;
+lyrics 1: "how-ling winds and";
+2 1: 4a-ea; 8a-eac+e+a+; [xnote] 16a-eac+e+a+; [xnote] 16a-eac+e+a+; 16a-eac+e+a+; a-eac+e+a+; [xnote] a-eac+e+a+; [xnote] a-eac+e+a+; a-eac+e+a+; a-eac+e+a+; [xnote] a-eac+e+a+; [xnote] a-eac+e+a+;
+3 1: 4a-; e; 16a-; b-; d; e; 8f; e;
+bar
+1 1: 4g; f; g; a;
+lyrics 1: "cry of ly-re";
+2 1: 4b-fb; 4b-fbd+f+b+; 16b-fbd#+a+d++; b-fbd+a+d++; [xnote] b-fbd+a+d++; [xnote] b-fbd+a+d++; b-fbd+a+d++; b-fbd+a+d++; [xnote] b-fbd+a+d++; [xnote] b-fbd+a+d++;
+3 1: 2b-; 8d; 16b-; 8d; 16b-; 16d; e;
+bar
+1 1: 8b; a; g; a; g; g; a; g;
+lyrics 1: "Sig-ni-fy-ing no-thing but the";
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+1 1: 8r; { 4b; g; a;}3; 4r; 8e;
+lyrics 1: "fu-ture green of";
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+1 1: 4b; g; a; 8a; g;
+lyrics 1: "some-thing more than what";
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+1 1: 8r; { 4b; g; a;}3; 8r; 4r;
+lyrics 1: "might have been";
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+1 1: 4.r; 8g; a; a; r; b&<>;
+lyrics 1: "of some-thing more";
+2 1: 8.a-eac+e+a+; 16a-eac+e+a+; 8a-eac+e+a+; 8.a-eac+e+a+; 16a-eac+e+a+; 8a-eac+e+a+; 16a-eac+e+a+; a-eac+e+a+; 8a-eac+e+a+; 
+3 1: 8a-; b-; c; d; e; d; c; a-;
+bar
+1 1: 4a; 8a; g; a<>; g; e<>; d;
+lyrics 1: "than the pre-sent";
+2 1: 8.b-fad+f+b+; 16b-fad+f+b+; 8b-fad+f+b+; 8.b-fad+f+b+; 16b-fad+f+b+; 8b-fad+f+b+; 16b-fad+f+b+; b-fad+f+b+; 8b-fad+f+b+; 
+3 1: 8b-; c#; d; e; f; d; b-; g-;
+bar
+1 1: 4e; 4r; 2r;
+lyrics 1: "sham";
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar rehearsal mnum
+// end first verse
+// begin second verse
+1 1: 8g; e; f; e; f; e; 4d;
+lyrics 1: "Some there are who ce-le-brate";
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+1 1: 4e; 4.r; 8b-; e; f;
+lyrics 1: "spring they love its";
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+1 1: 8g; e; f; e; f; e; d; e<>;
+lyrics 1: "pro-mise and the things it will bring";
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+1 1: 8e; 2r; 8b-; e; f;
+lyrics 1: "but they for-";
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+1 1: 4g; 8f; e; f; 4b-; 8b-;
+lyrics 1: "get how in-con-stant the";
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+1 1: 4g; 8e; f; 4.r; 8e;
+lyrics 1: "spring can be and";
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+1 1: 4g; e; 8f; f; f; 8e;
+lyrics 1: "that be-com-ing is not";
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+1 1: 8r; {4g; e; f;}3; 8r; 4r;
+lyrics 1: "yet to be";
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+1 1: 4.r; 8b-; e; f; g; e;
+lyrics 1: "and Fe-bru-a-ry's";
+2 1: 4a-ea; 8a-eac+e+a+; [xnote] 16a-eac+e+a+; [xnote] 16a-eac+e+a+; 16a-eac+e+a+; a-eac+e+a+; [xnote] a-eac+e+a+; [xnote] a-eac+e+a+; a-eac+e+a+; a-eac+e+a+; [xnote] a-eac+e+a+; [xnote] a-eac+e+a+;
+3 1: 4a-; e; 16a-; b-; d; e; 8f; e;
+bar
+1 1: 4a; g; a; b;
+lyrics 1: "lone-some beau-ty";
+2 1: 4b-fb; 8b-fbd+f+b+; [xnote] 16b-fbd+f+b+; [xnote] 16b-fbd+f+b+; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4b-; f; 16b-; d; e; f; 8g; f;
+bar
+1 1: 8r; b-; e; f; 4g; 8r; e;
+lyrics 1: "its cloud-less skies and";
+2 1: 4a-ea; 8a-eac+e+a+; [xnote] 16a-eac+e+a+; [xnote] 16a-eac+e+a+; 16a-eac+e+a+; a-eac+e+a+; [xnote] a-eac+e+a+; [xnote] a-eac+e+a+; a-eac+e+a+; a-eac+e+a+; [xnote] a-eac+e+a+; [xnote] a-eac+e+a+;
+3 1: 4a-; e; 16a-; b-; d; e; 8f; e;
+bar
+1 1: 4a; 8g; b&<>; 4a; 8g; e;
+lyrics 1: "sun re-flec-ted low";
+2 1: 4b-fb; 4b-fbd+f+b+; 16b-fbd#+a+d++; b-fbd+a+d++; [xnote] b-fbd+a+d++; [xnote] b-fbd+a+d++; b-fbd+a+d++; b-fbd+a+d++; [xnote] b-fbd+a+d++; [xnote] b-fbd+a+d++;
+3 1: 2b-; 8d; 16b-; 8d; 16b-; 16d; e;
+bar
+1 1: 8r; 8e; 16b; 8.a; 4.g; 8e;
+lyrics 1: "from furr-owed fields and";
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+1 1: 4b; 8g; 4a; 8r; 4r; 
+lyrics 1: "dunes of snow";
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+1 1: 4r; 8a; g; 4a; 8a; g;
+lyrics 1: "blin-ding eyes but in-";
+2 1: 8.a-eac+e+a+; 16a-eac+e+a+; 8a-eac+e+a+; 8.a-eac+e+a+; 16a-eac+e+a+; 8a-eac+e+a+; 16a-eac+e+a+; a-eac+e+a+; 8a-eac+e+a+; 
+3 1: 8a-; b-; c; d; e; d; c; a-;
+bar
+1 1: 8r; b&<>; 4.a; 4.g; 
+lyrics 1: "spi-ring";
+2 1: 8.b-fad+f+b+; 16b-fad+f+b+; 8b-fad+f+b+; 8.b-fad+f+b+; 16b-fad+f+b+; 8b-fad+f+b+; 16b-fad+f+b+; b-fad+f+b+; 8b-fad+f+b+; 
+3 1: 8b-; c#; d; e; f; d; b-; g-;
+bar
+1 1: 4e; 4r; 2r;
+lyrics 1: "soul";
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar rehearsal mnum
+// end second verse
+// begin third verse
+1 1: 8e; r; 4r; 8f; e; d; e;
+lyrics 1: "March, March is a mess";
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+1 1: 2r; 4r; 8r; b-;
+lyrics 1: "a";
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+1 1: 8g; e; f; e; f; e; d; e;
+lyrics 1: "ne-ce-ssa-ry ex-per-i-ment";
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+1 1: 4g; 8f; e; 4f; r;
+lyrics 1: "thank-ful it came";
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+1 1: 4g; 8f; e; 4f; 8r; b-;
+lyrics 1: "thank-ful it went a";
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+1 1: 8g; e; f; e; f; e; d; e;
+lyrics 1: "ne-ce-ssa-ry ex-per-i-ment";
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+1 1: 4.r; 8b-; e; f; 4g;
+lyrics 1: "the sea-son of";
+2 1: 4a-ea; 8a-eac+e+a+; [xnote] 16a-eac+e+a+; [xnote] 16a-eac+e+a+; 16a-eac+e+a+; a-eac+e+a+; [xnote] a-eac+e+a+; [xnote] a-eac+e+a+; a-eac+e+a+; a-eac+e+a+; [xnote] a-eac+e+a+; [xnote] a-eac+e+a+;
+3 1: 4a-; e; 16a-; b-; d; e; 8f; e;
+bar
+1 1: 4a; g; a; b;
+lyrics 1: "mud and wa-ding";
+2 1: 4b-fb; 8b-fbd+f+b+; [xnote] 16b-fbd+f+b+; [xnote] 16b-fbd+f+b+; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4b-; f; 16b-; d; e; f; 8g; f;
+bar
+1 1: 2r; 8e; f; g; a;
+lyrics 1: "wai-ting for o-";
+2 1: 4a-ea; 8a-eac+e+a+; [xnote] 16a-eac+e+a+; [xnote] 16a-eac+e+a+; 16a-eac+e+a+; a-eac+e+a+; [xnote] a-eac+e+a+; [xnote] a-eac+e+a+; a-eac+e+a+; a-eac+e+a+; [xnote] a-eac+e+a+; [xnote] a-eac+e+a+;
+3 1: 4a-; e; 16a-; b-; d; e; 8f; e;
+bar
+1 1: 8r; g; r; b&<>; 4a; 4g; 
+lyrics 1: "pen fields and";
+2 1: 4b-fb; 4b-fbd+f+b+; 16b-fbd#+a+d++; b-fbd+a+d++; [xnote] b-fbd+a+d++; [xnote] b-fbd+a+d++; b-fbd+a+d++; b-fbd+a+d++; [xnote] b-fbd+a+d++; [xnote] b-fbd+a+d++;
+3 1: 2b-; 8d; 16b-; 8d; 16b-; 16d; e;
+bar
+1 1: 8e; 8r; 4r; 2r;
+lyrics 1: "lakes";
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+1 1: 8a; a; a; a; a; 4a; 8r;
+lyrics 1: "snow and ice re-ce-ding";
+2 1: 4a-ea; 8a-eac+e+a+; [xnote] 16a-eac+e+a+; [xnote] 16a-eac+e+a+; 16a-eac+e+a+; a-eac+e+a+; [xnote] a-eac+e+a+; [xnote] a-eac+e+a+; a-eac+e+a+; a-eac+e+a+; [xnote] a-eac+e+a+; [xnote] a-eac+e+a+;
+3 1: 4a-; e; 16a-; b-; d; e; 8f; e;
+bar
+1 1: 4b; 8b; 4.b; 8b; b;
+lyrics 1: "I'd sur-mise at the";
+2 1: 4b-fb; 8b-fbd+f+b+; [xnote] 16b-fbd+f+b+; [xnote] 16b-fbd+f+b+; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4b-; f; 16b-; d; e; f; 8g; f;
+bar
+1 1: 4a; a; a; a;
+lyrics 1: "gla-cial pace of";
+2 1: 4a-ea; 8a-eac+e+a+; [xnote] 16a-eac+e+a+; [xnote] 16a-eac+e+a+; 16a-eac+e+a+; a-eac+e+a+; [xnote] a-eac+e+a+; [xnote] a-eac+e+a+; a-eac+e+a+; a-eac+e+a+; [xnote] a-eac+e+a+; [xnote] a-eac+e+a+;
+3 1: 4a-; e; 16a-; b-; d; e; 8f; e;
+bar
+1 1: 8r; {4b; b; b;}3; 8r; 4r;
+lyrics 1: "love's de-mise";
+2 1: 16b-fbd#+a+d++; [xnote] b-fbd+a+d++; [xnote] b-fbd+a+d++; [xnote] b-fbd+a+d++; b-fbd+a+d++; b-fbd+a+d++; b-fbd+a+d++; b-fbd+a+d++; b-fbd+a+d++; b-fbd+a+d++; b-fbd+a+d++; b-fbd+a+d++; b-fbd+a+d++; b-fbd+a+d++; a+d++ slur; b+e++;
+3 1: 2b-; 8d; 16b-; 8d; 16b-; 16d; e;
+bar
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+1 1: 2r; 8r; 16b&<>; 8.a; 8g;
+lyrics 1: "love's de-";
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+1 1: 4e; 4r; 2r;
+lyrics 1: "mise";
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+bar
+// end third verse
+2 1: 4e-b-e; 8ebg+b+e++; [xnote] 16ebg+b+e++; [xnote] 16ebg+b+e++; 16b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+; b-fbd+f+b+; b-fbd+f+b+; [xnote] b-fbd+f+b+; [xnote] b-fbd+f+b+;
+3 1: 4e-; 8e; 8r; 16b-; c; a-; b-; g-; a-; f-; g-;
+ital below 2: 2 "rit.";
+ital below 3: 2 "rit.";
+bar
+2 1: 1e-b-egbe+ slur;
+3 1: 1e-<>;
+bar
+2 1: 1e-b-egbe+ slur;
+3 2: 4fb; 8r; ea; r; 4fb; 8r; 
+3 1: 1e-;
+bar
+2 1: 1e-b-egbe+;
+3 1: 1e-b-e;
+bar
+// end of "March"

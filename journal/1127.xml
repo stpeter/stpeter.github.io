@@ -1,0 +1,10 @@
+<journal>
+<header><title>URI Confusion</title><date>2007-08-10</date></header>
+<entry>
+<p>Uniform Resource Identifiers are confusing. Even leaving aside the further confusion of <a href="http://www.ietf.org/rfc/rfc3987.txt">Internationalized Resource Identifiers</a> (don't get me started on those!), I have to say that the <a href="http://www.ietf.org/rfc/rfc3986.txt">URI spec</a> sometimes reads like some opaque philosophy text (and yes I have read Aristotle's Metaphysics in the original Greek so I know a thing or two about opaque philosophy texts!). This morning I spent an inordinate amount of time carefully constructing a <a href="http://svn.xmpp.org:18080/browse/XMPP/trunk/internet-drafts/draft-saintandre-rfc4622bis-01.xml?r1=1076&amp;r2=1135">precious few sentences</a> for addition to <a href="http://www.xmpp.org/internet-drafts/draft-saintandre-rfc4622bis-01.html">rfc4622bis</a> in order to address feedback from a helpful reviewer within the IETF. Here's an example:</p>
+<blockquote>
+<p>XMPP IRIs and URIs are defined primarily for the purpose of identification rather than of interaction (regarding this distinction, see Section 1.2.2 of [URI]).  The "Internet resource" identified by an XMPP IRI or URI is an entity that can communicate via XMPP over a network.  An XMPP IRI or URI can contain additional information above and beyond the identified resource; in particular, as described under Section 2.5 a query component can be included to specify suggested semantics for an interaction with the identified resource.  It is envisioned that when an XMPP application resolves an XMPP IRI or URI containing suggested interaction semantics, the application will generate an XMPP stanza and send it to the identified resource, where the generated stanza may include user or application inputs that are consistent with the suggested interaction semantics (for details, see Section 2.8.1).</p>
+</blockquote>
+<p>Writing Internet specifications often makes me feel like I'm back in philosophy class. :)</p>
+</entry>
+</journal>

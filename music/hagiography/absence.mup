@@ -1,0 +1,212 @@
+// This is the source file to the sheet music for 
+// Peter Saint-Andre's song "In the Absence of Her Eyes".
+//
+// I wrote the words and music for this song in 1988.
+//
+// Find out more about my music at http://music.stpeter.im/
+//
+// I have placed this song into the public domain; visit
+// http://stpeter.im/ for details.
+//
+// This file was originally created in February of 2001 
+// using Mup 4.1 for Linux, and subsequently corrected in
+// December of 2009 using Mupmate for Mac. Many thanks to
+// John and Bill of Arkkra Enterprises for their software;
+// visit http://arkkra.com/ for more information.
+//
+header
+	title (18) "In the Absence of Her Eyes"
+	title   ""   "Peter Saint-Andre"
+footer
+	title "This song is in the public domain. No rights reserved."
+header2
+	title   "In the Absence of Her Eyes"   "Peter Saint-Andre"
+footer2
+	title "- \% -"
+score
+	time = 16/8
+	key = 0#
+	staffs = 2
+	clef = treble
+	vscheme = 2o
+        beamstyle = 2,2,2,2
+music
+1 1: 4e+; d+; c+; 8b; c+; 4d+; c+; 2b;
+2 1: 4e+; d+; c+; 8b; c+; 4d+; c+; 2b;
+2 2: 1e~; 1e;
+ital below 2: 1 "harm.";
+lyrics 1: "o-mma-ton d'en a-che-ni-ais";
+ital above 1: 1 "Slow";
+bar
+1 1: 4e+; d+; c+; 8b; a; 2b; a;
+2 1: 4e+; d+; c+; 8b; a; 2b; a;
+2 2: 1e~; 1e;
+ital below 2: 1 "harm.";
+lyrics 1: "e-rrei pas A-phro-di-ta";
+bar
+1 1: 4e+; d+; c+; 8b; c+; 4d+; c+; 2b;
+2 1: 4e+; d+; c+; 8b; c+; 4d+; c+; 8b; 4.ee+;
+2 2: 1e~; 1e;
+ital below 2: 1 "harm.";
+lyrics 1: "o-mma-ton d'en a-che-ni-ais";
+bar
+score
+	time = 12/8
+	key = 0#
+	staffs = 2
+	clef = treble
+	vscheme = 2o
+        beamstyle = 2.,2.
+music
+1 1: 4e+; d+; c+; 8b; a; 2b;
+2 1: 4e+; d+; c+; 8b; a; 2b;
+2 2: 1e~; 2e;
+ital below 2: 1 "harm.";
+lyrics 1: "e-rrei pas A-phro-di-";
+bar
+1 1: 2.a; r;
+2 1: 8a-; a; c+; e+; c+; a; a-; a; c+; e+; c+; a;
+lyrics 1: "ta";
+bar
+2 1: 8a-; a; c+; e+; c+; a; a-; a; c+; e+; c+; a;
+bar
+1 1: 2a; 8b; c+; 2d+; 4c+;
+2 1: 8a-; a; c+; e+; c+; a; d; d+; f+; a+; f+; d+;
+lyrics 1: "Why now that I am";
+bar
+1 1: 2.b; 2a; 8e+; e+;
+2 1: 8b-; b; d+; f#+; d+; b; a-; a; c+; e+; c+; a;
+lyrics 1: "heal-thy is our";
+bar
+1 1: 2a+; 4g+; 2f+; 4g+;
+2 1: 8a-; c+; e+; a+; e+; c+; f; a; c+; f+; c+; a;
+lyrics 1: "love a de-sert";
+bar
+1 1: 2.e+; 2r; 4e+;
+2 1: 8a-; a; c+; e+; c+; g-g; a-; a; c+; e+; c+; a;
+lyrics 1: "sand, dry";
+bar
+1 1: 4.a+; 8g+; 4f+; 2.e+;
+2 1: 8a-; c+; e+; a+; e+; c+; a-; a; c+; e+; c+; a;
+lyrics 1: "fea-ture-less land";
+bar
+1 1: 2r; 4d+; 2e+; 8e+; d+;
+2 1: 8a-; a; c+; e+; c+; a; d; d+; f+; a+; f+; d+;
+lyrics 1: "all drained of the";
+bar
+1 1: 4b; r; a; 2.b;
+2 1: 8b-; b; d+; f#+; d+; b; g-; g; b; g+; a-; b-;
+lyrics 1: "sap of e-";
+bar
+1 1: 2.a; r;
+2 1: 8a-; a; c+; e+; c+; a; a-; a; c+; e+; c+; a;
+lyrics 1: "ros?";
+bar
+1 1: 4a; 8b; 4.c+; 4d+; d+; c+;
+2 1: 8a-; a; c+; e+; c+; a; d; d+; f+; a+; f+; d+;
+lyrics 1: "Was the foun-da-tion of";
+bar
+1 1: 2b; 8c+; b; 2a; 8r; 8e+;
+2 1: 8b-; b; d+; f#+; d+; b; a-; a; c+; e+; c+; a;
+lyrics 1: "our re-la-tion a";
+bar
+1 1: 4a+; 8a+<>; g+; 4g+; 4.f+; 4g+<>; 8e+;
+2 1: 8a-; c+; e+; a+; e+; c+; f; a; c+; f+; c+; a;
+lyrics 1: "cer-tain de-pen-den-";
+bar
+1 1: 2.e+; 2r; 4e+;
+2 1: 8a-; a; c+; e+; c+; g-g; a-; a; c+; e+; c+; a;
+lyrics 1: "cy? Or";
+bar
+1 1: 2a+; 4g+; 2e+; 8d+; c+;
+2 1: 8a-; c+; e+; a+; e+; c+; a-; a; c+; e+; c+; a;
+lyrics 1: "is it just that we";
+bar
+1 1: 2b; 4c+; 2a; 8e+; e+;
+2 1: 8b-; b; d+; f#+; d+; b; a-; a; c+; e+; c+; a;
+lyrics 1: "ca-nnot see nor ex-";
+bar
+1 1: 2a+; 8g+; 4e+<>; 4.e+; 8d+; c+;
+2 1: 8a-; c+; e+; a+; e+; c+; d; d+; f+; a+; f+; d+; 
+lyrics 1: "per-i-ence the re-";
+bar
+1 1: 2b; 4g; 2a; 8a; a;
+2 1: 8b-; b; d+; f#+; g-; g; a-; a; c+; e+; c+; a;
+lyrics 1: "al-i-ty of the";
+bar
+1 1: 2a; 8b<>; c+; 2d+; 8d+; c+;
+2 1: 8a-; c+; e+; a+; e+; c+; d; d+; f+; a+; f+; d+; 
+lyrics 1: "love I sing, of our";
+bar
+1 1: 2b; 4g; 2.a; 
+2 1: 8b-; b; d+; f#+; g-; g; a-; a; c+; e+; c+; a;
+lyrics 1: "love I cry";
+bar
+2 1: 8a-; a; c+; e+; c+; a; a-; a; c+; e+; c+; a;
+bar
+2 1: 8a-; a; c+; e+; c+; a; a-; a; c+; e+; c+; a;
+bar
+score
+	time = 4/4
+	key = 0#
+	staffs = 2
+	clef = treble
+	vscheme = 2o
+        beamstyle = 2,2
+music
+1 1: 4.r; 8b; 4c+; d+;
+2 1: 4.a-; 8b; 4c+; d+;
+ital below 2: 3 "rit.";
+lyrics 1: "and I cry";
+bar
+score
+	time = 16/8
+	key = 0#
+	staffs = 2
+	clef = treble
+	vscheme = 2o
+        beamstyle = 2,2,2,2
+music
+1 1: 4e+; d+; c+; 8b; c+; 4d+; c+; 2b;
+2 1: 4e+; d+; c+; 8b; c+; 4d+; c+; 2b;
+2 2: 1e~; 1e;
+ital below 2: 1 "harm.";
+lyrics 1: "o-mma-ton d'en a-che-ni-ais";
+ital above 1: 1 "Slow";
+bar
+1 1: 4e+; d+; c+; 8b; a; 2b; a;
+2 1: 4e+; d+; c+; 8b; a; 2b; a;
+2 2: 1e~; 1e;
+ital below 2: 1 "harm.";
+lyrics 1: "e-rrei pas A-phro-di-ta";
+bar
+1 1: 4e+; d+; c+; 8b; c+; 4d+; c+; 2b;
+2 1: 4e+; d+; c+; 8b; c+; 4d+; c+; 8b; 4.ee+;
+2 2: 1e~; 1e;
+ital below 2: 1 "harm.";
+lyrics 1: "o-mma-ton d'en a-che-ni-ais";
+bar
+score
+	time = 12/8
+	key = 0#
+	staffs = 2
+	clef = treble
+	vscheme = 2o
+        beamstyle = 2.,2.
+music
+1 1: 4e+; d+; c+; 8b; a; 2b;
+2 1: 4e+; d+; c+; 8b; a; 2b;
+2 2: 1e~; 2e;
+ital below 2: 1 "harm.";
+lyrics 1: "e-rrei pas A-phro-di-";
+bar
+1 1: 2.a; r;
+2 1: 8a-; a; c+; e+; c+; a; a-; a; c+; e+; c+; a;
+lyrics 1: "ta";
+bar
+2 1: 8a-; a; c+; e+; c+; a; 2.a-c+e+a+;
+ital below 2: 3 "rit.";
+roll 2: 7;
+mussym above 2: 7 "ferm";
+bar
+// end of "In the Absence of Her Eyes"

@@ -1,0 +1,16 @@
+<journal>
+<header><title>Tracking "Do Not Track"</title><date>2011-04-28</date></header>
+<entry>
+<p>I've started keeping track of the <a href="http://donottrack.us/">Do Not Track</a> ("DNT") topic. Some folks in the privacy community seem to see DNT as the starting point of a structured conversation between an individual and a web site / service about what kinds of data the service can gather, keep, use, and share. It's possible that DNT might be a good conversation-starter, but what kind of conversation will it trigger? As an individual, here is the kind of conversation I would like to have with each service I might interact with.</p>
+<p>1. Who are you? Do I have a relationship with you?</p>
+<p>2. What do you know about me? What kind of data are you gathering, keeping, using, and sharing?</p>
+<p>3. Where did you learn what you know? Did you learn it yourself, or from someone else (a "third party")?</p>
+<p>4. When did you learn what you know (e.g., what was I doing at the time, what kind of web interaction was I engaged in then)?</p>
+<p>5. Why did you gather this information? For what purpose will you use it?</p>
+<p>6. How can I correct or delete the information you have gathered?</p>
+<p>7. And, finally, how can I stop you from gathering, keeping, using, and sharing data about me in the future? </p>
+<p>The last of those questions finally gets to what people think of as "Do Not Track". But to my mind the earlier questions seem more useful than the pure DNT question.</p>
+<p>(Naturally, there might be follow-on aspects to the conversation. Can the service provider convince me that it's worth my while for me to be tracked? Can I negotiate with the service provider to grant access to my information for a price? Etc.)</p>
+<p>So I'm wondering: is there perhaps space here for an application protocol or data format that enables an individual to have a structured conversation with a service provider about data privacy?</p>
+</entry>
+</journal>

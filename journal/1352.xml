@@ -1,0 +1,30 @@
+<journal>
+<header><title>Don't Be an Idiot</title><date>2009-05-08</date></header>
+<entry>
+<p>A member of the Jabber community pinged me the other day about Jeff Atwood's <a href="http://www.codinghorror.com/blog/archives/001263.html">rant against plaintext passwords</a>, occasioned by the fact that someone hacked his OpenID password. I got pinged because the jabber.org IM service <a href="http://www.jabber.org/index.php/service-policy/#passwords">stores passwords in plaintext</a>, which might be considered a bad security practice.</p>
+<p>While I would love to find a solution to the problem of plaintext password storage (more about that later), first I'll make several observations:</p>
+<ul>
+<li>Mr. Atwood admits that he used the same password for multiple accounts. This is highly irresponsible.</li>
+<li>The admin of the service he was using basically hacked his account, which is even more highly irresponsible. This person deserves to be stripped of all administrative duties.</li>
+<li>The technology in question was OpenID, which is known to have <a href="http://www.tbray.org/ongoing/When/200x/2007/02/24/OpenID">serious security problems</a>.</li>
+</ul>
+<p>So yes the service provider didn't protect Mr. Atwood's password by storing it in some encrypted format, but we can see that there is plenty of blame to go around.</p>
+<p>Now, you never really know anything about the password storage methods used by your favorite Internet services. Therefore, if you want to make sure that your password doesn't get hacked, you need to take responsibility for how you choose your passwords. There are easy tools for this, such as Firefox plugins. Personally, I construct almost all of my passwords by typing the following in a terminal window on my Mac:</p>
+<blockquote>
+<p>echo -n "some-string" | openssl dgst -binary -sha1 | openssl enc -nopad -base64</p>
+</blockquote>
+<p>The output is something like this:</p>
+<blockquote>
+<p>AoZMnJ+YYmwPcJyMEMv6/iYuJ4g=</p>
+</blockquote>
+<p>Hack that!</p>
+<p>Naturally I don't use "some-string". I use some combination of my username at the service, the domain name of the service, a special word of my own choosing (typically not from the English language), and the current year (this prompts me to change the password once a year). For example, you could use something like this for "some-string":</p>
+<blockquote>
+<p>%username_at_servicename//with_myspecialword//for_2009%</p>
+</blockquote>
+<p>Heck, that would be a fairly strong password on its own. But now if you run it through a hashing algorithm, you'll have a really strong password.</p>
+<p>One problem is that some websites don't let you use a long password (e.g., not more than 20 characters) and they often restrict the characters you can use (e.g., no "+" or "="). Sadly, it's often financial websites that have these stupid, insecure restrictions! But that's another story...</p>
+<p>Yes, this is a <a href="http://www.urbandictionary.com/define.php?term=PITA">PITA</a>. But is it more of a PITA than having your email account or IM address or online banking access hacked? I don't think so.</p>
+<p>Nothing in this rant excuses the other parts of the system that often break down, including people-who-should-know-better -- such as, say, the admins of the jabber.org IM service (c'est moi). More about that in future posts.</p>
+</entry>
+</journal>

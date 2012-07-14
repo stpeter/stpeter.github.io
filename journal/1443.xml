@@ -1,0 +1,8 @@
+<journal>
+<header><title>Simple</title><date>2012-01-03</date></header>
+<entry>
+<p>A month ago, I mentioned that I wanted to <a href='1442.html'>simplify my website</a>. Over the holidays I did just that, and radically so.</p>
+<p>I've ditched WordPress and re-instituted plain old HTML for my weblog. By popular demand, I do have a <a href='/atom.xml'>syndication feed</a> but it's limited to three entries at a time, as is the <a href='/journal/'>journal homepage</a>. While I was at it, I moved my <a href='/writings/'>writings</a> and <a href='/music/'>music</a> to stpeter.im from dedicated subdomains (books.stpeter.im and music.stpeter.im). And I've also made the entire site much friendlier to read on mobile devices, which I hadn't tested until I got an iPhone last month. This approach will make it much easier for me to maintain the site (yes, it's all about me) and, I hope, more pleasant to read.</p>
+<p>Feedback is welcome, but when I got rid of WordPress I also got rid of comments so you'll need to <a href='/contact.html'>contact me</a> via email or IM or somesuch. (And yes, I know that old URLs are broken; I'll be creating redirects soon.)</p>
+</entry>
+</journal>

@@ -1,0 +1,17 @@
+<journal>
+<header><title>Running Code</title><date>2007-08-02</date></header>
+<entry>
+<p>Over on the ietf-discuss list, Dave Crocker <a href="http://www1.ietf.org/mail-archive/web/ietf/current/msg47041.html">saith</a>:</p>
+<blockquote>
+<p>Certainly there were early prototypes of OSI modules, and even running products. Clearly, that was not enough. In contrast, the Internet code was deployed and used in a running service, with increasing scale. So the distinction between prototype and production is probably of fundamental importance. (I think that Dave Clark really meant "running service" when he said "running code".)</p>
+</blockquote>
+<p>I think there's much wisdom here. Consider:</p>
+<ol>
+<li>It's one thing to write a clear spec for a well-designed protocol (I'm not saying it's an easy thing, either!).</li>
+<li>It's another thing to write clean, logical code that implements the spec (not something I'm good at).</li>
+<li>It's yet another thing to operationalize that code in a significant deployment and service the users of that deployment (something I've gained experience with at the <a href="http://status.jabber.org/">jabber.org IM service</a>).</li>
+</ol>
+<p>Each of these stages is a gating process that separates an interesting experiment from a truly Internet-scale technology. Perhaps we should force spec writers to either write code or deploy services. (Example: shall every <a href="http://www.xmpp.org/council/">XMPP Council</a> member be required to help administer the jabber.org IM service?)</p>
+<p>Just a thought. :-)</p>
+</entry>
+</journal>

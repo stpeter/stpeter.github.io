@@ -1,0 +1,28 @@
+<journal>
+<header><title>Lighty and SSL</title><date>2007-07-10</date></header>
+<entry>
+<p>For my future reference, here's what I did to get SSL working with lighttpd. (With help from <a href="https://blog.startcom.org/">Eddy Nigg</a> and <a href="http://forum.startcom.org/viewtopic.php?t=719">this forum post</a>.)</p>
+<ol>
+<li>Obtained a cert from <a href="http://cert.startcom.org/">StartCom</a></li>
+<li>Renamed the files to stpeter.im.key, stpeter.im.csr, and stpeter.im.crt</li>
+<li>Copied the files to /etc/lighttpd/ssl/ on the VPS</li>
+<li>openssl rsa -in stpeter.im.key -out stpeter.key</li>
+<li>wget http://cert.startcom.org/ca.crt</li>
+<li>wget http://cert.startcom.org/sub.class3.server.ca.crt (get the right ICA cert for your domain cert -- mine is a Class 3 cert so I got sub.class3.server.ca.crt)</li>
+<li>cat ca.crt sub.class3.server.ca.crt &gt; startcom.certs.crt</li>
+<li>cp stpeter.im.crt stpeter.crt</li>
+<li>cat stpeter.key &gt; stpeter.crt</li>
+</ol>
+<p>Then I edited my .conf to include the following lines:</p>
+<pre>
+$SERVER["socket"] == "207.210.219.225:443" {
+    ssl.engine = "enable"
+    ssl.ca-file = "/etc/lighttpd/ssl/startcom.certs.crt"
+    ssl.pemfile = "/etc/lighttpd/ssl/stpeter.crt"
+    server.name = "stpeter.im"
+    server.document-root = "/home/stpeter/public_html/stpeter.im/"
+}
+</pre>
+<p>Seems to be working OK. :)</p>
+</entry>
+</journal>

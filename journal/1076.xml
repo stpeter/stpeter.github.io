@@ -1,0 +1,16 @@
+<journal>
+<header><title>Interactive</title><date>2007-05-16</date></header>
+<entry>
+    <p>I've been thinking a lot about social presence lately. Most recently I've been chatting with <a href="http://www.songbirdnest.com/blog/977">Steve Krulewitz</a>, a <a href="http://www.songbirdnest.com/">Songbird</a> developer who created the <a href="http://skrul.com/blog/projects/audioscrobbler/">Audioscrobbler</a> plugin and who is interested in how <a href="http://www.xmpp.org/">XMPP</a> can play well with Songbird.</p>
+    <p>IMHO, one thing that would be cool in Songbird is the ability to find live chatrooms where people who are listening to the same artist right now can find each other and talk. That might make the music listening experience more social, but in a way that doesn't interrupt the music (since most people can listen to music and do text chat at the same time). Probably this could be done with <a href="http://dev.hyperstruct.net/xmpp4moz">xmpp4moz</a> but I suck at programming so I don't have recommendations about how to make it happen at the code level.</p>
+    <p>Right now it's possible to push tune information into XMPP presence, but that's an evil hack for several reasons, because if everyone puts their favored bits in the presence status then:</p>
+    <ol>
+      <li>We won't have room for it all -- how do you prioritize last.fm tunes over Plazes locations etc.?</li>
+      <li>We'll be sending presence updates every minute or so, which will consume huge amounts of bandwidth.</li>
+    </ol>
+    <p>Our preferred solution is a more granular approach called <a href="http://www.xmpp.org/extensions/xep-0163.html">personal eventing</a>, which is starting to be rolled out now and which can be used to push out things like <a href="http://www.xmpp.org/extensions/xep-0118.html">user tunes</a>.</p>
+    <p>But the presence hack leads to further thoughts about integrating music more deeply into the buddy list. Why not have special groups in your buddy list for people who like the same music (perhaps people you find in those chatrooms)? Or do a form of buddy list tagging? Make the whole experience more social.</p>
+    <p>As I've complained before, the problem I have with things like last.fm and Orkut and the social networking stuff in general is that it's all so static. With XMPP we could make it much more dynamic and much more, well, social! After all, it's not very social to post a message on a group forum at last.fm and then go back and visit that page again in 2 weeks and maybe someone has replied. True sociality is a lot  more interactive than that, and Jabber technologies can add much of the interactive glue that makes the experience more social and sticky.</p>
+    <p>Or so it seems to me. :)</p>
+</entry>
+</journal>

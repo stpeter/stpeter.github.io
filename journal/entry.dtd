@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!ELEMENT journal ( header, entry ) >
+<!ELEMENT header ( title, date ) >
+<!ELEMENT title ( #PCDATA )* >
+<!ELEMENT date ( #PCDATA )* >
+<!ELEMENT entry ( p* | blockquote* | ol* | ul* )* >
+<!ELEMENT blockquote ( p* ) >
+<!ELEMENT p ( #PCDATA | a | img | cite | em | br )* >
+<!ELEMENT a ( #PCDATA )* >
+<!ATTLIST a href CDATA '' >
+<!ELEMENT ul (li+) >
+<!ELEMENT ol (li+) >
+<!ELEMENT li ( #PCDATA | a )* >
+<!ELEMENT img ( #PCDATA )* >
+<!ATTLIST img
+  border CDATA ''
+  src CDATA '' >
+<!ELEMENT em ( #PCDATA )* >
+<!ELEMENT strong ( #PCDATA )* >
+<!ELEMENT cite ( #PCDATA )* >

@@ -1,0 +1,15 @@
+<journal>
+<header><title>i18n Fun</title><date>2011-03-22</date></header>
+<entry>
+<p>I've been studying quite a bit over the last few months about internationalization ("i18n" for short). Here's a fun example I came up with -- my domain name expressed using Cherokee characters:</p>
+<blockquote>
+<p>&#x13DA;&#x13A2;&#x13B5;&#x13CB;&#x13A2;&#x13CB;&#x13D2;.&#x13A5;&#x13B7;</p>
+</blockquote>
+<p>For those of you keeping track at home, that's the following Unicode code points:</p>
+<blockquote>
+<p>[U+13DA] [U+13A2] [U+13B5] [U+13CB] [U+13A2] [U+13CB] [U+13D2] [U+002E] [U+13A5] [U+13B7]</p>
+</blockquote>
+<p>Although computers consider the Cherokee characters &#x13DA;&#x13A2;&#x13B5;&#x13CB;&#x13A2;&#x13CB;&#x13D2;.&#x13A5;&#x13B7; to be utterly different from the Latin characters STPETER.IM, the Cherokee characters are perfectly readable by most humans ("hey, what's that funky font you're using?"). Yet if you happen to copy https://&#x13DA;&#x13A2;&#x13B5;&#x13CB;&#x13A2;&#x13CB;&#x13D2;.&#x13A5;&#x13B7;/ into your browser or &#x13DA;&#x13A2;&#x13B5;&#x13CB;&#x13A2;&#x13CB;&#x13D2;@&#x13DA;&#x13A2;&#x13B5;&#x13CB;&#x13A2;&#x13CB;&#x13D2;.&#x13A5;&#x13B7; into your email client, you'll get some unexpected results.</p>
+<p>Internationalization is endlessly amusing. :)</p>
+</entry>
+</journal>

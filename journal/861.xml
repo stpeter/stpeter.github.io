@@ -1,0 +1,37 @@
+<journal>
+<header><title>Reputation</title><date>2006-01-28</date></header>
+<entry>
+    <p>One of the most important insights gained from scientific endeavor in the last hundred years or so is the centrality of information to the structure of life and human society. Consider:</p>
+    <ul>
+      <li>In the late 19th century, economists began to recognize that prices are a form of information about supply and demand.</li>
+      <li>In the mid 20th century, biologists began to recognize that DNA is a form of information (indeed, probably the original form of information).</li>
+    </ul>
+    <p>Another key form of information, which enables a wide range of commercial and societal interations, is reputation. Because reputation is so important, care must be taken in correctly understanding its nature. Unfortunately, those who theorize about personal identity (especially digital identity) too often misunderstand the nature of reputation. A case in point is to be found in <a href="http:/ssrn.com/abstract=835924">Trademark Law and the Social Construction of Trust: Creating the Legal Framework for on-line Identity</a> by professor <a href="http://www.nyls.edu/bnoveck/">Beth Noveck</a> of New York Law School. Where Professor Noveck goes wrong can be gleaned from the very title of her paper, which argues that reputation is a "social construction" (explicitly created by, and therefore the property of, a group) rather than an emergent property of social interactions. Her thinking about reputation (which she considers one aspect of, or in large measure co-extensive with, identity) is deeply influenced by the metaphor of social construction. Here are some relevant phrases:</p>
+    <ul>
+      <li>"the way identity is constructed in online environments"</li>
+      <li>"the positive construction of reputation"</li>
+      <li>"in a social software environment ... identity is socially constructed"</li>
+      <li>"digital life is transforming identity and its construction"</li>
+      <li>"it is important to make clear how the collective construction of reputation in social software actually works in practice"</li>
+      <li>"the story we tell ourselves about identity and reputation does not make sense in a world of collaboratively-constructed reputation"</li>
+      <li>"this narrative about how identity is constructed does not comport with the reality of identity being, not something that we only invest in as individuals, but something that is directly socially constructed by the group"</li>
+      <li>"the fact that new social software transforms the construction of identity and reputation from an individual into an explicitly group process points the way towards trademark as the most apropos legal protection"</li>
+      <li>"trademark theory gives us a way to make sense of the landscape of on-line identity because it, too, concerns the social and collective construction of 'branding'"</li>
+      <li>"the trademark theory of identity helps us to distinguish between representation, which is weak, thin, and individually authored and stronger, thick, and communal construction of reputation"</li>
+      <li>"the public plays a role in constructing reputational identity"</li>
+      <li>"it is the group or the community ... that creates reputation"</li>
+      <li>"identity ... in not purely an individual construct ... it is inherently the work of the group"</li>
+    </ul>
+    <p>We face here a false dichotomy: either reputation is purely an individual construct or it is inherently the work of the group. But recognizing that others play a role in reputational identity does imply that others actively construct one's reputation. In particular, Noveck misses another possible explanation: that reputation is an emergent property of human interactions. Just as prices are not collectively created by economic actors in a market, so reputation is not collectively created by social actors in a community. Instead, reputation emerges; the fact that reputation seems orderly does not imply that this order was created or fixed by a group.</p>
+    <p>The point may seem arcane, but it has practical consequences. Noveck's argument for collective creation leads her, reasonably enough, to an argument for collective rights:</p>
+    <ul>
+      <li>"we lack the mechanisms to protect the rights of the communities in the reputations that they collectively create"</li>
+      <li>"we need a view of identity that accouunts for the malleability of representation and the collaborative creation of reputation and that recognizes the interests of the collective as well as of the individual in the way identity is constructed in online environments"</li>
+      <li>"this article proposes to re-center the doctrine of identity from one of individual rights to one that recognizes the group interest in the creation and use of reputation as a signalling mechanism for successful collective action"</li>
+      <li>"my aim is to focus on the social ascriptions of identity that support group belonging and collective action on-line"</li>
+      <li>"identity is a form of collective action"</li>
+    </ul>
+    <p>Call me paranoid if you will, but I get concerned when thinkers talk about collective rights and collective action (we had quite enough of that in the 20th century, thank you very much). It is true that all individuals who wish to productively interact within a community benefit from the existence of reputation as a signalling mechanism; but that does not mean that reputation is a matter of collective interest or group belonging. Reputational signals are used always by individuals within a community and make it easier for those individuals to decide with whom to interact. Thus the benefits of reputational effects are dispersed among all members of the community. But it is a serious error of reification to therefore conclude that the group or community or collective realizes benefits, possesses rights, or pursues actions.</p>
+    <p>Consider again the analogy to prices. The emergence of prices from economic transactions between buyers and sellers benefits all members of the economic community that is concerned with the product or service at hand (and even members of economic communities concerned with other classes of goods and services, whose prices in turn are affected by the prices of goods and services in the first community). But prices are not therefore the property of all the economic actors in that community, they are not a collective creation of the community, and the group does not have rights to those prices. The same is true of reputation, and it is critically important to recognize the emergent nature of reputation if we are not to be led astray into notions of collective rights that will be inimical to individual participation in online communities.</p>
+</entry>
+</journal>

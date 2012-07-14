@@ -1,0 +1,387 @@
+// This is the source file to the sheet music for 
+// Peter Saint-Andre's song "The Course of the Sun". 
+//
+// In an exception to my usual rule of songwriting,
+// I wrote the words for this song in 1994 as a 
+// free-standing poem. I then set those words to
+// music (with slight adjustments) in 1995.
+//
+// Find out more about my music at http://music.stpeter.im/
+//
+// I have placed this song into the public domain; visit
+// http://stpeter.im/ for details.
+//
+// This file was originally created in February of 2001 
+// using Mup 4.1 for Linux, and subsequently corrected in
+// December of 2009 using Mupmate for Mac. Many thanks to
+// John and Bill of Arkkra Enterprises for their software;
+// visit http://arkkra.com/ for more information.
+//
+header
+	title (18) "The Course of the Sun"
+	title   ""   "Peter Saint-Andre"
+footer
+	title "This song is in the public domain. No rights reserved."
+header2
+	title   "The Course of the Sun"   "Peter Saint-Andre"
+footer2
+	title "- \% -"
+score
+	time = 4/4
+	key = 1&
+	staffs = 2
+	clef = treble
+	vscheme = 2o
+        beamstyle = 2,2
+music
+1 1: 2r; 4r; a-;
+2 1: 2r; 4r; a-;
+ital above 1: 1 "Medium";
+lyrics 1: "How";
+bar
+1 1: 2.d; 8d<>; e;
+2 1: 8d; a; d+; f+; d+; a; d; e;
+lyrics 1: "high, we";
+bar
+1 1: 2.f; 8g; f;
+2 1: 8f; a; c+; f+; c+; a; g; f;
+lyrics 1: "ask, has the";
+bar
+1 1: 2.e; 4c;
+2 1: 8e; g; c+; e+; c+; g; c; g;
+lyrics 1: "sun yet";
+bar
+1 1: 2.d; 4g;
+2 1: 8d; a; d+; f+; d+; a; g; d+;
+lyrics 1: "climbed? We";
+bar
+1 1: 2.a; 4g;
+2 1: 8a; c+; e+; a+; e+; c+; g; d+;
+lyrics 1: "won-der,";
+bar
+1 1: 2.f; 8g; f;
+2 1: 8f; a; c+; f+; c+; a; g; f;
+lyrics 1: "hope, but we";
+bar
+1 1: 2.e; 4c;
+2 1: 8e; g; c+; e+; c+; g; c; g;
+lyrics 1: "do not";
+bar
+1 1: 2.d; 4g;
+2 1: 8d; a; d+; f+; d+; a; g; d+;
+lyrics 1: "know. No";
+bar
+1 1: 2.a; 4g;
+2 1: 8a; c+; e+; a+; e+; c+; g; d+;
+lyrics 1: "o-ther";
+bar
+1 1: 2.f; 8g; f;
+2 1: 8f; a; c+; f+; c+; a; g; f;
+lyrics 1: "star we can";
+bar
+1 1: 2.e; 4c;
+2 1: 8e; g; c+; e+; c+; g; c; g;
+lyrics 1: "see so";
+bar
+1 1: 2.d; 4a-;
+2 1: 8d; a; d+; f+; d+; a; a-; a;
+lyrics 1: "shines, and";
+bar
+1 1: 2.d; 8d<>; e;
+2 1: 8d; a; d+; f+; d+; a; d; e;
+lyrics 1: "yet per-";
+bar
+1 1: 2.f; 8g<>; f;
+2 1: 8f; a; c+; f+; c+; a; g; f;
+lyrics 1: "haps it's";
+bar
+1 1: 2.e; 4c;
+2 1: 8e; g; c+; e+; c+; g; c; g;
+lyrics 1: "on-ly";
+bar
+1 1: 2.d; 4r;
+2 1: 8d; a; d+; f+; d+; a; a-; a;
+lyrics 1: "show";
+bar
+2 1: 8d; a; d+; f+; d+; a; f; e;
+bar
+2 1: 8d; a; d+; f+; d+; a; a-; a;
+bar
+1 1: 2r; 4r; 8a-; c;
+2 1: 8d; a; d+; f+; d+; a; a-; c;
+lyrics 1: "It can";
+bar rehearsal mnum
+// second verse
+1 1: 2.d; 8d; e;
+2 1: 8d; a; d+; f+; d+; a; d; e;
+lyrics 1: "seem that our";
+bar
+1 1: 2.f; 8g<>; f;
+2 1: 8f; a; c+; f+; c+; a; g; f;
+lyrics 1: "star has";
+bar
+1 1: 2.e; 4c;
+2 1: 8e; g; c+; e+; c+; g; c; g;
+lyrics 1: "ri-sen";
+bar
+1 1: 1d;
+2 1: 8d; a; d+; f+; d+; a; g; d+;
+lyrics 1: "far";
+bar
+1 1: 2.a; 8g<>; f;
+2 1: 8a; c+; e+; a+; e+; c+; g; d+;
+lyrics 1: "at some";
+bar
+1 1: 2.f; 8g; f;
+2 1: 8f; a; c+; f+; c+; a; g; f;
+lyrics 1: "times and in";
+bar
+1 1: 2.e; 4c;
+2 1: 8e; g; c+; e+; c+; g; c; g;
+lyrics 1: "some re-";
+bar
+1 1: 2.d; 4g;
+2 1: 8d; a; d+; f+; d+; a; g; d+;
+lyrics 1: "spects, but";
+bar
+1 1: 2.a; 8g<>; f;
+2 1: 8a; c+; e+; a+; e+; c+; g; d+;
+lyrics 1: "then past";
+bar
+1 1: 2.f; 8g; f;
+2 1: 8f; a; c+; f+; c+; a; g; f;
+lyrics 1: "glo-ry or";
+bar
+1 1: 2.e; 4c;
+2 1: 8e; g; c+; e+; c+; g; c; g;
+lyrics 1: "fu-ture";
+bar
+1 1: 2.d; 4a-;
+2 1: 8d; a; d+; f+; d+; a; a-; a;
+lyrics 1: "hope be-";
+bar
+1 1: 2.d; 8d<>; e;
+2 1: 8d; a; d+; f+; d+; a; d; e;
+lyrics 1: "comes all";
+bar
+1 1: 2.f; 8g<>; f;
+2 1: 8f; a; c+; f+; c+; a; g; f;
+lyrics 1: "that our";
+bar
+1 1: 2.e; 4c;
+2 1: 8e; g; c+; e+; c+; g; c; g;
+lyrics 1: "world re-";
+bar
+1 1: 2.d; 4r;
+2 1: 8d; a; d+; f+; d+; a; a-; a;
+lyrics 1: "flects";
+bar
+2 1: 8d; a; d+; f+; d+; a; f; e;
+bar
+2 1: 8d; a; d+; f+; d+; a; a-; a;
+bar
+1 1: 2r; 4r; a-;
+2 1: 8d; a; d+; f+; d+; a; a-; a;
+lyrics 1: "Ex-";
+bar rehearsal mnum
+1 1: 2.d; 8d<>; e;
+2 1: 8d; a; d+; f+; d+; a; d; e;
+lyrics 1: "cept the";
+bar
+1 1: 2f; 4g; f;
+2 1: 8f; a; c+; f+; g; c+; f; c+;
+lyrics 1: "trou-bled a-";
+bar
+1 1: 2.e; 4c;
+2 1: 8e; g; c+; e+; c+; g; c; g;
+lyrics 1: "scent of";
+bar
+1 1: 2.d; 4g;
+2 1: 8d; a; d+; f+; d+; a; g; d+;
+lyrics 1: "man the";
+bar
+1 1: 2.a; 8g<>; f;
+2 1: 8a; c+; e+; a+; e+; c+; g; d+;
+lyrics 1: "world's not";
+bar
+1 1: 2.f; 8g<>; f;
+2 1: 8f; a; c+; f+; c+; a; g; f;
+lyrics 1: "seen a";
+bar
+1 1: 2.e; 4c;
+2 1: 8e; g; c+; e+; c+; g; c; g;
+lyrics 1: "star like";
+bar
+1 1: 2.d; 4g;
+2 1: 8d; a; d+; f+; d+; a; g; d+;
+lyrics 1: "this that";
+bar
+1 1: 2a; 4a; g;
+2 1: 8a; c+; e+; a+; e+; c+; g; d+;
+lyrics 1: "ri-ses and";
+bar
+1 1: 2.f; 8g<>; f;
+2 1: 8f; a; c+; f+; c+; a; g; f;
+lyrics 1: "falls to";
+bar
+1 1: 2.e; 4c;
+2 1: 8e; g; c+; e+; c+; g; c; g;
+lyrics 1: "rise a-";
+bar
+1 1: 2.d; 4a-;
+2 1: 8d; a; d+; f+; d+; a; a-; a;
+lyrics 1: "gain a-";
+bar
+1 1: 2.d; 8d<>; e;
+2 1: 8d; a; d+; f+; d+; a; d; e;
+lyrics 1: "byss to";
+bar
+1 1: 2.f; 8g<>; f;
+2 1: 8f; a; c+; f+; c+; a; g; f;
+lyrics 1: "bliss to";
+bar
+1 1: 2.e; 4c;
+2 1: 8e; g; c+; e+; c+; g; c; g;
+lyrics 1: "pre-ci-";
+bar
+1 1: 2.d; 4r;
+2 1: 8d; a; d+; f+; d+; a; a-; a;
+lyrics 1: "pice";
+bar
+2 1: 8d; a; d+; f+; d+; a; a-; a;
+bar rehearsal mnum
+score
+	time = 4/4
+	key = 2#
+	staffs = 2
+	clef = treble
+	vscheme = 2o
+        beamstyle = 2,2
+music
+2 1: 8d; a; d+; f+; d+; a; a-; a;
+bar
+1 1: 2r; 4r; e;
+2 1: 8d; a; d+; f+; d+; a; a-; a;
+lyrics 1: "But";
+bar
+1 1: 2.f; 4g;
+2 1: 8d; a; d+; f+; d+; a; d; a;
+lyrics 1: "loo-king";
+bar
+1 1: 2e; 4e; f;
+2 1: 8a-; a; c+; e+; c+; a; a-; a;
+lyrics 1: "close-ly the";
+bar
+1 1: 2.g; 4a;
+2 1: 8g-; g; d+; g+; d+; g; g-; g;
+lyrics 1: "mind di-";
+bar
+1 1: 2.f; 4g;
+2 1: 8d; a; d+; f+; d+; a; d; a;
+lyrics 1: "scerns that";
+bar
+1 1: 2.a; 8a<>; g;
+2 1: 8a; c+; e+; a+; e+; c+; a; c+;
+lyrics 1: "e-ven";
+bar
+1 1: 2.g; 4g;
+2 1: 8g; b; d+; g+; d+; b; g; b;
+lyrics 1: "when our";
+bar
+1 1: 2f; e;
+2 1: 8fn; a; cn+; fn+; e; g; c+; e+;
+lyrics 1: "sun grows";
+bar
+1 1: 1e;
+2 1: 8d; a; d+; f+; d+; a; a-; a;
+lyrics 1: "dark";
+bar
+1 1: 2r; 4r; 8d; e;
+2 1: 8d; a; d+; f+; d+; a; a-; a;
+lyrics 1: "in the";
+bar
+1 1: 2.f; 4g;
+2 1: 8d; a; d+; f+; d+; a; d; a;
+lyrics 1: "mol-ten";
+bar
+1 1: 2.e; 4f;
+2 1: 8a-; a; c+; e+; c+; a; a-; a;
+lyrics 1: "core a";
+bar
+1 1: 2.g; 4a;
+2 1: 8g-; g; d+; g+; d+; g; g-; g;
+lyrics 1: "fi-re";
+bar
+1 1: 2.f; 4g;
+2 1: 8d; a; d+; f+; d+; a; d; a;
+lyrics 1: "burns ig-";
+bar
+1 1: 2.a; 8a<>; g;
+2 1: 8a; c+; e+; a+; e+; c+; a; c+;
+lyrics 1: "ni-ted";
+bar
+1 1: 2.g; 8g<>; f;
+2 1: 8g; b; d+; g+; d+; b; g; b;
+lyrics 1: "by an";
+bar
+1 1: 2f; e;
+2 1: 8fn; a; cn+; fn+; e; g; c+; e+;
+lyrics 1: "an-cient";
+bar
+1 1: 1e;
+2 1: 8d; a; d+; f+; d+; a; a-; a;
+lyrics 1: "spark";
+bar
+2 1: 8d; a; d+; f+; d+; a; a-; a;
+bar rehearsal mnum
+score
+	time = 4/4
+	key = 1&
+	staffs = 2
+	clef = treble
+	vscheme = 2o
+        beamstyle = 2,2
+music
+2 1: 8d; a; d+; f+; d+; a; d; f;
+bar
+2 1: 8f; a; c+; f+; c+; a; g; f;
+bar
+2 1: 8e; g; c+; e+; c+; g; c; g;
+bar
+2 1: 8d; a; d+; f+; d+; a; g; d+;
+bar
+2 1: 8a; c+; e+; a+; e+; c+; g; d+;
+bar
+2 1: 8f; a; c+; f+; c+; a; g; f;
+bar
+2 1: 8e; g; c+; e+; c+; g; c; g;
+bar
+2 1: 8d; a; d+; f+; d+; a; g; d+;
+bar
+2 1: 8a; c+; e+; a+; e+; c+; g; d+;
+bar
+2 1: 8f; a; c+; f+; c+; a; g; f;
+bar
+2 1: 8e; g; c+; e+; c+; g; c; g;
+bar
+2 1: 8d; a; d+; f+; d+; a; a-; a;
+bar
+2 1: 8d; a; d+; f+; d+; a; d; e;
+bar
+2 1: 8f; a; c+; f+; c+; a; g; f;
+bar
+2 1: 8e; g; c+; e+; c; g; c+; e+;
+ital below 2: 1 "rit. poco a poco";
+bar
+score
+	time = 4/4
+	key = 2#
+	staffs = 2
+	clef = treble
+	vscheme = 2o
+        beamstyle = 2,2
+music
+2 1: 1dad+f+;
+roll 2: 1;
+mussym above 2: 1 "ferm";
+bar

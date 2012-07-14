@@ -1,0 +1,553 @@
+// This is the source file for Peter Saint-Andre's 
+// musical setting of the Langston Hughes poem
+// "Freedom's Plow". 
+//
+// The lyrics are copyright 1943 by Langston Hughes.
+//
+// The music is in the public domain; for details, see:
+// http://www.saint-andre.com/me/copyright.html
+//
+header
+        title (18) "Freedom's Plow"
+        title   "Text by Langston Hughes"   "Music by Peter Saint-Andre"
+footer
+        title "Copyright 2002 by Peter Saint-Andre"
+header2
+        title   "Freedom's Plow"   "Hughes/Saint-Andre"
+footer2
+        title "- \% -"
+// first section
+score
+        time = 4/4
+        key = 0#
+        staffs = 2
+        clef = treble
+        vscheme = 2o
+        beamstyle = 2,2
+music
+1 1: 2.r; 8e-; g-; 
+lyrics 1: "When a";
+ital above 1: 1 "I. Slowly and freely";
+2 1: 2.r; 8e-; g-; 
+bar
+1 1: 4.a-; 8c; 4.d; 8e; 
+lyrics 1: "man starts out with";
+2 1: 4.a-; 8c; 4.d; 8e; 
+bar
+1 1: 16d slur; c; 8a- slur; 2a-; 8e; g; 
+lyrics 1: "no-thing, when a";
+2 1: 16d slur; c; 8a- slur; 2a-; 8e; g; 
+bar
+1 1: 8a slur; 4g; 8g; 4g; 8e; d;
+lyrics 1: "man starts out with his";
+2 1: 8a slur; 4g; 8g; 4g; 8e; d;
+bar
+1 1: 2e slur; 8e; 8d; 4c;
+lyrics 1: "hands emp-ty,";
+2 1: 2e slur; 8e; 8d; 4c;
+bar
+1 1: 8a- slur; g-; 2a-; 8e-; g-; 
+lyrics 1: "but clean, when a";
+2 1: 8a- slur; g-; 2a-; 8e-; g-; 
+bar
+1 1: {8a-; c; d;}3; 4e; d slur; c; 
+lyrics 1: "man starts out to build";
+2 1: {8a-; c; d;}3; 4e; d slur; c; 
+bar
+1 1: 8a- slur; g-; 2a-; 8e slur; g; 
+lyrics 1: "a world, he";
+2 1: 8a- slur; g-; 2a-; 8e slur; g; 
+bar
+1 1: 8a slur; g; 2g; 8e; d;
+lyrics 1: "starts first with him-";
+2 1: 8a slur; g; 2g; 8e; d;
+bar
+1 1: 2.e; 8e; g;
+lyrics 1: "self and the";
+2 1: 2.e; 8e; g;
+bar
+1 1: 8a slur; 4g; 8e; d; c slur; a-; g-;
+lyrics 1: "faith that is in his";
+2 1: 8a slur; 4g; 8e; d; c slur; a-; g-;
+bar
+1 1: 2.a-; 8c slur; d;
+lyrics 1: "heart\(emdash) the";
+2 1: 2.a-; 8c slur; d;
+bar
+1 1: 8e slur; d; 2c; 8c slur; d;
+lyrics 1: "strength there, the";
+2 1: 8e slur; d; 2c; 8c slur; d;
+bar
+1 1: 8e slur; 4d; 8c slur; 4a-; 4g-;
+lyrics 1: "will there to";
+2 1: 8e slur; 4d; 8c slur; 4a-; 4g-;
+bar
+1 1: 1a-;
+lyrics 1: "build.";
+2 1: 1a-;
+bar
+1 1: 1r;
+2 1: 1e-;
+bar
+1 1: 4a-; 8c; d; 4c; 8a-; g-;
+lyrics 1: "First in the heart is the";
+2 1: 4a-; 8c; d; 4c; 8a-; g-;
+bar
+1 1: 2.a-; 8e; g;
+lyrics 1: "dream. Then the";
+2 1: 2.a-; 8e; g;
+bar
+1 1: 8a slur; 4g; 8g; g; 4e; 8d;
+lyrics 1: "mind starts see-king a";
+2 1: 8a slur; 4g; 8g; g; 4e; 8d;
+bar
+1 1: 2.e; 8e slur; g;
+lyrics 1: "way. His";
+2 1: 2.e; 8e slur; g;
+bar
+1 1: 8a slur; 4g; 8d; c slur; a-; g-; a-; 
+lyrics 1: "eyes look out on the";
+2 1: 8a slur; 4g; 8d; c slur; a-; g-; a-; 
+bar
+1 1: 2.a-; 8c; d;
+lyrics 1: "world, on the";
+2 1: 2.a-; 8c; d;
+bar
+1 1: 8e slur; 4.d; 8c slur; 4a-; 8g-;
+lyrics 1: "great woo-ded";
+2 1: 8e slur; 4.d; 8c slur; 4a-; 8g-;
+bar
+1 1: 2.a-; 8c; d;
+lyrics 1: "world, on the";
+2 1: 2.a-; 8c; d;
+bar
+1 1: 8e; 4.d; 8c slur; 4a-; 8g-;
+lyrics 1: "rich soil of the";
+2 1: 8e; 4.d; 8c slur; 4a-; 8g-;
+bar
+1 1: 2.a-; 8c; d;
+lyrics 1: "world, on the";
+2 1: 2.a-; 8c; d;
+bar
+1 1: 8c; 4.b-; 4.a-; 8g-;
+lyrics 1: "ri-vers of the";
+2 1: 8c; 4.b-; 4.a-; 8g-;
+bar
+1 1: 1a-;
+lyrics 1: "world.";
+2 1: 1a-;
+bar
+1 1: 2r; 4r; 8r; 8a-;
+lyrics 1: "The";
+2 1: 2e- slur; 4e-; 8e-; 8a-;
+bar
+1 1: 4a-; 8c; d; e; 16d; c; 8a-; g-;
+lyrics 1: "eyes see there ma-te-ri-als for";
+2 1: 4a-; 8c; d; e; 16d; c; 8a-; g-;
+bar
+1 1: 4c; 2a-; 8e; g;
+lyrics 1: "buil-ding, see the";
+2 1: 4c; 2a-; 8e; g;
+bar
+1 1: 8a; g; g; g; 4g; 8e; d;
+lyrics 1: "di-fi-cul-ties, too, and the";
+2 1: 8a; g; g; g; 4g; 8e; d;
+bar
+1 1: 8c slur; 4a-; g-; a-; 8g-;
+lyrics 1: "ob-sta-cles. The";
+2 1: 8c slur; 4a-; g-; a-; 8g-;
+bar
+1 1: 4a-; 8c; 4d; 8c; a-; g-;
+lyrics 1: "hand seeks tools to cut the";
+2 1: 4a-; 8c; 4d; 8c; a-; g-;
+bar
+1 1: 2a-; {4e; e; g;}3;
+lyrics 1: "wood, to till the";
+2 1: 2a-; {4e; e; g;}3;
+bar
+1 1: 2.a; 8g; a; 
+lyrics 1: "soil, and har-";
+2 1: 2.a; 8g; a; 
+bar
+1 1: 8c+; a; c+; 4.a; 8g; e;
+lyrics 1: "ness the po-wer of the";
+2 1: 8c+; a; c+; 4.a; 8g; e;
+bar
+1 1: 4g; 2e; 8e; g;
+lyrics 1: "wa-ters. Then the";
+2 1: 4g; 2e; 8e; g;
+bar
+1 1: 8a slur; 4g; 8e; 16d; c; 4a-; 8g-;
+lyrics 1: "hand seeks o-ther hands to";
+2 1: 8a slur; 4g; 8e; 16d; c; 4a-; 8g-;
+bar
+1 1: 2.a-; 8c; d;
+lyrics 1: "help, a com-";
+2 1: 2.a-; 8c; d;
+bar
+1 1: 8e; d; 16d; 8.c; 16c slur; 8.a-; 4g-;
+lyrics 1: "mu-ni-ty of hands to";
+2 1: 8e; d; 16d; 8.c; 16c slur; 8.a-; 4g-;
+bar
+1 1: 2.a-; 8e-; g-;
+lyrics 1: "help\(emdash) thus the";
+2 1: 2.a-; 8e-; g-;
+bar
+1 1: 8a-; c; d; e; d; c; a-; g-;
+lyrics 1: "dream be-comes not one man's dream a-";
+2 1: 8a-; c; d; e; d; c; a-; g-;
+bar
+1 1: 2a-; {4a-; c; d;}3;
+lyrics 1: "lone, but a com-";
+2 1: 2a-; {4a-; c; d;}3;
+bar
+1 1: {2e; d; g-;}3;
+lyrics 1: "mu-ni-ty";
+2 1: {2e; d; g-;}3;
+bar
+1 1: 2.a-; 8e slur; g;
+lyrics 1: "dream. Not";
+2 1: 2.a-; 8e slur; g;
+bar
+1 1: 8a slur; g; g; e; 4.g; 8e;
+lyrics 1: "my dream a-lone, but";
+2 1: 8a slur; g; g; e; 4.g; 8e;
+bar
+1 1: 4a; 2g; 8e slur; g;
+lyrics 1: "our dream. Not";
+2 1: 4a; 2g; 8e slur; g;
+bar
+1 1: {4a slur; c+ slur; d+;}3; 16e+ slur; d+ slur; 8c+; a slur; g;
+lyrics 1: "my world a-";
+2 1: {4a slur; c+ slur; d+;}3; 16e+ slur; d+ slur; 8c+; a slur; g;
+bar
+1 1: 2.a; 8r; e;
+lyrics 1: "lone, but";
+2 1: 2.a; 8r; e;
+bar
+1 1: 4g; e; d; g;
+lyrics 1: "your world and my";
+2 1: 4g; e; d; g;
+bar
+1 1: 2.e; 8r; g-;
+lyrics 1: "world, be-";
+2 1: 2.e; 8r; g-;
+bar
+1 1: 8a-; 2c; 8r; d slur; e;
+lyrics 1: "long-ing to";
+2 1: 8a-; 2c; 8r; d slur; e;
+bar
+1 1: 4d; 8c; 4.a-; 4g-;
+lyrics 1: "all the hands who";
+2 1: 4d; 8c; 4.a-; 4g-;
+bar
+1 1: 1a-;
+lyrics 1: "build.";
+2 1: 1a-;
+bar
+// second section
+score
+        time = 4/4
+        key = 0#
+        staffs = 2
+        clef = treble
+        vscheme = 2o
+        beamstyle = 2,2
+music
+ital above 1: 1 "II. Slightly faster, almost marchlike";
+1 1: 1r;
+2 1: 4a-; 8a-eac+e+a+; {16a+; a+; a+;}3; 8a+; e+; c+; a;
+roll 2: 2;
+bar
+1 1: 1r;
+2 1: 4g-; 8g-dgbd+g+; {16g+; g+; g+;}3; 8g+; d+; b; g;
+roll 2: 2;
+bar
+1 1: 1r;
+2 1: 4f-; 8f-cfac+f+; {16f+; f+; f+;}3; 8f+; c+; a; f;
+roll 2: 2;
+bar
+1 1: 1r;
+2 1: 4e-; 8e-b-eg#be+; {16e+; e+; e+;}3; 8e+; b; g#; e;
+roll 2: 2;
+bar
+1 1: 1r;
+2 1: 4a-; 8a-eac+e+a+; {16a+; a+; a+;}3; 8a+; e+; c+; a;
+roll 2: 2;
+bar
+1 1: 1r;
+2 1: 4g-; 8g-dgbd+g+; {16g+; g+; g+;}3; 8g+; d+; b; g;
+roll 2: 2;
+bar
+1 1: 1r;
+2 1: 4f-; 8f-cfac+f+; {16f+; f+; f+;}3; 8f+; c+; a; f;
+roll 2: 2;
+bar
+1 1: 2r; 4r; 8r; 16r; 16a-;
+lyrics 1: "A";
+2 1: 4e-; 8e-b-eg#be+; {16e+; e+; e+;}3; 8e+; b; g#; e;
+roll 2: 2;
+bar
+1 1: 4a-; 8c slur; {16c slur; c; d;}3; 4.c; 8d;
+lyrics 1: "long time a-go, but";
+2 1: 4a-; 8a-eac+e+a+; {16a+; a+; a+;}3; 8a+; e+; c+; a;
+roll 2: 2;
+bar
+1 1: 8e; 8d; {16c slur; a- slur; a- slur;}3; {16a- slur; a-; g-;}3; 2a-;
+lyrics 1: "not too long a-go,";
+2 1: 4g-; 8g-dgbd+g+; {16g+; g+; g+;}3; 8g+; d+; b; g;
+roll 2: 2;
+bar
+1 1: 8a; 4g; {16g slur; g; g;}3; 4.g; 16e slur; d;
+lyrics 1: "ships came from a-cross the";
+2 1: 4f-; 8f-cfac+f+; {16f+; f+; f+;}3; 8f+; c+; a; f;
+roll 2: 2;
+bar
+1 1: 2.e; 8r; 16e; g;
+lyrics 1: "sea bring-ing";
+2 1: 4e-; 8e-b-eg#be+; {16e+; e+; e+;}3; 8e+; b; g#; e;
+roll 2: 2;
+bar
+1 1: 8r; {16a slur; a; g slur;}3; {16g slur; g slur; g;}3; 8e; {16d; c slur; c slur;}3; 8c; 8a-; g-;
+lyrics 1: "Pil-grims and pra-yer ma-kers,";
+2 1: 4a-; 8a-eac+e+a+; {16a+; a+; a+;}3; 8a+; e+; c+; a;
+roll 2: 2;
+bar
+1 1: 8r; {16g; a; a;}3; {16g slur; g slur; g;}3; 8e; {16d; c slur; c slur;}3; 8c; 8a-; g-;
+lyrics 1: "ad-ven-tur-ers and boo-ty see-kers,";
+2 1: 8r; 8g-; 8g-dgbd+g+; {16g+; g+; g+;}3; 8g+; d+; b; g;
+roll 2: 2;
+bar
+//1 1: 8a; 4g; {16g slur; g; g;}3; 4.g; 16e slur; d;
+1 1: 8r; {16a slur; a; g slur;}3; {16g slur; g slur; g;}3; 16e; 16e; {16d; c slur; c slur;}3; 8c; 8a-; g-;
+lyrics 1: "free men and in-den-tured ser-vants,";
+2 1: 4f-; 8f-cfac+f+; {16f+; f+; f+;}3; 8f+; c+; a; f;
+roll 2: 2;
+bar
+1 1: 8r; 8a; 8g; 8.r; 16d; 8e; 16d slur; c; 8a-;
+lyrics 1: "slave men and slave ma-sters,";
+2 1: 4e-; 8e-b-eg#be+; {16e+; e+; e+;}3; 8e+; b; g#; e;
+roll 2: 2;
+bar
+1 1: 8r; a-; c; 2r; 16c; d;
+lyrics 1: "all new\(emdash) to a";
+2 1: 4f-; 8f-cfac+f+; {16f+; f+; f+;}3; 8f+; c+; a; f;
+roll 2: 2;
+bar
+1 1: 8e; 4e; 2r; 16r; a-;
+lyrics 1: "new world, A-";
+2 1: 4e-; 8e-b-eg#be+; {16e+; e+; e+;}3; 8e+; b; g#; e;
+roll 2: 2;
+bar
+1 1: 8c; 16a-; a- slur; 4a-; 2r;
+lyrics 1: "me-ri-ca!";
+2 1: 4a-; 8a-eac+e+a+; {16a+; a+; a+;}3; 8a+; e+; c+; a;
+roll 2: 2;
+bar
+1 1: 1r;
+2 1: 4g-; 8g-dgbd+g+; {16g+; g+; g+;}3; 8g+; d+; b; g;
+roll 2: 2;
+bar
+1 1: 1r;
+2 1: 4f-; 8f-cfac+f+; {16f+; f+; f+;}3; 8f+; c+; a; f;
+roll 2: 2;
+bar
+1 1: 2r; 4r; 8r; g-;
+lyrics 1: "With";
+2 1: 4e-; 8e-b-eg#be+; {16e+; e+; e+;}3; 8e+; b; g#; e;
+roll 2: 2;
+bar
+1 1: {16a-; a-; a-;}3; 4a-; 4r; 16r; 16a-; 8c; d;
+lyrics 1: "bill-ow-ing sails the gall-eons";
+2 1: 4a-; 8a-eac+e+a+; {16a+; a+; a+;}3; 8a+; e+; c+; a;
+roll 2: 2;
+bar
+1 1: 4.e; 4.r; 16e; 8.g;
+lyrics 1: "came bring-ing";
+2 1: 4g-; 8g-dgbd+g+; {16g+; g+; g+;}3; 8g+; d+; b; g;
+roll 2: 2;
+bar
+1 1: 8r; 8.a; 16g slur; 8d; 2e;
+lyrics 1: "men and dreams,";
+2 1: 4f-; 8f-cfac+f+; {16f+; f+; f+;}3; 8f+; c+; a; f;
+roll 2: 2;
+bar
+1 1: 8r; 8a; g; d; 2e;
+lyrics 1: "wo-men and dreams.";
+2 1: 4e-; 8e-b-eg#be+; {16e+; e+; e+;}3; 8e+; b; g#; e;
+roll 2: 2;
+bar
+1 1: 8r; a-; {16c; d slur; d slur;}3; 8d; 8c slur; {16c slur; c; b-;}3; {16a-; 16g- slur; g- slur;}3; 8g-;
+lyrics 1: "In li-ttle bands to-ge-ther,";
+2 1: 4a-; 8a-eac+e+a+; {16a+; a+; a+;}3; 8a+; e+; c+; a;
+roll 2: 2;
+bar
+1 1: 8r; 4a; {16g slur; g; e;}3; 8d; c; 4a-;
+lyrics 1: "heart rea-ching out to heart";
+2 1: 4g-; 8g-dgbd+g+; {16g+; g+; g+;}3; 8g+; d+; b; g;
+roll 2: 2;
+bar
+1 1: 8r; 4a; {16g slur; g; e;}3; 8d; c; 4a-;
+lyrics 1: "hand rea-ching out to hand,";
+2 1: 4f-; 8f-cfac+f+; {16f+; f+; f+;}3; 8f+; c+; a; f;
+roll 2: 2;
+bar
+1 1: 4.r; 8c; 16d; 8c; 16b-; 8a-; g-;
+lyrics 1: "they be-gan to build our";
+2 1: 4e-; 8e-b-eg#be+; {16e+; e+; e+;}3; 8e+; b; g#; e;
+roll 2: 2;
+bar
+1 1: 4.a-; 8r; 2r;
+lyrics 1: "land.";
+2 1: 4a-; 8a-eac+e+a+; {16a+; a+; a+;}3; 8a+; e+; c+; a;
+roll 2: 2;
+bar
+1 1: 1r;
+2 1: 4g-; 8g-dgbd+g+; {16g+; g+; g+;}3; 8g+; d+; b; g;
+roll 2: 2;
+bar
+1 1: 1r;
+2 1: 4f-; 8f-cfac+f+; {16f+; f+; f+;}3; 8f+; c+; a; f;
+roll 2: 2;
+bar
+1 1: 1r;
+2 1: 4e-; 8e-b-eg#be+; {16e+; e+; e+;}3; 8e+; b; g#; e;
+roll 2: 2;
+bar
+1 1: 4r; 8a-; a-; 4c; a-;
+lyrics 1: "Some were free hands";
+2 1: 4a-; 8a-eac+e+a+; {16a+; a+; a+;}3; 8a+; e+; c+; a;
+roll 2: 2;
+bar
+1 1: 8r; 16a-; 8.a-; 8b-; 8c; b-; a-; g-;
+lyrics 1: "seek-ing a grea-ter free-dom,";
+2 1: 4g-; 8g-dgbd+g+; {16g+; g+; g+;}3; 8g+; d+; b; g;
+roll 2: 2;
+bar
+1 1: 8r; 4c; {16c; d; e slur;}3; 8e; d; 4c;
+lyrics 1: "some were in-den-tured hands";
+2 1: 4f-; 8f-cfac+f+; {16f+; f+; f+;}3; 8f+; c+; a; f;
+roll 2: 2;
+bar
+1 1: 8r; 16e; 8.e; 8e; e; e; f; e;
+lyrics 1: "ho-ping to find their free-dom,";
+2 1: 4e-; 8e-b-eg#be+; {16e+; e+; e+;}3; 8e+; e+; f+; e+;
+roll 2: 2;
+bar
+1 1: 4r; 8a; a; 4c+; a;
+lyrics 1: "some were slave hands";
+2 1: 4a-; 8a-eac+e+a+; {16a+; a+; a+;}3; 8a+; e+; c+; a;
+roll 2: 2;
+bar
+1 1: 8r; g; g; {16g; g; g;}3; 8g; 4a; 8g; 
+lyrics 1: "guar-ding in their hearts the seed of";
+2 1: 4g-; 8g-dgbd+g+; {16g+; g+; g+;}3; 8g+; d+; b; g;
+roll 2: 2;
+bar
+1 1: 8g; 4.f; 2r;
+lyrics 1: "free-dom.";
+2 1: 4f-; 8f-cfac+f+; {16f+; f+; f+;}3; 8f+; c+; a; f;
+roll 2: 2;
+bar
+2 1: 4e-; 8e-b-eg#be+; {16e+; e+; e+;}3; 8e+; b; g#; e;
+roll 2: 2;
+bar
+1 1: 4.r; {16f slur; f; f;}3; 4f; 8g; f;
+lyrics 1: "But the word was there";
+2 1: 4f-; 8f-cfac+f+; {16f+; f+; f+;}3; 8f+; c+; a; f;
+roll 2: 2;
+bar
+1 1: {16f slur; e; e slur;}3; 4.e; 2r;
+lyrics 1: "al-ways:";
+2 1: 4e-; 8e-b-eg#be+; {16e+; e+; e+;}3; 8e+; b; g#; e;
+roll 2: 2;
+bar
+1 1: 8c; 4.a-; 2r;
+lyrics 1: "FREE-DOM.";
+2 1: 4a-; 8a-eac+e+a+; {16a+; a+; a+;}3; 8a+; e+; c+; a;
+roll 2: 2;
+bar
+2 1: 4g-; 8g-dgbd+g+; {16g+; g+; g+;}3; 8g+; d+; b; g;
+roll 2: 2;
+bar
+2 1: 4f-; 8f-cfac+f+; {16f+; f+; f+;}3; 8f+; c+; a; f;
+roll 2: 2;
+bar
+2 1: 4e-; 8e-b-eg#be+; {16e+; e+; e+;}3; 8e+; b; g#; e;
+roll 2: 2;
+bar
+2 1: 4f-; 8f-cfac+f+; {16f+; f+; f+;}3; 8f+; c+; a; f;
+roll 2: 2;
+ital below 2: 1 "ritardando poco a poco";
+bar
+2 1: 4g-; 8g-dgbd+g+; {16g+; g+; g+;}3; 8g+; d+; b; g;
+roll 2: 2;
+bar
+2 1: 4a-; 8a-eac+e+a+; {16a+; a+; a+;}3; 8a+; e+; c+; a;
+roll 2: 2;
+bar
+1 1: 1r;
+2 1: 1a-; 
+mussym above 1: 1 "ferm";
+bar
+// third section
+score
+        time = 4/4
+        key = 0#
+        staffs = 2
+        clef = treble
+        vscheme = 2o
+        beamstyle = 2,2
+        gridswhereused=y
+        gridfret=3
+grids
+        "C"    " - 3 2 o 1 o "
+        "G/B"  " - 2 x o 3 3 "
+        "Am"   " - o 2 2 1 o "
+        "G"    " 3 x o o o 3 "
+        "F"    " 1 3 3 2 1 1 "
+music
+ital above 1: 1 "III. Fast and flowing";
+1 1: 4e; d; c; b-;
+lyrics 1: "Down in-to the";
+//rom chord 1: 1 "C"; 2 "G/B"; 3 "Am"; 4 "G";
+2 1: 16c; g; c+; e+; 16b-; g; d+; g+; 16a-; a; c+; e+; 16g-; g; b; g+;
+bar
+1 1: 2.a-; 8b-; 16c; b- slur;
+lyrics 1: "earth went the plough";
+2 1: 16f-; a; c+; f+; c+; a; c; a; 16f-; a; c+; f+; c+; a; c; a; 
+bar
+1 1: 2.b-; 8r; 16c; d;
+lyrics 1: "in the";
+2 1: 16g-; g; b; g+; b; g; d; g; 16g-; g; b; g+; b; g; d; g;
+bar
+1 1: 4e; 8d; 16d; d; 4c; 8b-; 16c; d;
+lyrics 1: "free hands and the slave hands, in in-";
+2 1: 16c; g; c+; e+; 16b-; g; d+; g+; 16a-; a; c+; e+; 16g-; g; b; g+;
+bar
+1 1: 8e; e; d; 16d; d; 8c; c; 4b-;
+lyrics 1: "den-tured hands and ad-ven-terous hands,";
+2 1: 16c; g; c+; e+; 16b-; g; d+; g+; 16a-; a; c+; e+; 16g-; g; b; g+;
+bar
+1 1: 8e; 16e; e; 4d; c; 8b-; 16b-; a- slur;
+lyrics 1: "tur-ning the rich soil went the plough";
+2 1: 16c; g; c+; e+; 16b-; g; d+; g+; 16a-; a; c+; e+; 16g-; g; b; g+;
+bar
+1 1: 1a-;
+2 1: 16f-; a; c+; f+; c+; a; c; a; 16f-; a; c+; f+; c+; a; c; a; 
+bar
+2 1: 16g-; g; b; g+; b; g; d; g; 16g-; g; b; g+; b; g; d; g;
+bar
+2 1: 16c; g; c+; e+; 16b-; g; d+; g+; 16a-; a; c+; e+; 16g-; g; b; g+;
+bar
+2 1: 16f-; a; c+; f+; c+; a; c; a; 16f-; a; c+; f+; c+; a; c; a; 
+bar
+2 1: 16g-; g; b; g+; b; g; d; g; 16g-; g; b; g+; b; g; d; g;
+bar
+2 1: 16a-; a; c+; e+; c+; a; d; a; 16a-; a; c+; e+; c+; a; b-; a; 
+bar
+2 1: 16c; g; c+; e+; c+; g; e; a; 16g-; g; b; g+; b; g; d; g;
+bar
+
+// end of "Freedom's Plow"
+

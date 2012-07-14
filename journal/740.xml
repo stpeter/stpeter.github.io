@@ -1,0 +1,6 @@
+<journal>
+<header><title>More Broccoli</title><date>2005-05-04</date></header>
+<entry>
+    <p>Thanks to a <a href="http://copia.ogbuji.net/blog/2005-04-23/One_Binary">pointer</a> provided by <a href="http://copia.ogbuji.net/blog/">Uche Ogbuji</a>, I've just read an <a href="http://www.www2004.org/proceedings/docs/1p345.pdf">interesting paper</a> on "binary XML" written by some researchers at IBM. Previously I've called binary XML the equivalent of <a href="675.html">broccoli ice cream</a>, and I continue to doubt if it's something we need for <a href="http://www.xmpp.org/">XMPP</a>, especially given that we have compression methods both as part of <a href="http://www.xmpp.org/specs/rfc3920.html#tls">TLS</a> and in standalone form as specified in <a href="http://www.jabber.org/jeps/jep-0138.html">JEP-0138: Stream Compression</a> (for which the Last Call ends tomorrow).</p>
+</entry>
+</journal>

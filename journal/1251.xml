@@ -1,0 +1,35 @@
+<journal>
+<header><title>Quick OAuth Notes</title><date>2008-07-23</date></header>
+<entry>
+<p>I got an email from <a href="http://anarchogeek.com/">rabble</a> overnight asking for some quick notes about our consensus on OAuth + XMPP from yesterday's discussion at the <a href="http://www.xmpp.org/summit/summit5.shtml">XMPP Summit</a>, so here goes...</p>
+<p>Scenario: I want my <a href="http://www.twhirl.org/">Twhirl</a> client to receive <a href="http://www.last.fm/music/Kellan+Elliott-McCrea">Kellan's tune stream</a> from <a href="http://last.fm/">last.fm</a> via XMPP.</p>
+<ol>
+<li><p>My Twhirl client asks last.fm for an OAuth token.</p></li>
+<li><p>If last.fm considers me a friend of Kellan's, it grants a token.</p></li>
+<li><p>My Twhirl client sends an XMPP pubsub subscription request to last.fm, with appropriate OAuth bits:</p>
+<pre>
+&lt;iq type='set'
+    from='random-id@twhirl.org'
+    to='last.fm'
+    id='sub1'&gt;
+  &lt;pubsub xmlns='http://jabber.org/protocol/pubsub'&gt;
+    &lt;subscribe jid='random-id@twhirl.org'
+               node='/music/Kellan+Elliott-McCrea'/&gt;
+    &lt;oauth xmlns='urn:xmpp:oauth'&gt;
+      &lt;oauth_consumer_key&gt;0685bd9184jfhq22&lt;/oauth_consumer_key&gt;
+      &lt;oauth_token&gt;ad180jjd733klru7&lt;/oauth_token&gt;
+      &lt;oauth_signature_method&gt;PLAINTEXT+HMAC-SHA1&gt;/oauth_signature_method&gt;
+      &lt;oauth_signature&gt;wOJIO9A2W5mFwDgiDvZbTSMK%2FPY%3D&lt;/oauth_signature&gt;
+    &lt;/oauth&gt;
+  &lt;/pubsub&gt;
+&lt;/iq&gt;
+</pre>
+<p>Where oath_signature is:</p>
+<p>sign(consumer key,consumer secret,token,token secret)</p>
+</li>
+<li><p>If the token and signature are verified, access is granted.</p></li>
+<li><p>Whee, I receive real-time last.fm updates in my Twhirl client!</p></li>
+</ol>
+<p>I'll be updating <a href="http://www.xmpp.org/extensions/xep-0235.html">XEP-0235</a> along these lines later today, but I might not get those revisions done before rabble's talk at 11:30. :)</p>
+</entry>
+</journal>

@@ -1,0 +1,6 @@
+<journal>
+<header><title>Got Audacity?</title><date>2006-11-05</date></header>
+<entry>
+    <p>Lately I've been doing some experimental recording on my PowerBook (a few results are <a href="/audio/Center_of_the_World.mp3">here</a> and <a href="/audio/Invocation.mp3">here</a>). Unfortunately, <a href="http://www.apple.com/ilife/garageband/">GarageBand</a> frequently freezes, telling me that my disk is too slow. So I started to look around for alternatives and found <a href="http://audacity.sourceforge.net/">Audacity</a>, an open-source recording package. So far Audacity has worked flawlessly -- plus it natively exports to the patent-free <a href="http://www.vorbis.com/">Ogg Vorbis</a> format rather than the patent-encumbered MP3 format. Open source rocks. :-)</p>
+</entry>
+</journal>

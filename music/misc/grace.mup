@@ -1,0 +1,1392 @@
+// This is the source file to the sheet music for 
+// Peter Saint-Andre's song "State of Grace".
+//
+// I wrote the words and music for this song in 1988.
+//
+// Find out more about my music at http://music.stpeter.im/
+//
+// I have placed this song into the public domain; visit
+// http://stpeter.im/ for details.
+//
+// This file was originally created in February of 2001 
+// using Mup 4.1 for Linux, and subsequently corrected in
+// December of 2009 using Mupmate for Mac. Many thanks to
+// John and Bill of Arkkra Enterprises for their software;
+// visit http://arkkra.com/ for more information.
+//
+//
+header
+	title (18) "State of Grace"
+	title   ""   "Peter Saint-Andre"
+footer
+	title "Copyright 1988 - 2001 by Peter Saint-Andre"
+header2
+	title   "State of Grace"   "Peter Saint-Andre"
+footer2
+	title "- \% -"
+score
+	time = 4/4
+	key = 1#
+	staffs = 3
+	clef = treble
+	vscheme = 2o
+        beamstyle = 2,2
+staff 3
+        clef = bass
+music
+// begin Part I - "Benediction"
+rom above 1: 1 "I - Benediction";
+2 1: 8a; e+; c++; r; 4e+g+b+; b;
+ital above 2: 1 "Slow";
+roll 2: 3;
+ital below 2: 4 "harm.";
+bar
+2 1: 8a; e+; c++; r; 4e+g+b+; b;
+roll 2: 3;
+ital below 2: 4 "harm.";
+bar
+2 1: 8a; e+; c++; r; e+g+b+; b; f+a+; e+g+;
+roll 2: 3;
+ital below 2: 3.5 "harm.";
+bar
+2 1: 8dad+f+; e+; 4d+; egbe+; e-;
+roll 2: 1; 3;
+bar
+2 1: 8a; e+; c++; r; 4e+g+b+; b;
+roll 2: 3;
+ital below 2: 4 "harm.";
+bar
+2 1: 8a; e+; c++; r; 4e+g+b+; b;
+roll 2: 3;
+ital below 2: 4 "harm.";
+bar
+2 1: 8a; e+; c++; r; e+g+b+; b; f+a+; e+g+;
+roll 2: 3;
+ital below 2: 3.5 "harm.";
+bar
+2 1: 8dad+f+; e+; 4d+; 2egbe+;
+roll 2: 1; 3;
+bar
+2 1: 8a-; a; 16b; c+; b; c+; 8e+; c+; 32b; c+; 16b; 8a;
+bar
+2 1: 8b-; b; d#+; f+; g+; f+; d+; b;
+mussym above 2: 4.5 "ferm";
+repeatstart
+2 1: 8e; g; b; c+; b; a; g; f;
+ital above 2: 1 "Faster";
+bar
+2 1: 8e; g; b; c+; b; a; g; f;
+repeatend
+2 1: 8d; a; d+; e+; d+; a; g; a;
+bar
+2 1: 8d; a; d+; e+; d+; a; g; a;
+bar
+2 1: 8e; g; b; c+; b; a; g; f;
+bar
+2 1: 8e; g; b; c+; b; a; g; f;
+bar
+2 1: 8d; a; d+; 4.e+; 8d+; a;
+bar
+2 1: 8d; a; d+; 4.e+; 8d+; a;
+bar
+2 1: 8d; a; e+; 4.f+; 8e+; a;
+bar
+2 1: 8d; a; e+<>; f+; 2c++;
+bar
+2 1: 8a; e+; c++; r; 4e+g+b+; b;
+roll 2: 3;
+ital below 2: 4 "harm.";
+bar
+2 1: 8a; e+; c++; r; 4e+g+b+; b;
+roll 2: 3;
+ital below 2: 4 "harm.";
+bar
+2 1: 8a; e+; c++; r; e+g+b+; b; f+a+; e+g+;
+roll 2: 3;
+ital below 2: 3.5 "harm.";
+bar
+2 1: 8dad+f+; e+; 4d+; 2egbe+;
+roll 2: 1; 3;
+bar
+2 1: 8a; e+; 8c++<>; d++; 4a+d++; d+;
+ital below 2: 4 "harm.";
+bar
+2 1: 8a; e+; c++; r; 4e+g+b+; b;
+roll 2: 3;
+ital below 2: 4 "harm.";
+bar
+2 1: 8a; e+; c++<>; d++; a+d++; d+; a+c++; g+b+;
+ital below 2: 3.5 "harm.";
+bar
+2 1: 8f+a+; g+b+; 4a+c++; 8e+; g+; 4b+;
+bar
+2 1: 8a-; a; 16b; c+; b; c+; 8e+; c+; 32b; c+; 16b; 8a;
+bar
+2 1: 8b-; b; d#+; f+; g+; a+; 4b+;
+mussym above 2: 4 "ferm";
+bar
+2 1: 16b+; a+; g+; b+; a+; g+; f+; a+; g+; f+; e+; a+; g+; f+; e+; d+;
+ital below 2: 2 "accel.";
+bar
+2 1: 16c+; b; a; g; f; g; a; b; c+; d+; e+; f+; g+; a+; b+; c++; 
+ital below 2: 3.5 "rit.";
+bar
+2 1: 1d++;
+bar
+// end Part I - "Benediction"
+// begin Part II - "How Can I Thank You?"
+rom above 1: 1 "II - How Can I Thank You?";
+2 1: 8d++; c+e+ slur; 2.c+e+;
+3 1: 4r; 8b-; e; 4a; d+;
+ital above 2: 1 "Moderately Slow";
+ital below 3: 2 "harm., 8va";
+bar
+2 1: 8d++; d+f+ slur; 2.d+f+;
+3 1: 4r; 8b-; e; 4a; d+;
+ital below 3: 2 "simile";
+bar
+2 1: 8d++; e+g+ slur; 2.e+g+;
+3 1: 4r; 8b-; e; 4a; d+;
+bar
+2 1: 8d++; d+f+ slur; 2.d+f+;
+3 1: 4r; 8b-; e; 4a; d+;
+bar
+2 1: 8d++; c+e+ slur; 2.c+e+;
+3 1: 4r; 8b-; e; 4a; d+;
+bar
+2 1: 8d++; d+f+ slur; 2.d+f+;
+3 1: 4r; 8b-; e; 4a; d+;
+bar
+2 1: 8d++; e+g+ slur; 2.e+g+;
+3 1: 4r; 8b-; e; 4a; d+;
+bar
+2 1: 8d++; d+f+ slur; 2.d+f+;
+3 1: 4r; 8b-; e; a; d+; f+; a+;
+mussym above 3: 4.5 "ferm";
+repeatstart
+2 1: 8g; c+; e+; 4d++; 8e+; c+; g;
+3 1: 1g;
+bar
+2 1: 8a; d+; f+; 4d++; 8f+; d+; a;
+3 1: 1a;
+bar
+2 1: 8b; e+; g+; 4d++; 8g+; e+; b;
+3 1: 1b;
+bar
+2 1: 8a; d+; f+; 4d++; 8f+; d+; a;
+3 1: 1a;
+repeatend
+// begin first verse
+1 1: 2r; 8g; 4g; 8e;
+lyrics 1 : "How can I";
+2 1: 8g; c+; e+; d++; e+; c+; g; c+;
+3 1: 4.g; 4.g; 4g;
+bar
+1 1: 4f; 8e<>; 8d<>; 2d;
+lyrics 1: "thank you?";
+2 1: 8a; d+; f+; d++; f+; d+; a; d+;
+3 1: 4.a; 4.a; 4a;
+bar
+1 1: 2r; 8d; 4d; 8e;
+lyrics 1: "How e-ver";
+2 1: 8b; e+; g+; d++; g+; e+; b; e+;
+3 1: 4.b; 4.b; 4b;
+bar
+1 1: 2.d; 8b-; a-;
+lyrics 1: "how can I";
+2 1: 8a; d+; f+; d++; f+; d+; a; d+;
+3 1: 4.a; 4.a; 4a;
+bar
+1 1: 4b-; 8a-<>; 8g-<>; 2g-;
+lyrics 1: "thank you?";
+2 1: 8g; c+; e+; d++; e+; c+; g; c+;
+3 1: 4.g; 2g; 16a; b;
+bar
+2 1: 8a; d+; f+; d++; f+; d+; a; d+;
+3 1: 4a; 8f; 2d; 16e; f;
+bar
+2 1: 8b; e+; g+; d++; g+; e+; b; e+;
+3 1: 4.e; 16b-; d; 8g; f; e; d<>;
+bar
+2 1: 8a; d+; f+; d++; f+; d+; a; gb;
+3 1: 4.d; 16b-; c; 8d; c; b-; c<>;
+bar
+1 1: 4.r; 8c; 8g; 4g; 8r;
+lyrics 1: "I can-not";
+2 1: 8c; g; c+; e+; c+; g; c; g;
+3 1: 1c;
+bar
+1 1: 4f; 8e<>; d; 4d; 8e<>; d;
+lyrics 1: "fath-om good so";
+2 1: 8d; a; d+; f+; d+; a; d; a;
+3 1: 1d;
+bar
+1 1: 4d; 4r; 2r;
+lyrics 1: "deep";
+2 1: 8g-; g; b; g+; b; g; g-; f-;
+3 1: 4.g-; g-; 8g; f;
+bar
+2 1: 8e-; g; d+; e+; d+; g; a-; b-;
+3 1: 4e; 8b-; d; 4e; d;
+bar
+1 1: 2r; 4g; 8g; 8f<>;
+lyrics 1: "Ben-e-fac-";
+2 1: 8c; g; c+; e+; c+; g; c; g;
+3 1: 1c;
+bar
+1 1: 8f; f<>; e; r; 4d; e;
+lyrics 1: "tion kind-ness";
+2 1: 8d; a; d+; f+; d+; a; d; a;
+3 1: 1d;
+bar
+1 1: 4d; 4r; 2r;
+lyrics 1: "love";
+2 1: 8g-; g; b; g+; b; g; g-; f-;
+3 1: 4.g-; g-; 8g; f;
+bar
+2 1: 8e-; g; d+; e+; d+; g; a-; b-;
+3 1: 4e; 8b-; d; 4e; d;
+bar
+1 1: 4r; 8r; 8g; 4g; g;
+lyrics 1: "What was your";
+2 1: 8c; g; c+; e+; c+; g; c; g;
+3 1: 4.c; 4.c; 4c;
+bar
+1 1: 2.a; 4g;
+lyrics 1: "fine di-";
+2 1: 8d; a; d+; f+; d+; a; d; a;
+3 1: 4.d; 4.d; 4d;
+bar
+1 1: 2b<>; 8b<>; a; a; g<>; 
+lyrics 1: "scern-ment of?";
+2 1: 8g-; g; b; g+; b; g; g-; f-;
+3 1: 4.g-; 4.g-; 4g-;
+bar
+1 1: 8d<>; 4.e; 2r;
+2 1: 8a-; a; c+; e+; c+; a; a-; a;
+3 1: 4.a-; 4.a-; 8a-; b-;
+bar
+2 1: 8a-; a; c+; e+; c+; b-; g; d+;
+3 1: 4c; b-; 8a-; 4.b-;
+bar
+1 1: 4r; 8r; g; g; g; 4r;
+lyrics 1: "I can-not";
+2 1: 8c; g; c+; e+; c+; g; c; g;
+3 1: 4.c; 4.c; 4c;
+bar
+1 1: 4a; 8g; g; 4g; 8a; g<>;
+lyrics 1: "fa-thom what I could be";
+2 1: 8d; a; d+; f+; d+; a; d; a;
+3 1: 4.d; 4.d; 4d;
+bar
+1 1: 4g; 4r; g; 8a; b<>;
+lyrics 1: "what you see";
+2 1: 8g-; g; b; g+; f-; a; d+; f+;
+3 1: 2g-; 2f-;
+bar
+1 1: 4b; 8a; g; 4a; b;
+lyrics 1: "that you love so";
+2 1: 8e-; g; b; e+; b; g; e-; g;
+3 1: 1e-;
+bar
+1 1: 4g; 4r; 2r;
+lyrics 1: "deep";
+2 1: 8c; g; c+; e+; c+; g; c; g;
+3 1: 4.c; 4.c; 4c;
+bar
+1 1: 4f; 8g; a; r; 4b; 8r;
+lyrics 1: "that you love so";
+2 1: 8d; a; d+; f+; d+; a; d; a;
+3 1: 4.d; 4.d; 4d;
+bar
+1 1: 1c;
+bar
+1 1: 2g; 2r;
+lyrics 1: "deep";
+2 1: 8g; c+; e+; d++; e+; c+; g; c+;
+3 1: 8d+<d+>; 8ed+ slur; 2.ed+;
+bar
+2 1: 8a; d+; f+; d++; f+; d+; a; d+;
+3 1: 8d+<d+>; 8fd+ slur; 2.fd+;
+bar
+2 1: 8b; e+; g+; d++; g+; e+; b; e+;
+3 1: 8d+<d+>; 8gd+ slur; 2.gd+;
+bar
+2 1: 8a; d+; f+; d++; f+; d+; a; d+;
+3 1: 8d+<d+>; 8fd+ slur; 2.fd+;
+bar
+2 1: 8g; c+; e+; d++; e+; c+; g; c+;
+3 1: 8d+<d+>; 8ed+ slur; 2.ed+;
+bar
+2 1: 8a; d+; f+; d++; f+; d+; a; d+;
+3 1: 8d+<d+>; 8fd+ slur; 2.fd+;
+bar
+2 1: 8b; e+; g+; d++; g+; e+; b; e+;
+3 1: 8d+<d+>; 8gd+ slur; 2.gd+;
+bar
+2 1: 8a; d+; f+; d++; f+; d+; a; d+;
+3 1: 8d+<d+>; 8fd+ slur; 2.fd+;
+bar rehearsal mnum
+// end first verse
+// begin second verse
+1 1: 4r; 8g; g; 4g; 8f; e;
+lyrics 1 : "Did I try to des-";
+2 1: 8g; c+; e+; d++; e+; c+; g; c+;
+3 1: 4.g; 4.g; 4g;
+bar
+1 1: 2.f; 4e; 
+lyrics 1: "troy our";
+2 1: 8a; d+; f+; d++; f+; d+; a; d+;
+3 1: 4.a; 4.a; 4a;
+bar
+1 1: 2d; 2r;
+lyrics 1: "love?";
+2 1: 8b; e+; g+; d++; g+; e+; b; e+;
+3 1: 4.b; 4.b; 4b;
+bar
+2 1: 8a; d+; f+; d++; f+; d+; a; d+;
+3 1: 4.a; 4.a; 4a;
+bar
+1 1: 4r; 8g; g; 4g; 8f; e;
+lyrics 1 : "Did I try to des-";
+2 1: 8g; c+; e+; d++; e+; c+; g; c+;
+3 1: 4.g; 2g; 16a; b;
+bar
+1 1: 2.f; 4e; 
+lyrics 1: "troy our";
+2 1: 8a; d+; f+; d++; f+; d+; a; d+;
+3 1: 4a; 8f; 2d; 16e; f;
+bar
+1 1: 2d; 8r; e; r; d<>;
+lyrics 1: "love, my love?";
+2 1: 8b; e+; g+; d++; g+; e+; b; e+;
+3 1: 4.e; 16b-; d; 8g; f; e; d<>;
+bar
+1 1: 2d; 2r;
+2 1: 8a; d+; f+; d++; f+; d+; a; gb;
+3 1: 4.d; 16b-; c; 8d; c; b-; c<>;
+bar
+1 1: 4.r; 8c; 8g; 4g; 8r;
+lyrics 1: "I can-not";
+2 1: 8c; g; c+; e+; c+; g; c; g;
+3 1: 1c;
+bar
+1 1: 4f; 8e<>; d; 4d; 8e; 8d<>;
+lyrics 1: "e-ven feel the source";
+2 1: 8d; a; d+; f+; d+; a; d; a;
+3 1: 1d;
+bar
+1 1: 4d; 4r; 2r;
+2 1: 8g-; g; b; g+; b; g; g-; f-;
+3 1: 4.g-; g-; 8g; f;
+bar
+2 1: 8e-; g; d+; e+; d+; g; a-; b-;
+3 1: 4e; 8b-; d; 4e; d;
+bar
+1 1: 2r; 4g; 4g; 
+lyrics 1: "of this";
+2 1: 8c; g; c+; e+; c+; g; c; g;
+3 1: 1c;
+bar
+1 1: 4f; 8e<>; d; 4d; 8e; g<>;
+lyrics 1: "ho-rror this pa-ra-";
+2 1: 8d; a; d+; f+; d+; a; d; a;
+3 1: 1d;
+bar
+1 1: 4.g; 8g; 4f; 8g; f<>;
+lyrics 1: "ly-sis of mine";
+2 1: 8g-; g; b; g+; b; g; g-; f-;
+3 1: 4.g-; g-; 8g; f;
+bar
+1 1: 4f; r; 2r;
+2 1: 8e-; g; d+; e+; d+; g; a-; b-;
+3 1: 4e; 8b-; d; 4e; d;
+bar
+1 1: 4r; 8r; 8g; 4g; g;
+lyrics 1: "And yet you";
+2 1: 8c; g; c+; e+; c+; g; c; g;
+3 1: 4.c; 4.c; 4c;
+bar
+1 1: 2.a; 8g; a;
+lyrics 1: "show what I've";
+2 1: 8d; a; d+; f+; d+; a; d; a;
+3 1: 4.d; 4.d; 4d;
+bar
+1 1: 2b<>; 8b<>; a; a; g<>; 
+lyrics 1: "sought to find";
+2 1: 8g-; g; b; g+; b; g; g-; f-;
+3 1: 4.g-; 4.g-; 4g-;
+bar
+1 1: 8d<>; 4.e; 2r;
+2 1: 8a-; a; c+; e+; c+; a; a-; a;
+3 1: 4.a-; 4.a-; 8a-; b-;
+bar
+2 1: 8a-; a; c+; e+; c+; b-; g; d+;
+3 1: 4c; b-; 8a-; 4.b-;
+bar
+1 1: 4r; 8g; g; g; g; g; g;
+lyrics 1: "that you love me, that you";
+2 1: 8c; g; c+; e+; c+; g; c; g;
+3 1: 4.c; 4.c; 4c;
+bar
+1 1: 8a; a; a; a; a; g; g; g;
+lyrics 1: "love me that you love me and you";
+2 1: 8d; a; d+; f+; d+; a; d; a;
+3 1: 4.d; 4.d; 4d;
+bar
+1 1: 2.g; 4a;
+lyrics 1: "say so";
+2 1: 8g-; g; b; g+; f-; a; d+; f+;
+3 1: 2g-; 2f-;
+bar
+1 1: 2b; 8a; b; r; g<>;
+lyrics 1: "sim-ply of course";
+2 1: 8e-; g; b; e+; b; g; e-; g;
+3 1: 1e-;
+bar
+1 1: 4g; 4r; 2r;
+2 1: 8c; g; c+; e+; c+; g; c; g;
+3 1: 4.c; 4.c; 4c;
+bar
+1 1: 2r; 8r; b; r; g<>; 
+lyrics 1: "of course";
+2 1: 8d; a; d+; f+; d+; a; d; a;
+3 1: 4.d; 4.d; 4d;
+bar
+1 1: 2g; 8r; b; r; b; 
+lyrics 1: "I love";
+2 1: 8g; c+; e+; d++; e+; c+; g; c+;
+3 1: 8d+<d+>; 8ed+ slur; 2.ed+;
+bar
+1 1: 2a; 8r; b; r; g<>; 
+lyrics 1: "you of course";
+2 1: 8a; d+; f+; d++; f+; d+; a; d+;
+3 1: 8d+<d+>; 8fd+ slur; 2.fd+;
+bar
+1 1: 2g; 8r; b; r; b; 
+lyrics 1: "I love";
+2 1: 8b; e+; g+; d++; g+; e+; b; e+;
+3 1: 8d+<d+>; 8gd+ slur; 2.gd+;
+bar
+1 1: 2a; 8r; b; r; g<>; 
+lyrics 1: "you of course";
+2 1: 8a; d+; f+; d++; f+; d+; a; d+;
+3 1: 8d+<d+>; 8fd+ slur; 2.fd+;
+bar
+1 1: 2g; 8r; b; r; b; 
+lyrics 1: "I love";
+2 1: 8g; c+; e+; d++; e+; c+; g; c+;
+3 1: 8d+<d+>; 8ed+ slur; 2.ed+;
+bar
+1 1: 2a; 2r;
+lyrics 1: "you";
+2 1: 8a; d+; f+; d++; f+; d+; a; d+;
+3 1: 8d+<d+>; 8fd+ slur; 2.fd+;
+bar
+2 1: 8b; e+; g+; d++; g+; e+; b; e+;
+3 1: 8d+<d+>; 8gd+ slur; 2.gd+;
+bar
+2 1: 8a; d+; f+; d++; f+; d+; a; d+;
+3 1: 8d+<d+>; 8fd+ slur; 2.fd+;
+bar
+2 1: 8g; c+; e+; d++; e+; c+; g; c+;
+3 1: 8d+<d+>; 8ed+ slur; 2.ed+;
+bar
+1 1: 2a; 2r;
+lyrics 1: "you";
+2 1: 8a; d+; f+; d++; f+; d+; a; d+;
+3 1: 8d+<d+>; 8fd+ slur; 2.fd+;
+bar
+2 1: 8b; e+; g+; d++; g+; e+; b; e+;
+3 1: 8d+<d+>; 8gd+ slur; 2.gd+;
+bar
+2 1: 8a; d+; f+; d++; f+; d+; a; d+;
+3 1: 8d+<d+>; 8fd+ slur; 2.fd+;
+bar rehearsal mnum
+// end second verse
+// begin third verse
+1 1: 2r; 8g; 4g; 8e;
+lyrics 1 : "How can I";
+2 1: 8g; c+; e+; d++; e+; c+; g; c+;
+3 1: 4.g; 4.g; 4g;
+bar
+1 1: 4f; 8e<>; 8d<>; 2d;
+lyrics 1: "tell you?";
+2 1: 8a; d+; f+; d++; f+; d+; a; d+;
+3 1: 4.a; 4.a; 4a;
+bar
+2 1: 8b; e+; g+; d++; g+; e+; b; e+;
+3 1: 4.b; 4.b; 4b;
+bar
+1 1: 2r; 8g<>; 4a<>; 16b<>; a<>;
+lyrics 1: "whoa";
+2 1: 8a; d+; f+; d++; f+; d+; a; d+;
+3 1: 4.a; 4.a; 4a;
+bar
+1 1: 4.g; 8r; g; 4a; 8g;
+lyrics 1 : "How can I";
+2 1: 8g; c+; e+; d++; e+; c+; g; c+;
+3 1: 4.g; 4.g; 4g;
+bar
+1 1: 4f; 8e<>; 8d<>; 4d; 8d; e;
+lyrics 1: "tell you of the";
+2 1: 8a; d+; f+; d++; f+; d+; a; d+;
+3 1: 4.a; 4.a; 4a;
+bar
+1 1: 2d; 8d; 4e; 8d<>;
+lyrics 1: "beau-ty I see";
+2 1: 8b; e+; g+; d++; g+; e+; b; e+;
+3 1: 4.b; 4.b; 4b;
+bar
+1 1: 2d; 4e; d<>;
+lyrics 1: "in you";
+2 1: 8a; d+; f+; d++; f+; d+; a; d+;
+3 1: 4.a; 4.a; 4a;
+bar
+1 1: 2d; 4e; d<>;
+lyrics 1: "my love";
+2 1: 8g; c+; e+; d++; e+; c+; g; c+;
+3 1: 4.g; 4.g; 4g;
+bar
+1 1: 2d; 4e; d<>;
+lyrics 1: "in you";
+2 1: 8a; d+; f+; d++; f+; d+; a; d+;
+3 1: 4.a; 4.a; 4a;
+bar
+1 1: 2d; 4e; d<>;
+lyrics 1: "my love";
+2 1: 8b; e+; g+; d++; g+; e+; b; e+;
+3 1: 4.b; 4.b; 4b;
+bar
+1 1: 2d; 2r;
+2 1: 8a; d+; f+; d++; f+; d+; a; gb;
+3 1: 4.a; 4.a; 4a;
+bar
+1 1: 2r; 8g; 4g; 8e;
+lyrics 1: "All I can";
+2 1: 8c; g; c+; e+; c+; g; c; g;
+3 1: 1c;
+bar
+1 1: 4f; e; d; 8e<>; d;
+lyrics 1: "do is give my";
+2 1: 8d; a; d+; f+; d+; a; d; a;
+3 1: 1d;
+bar
+1 1: 4d; 4r; 2r;
+lyrics 1: "thanks";
+2 1: 8g-; g; b; g+; b; g; g-; f-;
+3 1: 4.g-; g-; 8g; f;
+bar
+2 1: 8e-; g; d+; e+; d+; g; a-; b-;
+3 1: 4e; 8b-; d; 4e; d;
+bar
+1 1: 4r; 8g; 8g; 4g; 8g; f<>;
+lyrics 1: "for my life a-gain";
+2 1: 8c; g; c+; e+; c+; g; c; g;
+3 1: 1c;
+bar
+1 1: 2f<>; 8f; e; f; r;
+lyrics 1: "for this";
+2 1: 8d; a; d+; f+; d+; a; d; a;
+3 1: 1d;
+bar
+1 1: 4r; 2g; 8f; e<>;
+lyrics 1: "dig-ni-ty";
+2 1: 8g-; g; b; g+; b; g; g-; f-;
+3 1: 4.g-; g-; 8g; f;
+bar
+1 1: 4e; 4r; 2r;
+2 1: 8e-; g; d+; e+; d+; g; a-; b-;
+3 1: 4e; 8b-; d; 4e; d;
+bar
+1 1: 4r; 8r; 8g; g; g; 4g;
+lyrics 1: "For gi-ving this";
+2 1: 8c; g; c+; e+; c+; g; c; g;
+3 1: 4.c; 4.c; 4c;
+bar
+1 1: 2.a; 4g;
+lyrics 1: "depth of";
+2 1: 8d; a; d+; f+; d+; a; d; a;
+3 1: 4.d; 4.d; 4d;
+bar
+1 1: 2b; 4b; 8a; g<>; 
+lyrics 1: "val-ue to me";
+2 1: 8g-; g; b; g+; b; g; g-; f-;
+3 1: 4.g-; 4.g-; 4g-;
+bar
+1 1: 8d<>; 4.e; 2r;
+2 1: 8a-; a; c+; e+; c+; a; a-; a;
+3 1: 4.a-; 4.a-; 8a-; b-;
+bar
+2 1: 8a-; a; c+; e+; c+; b-; g; d+;
+3 1: 4c; b-; 8a-; 4.b-;
+bar
+1 1: 4r; 8r; g; g; 4g; 8g;
+lyrics 1: "It's so far be-";
+2 1: 8c; g; c+; e+; c+; g; c; g;
+3 1: 4.c; 4.c; 4c;
+bar
+1 1: 2.a; 8g; b<>;
+lyrics 1: "yond for-give-";
+2 1: 8d; a; d+; f+; d+; a; d; a;
+3 1: 4.d; 4.d; 4d;
+bar
+1 1: 2b; 4b; 8a<>; g;
+lyrics 1: "ness and";
+2 1: 8g-; g; b; g+; f-; a; d+; f+;
+3 1: 2g-; 2f-;
+bar
+1 1: 8g; 8r; 4r; 2r; 
+lyrics 1: "yet";
+2 1: 8e-gbe+; 8r; 4r; 2r; 
+3 1: 8e-; 8r; 4r; 2r; 
+bar
+1 1: 4r; 8r; g; 4g; g;
+lyrics 1: "our life can";
+2 1: 8c; g; c+; e+; c+; g; c; g;
+3 1: 4.c; 4.c; 4c;
+bar
+1 1: 4f; 8g; 4a; 4b; 8g<>;
+lyrics 1: "be my on-ly thanks";
+2 1: 8d; a; d+; f+; d+; a; d; a;
+3 1: 4.d; 4.d; 4d;
+bar
+1 1: 4g; 8r; g; 4g; g;
+lyrics 1: "our life can";
+2 1: 8c; g; c+; e+; c+; g; c; g;
+3 1: 4.c; 4.c; 4c;
+bar
+1 1: 4f; 8g; 4a; 4b; 8g<>;
+lyrics 1: "be my on-ly thanks";
+2 1: 8d; a; d+; f+; d+; a; d; a;
+3 1: 4.d; 4.d; 4d;
+bar
+1 1: 4g; 8r; g; 4g; g;
+lyrics 1: "our life can";
+2 1: 8c; g; c+; e+; c+; g; c; g;
+3 1: 4.c; 4.c; 4c;
+bar
+1 1: 4b; 8a; 4g; 4a; 8g<>;
+lyrics 1: "be my on-ly thanks";
+2 1: 8d; a; d+; f+; d+; a; d; a;
+3 1: 4.d; 4.d; 4d;
+bar
+1 1: 4b; 4r; 2r;
+2 1: 8d++; c+e+ slur; 2.c+e+;
+3 1: 4r; 8b-; e; 4a; d+;
+ital below 3: 2 "harm., 8va";
+bar
+2 1: 8d++; d+f+ slur; 2.d+f+;
+3 1: 4r; 8b-; e; 4a; d+;
+ital below 3: 2 "simile";
+bar
+2 1: 8d++; e+g+ slur; 2.e+g+;
+3 1: 4r; 8b-; e; 4a; d+;
+bar
+2 1: 8d++; d+f+ slur; 2.d+f+;
+3 1: 4r; 8b-; e; 4a; d+;
+bar
+2 1: 8d++; c+e+ slur; 2.c+e+;
+3 1: 4r; 8b-; e; 4a; d+;
+bar
+2 1: 8d++; d+f+ slur; 2.d+f+;
+3 1: 4r; 8b-; e; 4a; d+;
+bar
+2 1: 8d++; e+g+ slur; 2.e+g+;
+3 1: 4r; 8b-; e; 4a; d+;
+bar
+2 1: 8d++; d+f+ slur; 2.d+f+;
+3 1: 4r; 8b-; e; a; d+; f+; a+;
+mussym above 3: 4.5 "ferm";
+bar
+// end Part II - "How Can I Thank You?"
+score
+	time = 4/4
+	key = 0#
+	staffs = 3
+	clef = treble
+	vscheme = 2o
+        beamstyle = 2,2
+staff 3
+        clef = bass
+music
+// begin Part III - "Maker"
+2 1: 4a-; 16c+e+a+; r; r; c+e+a+; r; c+e+a+; r; c+e+a+; c+e+a+; c+e+a+; 8c+e+a+;
+rom above 1: 1 "III - Maker";
+ital above 1: 1 "Fast";
+bar
+2 1: 4b-; 16d+f#+b+; r; r; d+f+b+; r; d+f+b+; r; d+f+b+; d+f+b+; d+f+b+; 8d+f+b+;
+bar
+2 1: 4c; 16e+g+c++; r; r; e+g+c++; r; e+g+c++; r; e+g+c++; e+g+c++; e+g+c++; 8e+g+c++;
+bar
+2 1: 4b-; 16d+f#+b+; r; r; d+f+b+; r; d+f+b+; r; d+f+b+; d+f+b+; d+f+b+; 8d+f+b+;
+bar
+2 1: 4a-; 16c+e+a+; r; r; c+e+a+; r; c+e+a+; r; c+e+a+; c+e+a+; c+e+a+; 8c+e+a+;
+bar
+2 1: 4b-; 16d+f#+b+; r; r; d+f+b+; r; d+f+b+; r; d+f+b+; d+f+b+; d+f+b+; 8d+f+b+;
+bar
+2 1: 4c; 16e+g+c++; r; r; e+g+c++; r; e+g+c++; r; e+g+c++; e+g+c++; e+g+c++; 8e+g+c++;
+bar
+2 1: 4b-; 16d+f#+b+; r; r; d+f+b+; r; d+f+b+; r; d+f+b+; d+f+b+; d+f+b+; 8d+f+b+;
+bar rehearsal mnum
+// begin first verse
+1 1: 4r; 8r; a-; 4a-; a-;
+lyrics 1: "My on-ly";
+2 1: 8.e+a+; 16e+a+; e+a+; r; 8.e+a+; 16e+a+; e+a+; e+a+; 4r;
+2 2: 4.a-gc+; 4.a-gc+; 4a-gc+;
+3 1: 8c+; b; a; g; a; b; c+; d+;
+bar
+1 1: 4c; b-; 8a-; 4g-; 8a-<>;
+lyrics 1: "thanks will be our life";
+2 1: 8.f#+b+; 16f+b+; f+b+; r; 8.f+b+; 16f+b+; f+b+; f+b+; 4r;
+2 2: 4.b-ad+; 4.b-ad+ slur; 4b-ad+;
+3 1: 8e+; d+; c+; b; c+; d+; e+; f+;
+bar
+1 1: 4a-; 2r; 8r; a-;
+lyrics 1: "Re-";
+2 1: 8.g+c++; 16g+c++; g+c++; r; 8.g+c++; 16g+c++; g+c++; g+c++; 4r;
+2 2: 4.cgc+e+; 4.cgc+e+ slur; 4cgc+e+;
+3 1: 8g+; f+; e+; d+; c+; d+; e+; f+;
+bar
+1 1: 4c; b-; 8a-; g-; r; a-<>;
+lyrics 1: "spon-si-bi-li-ty";
+2 1: 8.f#+b+; 16f+b+; f+b+; r; 8.f+b+; 16f+b+; f+b+; f+b+; 4r;
+2 2: 4.b-ad+; 4.b-ad+ slur; 4b-ad+;
+3 1: 4e+; d+; 8c+; b; r; d+<>;
+bar
+1 1: 4a-; 8r; a-; a-; a-; r; c;
+lyrics 1: "Yet what de-struct-";
+2 1: 8.f+a+; 16f+a+; f+a+; r; 8.f+a+; 16f+a+; f+a+; f+a+; 4r;
+2 2: 4.dac+; 4.dac+ slur; 4dac+;
+3 1: 8d+; c+; b&; a; g; f; e; d;
+bar
+1 1: 8r; b-; r; a-; r; g-; r; a-;
+lyrics 1: "ion I have wrought";
+2 1: 8.d+g+; 16d+g+; d+g+; r; 8.d+g+; 16d+g+; d+g+; d+g+; 4r;
+2 2: 4.g-dfb; 4.g-dfb slur; 4g-dfb;
+3 1: 8g-; g-; r; g-; r; a-; 4a-;
+bar
+1 1: 4r; 8r; a-; a-; a-; r; c;
+lyrics 1: "I could have been";
+2 1: 8.f+a+; 16f+a+; f+a+; r; 8.f+a+; 16f+a+; f+a+; f+a+; 4r;
+2 2: 4.dac+; 4.dac+ slur; 4dac+;
+3 1: 8d+; c+; b&; a; g; f; e; d;
+bar
+1 1: 8r; 4b-; a-; g-; 8c;
+lyrics 1: "no in-spi-ra-";
+2 1: 8.d+g+; 16d+g+; d+g+; r; 8.d+g+; 16d+g+; d+g+; d+g+; 4r;
+2 2: 4.g-dfb; 4.g-dfb slur; 4g-dfb;
+3 1: 8g-; g-; r; g-; r; a-; 4a-;
+bar
+1 1: 8r; a-; 4r; 8a-; a-; r; c<>;
+lyrics 1: "tion as you've al-";
+2 1: 8.f+a+; 16f+a+; f+a+; r; 8.f+a+; 16f+a+; f+a+; f+a+; 4r;
+2 2: 4.dac+; 4.dac+ slur; 4dac+;
+3 1: 8d+; c+; b&; a; g; f; e; d;
+bar
+1 1: 4c; 4b-; a-; 8g-; a-;
+lyrics 1: "ways been to me";
+2 1: 8.d+g+; 16d+g+; d+g+; r; 8.d+g+; 16d+g+; d+g+; d+g+; 4r;
+2 2: 4.g-dfb; 4.g-dfb slur; 4g-dfb;
+3 1: 8g-; g-; r; g-; r; a-; 4a-;
+bar
+1 1: 4r; 8r; 8a-; a-; a-; r; c<>;
+lyrics 1: "Yet ne-ver tru-";
+2 1: 8.e+a+; 16e+a+; e+a+; r; 8.e+a+; 16e+a+; e+a+; e+a+; 4r;
+2 2: 4.a-gc+; 4.a-gc+; 4a-gc+;
+3 1: 8a-; a; b; c+; b; a; g; a;
+bar
+1 1: 4c; 4b-; a-; 8g-; a-;
+lyrics 1: "ly have you sought";
+2 1: 8.f#+b+; 16f+b+; f+b+; r; 8.f+b+; 16f+b+; f+b+; f+b+; 4r;
+2 2: 4.b-ad+; 4.b-ad+ slur; 4b-ad+;
+3 1: 8b-; b; c+; d+; c+; b; a; b;
+bar
+1 1: 4r; 8r; 8a-; 4a-; a-; 
+lyrics 1: "be-yond our";
+2 1: 8.g+c++; 16g+c++; g+c++; r; 8.g+c++; 16g+c++; g+c++; g+c++; 4r;
+2 2: 4.cgc+e+; 4.cgc+e+ slur; 4cgc+e+;
+3 1: 8c; c+; d+; e+; d+; c+; b; c+;
+bar
+1 1: 4c; 4b-; 8a-; g-; r; a-<>;
+lyrics 1: "bond out-side our life";
+2 1: 4eg#d+gn+; 2.eg#d+gn+;
+3 1: 8e+; d+; c+; b; c+; b; a; g;
+bar
+1 1: 4a-; 4r; 2r;
+2 1: 8.e+a+; 16e+a+; e+a+; r; 8.e+a+; 16e+a+; e+a+; e+a+; 4r;
+2 2: 4.a-gc+; 4.a-gc+; 4a-gc+;
+3 1: 8c+; b; a; g; a; b; c+; d+;
+bar
+2 1: 8.f#+b+; 16f+b+; f+b+; r; 8.f+b+; 16f+b+; f+b+; f+b+; 4r;
+2 2: 4.b-ad+; 4.b-ad+ slur; 4b-ad+;
+3 1: 8e+; d+; c+; b; c+; d+; e+; f+;
+bar
+2 1: 8.g+c++; 16g+c++; g+c++; r; 8.g+c++; 16g+c++; g+c++; g+c++; 4r;
+2 2: 4.cgc+e+; 4.cgc+e+ slur; 4cgc+e+;
+3 1: 8g+; f+; e+; d+; c+; d+; e+; f+;
+bar
+2 1: 8.f#+b+; 16f+b+; f+b+; r; 8.f+b+; 16f+b+; f+b+; f+b+; 4r;
+2 2: 4.b-ad+; 4.b-ad+ slur; 4b-ad+;
+3 1: 8e+; d+; c+; b; c+; b; a; g;
+bar
+// end first verse
+// begin second verse
+1 1: 4r; 8r; a-; 4a-; a-;
+lyrics 1: "What was it";
+2 1: 8.e+a+; 16e+a+; e+a+; r; 8.e+a+; 16e+a+; e+a+; e+a+; 4r;
+2 2: 4.a-gc+; 4.a-gc+; 4a-gc+;
+3 1: 8c+; b; a; g; a; b; c+; d+;
+bar
+1 1: 4c; b-; 8a-; 4g-; 8a-<>;
+lyrics 1: "drove me to de-stroy?";
+2 1: 8.f#+b+; 16f+b+; f+b+; r; 8.f+b+; 16f+b+; f+b+; f+b+; 4r;
+2 2: 4.b-ad+; 4.b-ad+ slur; 4b-ad+;
+3 1: 8e+; d+; c+; b; c+; d+; e+; f+;
+bar
+1 1: 4a-; 2.r;
+2 1: 8.g+c++; 16g+c++; g+c++; r; 8.g+c++; 16g+c++; g+c++; g+c++; 4r;
+2 2: 4.cgc+e+; 4.cgc+e+ slur; 4cgc+e+;
+3 1: 8g+; f+; e+; d+; c+; d+; e+; f+;
+bar
+1 1: 4c; b-; 8a-; g-; r; a-<>;
+lyrics 1: "I don't know my love";
+2 1: 8.f#+b+; 16f+b+; f+b+; r; 8.f+b+; 16f+b+; f+b+; f+b+; 4r;
+2 2: 4.b-ad+; 4.b-ad+ slur; 4b-ad+;
+3 1: 4e+; d+; 8c+; b; r; d+<>;
+bar
+1 1: 4a-; 8r; a-; a-; a-; r; c<>;
+lyrics 1: "To see you build";
+2 1: 8.f+a+; 16f+a+; f+a+; r; 8.f+a+; 16f+a+; f+a+; f+a+; 4r;
+2 2: 4.dac+; 4.dac+ slur; 4dac+;
+3 1: 8d+; c+; b&; a; g; f; e; d;
+bar
+1 1: 4c; 4b-; 8a-; g-; r; a-;
+lyrics 1: "it up a-new";
+2 1: 8.d+g+; 16d+g+; d+g+; r; 8.d+g+; 16d+g+; d+g+; d+g+; 4r;
+2 2: 4.g-dfb; 4.g-dfb slur; 4g-dfb;
+3 1: 8g-; g-; r; g-; r; a-; 4a-;
+bar
+1 1: 4r; 8r; a-; a-; a-; r; c;
+lyrics 1: "To watch you act";
+2 1: 8.f+a+; 16f+a+; f+a+; r; 8.f+a+; 16f+a+; f+a+; f+a+; 4r;
+2 2: 4.dac+; 4.dac+ slur; 4dac+;
+3 1: 8d+; c+; b&; a; g; f; e; d;
+bar
+1 1: 4r; 4b-; 8a-; 4g-; 8a;
+lyrics 1: "for your own sake";
+2 1: 8.d+g+; 16d+g+; d+g+; r; 8.d+g+; 16d+g+; d+g+; d+g+; 4r;
+2 2: 4.g-dfb; 4.g-dfb slur; 4g-dfb;
+3 1: 8g-; g-; r; g-; r; a-; 4a-;
+bar
+1 1: 2r; 4r; 8r; a;
+lyrics 1: "and";
+2 1: 8.f+a+; 16f+a+; f+a+; r; 8.f+a+; 16f+a+; f+a+; f+a+; 4r;
+2 2: 4.dac+; 4.dac+ slur; 4dac+;
+3 1: 8d+; c+; b&; a; g; f; e; d;
+bar
+1 1: 4c; 4b-; a-; 8g-; a-<>;
+lyrics 1: "know you act for yours";
+2 1: 8.d+g+; 16d+g+; d+g+; r; 8.d+g+; 16d+g+; d+g+; d+g+; 4r;
+2 2: 4.g-dfb; 4.g-dfb slur; 4g-dfb;
+3 1: 8g-; g-; r; g-; r; a-; 4a-;
+bar
+1 1: 8a; 4r; 8a-; a-; a-; r; c<>;
+lyrics 1: "E-ter-nal ge-";
+2 1: 8.e+a+; 16e+a+; e+a+; r; 8.e+a+; 16e+a+; e+a+; e+a+; 4r;
+2 2: 4.a-gc+; 4.a-gc+; 4a-gc+;
+3 1: 8a-; a; b; c+; b; a; g; a;
+bar
+1 1: 8c; 4b-; a-; g-; 8a-<>;
+lyrics 1: "ne-sis from you";
+2 1: 8.f#+b+; 16f+b+; f+b+; r; 8.f+b+; 16f+b+; f+b+; f+b+; 4r;
+2 2: 4.b-ad+; 4.b-ad+ slur; 4b-ad+;
+3 1: 8b-; b; c+; d+; c+; b; a; b;
+bar
+1 1: 8a-; 4r; 8a-; a-; 4a-; 8c<>;
+lyrics 1: "to hear I love";
+2 1: 8.g+c++; 16g+c++; g+c++; r; 8.g+c++; 16g+c++; g+c++; g+c++; 4r;
+2 2: 4.cgc+e+; 4.cgc+e+ slur; 4cgc+e+;
+3 1: 8c; c+; d+; e+; d+; c+; b; c+;
+bar
+1 1: 4c; 4b-; 8a-; g-; r; a-<>;
+lyrics 1: "you a-ny-way";
+2 1: 4eg#d+gn+; 2.eg#d+gn+;
+3 1: 8e+; d+; c+; b; c+; b; a; g;
+bar
+1 1: 4a-; 4r; 2r;
+2 1: 8.e+a+; 16e+a+; e+a+; r; 8.e+a+; 16e+a+; e+a+; e+a+; 4r;
+2 2: 4.a-gc+; 4.a-gc+; 4a-gc+;
+3 1: 8c+; b; a; g; a; b; c+; d+;
+bar
+2 1: 8.f#+b+; 16f+b+; f+b+; r; 8.f+b+; 16f+b+; f+b+; f+b+; 4r;
+2 2: 4.b-ad+; 4.b-ad+ slur; 4b-ad+;
+3 1: 8e+; d+; c+; b; c+; d+; e+; f+;
+bar
+2 1: 8.g+c++; 16g+c++; g+c++; r; 8.g+c++; 16g+c++; g+c++; g+c++; 4r;
+2 2: 4.cgc+e+; 4.cgc+e+ slur; 4cgc+e+;
+3 1: 8g+; f+; e+; d+; c+; d+; e+; f+;
+bar
+2 1: 8.f#+b+; 16f+b+; f+b+; r; 8.f+b+; 16f+b+; f+b+; f+b+; 4r;
+2 2: 4.b-ad+; 4.b-ad+ slur; 4b-ad+;
+3 1: 8e+; d+; c+; b; c+; b; a; g;
+bar
+// end second verse
+// begin third verse
+1 1: 4r; 8r; a-; 4a-; a-;
+lyrics 1: "Or was it";
+2 1: 8.e+a+; 16e+a+; e+a+; r; 8.e+a+; 16e+a+; e+a+; e+a+; 4r;
+2 2: 4.a-gc+; 4.a-gc+; 4a-gc+;
+3 1: 8c+; b; a; g; a; b; c+; d+;
+bar
+1 1: 4c; b-; 8a-; 4g-; 8a-<>;
+lyrics 1: "fear that pa-ra-lyzed";
+2 1: 8.f#+b+; 16f+b+; f+b+; r; 8.f+b+; 16f+b+; f+b+; f+b+; 4r;
+2 2: 4.b-ad+; 4.b-ad+ slur; 4b-ad+;
+3 1: 8e+; d+; c+; b; c+; d+; e+; f+;
+bar
+1 1: 4a-; 2r; 8r; a-;
+lyrics 1: "The";
+2 1: 8.g+c++; 16g+c++; g+c++; r; 8.g+c++; 16g+c++; g+c++; g+c++; 4r;
+2 2: 4.cgc+e+; 4.cgc+e+ slur; 4cgc+e+;
+3 1: 8g+; f+; e+; d+; c+; d+; e+; f+;
+bar
+1 1: 4c; b-; 8a-; g-; r; a-<>;
+lyrics 1: "wor-kings of my soul";
+2 1: 8.f#+b+; 16f+b+; f+b+; r; 8.f+b+; 16f+b+; f+b+; f+b+; 4r;
+2 2: 4.b-ad+; 4.b-ad+ slur; 4b-ad+;
+3 1: 4e+; d+; 8c+; b; r; d+<>;
+bar
+1 1: 4a-; 8r; a-; a-; a-; r; c<>;
+lyrics 1: "Not rea-lly fear";
+2 1: 8.f+a+; 16f+a+; f+a+; r; 8.f+a+; 16f+a+; f+a+; f+a+; 4r;
+2 2: 4.dac+; 4.dac+ slur; 4dac+;
+3 1: 8d+; c+; b&; a; g; f; e; d;
+bar
+1 1: 4c; 4b-; 8a-; 4g-; 8a-;
+lyrics 1: "but pu-zzle-ment";
+2 1: 8.d+g+; 16d+g+; d+g+; r; 8.d+g+; 16d+g+; d+g+; d+g+; 4r;
+2 2: 4.g-dfb; 4.g-dfb slur; 4g-dfb;
+3 1: 8g-; g-; r; g-; r; a-; 4a-;
+bar
+1 1: 2r; 4r; 8r; a;
+lyrics 1: "Or";
+2 1: 8.f+a+; 16f+a+; f+a+; r; 8.f+a+; 16f+a+; f+a+; f+a+; 4r;
+2 2: 4.dac+; 4.dac+ slur; 4dac+;
+3 1: 8d+; c+; b&; a; g; f; e; d;
+bar
+1 1: 4c; 4b-; 8a-; 4g-; 8a-;
+lyrics 1: "awe at such an act";
+2 1: 8.d+g+; 16d+g+; d+g+; r; 8.d+g+; 16d+g+; d+g+; d+g+; 4r;
+2 2: 4.g-dfb; 4.g-dfb slur; 4g-dfb;
+3 1: 8g-; g-; r; g-; r; a-; 4a-;
+bar
+1 1: 4r; 8r; 8a-; a-; a-; r; c<>;
+lyrics 1: "In-comp-ara-ble";
+2 1: 8.f+a+; 16f+a+; f+a+; r; 8.f+a+; 16f+a+; f+a+; f+a+; 4r;
+2 2: 4.dac+; 4.dac+ slur; 4dac+;
+3 1: 8d+; c+; b&; a; g; f; e; d;
+bar
+1 1: 4c; 4b-; a-; 8g-; a-;
+lyrics 1: "no way to know";
+2 1: 8.d+g+; 16d+g+; d+g+; r; 8.d+g+; 16d+g+; d+g+; d+g+; 4r;
+2 2: 4.g-dfb; 4.g-dfb slur; 4g-dfb;
+3 1: 8g-; g-; r; g-; r; a-; 4a-;
+bar
+1 1: 4r; 8r; 8a-; a-; a-; r; c<>;
+lyrics 1: "This fu-ture full";
+2 1: 8.e+a+; 16e+a+; e+a+; r; 8.e+a+; 16e+a+; e+a+; e+a+; 4r;
+2 2: 4.a-gc+; 4.a-gc+; 4a-gc+;
+3 1: 8a-; a; b; c+; b; a; g; a;
+bar
+1 1: 4c; 4b-; a-; 8g-; a-;
+lyrics 1: "with won-der-ment";
+2 1: 8.f#+b+; 16f+b+; f+b+; r; 8.f+b+; 16f+b+; f+b+; f+b+; 4r;
+2 2: 4.b-ad+; 4.b-ad+ slur; 4b-ad+;
+3 1: 8b-; b; c+; d+; c+; b; a; b;
+bar
+1 1: 4r; 8r; 8a-; 4a-; a-; 
+lyrics 1: "This choice too";
+2 1: 8.g+c++; 16g+c++; g+c++; r; 8.g+c++; 16g+c++; g+c++; g+c++; 4r;
+2 2: 4.cgc+e+; 4.cgc+e+ slur; 4cgc+e+;
+3 1: 8c; c+; d+; e+; d+; c+; b; c+;
+bar
+1 1: 4c; 4b-; 8a-; 4g-; 8a-<>;
+lyrics 1: "large to a-na-lyze";
+2 1: 4eg#d+gn+; 2.eg#d+gn+;
+3 1: 8e+; d+; c+; b; c+; b; a; g;
+bar
+1 1: 4a-; 4r; 2r;
+2 1: 8.e+a+; 16e+a+; e+a+; r; 8.e+a+; 16e+a+; e+a+; e+a+; 4r;
+2 2: 4.a-gc+; 4.a-gc+; 4a-gc+;
+3 1: 8c+; b; a; g; a; b; c+; d+;
+bar
+2 1: 8.f#+b+; 16f+b+; f+b+; r; 8.f+b+; 16f+b+; f+b+; f+b+; 4r;
+2 2: 4.b-ad+; 4.b-ad+ slur; 4b-ad+;
+3 1: 8e+; d+; c+; b; c+; d+; e+; f+;
+bar
+2 1: 8.g+c++; 16g+c++; g+c++; r; 8.g+c++; 16g+c++; g+c++; g+c++; 4r;
+2 2: 4.cgc+e+; 4.cgc+e+ slur; 4cgc+e+;
+3 1: 8g+; f+; e+; d+; c+; d+; e+; f+;
+bar
+2 1: 8.f#+b+; 16f+b+; f+b+; r; 8.f+b+; 16f+b+; f+b+; f+b+; 4r;
+2 2: 4.b-ad+; 4.b-ad+ slur; 4b-ad+;
+3 1: 8e+; d+; c+; b; c+; b; a; g;
+bar
+// end third verse
+// begin fourth verse
+1 1: 4r; 8r; a-; a-; r; 4r;
+lyrics 1: "E-nough";
+2 1: 8.e+a+; 16e+a+; e+a+; r; 8.e+a+; 16e+a+; e+a+; e+a+; 4r;
+2 2: 4.a-gc+; 4.a-gc+; 4a-gc+;
+3 1: 8c+; b; a; g; a; b; c+; d+;
+bar
+1 1: 4r; 8r; b-; b-; 4r; 8b-;
+lyrics 1: "E-nough, e-";
+2 1: 8.f#+b+; 16f+b+; f+b+; r; 8.f+b+; 16f+b+; f+b+; f+b+; 4r;
+2 2: 4.b-ad+; 4.b-ad+ slur; 4b-ad+;
+3 1: 8e+; d+; c+; b; c+; d+; e+; f+;
+bar
+1 1: 4c; b-; 8a-; g-; r; a-<>;
+lyrics 1: "nough of gloo-my deeds";
+2 1: 8.g+c++; 16g+c++; g+c++; r; 8.g+c++; 16g+c++; g+c++; g+c++; 4r;
+2 2: 4.cgc+e+; 4.cgc+e+ slur; 4cgc+e+;
+3 1: 8g+; f+; e+; d+; c+; d+; e+; f+;
+bar
+1 1: 4a; r; 2r;
+2 1: 8.f#+b+; 16f+b+; f+b+; r; 8.f+b+; 16f+b+; f+b+; f+b+; 4r;
+2 2: 4.b-ad+; 4.b-ad+ slur; 4b-ad+;
+3 1: 4e+; d+; 8c+; b; r; d+<>;
+bar
+1 1: 4r; 8r; a-; a-; r; 4r;
+lyrics 1: "E-nough";
+2 1: 8.e+a+; 16e+a+; e+a+; r; 8.e+a+; 16e+a+; e+a+; e+a+; 4r;
+2 2: 4.a-gc+; 4.a-gc+; 4a-gc+;
+3 1: 8c+; b; a; g; a; b; c+; d+;
+bar
+1 1: 4r; 8r; b-; b-; 4r; 8b-;
+lyrics 1: "E-nough, e-";
+2 1: 8.f#+b+; 16f+b+; f+b+; r; 8.f+b+; 16f+b+; f+b+; f+b+; 4r;
+2 2: 4.b-ad+; 4.b-ad+ slur; 4b-ad+;
+3 1: 8e+; d+; c+; b; c+; d+; e+; f+;
+bar
+1 1: 4c; b-; 8a-; g-; r; a-<>;
+lyrics 1: "nough of gloo-my deeds";
+2 1: 8.g+c++; 16g+c++; g+c++; r; 8.g+c++; 16g+c++; g+c++; g+c++; 4r;
+2 2: 4.cgc+e+; 4.cgc+e+ slur; 4cgc+e+;
+3 1: 8g+; f+; e+; d+; c+; d+; e+; f+;
+bar
+1 1: 4a; r; 2r;
+2 1: 8.f#+b+; 16f+b+; f+b+; r; 8.f+b+; 16f+b+; f+b+; f+b+; 4r;
+2 2: 4.b-ad+; 4.b-ad+ slur; 4b-ad+;
+3 1: 4e+; d+; 8c+; b; r; d+<>;
+bar
+1 1: 2r; 4r; 8r; a-; 
+lyrics 1: "I'm";
+2 1: 8.f+a+; 16f+a+; f+a+; r; 8.f+a+; 16f+a+; f+a+; f+a+; 4r;
+2 2: 4.dac+; 4.dac+ slur; 4dac+;
+3 1: 8d+; c+; b&; a; g; f; e; d;
+bar
+1 1: 4c; 4b-; 4a-; 8g-; a-;
+lyrics 1: "through with love de-spoiled";
+2 1: 8.d+g+; 16d+g+; d+g+; r; 8.d+g+; 16d+g+; d+g+; d+g+; 4r;
+2 2: 4.g-dfb; 4.g-dfb slur; 4g-dfb;
+3 1: 8g-; g-; r; g-; r; a-; 4a-;
+bar
+1 1: 4r; 8r; 8a-; a-; a-; r; c<>;
+lyrics 1: "I'll be the one";
+2 1: 8.f+a+; 16f+a+; f+a+; r; 8.f+a+; 16f+a+; f+a+; f+a+; 4r;
+2 2: 4.dac+; 4.dac+ slur; 4dac+;
+3 1: 8d+; c+; b&; a; g; f; e; d;
+bar
+1 1: 8c; 4b-; 4a-; 4g-; 8c;
+lyrics 1: "un-fla-gging this";
+2 1: 8.d+g+; 16d+g+; d+g+; r; 8.d+g+; 16d+g+; d+g+; d+g+; 4r;
+2 2: 4.g-dfb; 4.g-dfb slur; 4g-dfb;
+3 1: 8g-; g-; r; g-; r; a-; 4a-;
+bar
+1 1: 8r; 4a-; 8a-; a-; a-; r; c<>;
+lyrics 1: "time I'll ne-ver let";
+2 1: 8.f+a+; 16f+a+; f+a+; r; 8.f+a+; 16f+a+; f+a+; f+a+; 4r;
+2 2: 4.dac+; 4.dac+ slur; 4dac+;
+3 1: 8d+; c+; b&; a; g; f; e; d;
+bar
+1 1: 4c; 4b-; a-; 8g-; a-;
+lyrics 1: "fear foil a-gain";
+2 1: 8.d+g+; 16d+g+; d+g+; r; 8.d+g+; 16d+g+; d+g+; d+g+; 4r;
+2 2: 4.g-dfb; 4.g-dfb slur; 4g-dfb;
+3 1: 8g-; g-; r; g-; r; a-; 4a-;
+bar
+2 1: 8.e+a+; 16e+a+; e+a+; r; 8.e+a+; 16e+a+; e+a+; e+a+; 4r;
+2 2: 4.a-gc+; 4.a-gc+; 4a-gc+;
+3 1: 8a-; a; b; c+; b; a; g; a;
+bar
+2 1: 8.f#+b+; 16f+b+; f+b+; r; 8.f+b+; 16f+b+; f+b+; f+b+; 4r;
+2 2: 4.b-ad+; 4.b-ad+ slur; 4b-ad+;
+3 1: 8b-; b; c+; d+; c+; b; a; b;
+bar
+1 1: 2r; 4r; 8r; a-; 
+lyrics 1: "The";
+2 1: 8.g+c++; 16g+c++; g+c++; r; 8.g+c++; 16g+c++; g+c++; g+c++; 4r;
+2 2: 4.cgc+e+; 4.cgc+e+ slur; 4cgc+e+;
+3 1: 8c; c+; d+; e+; d+; c+; b; c+;
+bar
+1 1: 4c; 4b-; 4a-; 8g-; c;
+lyrics 1: "hope of my de-vo-";
+2 1: 4eg#d+gn+; 2.eg#d+gn+;
+3 1: 8e+; d+; c+; b; c+; b; a; g;
+bar
+1 1: 4a-; 4r; 2r;
+lyrics 1: "tion";
+2 1: 8.e+a+; 16e+a+; e+a+; r; 8.e+a+; 16e+a+; e+a+; e+a+; 4r;
+2 2: 4.a-gc+; 4.a-gc+; 4a-gc+;
+3 1: 8c+; b; a; g; a; b; c+; d+;
+bar
+2 1: 8.f#+b+; 16f+b+; f+b+; r; 8.f+b+; 16f+b+; f+b+; f+b+; 4r;
+2 2: 4.b-ad+; 4.b-ad+ slur; 4b-ad+;
+3 1: 8e+; d+; c+; b; c+; d+; e+; f+;
+bar
+2 1: 8.g+c++; 16g+c++; g+c++; r; 8.g+c++; 16g+c++; g+c++; g+c++; 4r;
+2 2: 4.cgc+e+; 4.cgc+e+ slur; 4cgc+e+;
+3 1: 8g+; f+; e+; d+; c+; d+; e+; f+;
+bar
+2 1: 8.f#+b+; 16f+b+; f+b+; r; 8.f+b+; 16f+b+; f+b+; f+b+; 4r;
+2 2: 4.b-ad+; 4.b-ad+ slur; 4b-ad+;
+3 1: 8e+; d+; c+; b; c+; b; a; g;
+bar
+// end fourth verse
+// begin fifth verse
+1 1: 4r; a; a; 8g; a<>;
+lyrics 1: "All life's a play?";
+2 1: 8.e+a+; 16e+a+; e+a+; r; 8.e+a+; 16e+a+; e+a+; e+a+; 4r;
+2 2: 4.a-gc+; 4.a-gc+; 4a-gc+;
+3 1: 8c+; b; a; g; a; b; c+; d+;
+bar
+1 1: 2.a; 4r;
+2 1: 8.f#+b+; 16f+b+; f+b+; r; 8.f+b+; 16f+b+; f+b+; f+b+; 4r;
+2 2: 4.b-ad+; 4.b-ad+ slur; 4b-ad+;
+3 1: 8e+; d+; c+; b; c+; d+; e+; f+;
+bar
+1 1: 4r; e; 8d; e; r; c<>;
+lyrics 1: "Well make it good";
+2 1: 8.g+c++; 16g+c++; g+c++; r; 8.g+c++; 16g+c++; g+c++; g+c++; 4r;
+2 2: 4.cgc+e+; 4.cgc+e+ slur; 4cgc+e+;
+3 1: 8g+; f+; e+; d+; c+; d+; e+; f+;
+bar
+1 1: 4a-; r; 2r;
+2 1: 8.f#+b+; 16f+b+; f+b+; r; 8.f+b+; 16f+b+; f+b+; f+b+; 4r;
+2 2: 4.b-ad+; 4.b-ad+ slur; 4b-ad+;
+3 1: 8e+; d+; c+; b; c+; b; a; g;
+bar
+1 1: 2r; 4r; 8r; e;
+lyrics 1: "With";
+2 1: 8.e+a+; 16e+a+; e+a+; r; 8.e+a+; 16e+a+; e+a+; e+a+; 4r;
+2 2: 4.a-gc+; 4.a-gc+; 4a-gc+;
+3 1: 8c+; b; a; g; a; b; c+; d+;
+bar
+1 1: 4a; g; 8r; e; d; e<>;
+lyrics 1: "plot and theme and style";
+2 1: 8.f#+b+; 16f+b+; f+b+; r; 8.f+b+; 16f+b+; f+b+; f+b+; 4r;
+2 2: 4.b-ad+; 4.b-ad+ slur; 4b-ad+;
+3 1: 8e+; d+; c+; b; c+; d+; e+; f+;
+bar
+1 1: 4.g<>; 8e<>; e&<>; 4.e;
+2 1: 8.g+c++; 16g+c++; g+c++; r; 8.g+c++; 16g+c++; g+c++; g+c++; 4r;
+2 2: 4.cgc+e+; 4.cgc+e+ slur; 4cgc+e+;
+3 1: 8g+; f+; e+; d+; c+; d+; e+; f+;
+bar
+1 1: 4r; a; a; 8g; a<>;
+lyrics 1: "And cha-ra-cter";
+2 1: 8.e+a+; 16e+a+; e+a+; r; 8.e+a+; 16e+a+; e+a+; e+a+; 4r;
+2 2: 4.a-gc+; 4.a-gc+; 4a-gc+;
+3 1: 8c+; b; a; g; a; b; c+; d+;
+bar
+1 1: 2.a; 4r;
+2 1: 8.f#+b+; 16f+b+; f+b+; r; 8.f+b+; 16f+b+; f+b+; f+b+; 4r;
+2 2: 4.b-ad+; 4.b-ad+ slur; 4b-ad+;
+3 1: 8e+; d+; c+; b; c+; d+; e+; f+;
+bar
+1 1: 4r; e; 4d; 8e; c<>;
+lyrics 1: "Bound up with all";
+2 1: 8.g+c++; 16g+c++; g+c++; r; 8.g+c++; 16g+c++; g+c++; g+c++; 4r;
+2 2: 4.cgc+e+; 4.cgc+e+ slur; 4cgc+e+;
+3 1: 8g+; f+; e+; d+; c+; d+; e+; f+;
+bar
+1 1: 4a-; r; 2r;
+2 1: 8.f#+b+; 16f+b+; f+b+; r; 8.f+b+; 16f+b+; f+b+; f+b+; 4r;
+2 2: 4.b-ad+; 4.b-ad+ slur; 4b-ad+;
+3 1: 8e+; d+; c+; b; c+; b; a; g;
+bar
+1 1: 2r; 4r; 8r; e;
+lyrics 1: "One";
+2 1: 8.e+a+; 16e+a+; e+a+; r; 8.e+a+; 16e+a+; e+a+; e+a+; 4r;
+2 2: 4.a-gc+; 4.a-gc+; 4a-gc+;
+3 1: 8c+; b; a; g; a; b; c+; d+;
+bar
+1 1: 4a; g; 8r; e; d; e<>;
+lyrics 1: "whole com-plete a-live";
+2 1: 8.f#+b+; 16f+b+; f+b+; r; 8.f+b+; 16f+b+; f+b+; f+b+; 4r;
+2 2: 4.b-ad+; 4.b-ad+ slur; 4b-ad+;
+3 1: 8e+; d+; c+; b; c+; d+; e+; f+;
+bar
+1 1: 4.g<>; 8e<>; e&<>; 4.e<>;
+2 1: 8.g+c++; 16g+c++; g+c++; r; 8.g+c++; 16g+c++; g+c++; g+c++; 4r;
+2 2: 4.cgc+e+; 4.cgc+e+ slur; 4cgc+e+;
+3 1: 8g+; f+; e+; d+; c+; d+; e+; f+;
+bar
+1 1: 4e; r; 2r;
+2 1: 8.f#+b+; 16f+b+; f+b+; r; 8.f+b+; 16f+b+; f+b+; f+b+; 4r;
+2 2: 4.b-ad+; 4.b-ad+ slur; 4b-ad+;
+3 1: 4e+; d+; 8c+; b; r; d+<>;
+bar
+1 1: 4r; 8r; a-; a-; a-; r; c<>; 
+lyrics 1: "No cy-cles in";
+2 1: 8.f+a+; 16f+a+; f+a+; r; 8.f+a+; 16f+a+; f+a+; f+a+; 4r;
+2 2: 4.dac+; 4.dac+ slur; 4dac+;
+3 1: 8d+; c+; b&; a; g; f; e; d;
+bar
+1 1: 4c; 4b-; 4a-; 8g-; a-;
+lyrics 1: "pur-suit of life";
+2 1: 8.d+g+; 16d+g+; d+g+; r; 8.d+g+; 16d+g+; d+g+; d+g+; 4r;
+2 2: 4.g-dfb; 4.g-dfb slur; 4g-dfb;
+3 1: 8g-; g-; r; g-; r; a-; 4a-;
+bar
+1 1: 2r; 4r; a-;
+lyrics 1: "straight";
+2 1: 8.f+a+; 16f+a+; f+a+; r; 8.f+a+; 16f+a+; f+a+; f+a+; 4r;
+2 2: 4.dac+; 4.dac+ slur; 4dac+;
+3 1: 8d+; c+; b&; a; g; f; e; d;
+bar
+1 1: 4c; 4b-; 4a-; 8g-; 8a-;
+lyrics 1: "lines of love to you";
+2 1: 8.d+g+; 16d+g+; d+g+; r; 8.d+g+; 16d+g+; d+g+; d+g+; 4r;
+2 2: 4.g-dfb; 4.g-dfb slur; 4g-dfb;
+3 1: 8g-; g-; r; g-; r; a-; 4a-;
+bar
+1 1: 4r; 8r; a-; a-; a-; r; c<>; 
+lyrics 1: "Those Greeks they'd know";
+2 1: 8.e+a+; 16e+a+; e+a+; r; 8.e+a+; 16e+a+; e+a+; e+a+; 4r;
+2 2: 4.a-gc+; 4.a-gc+; 4a-gc+;
+3 1: 8a-; a; b; c+; b; a; g; a;
+bar
+1 1: 4c; 4b-; 4a-; 8g-; a-<>;
+lyrics 1: "just what I mean";
+2 1: 8.f#+b+; 16f+b+; f+b+; r; 8.f+b+; 16f+b+; f+b+; f+b+; 4r;
+2 2: 4.b-ad+; 4.b-ad+ slur; 4b-ad+;
+3 1: 8b-; b; c+; d+; c+; b; a; b;
+bar
+1 1: 4a-; r; r; 8r; 8a-;
+lyrics 1: "when";
+2 1: 8.g+c++; 16g+c++; g+c++; r; 8.g+c++; 16g+c++; g+c++; g+c++; 4r;
+2 2: 4.cgc+e+; 4.cgc+e+ slur; 4cgc+e+;
+3 1: 8c; c+; d+; e+; d+; c+; b; c+;
+bar
+1 1: 4c; b-; a-; 8g-; r;
+lyrics 1: "you call my acts";
+2 1: 8.f#+b+; 16f+b+; f+b+; r; 8.f+b+; 16f+b+; f+b+; f+b+; 4r;
+2 2: 4.b-ad+; 4.b-ad+ slur; 4b-ad+;
+3 1: 8b-; b; c+; d+; c+; b; a; b;
+bar
+1 1: 4c; 8b-; a; 4r; 8r; g-; 
+lyrics 1: "po-e-try and";
+2 1: 8.g+c++; 16g+c++; g+c++; r; 8.g+c++; 16g+c++; g+c++; g+c++; 4r;
+2 2: 4.cgc+e+; 4.cgc+e+ slur; 4cgc+e+;
+3 1: 8c; c+; d+; e+; d+; c+; b; c+;
+bar
+1 1: 4c; 4b-; 4a-; 8g-; c;
+lyrics 1: "I say I'm a ma-";
+2 1: 4eg#d+gn+; 2.eg#d+gn+;
+3 1: 8e+; d+; c+; b; c+; b; a; g;
+bar
+1 1: 4a-; 4r; 2r;
+lyrics 1: "ker";
+2 1: 8.e+a+; 16e+a+; e+a+; r; 8.e+a+; 16e+a+; e+a+; e+a+; 4r;
+2 2: 4.a-gc+; 4.a-gc+; 4a-gc+;
+3 1: 8c+; b; a; g; a; b; c+; d+;
+bar
+2 1: 8.f#+b+; 16f+b+; f+b+; r; 8.f+b+; 16f+b+; f+b+; f+b+; 4r;
+2 2: 4.b-ad+; 4.b-ad+ slur; 4b-ad+;
+3 1: 8e+; d+; c+; b; c+; d+; e+; f+;
+bar
+2 1: 8.g+c++; 16g+c++; g+c++; r; 8.g+c++; 16g+c++; g+c++; g+c++; 4r;
+2 2: 4.cgc+e+; 4.cgc+e+ slur; 4cgc+e+;
+3 1: 8g+; f+; e+; d+; c+; d+; e+; f+;
+bar
+1 1: 4c; 4b-; 4a-; 8g-; a-<>;
+lyrics 1: "Ma-king love for you";
+2 1: 4eg#d+gn+; 2.eg#d+gn+;
+3 1: 8e+; d+; c+; b; c+; b; a; g;
+bar
+1 1: 4a-; 4r; 2r;
+2 1: 8.e+a+; 16e+a+; e+a+; r; 8.e+a+; 16e+a+; e+a+; e+a+; 4r;
+2 2: 4.a-gc+; 4.a-gc+; 4a-gc+;
+3 1: 8c+; b; a; g; a; b; c+; d+;
+bar
+2 1: 8.f#+b+; 16f+b+; f+b+; r; 8.f+b+; 16f+b+; f+b+; f+b+; 4r;
+2 2: 4.b-ad+; 4.b-ad+ slur; 4b-ad+;
+3 1: 8e+; d+; c+; b; c+; d+; e+; f+;
+bar
+2 1: 8.g+c++; 16g+c++; g+c++; r; 8.g+c++; 16g+c++; g+c++; g+c++; 4r;
+2 2: 4.cgc+e+; 4.cgc+e+ slur; 4cgc+e+;
+3 1: 8g+; f+; e+; d+; c+; d+; e+; f+;
+bar
+1 1: 4c; 4b-; 4a-; 4g-;
+lyrics 1: "Ma-king love for";
+2 1: 4eg#d+gn+; 2.eg#d+gn+;
+3 1: 8e+; d+; c+; b; c+; b; a; g;
+bar
+// end fifth verse
+// ending
+1 1: 4a-; 4r; 2r;
+lyrics 1: "you";
+2 1: 8a-; ge+a+; ge+a+; r; 16c+e+g+c++; c+e+g+c++; c+e+g+c++; c+e+g+c++; 8c+e+g+c++; 8ebe+g+b+ slur;
+3 1: 8a; 16a; a; 8a; a; a-; e; c+; b<>;
+bar
+2 1: 8ebe+g+b+; ebe+g+b+; ebe+g+b+; 16ebe+g+b+; ebe+g+b+; 8ebe+g+b+; ebe+g+b+; 16ebe+g+b+; ebe+g+b+; 8ebe+g+b+;
+3 1: 8b; b; b; 16b; b; 8c+; b; a; a;
+bar
+2 1: 8a-; ge+a+; ge+a+; r; 16c+e+g+c++; c+e+g+c++; c+e+g+c++; c+e+g+c++; 8c+e+g+c++; 8ebe+g+b+ slur;
+3 1: 8a; 16a; a; 8a; a; a-; e; c+; b<>;
+bar
+2 1: 8ebe+g+b+; ebe+g+b+; ebe+g+b+; 16ebe+g+b+; ebe+g+b+; 8ebe+g+b+; ebe+g+b+; 16ebe+g+b+; ebe+g+b+; 8ebe+g+b+;
+3 1: 8b; b; b; 16b; b; 8c+; b; a; a;
+bar
+2 1: 8a-; ge+a+; ge+a+; r; 16c+e+g+c++; c+e+g+c++; c+e+g+c++; c+e+g+c++; 8c+e+g+c++; 8ebe+g+b+ slur;
+3 1: 8a; 16a; a; 8a; a; a-; e; c+; b<>;
+bar
+2 1: 8ebe+g+b+; ebe+g+b+; ebe+g+b+; 16ebe+g+b+; ebe+g+b+; 8e+g+b+; d+f+a+; 4c+e+g+;
+3 1: 8b; b; b; 16b; b; 8b; a; 4g;
+ital below 3: 3 "rit.";
+bar
+2 1: 8dad+f+; e+; d+; e+; 2egbe+;
+3 1: 8f; e; d; e; 2e;
+roll 2: 1; 3;
+ital below 3: 1 "original tempo";
+bar
+2 1: 8a-; a; 16b; c+; b; c+; 8e+; c+; 32b; c+; 16b; 8a;
+3 1: 1a-;
+bar
+2 1: 8b-; b; d#+; f+; g+; f+; d+; b;
+mussym above 2: 4.5 "ferm";
+3 1: 1b-;
+bar
+2 1: 8e; g; b; c+; b; a; g; f;
+3 1: 1e-;
+ital below 2: 1 "rit. poco a poco";
+bar
+2 1: 8e; g; b; c+; b; a; g; f;
+3 1: 1e-;
+bar
+2 1: 8e; g; b; c+; b; a; g; f;
+3 1: 1e-<>;
+bar
+2 1: 4e; d; 8e; g; 4f;
+3 1: 1e-<>;
+bar
+2 1: 2r; g+b+e++;
+2 2: 1e;
+roll 2: 3;
+ital above 2: 3 "harm.";
+3 1: 1e-;
+bar
+// end of "State of Grace"

@@ -1,0 +1,845 @@
+// This is the source file to the sheet music for 
+// Peter Saint-Andre's song "Emotional Crayola".
+//
+// I wrote the words and music for this song in 1990.
+//
+// Find out more about my music at http://music.stpeter.im/
+//
+// I have placed this song into the public domain; visit
+// http://stpeter.im/ for details.
+//
+// This file was originally created in February of 2001 
+// using Mup 4.1 for Linux, and subsequently corrected in
+// December of 2009 using Mupmate for Mac. Many thanks to
+// John and Bill of Arkkra Enterprises for their software;
+// visit http://arkkra.com/ for more information.
+//
+// Please note: Crayola is a registered trademark 
+// of Binney & Smith, Inc. The term is not yet
+// used here by permission; although I contacted
+// them about the matter many years ago, they
+// asked me for a recorded version in order to
+// determine whether they would grant permission
+// for me to use the term in this song. However,
+// I did not have a recorded version at that time
+// As soon as I make a recording of this song, I
+// will contact Binney & Smith again regarding 
+// permissions.
+//
+header
+	title (18) "Emotional Crayola"
+	title   ""   "Peter Saint-Andre"
+footer
+	title "This song is in the public domain. No rights reserved. (Crayola is a registered trademark of Binney & Smith, Inc.)"
+header2
+	title   "Emotional Crayola"   "Peter Saint-Andre"
+footer2
+	title "- \% -"
+score
+	time = 4/4
+	key = 2#
+	staffs = 3
+	clef = treble
+	vscheme = 2o
+        beamstyle = 2,2
+staff 3
+        clef = bass
+music
+// begin intro
+3 1: 2.r; 8r; f-;
+ital above 1: 1 "Moderately Slow";
+bar
+3 1: 4b-; d; 8c; e; r; f-;
+bar
+3 1: 4b-; d; 8c; f-; r; f-;
+bar
+3 1: 4b-; d; c; e;
+bar
+3 1: 8d; c; a-; 4b-; 8f-; r; f-;
+bar
+3 1: 4b-; d; 8c; e; r; f-;
+bar
+3 1: 4b-; d; 8c; f-; r; f-;
+bar
+3 1: 4b-; d; c; e;
+bar
+3 1: 8d; c; a-; 8b-<>; 2b-<>;
+bar
+3 1: 2b-<>; 8b-; a-; r; a-;
+bar
+// add in guitar
+2 1: 4b-; 8fbd+; fbd+; 4d; 8fad+; fad+;
+3 1: 4b-; g; f; e;
+bar
+2 1: 4c; 8g#c+e+; g#c+e+; 4f; 8a#e+f+; a#e+f+;
+3 1: f; e; d; 8c; f;
+bar
+2 1: 4b-; 8fbd+; fbd+; 4d; 8fad+; fad+;
+3 1: 4b-; g; f; 8e; d;
+bar
+2 1: 4cg#c+e+; eg#be+; 2fa#e+f+;
+3 1: e; fn; f#; f-;
+bar
+2 1: 4b-; 8fbd+; fbd+; 4d; 8fad+; fad+;
+3 1: 4b-; g; f; e;
+bar
+2 1: 4c; 8g#c+e+; g#c+e+; 4f; 8a#e+f+; a#e+f+;
+3 1: f; e; d; 8c; f;
+bar
+2 1: 4b-; 8fbd+; fbd+; 4d; 8fad+; fad+;
+3 1: 4b-; g; f; 8e; d;
+bar
+2 1: 4cg#c+e+; eg#be+; 8f; fa#e+f+; r; f;
+3 1: e; fn; 8f-; f#; r; f-;
+bar
+score
+	time = 5/4
+	key = 2#
+	staffs = 3
+	clef = treble
+	vscheme = 2o
+        beamstyle = 2,2,4
+staff 3
+        clef = bass
+music
+2 1: 8a#e+f+; r; fnane&+fn+; 4.f#a#en+f#+; 8f; fn+; e+; d+;
+3 1: 8f; r; fn; f#<>; 2.f;
+bar
+score
+	time = 4/4
+	key = 2#
+	staffs = 3
+	clef = treble
+	vscheme = 2o
+        beamstyle = 2,2
+staff 3
+        clef = bass
+music
+// begin first verse
+1 1: 4r; 8d; b-; d; b-; d; b-;
+lyrics 1: "Well, I star-ted with a";
+2 1: 4b-; 8fbd+; fbd+; 4d; 8fad+; fad+;
+3 1: 4b-; g; f; e;
+bar
+1 1: 4d; b-; 8a-; b-; b-; b-;
+lyrics 1: "piece of pa-per and a";
+2 1: 4c; 8g#c+e+; g#c+e+; 4f; 8a#e+f+; a#e+f+;
+3 1: f; e; d; 8c; f;
+bar
+1 1: 4d; b-; 8a-; b-; r; b-<>;
+lyrics 1: "pen-cil in my hand";
+2 1: 4b-; 8fbd+; fbd+; 4d; 8fad+; fad+;
+3 1: 4b-; g; f; 8e; d;
+bar
+1 1: 2b-; 2r;
+2 1: 4cg#c+e+; eg#be+; 2fa#e+f+;
+3 1: e; fn; f#; f-;
+bar
+1 1: 4r; 8d; b-; d; b-; d; b-;
+lyrics 1: "And I wa-ded in-to";
+2 1: 4b-; 8fbd+; fbd+; 4d; 8fad+; fad+;
+3 1: 4b-; g; f; e;
+bar
+1 1: 4d; b-; 8a-; b-; b-; b-;
+lyrics 1: "rep-re-sen-ting as I";
+2 1: 4c; 8g#c+e+; g#c+e+; 4f; 8a#e+f+; a#e+f+;
+3 1: f; e; d; 8c; f;
+bar
+1 1: 4d; 8b-; b-; a-; b-; a-; b-<>;
+lyrics 1: "saw it the lay of the land";
+2 1: 4b-; 8fbd+; fbd+; 4d; 8fad+; fad+;
+3 1: 4b-; g; f; 8e; d;
+bar
+1 1: 2b-; 4r; 8b-; b-;
+lyrics 1: "But the";
+2 1: 4cg#c+e+; eg#be+; 2fa#e+f+;
+3 1: e; fn; f#; f-;
+bar
+1 1: 4d; 8b-; b-; a-; b-; b-; b-;
+lyrics 1: "tools I was u-sing and i-";
+2 1: 4b-; 8fbd+; fbd+; 4d; 8fad+; fad+;
+3 1: 4b-; g; f; e;
+bar
+1 1: 4d; {8b-; b-; b-;}3; 8a-; b-; b-; b-;
+lyrics 1: "deas I was a-bu-sing they were";
+2 1: 4c; 8g#c+e+; g#c+e+; 4f; 8a#e+f+; a#e+f+;
+3 1: f; e; d; 8c; f;
+bar
+1 1: 4d; b-; 8a-; b-; r; b-<>;
+lyrics 1: "on-ly black and white";
+2 1: 4b-; 8fbd+; fbd+; 4d; 8fad+; fad+;
+3 1: 4b-; g; f; 8e; d;
+bar
+1 1: 2b-; 4r; 8b-; b-;
+lyrics 1: "And with";
+2 1: 4cg#c+e+; eg#be+; 2fa#e+f+;
+3 1: e; fn; f#; f-;
+bar
+1 1: 8d; d; 4b-; 8a-; b-; b-; b-;
+lyrics 1: "on-ly two co-lors in my";
+2 1: 4b-; 8fbd+; fbd+; 4d; 8fad+; fad+;
+3 1: 4b-; g; f; e;
+bar
+1 1: 8d; b-; a-; b-; 4r; 8b-; b-;
+lyrics 1: "pic-ture of life well you";
+2 1: 4c; 8g#c+e+; g#c+e+; 4f; 8a#e+f+; a#e+f+;
+3 1: f; e; d; 8c; f;
+bar
+1 1: 8d; d; b-; b-; 8a-; b-; a-; b-<>;
+lyrics 1: "know it was-n't much of a sight";
+2 1: 4b-; 8fbd+; fbd+; 4d; 8fad+; fad+;
+3 1: 4b-; g; f; 8e; d;
+bar
+1 1: 2b-; 2r;
+2 1: 4cg#c+e+; eg#be+; 2fa#e+f+;
+3 1: e; fn; f#; f-;
+bar
+// end first verse
+// begin second verse
+1 1: 8r; b-; d; b-; d; b-; d; b-;
+lyrics 1: "But then I found my-self a";
+2 1: 4b-; 8bd+f+; bd+f+; 4d; 8ad+f+; ad+f+;
+3 1: 4b-; g; f; e;
+bar
+1 1: 4d; b-; 8a-; b-; b-; b-;
+lyrics 1: "box of cray-ons and I";
+2 1: 4c; 8c+e+g#+; c+e+g#+; 4f; 8c+e+a#+; c+e+a#+;
+3 1: f; e; d; 8c; f;
+bar
+1 1: 4d; b-; 8a-; b-; a-; b-<>;
+lyrics 1: "star-ted col-or-ing in";
+2 1: 4b-; 8bd+f+; bd+f+; 4d; 8ad+f+; ad+f+;
+3 1: 4b-; g; f; 8e; d;
+bar
+1 1: 2b-; 2r;
+2 1: 4c; 8c+e+g#+; c+e+g#+; 4f; 8c+e+a#+; c+e+a#+;
+3 1: e; fn; f#; f-;
+bar
+1 1: 4r; 8d; b-; 4d; 8d; b-;
+lyrics 1: "Tool-ing through and e-";
+2 1: 4b-; 8bd+f+; bd+f+; 4d; 8ad+f+; ad+f+;
+3 1: 4b-; g; f; e;
+bar
+1 1: 4d; 8b-; 4a-; 8b-; b-; b-;
+lyrics 1: "ra-sing out-lines just as";
+2 1: 4c; 8c+e+g#+; c+e+g#+; 4f; 8c+e+a#+; c+e+a#+;
+3 1: f; e; d; 8c; f;
+bar
+1 1: 4d; 8b-; b-; a-; b-; a-; b-<>;
+lyrics 1: "sure as I'd pen-cilled 'em in";
+2 1: 4b-; 8bd+f+; bd+f+; 4d; 8ad+f+; ad+f+;
+3 1: 4b-; g; f; 8e; d;
+bar
+1 1: 2b-; 4r; 4b-;
+lyrics 1: "Got";
+2 1: 4c; 8c+e+g#+; c+e+g#+; 4f; 8c+e+a#+; c+e+a#+;
+3 1: e; fn; f#; f-;
+bar
+1 1: 8d; d; 4b-; 8a-; b-; b-; b-; 
+lyrics 1: "rid of them bor-ders be-tween";
+2 1: 4b-; 8bd+f+; bd+f+; 4d; 8ad+f+; ad+f+;
+3 1: 4b-; g; f; e;
+bar
+1 1: 8d; d; b-; b-; a-; b-; b-; b-;
+lyrics 1: "me and o-ther peo-ple and I";
+2 1: 4c; 8c+e+g#+; c+e+g#+; 4f; 8c+e+a#+; c+e+a#+;
+3 1: f; e; d; 8c; f;
+bar
+1 1: 8d; d; b-; b-; 4r; 16b-; a-; 8b-<>;
+lyrics 1: "thought it made things pre-tty clear";
+2 1: 4b-; 8bd+f+; bd+f+; 4d; 8ad+f+; ad+f+;
+3 1: 4b-; g; f; 8e; d;
+bar
+1 1: 2b-; 4r; 8b-; b-;
+lyrics 1: "but with";
+2 1: 4c; 8c+e+g#+; c+e+g#+; 4f; 8c+e+a#+; c+e+a#+;
+3 1: e; fn; f#; f-;
+bar
+1 1: 8d; d; 4b-; 8a-; b-; b-; b-;
+lyrics 1: "on-ly eight cray-ons in my";
+2 1: 4b-; 8bd+f+; bd+f+; 4d; 8ad+f+; ad+f+;
+3 1: 4b-; g; f; e;
+bar
+1 1: 8d; 4b-; b-; 8r; b-; b-;
+lyrics 1: "star-ter set well you";
+2 1: 4c; 8c+e+g#+; c+e+g#+; 4f; 8c+e+a#+; c+e+a#+;
+3 1: f; e; d; 8c; f;
+bar
+1 1: 8d; d; b-; b-; a-; b-; a-; b-<>;
+lyrics 1: "know I came a li-ttle too near";
+2 1: 4b-; 8bd+f+; bd+f+; 4d; 8ad+f+; ad+f+;
+3 1: 4b-; g; f; 8e; d;
+bar
+1 1: 2b-; 2r;
+2 1: 4c; 8c+e+g#+; c+e+g#+; 4f; 8c+e+a#+; r;
+3 1: e; fn; 4.f#; 8fn;
+bar
+// end second verse
+// begin first chorus
+1 1: 8r; b-; g; 4.g; 8g; f<>;
+lyrics 1: "To throw-ing my life";
+2 1: 4e; 8bd+g+; bd+g+; 4e; bd+g+;
+3 1: 4e; g; f; e;
+bar
+1 1: 4f; 16e<>; 16d; 4.d; 8e; d; 
+lyrics 1: "a-way on a";
+2 1: 4a-; 8gc+e+; gc+e+; 4a-; gc+e+;
+3 1: 4d; c; b-; c;
+bar
+1 1: 8e; d; e; d; e; d; r; f; 
+lyrics 1: "pic-ture'd ne-ver be com-plete"; 
+2 1: 4d; 8ac+f+; ac+f+; 4d; ac+f+;
+3 1: 4d; f; d; a-;
+bar
+1 1: 1r;
+2 1: 4d#; 8acn+f+; ac+f+; {8d#; a; c+; f+; c+; a;}6;
+3 1: 4d#; f; d; b-;
+bar
+1 1: 4r; 8g; g; g; g; g; g;
+lyrics 1: "Be-ing lim-i-ted and";
+2 1: 4e; 8bd+g+; bd+g+; 4e; bd+g+;
+3 1: 4e; g; f; e;
+bar
+1 1: 4f; 8e; e; d; d; e; d; 
+lyrics 1: "burned by the know-ledge and the";
+2 1: 4a-; 8gc+e+; gc+e+; 4a-; gc+e+;
+3 1: 4d; c; b-; c;
+bar
+1 1: 8e; d; e; d; e; d; e; f; 
+lyrics 1: "wis-dom I'd just happ-ened to meet";
+2 1: 4d; 8ac+f+; ac+f+; 4d; ac+f+;
+3 1: 4d; f; d; a-;
+bar
+1 1: 2r; 4r; 8f; g<>;
+lyrics 1: "re-strict-";
+2 1: 4d#; 8acn+f+; ac+f+; {8d#; a; c+; f+; c+; a;}6;
+3 1: 4d#; f; d; b-;
+bar
+1 1: 8g; g; 4g; 8g; g; g; f<>;
+lyrics 1: "ing my vi-sion and ma-";
+2 1: 4e; 8bd+g+; bd+g+; 4e; bd+g+;
+3 1: 4e; g; f; e;
+bar
+1 1: 8f; f; e; e; d; d; e; d; 
+lyrics 1: "king my de-ci-sions with an";
+2 1: 4a-; 8gc+e+; gc+e+; 4a-; gc+e+;
+3 1: 4d; c; b-; c;
+bar
+1 1: 4e; 8e; d; e; d; r; f; 
+lyrics 1: "eight co-lor view of life";
+2 1: 4d; 8ac+f+; ac+f+; 4d; ac+f+;
+3 1: 4d; f; d; a-;
+bar
+1 1: 2r; 4r; 8f; f;
+lyrics 1: "Well I";
+2 1: 4d#; 8acn+f+; ac+f+; {8d#; a; c+; f+; c+; a;}6;
+3 1: 4d#; f; d; b-;
+bar
+1 1: 8g; g; g; g; g; g; g; g;
+lyrics 1: "thought that I was rea-dy but my";
+2 1: 4e; 8bd+g+; bd+g+; 4e; bd+g+;
+3 1: 4e; g; f; e;
+bar
+1 1: 8f; f; e; e; d; d; e; d; 
+lyrics 1: "rea-son it was stea-dy so I";
+2 1: 4a-; 8gc+e+; gc+e+; 4a-; gc+e+;
+3 1: 4d; c; b-; c;
+bar
+1 1: 8e; d; 4e; 8e; d; fn; f#<>;
+lyrics 1: "hit the store loo-king for more"; 
+2 1: 4dac+f+; d#acn+f+; ebd+g+; 8fnac#+fn+; f#a#d+f#+; 
+3 1: 4d; d#; e; 8fn; f#;
+bar
+1 1: 1f;
+2 1: 8f; fa#d+f+; r; f; fad+f+; r; f; fad+an+ slur; 
+3 1: 8f-; f; r; f-; f; r; f; f#<>;
+bar
+1 1: 8r; f-; fn; e; f<>; e; d; d;
+lyrics 1: "E-mo-tion-al cray-ol-";
+2 1: 1fad+a+;
+3 1: 1f;
+bar
+1 1: 8b-; 8r; 4r; 2r;
+lyrics 1: "as";
+2 1: 4b-; 8fbd+; fbd+; 4d; 8fad+; fad+;
+3 1: 4b-; g; f; e;
+bar
+2 1: 4c; 8g#c+e+; g#c+e+; 4f; 8a#e+f+; a#e+f+;
+3 1: f; e; d; 8c; f;
+bar
+2 1: 4b-; 8fbd+; fbd+; 4d; 8fad+; fad+;
+3 1: 4b-; g; f; 8e; d;
+bar
+1 1: 8r; f-; fn; e; f<>; e; d; d;
+lyrics 1: "E-mo-tion-al cray-ol-";
+2 1: 4cg#c+e+; eg#be+; 2fa#e+f+;
+3 1: e; fn; f#; f-;
+bar
+1 1: 8b-; 8r; 4r; 2r;
+lyrics 1: "as";
+2 1: 4b-; 8fbd+; fbd+; 4d; 8fad+; fad+;
+3 1: 4b-; g; f; e;
+bar
+2 1: 4c; 8g#c+e+; g#c+e+; 4f; 8a#e+f+; a#e+f+;
+3 1: f; e; d; 8c; f;
+bar
+2 1: 4b-; 8fbd+; fbd+; 4d; 8fad+; fad+;
+3 1: 4b-; g; f; 8e; d;
+bar
+2 1: 4cg#c+e+; eg#be+; 8f; fa#e+f+; r; f;
+3 1: e; fn; 8f-; f#; r; f-;
+bar
+score
+	time = 5/4
+	key = 2#
+	staffs = 3
+	clef = treble
+	vscheme = 2o
+        beamstyle = 2,2,4
+staff 3
+        clef = bass
+music
+2 1: 8a#e+f+; r; fnane&+fn+; 4.f#a#en+f#+; 8f; fn+; e+; d+;
+3 1: 8f; r; fn; f#<>; 2.f;
+bar
+score
+	time = 4/4
+	key = 2#
+	staffs = 3
+	clef = treble
+	vscheme = 2o
+        beamstyle = 2,2
+staff 3
+        clef = bass
+music
+// end first chorus
+// begin third verse
+1 1: 8r; b-; d; b-; d; b-; d; b-;
+lyrics 1: "But then I found my-self a";
+2 1: 4b-; 8fbd+; fbd+; 4d; 8fad+; fad+;
+3 1: 4b-; g; f; e;
+bar
+1 1: 8d; d; b-; b-; {8a-; b-; b-;}3; 8b-; b-;
+lyrics 1: "big-ger box of cray-ons you know it";
+2 1: 4c; 8g#c+e+; g#c+e+; 4f; 8a#e+f+; a#e+f+;
+3 1: f; e; d; 8c; f;
+bar
+1 1: 8d; d; b-; b-; a-; b-; r; b-<>;
+lyrics 1: "mus-t've been a twen-ty four";
+2 1: 4b-; 8fbd+; fbd+; 4d; 8fad+; fad+;
+3 1: 4b-; g; f; 8e; d;
+bar
+1 1: 2b-; 2r;
+2 1: 4cg#c+e+; eg#be+; 2fa#e+f+;
+3 1: e; fn; f#; f-;
+bar
+1 1: 4r; 8d; b-; d; b-; d; b-;
+lyrics 1: "And I star-ted see-ing";
+2 1: 4b-; 8fbd+; fbd+; 4d; 8fad+; fad+;
+3 1: 4b-; g; f; e;
+bar
+1 1: 8d; d; b-; b-; a-; b-; b-; b-;
+lyrics 1: "co-lors in the pic-ture that I";
+2 1: 4c; 8g#c+e+; g#c+e+; 4f; 8a#e+f+; a#e+f+;
+3 1: f; e; d; 8c; f;
+bar
+1 1: 8d; d; b-; b-; fn<>; e; d; e<>;
+lyrics 1: "ne-ver coul-d've seen be-fore";
+2 1: 4b-; 8fbd+; fbd+; 4d; 8fad+; fad+;
+3 1: 4b-; g; f; 8e; d;
+bar
+1 1: 2e; 2r; 
+2 1: 4c; 8g#c+e+; g#c+e+; 4f; 8a#e+f+; a#e+f+;
+3 1: e; fn; f#; f-;
+bar
+1 1: 4r; d; d; d; 
+lyrics 1: "right then right";
+2 1: 4b-; 8bd+f+; bd+f+; 4d; 8ad+f+; ad+f+;
+3 1: 4b-; g; f; e;
+bar
+1 1: 4d; 8b-; b-; a-; b-; b-; b-;
+lyrics 1: "there I was rea-dy to be";
+2 1: 4c; 8c+e+g#+; c+e+g#+; 4f; 8c+e+a#+; c+e+a#+;
+3 1: f; e; d; 8c; f;
+bar
+1 1: 8d; d; b-; b-; a-; b-; a-; b-<>;
+lyrics 1: "pain-ting for the rest of my life";
+2 1: 4b-; 8bd+f+; bd+f+; 4d; 8ad+f+; ad+f+;
+3 1: 4b-; g; f; 8e; d;
+bar
+1 1: 2b-; 2r;
+2 1: 4c; 8c+e+g#+; c+e+g#+; 4f; 8c+e+a#+; c+e+a#+;
+3 1: e; fn; f#; f-;
+bar
+1 1: 8r; b-; d; b-; d; b-; d; b-;
+lyrics 1: "cre-at-ing pic-ture af-ter";
+2 1: 4b-; 8bd+f+; bd+f+; 4d; 8ad+f+; ad+f+;
+3 1: 4b-; g; f; e;
+bar
+1 1: 8d; d; b-; b-; a-; b-; r; d<>;
+lyrics 1: "pic-ture in a sit-u-a-";
+2 1: 4c; 8c+e+g#+; c+e+g#+; 4f; 8c+e+a#+; c+e+a#+;
+3 1: f; e; d; 8c; f;
+bar
+1 1: 8d; d; b-; b-; a-; b-; r; b-<>;
+lyrics 1: "ation that was full of strife";
+2 1: 4b-; 8bd+f+; bd+f+; 4d; 8ad+f+; ad+f+;
+3 1: 4b-; g; f; 8e; d;
+bar
+1 1: 2b-; 2r;
+2 1: 4c; 8c+e+g#+; c+e+g#+; 4f; 8c+e+a#+; r;
+3 1: e; fn; 4.f#; 8fn;
+bar
+// end third verse
+// begin second chorus
+1 1: 4r; 8g; 4.g; 8g; f<>;
+lyrics 1: "Throw-ing my life";
+2 1: 4e; 8bd+g+; bd+g+; 4e; bd+g+;
+3 1: 4e; g; f; e;
+bar
+1 1: 4f; 16e<>; 16d; 4.d; 8e; d; 
+lyrics 1: "a-way on a";
+2 1: 4a-; 8gc+e+; gc+e+; 4a-; gc+e+;
+3 1: 4d; c; b-; c;
+bar
+1 1: 8e; d; e; d; e; d; r; f; 
+lyrics 1: "pic-ture'd ne-ver be com-plete"; 
+2 1: 4d; 8ac+f+; ac+f+; 4d; ac+f+;
+3 1: 4d; f; d; a-;
+bar
+1 1: 1r;
+2 1: 4d#; 8acn+f+; ac+f+; {8d#; a; c+; f+; c+; a;}6;
+3 1: 4d#; f; d; b-;
+bar
+1 1: 4r; 8g; g; g; g; g; g;
+lyrics 1: "Be-ing lim-i-ted and";
+2 1: 4e; 8bd+g+; bd+g+; 4e; bd+g+;
+3 1: 4e; g; f; e;
+bar
+1 1: 4f; 8e; e; d; d; e; d; 
+lyrics 1: "burned by the know-ledge and the";
+2 1: 4a-; 8gc+e+; gc+e+; 4a-; gc+e+;
+3 1: 4d; c; b-; c;
+bar
+1 1: 8e; d; e; d; e; d; e; f; 
+lyrics 1: "wis-dom I'd just happ-ened to meet";
+2 1: 4d; 8ac+f+; ac+f+; 4d; ac+f+;
+3 1: 4d; f; d; a-;
+bar
+1 1: 2r; 4r; 8f; g<>;
+lyrics 1: "re-strict-";
+2 1: 4d#; 8acn+f+; ac+f+; {8d#; a; c+; f+; c+; a;}6;
+3 1: 4d#; f; d; b-;
+bar
+1 1: 8g; g; 4g; 8g; g; g; f<>;
+lyrics 1: "ing my vi-sion and ma-";
+2 1: 4e; 8bd+g+; bd+g+; 4e; bd+g+;
+3 1: 4e; g; f; e;
+bar
+1 1: 8f; f; e; e; d; d; e; d; 
+lyrics 1: "king my de-ci-sions with a";
+2 1: 4a-; 8gc+e+; gc+e+; 4a-; gc+e+;
+3 1: 4d; c; b-; c;
+bar
+1 1: 8e; d; e; d; e; d; r; f; 
+lyrics 1: "twen-ty co-lor view of life";
+2 1: 4d; 8ac+f+; ac+f+; 4d; ac+f+;
+3 1: 4d; f; d; a-;
+bar
+1 1: 2r; 4r; 8f; f;
+lyrics 1: "Well I";
+2 1: 4d#; 8acn+f+; ac+f+; {8d#; a; c+; f+; c+; a;}6;
+3 1: 4d#; f; d; b-;
+bar
+1 1: 8g; g; g; g; g; g; g; g;
+lyrics 1: "thought that I was rea-dy but my";
+2 1: 4e; 8bd+g+; bd+g+; 4e; bd+g+;
+3 1: 4e; g; f; e;
+bar
+1 1: 8f; f; e; e; d; d; e; d; 
+lyrics 1: "rea-son it was stea-dy so I";
+2 1: 4a-; 8gc+e+; gc+e+; 4a-; gc+e+;
+3 1: 4d; c; b-; c;
+bar
+1 1: 8e; d; 4e; 8e; d; fn; f#<>;
+lyrics 1: "hit the store loo-king for more"; 
+2 1: 4dac+f+; d#acn+f+; ebd+g+; 8fnac#+fn+; f#a#d+f#+; 
+3 1: 4d; d#; e; 8fn; f#;
+bar
+1 1: 1f;
+2 1: 8f; fa#d+f+; r; f; fad+f+; r; f; fad+an+ slur; 
+3 1: 8f-; f; r; f-; f; r; fn; f#<>;
+bar
+1 1: 8r; f-; fn; e; f<>; e; d; d;
+lyrics 1: "E-mo-tion-al cray-ol-";
+2 1: 1fad+a+;
+3 1: 1f;
+bar
+1 1: 8b-; 8r; 4r; 2r;
+lyrics 1: "as";
+2 1: 4b-; 8fbd+; fbd+; 4d; 8fad+; fad+;
+3 1: 4b-; g; f; e;
+bar
+2 1: 4c; 8g#c+e+; g#c+e+; 4f; 8a#e+f+; a#e+f+;
+3 1: f; e; d; 8c; f;
+bar
+2 1: 4b-; 8fbd+; fbd+; 4d; 8fad+; fad+;
+3 1: 4b-; g; f; 8e; d;
+bar
+1 1: 8r; f-; fn; e; f<>; e; d; d;
+lyrics 1: "E-mo-tion-al cray-ol-";
+2 1: 4cg#c+e+; eg#be+; 2fa#e+f+;
+3 1: e; fn; f#; f-;
+bar
+1 1: 8b-; 8r; 4r; 2r;
+lyrics 1: "as";
+2 1: 4b-; 8fbd+; fbd+; 4d; 8fad+; fad+;
+3 1: 4b-; g; f; e;
+bar
+2 1: 4c; 8g#c+e+; g#c+e+; 4f; 8a#e+f+; a#e+f+;
+3 1: f; e; d; 8c; f;
+bar
+2 1: 4b-; 8fbd+; fbd+; 4d; 8fad+; fad+;
+3 1: 4b-; g; f; 8e; d;
+bar
+2 1: 4cg#c+e+; eg#be+; 8f; a#e+f+; r; f;
+3 1: e; fn; 8f-; f#; r; f-;
+bar
+score
+	time = 5/4
+	key = 2#
+	staffs = 3
+	clef = treble
+	vscheme = 2o
+        beamstyle = 2,2,4
+staff 3
+        clef = bass
+music
+2 1: 8a#e+f+; r; f; 4.aen+an+; 8f; aen+a+<>; 4b+;
+3 1: 8f; r; f-; 4.f<>; 2f; 
+bar rehearsal mnum
+score
+	time = 4/4
+	key = 2#
+	staffs = 3
+	clef = treble
+	vscheme = 2o
+        beamstyle = 2,2
+staff 3
+        clef = bass
+music
+// end second chorus
+// begin third verse
+// new bass pattern
+1 1: 8r; b-; b; a; {8f<>; e<>; d;}3; e; d;
+lyrics 1: "But now I know that I've";
+2 1: 4b-; 8d+f+b+; d+f+b+; 4d; 8d+f+a+; d+f+a+; 
+3 1: 4b-; 8f; e; 4d; 8c; b-;
+bar
+1 1: 8e; d; e; d; e; d; e; d;
+lyrics 1: "got my-self the bi-ggest set of";
+2 1: 4c; 8c+e+g#+; c+e+g#+; 4f; 8c+e+a#+; c+e+a#+;
+3 1: 4c; e; f; f-; 
+bar
+1 1: 8e; d; e; d; e; d; e; f<>;
+lyrics 1: "cray-ons time and mo-ney can buy";
+2 1: 4b-; 8d+f+b+; d+f+b+; 4d; 8d+f+a+; d+f+a+; 
+3 1: 4b-; 8f; e; 4d; 8c; b-;
+bar
+1 1: 4f; 4r; 2r;
+2 1: 4c; 8c+e+g#+; c+e+g#+; 4f; 8c+e+a#+; c+e+a#+;
+3 1: 8c; f-; r; f-; 4f-; a-;
+bar
+1 1: 8r; b-; e; d; e; d; r; b-;
+lyrics 1: "I'm see-ing co-lors like";
+2 1: 4b-; 8d+f+b+; d+f+b+; 4d; 8d+f+a+; d+f+a+; 
+3 1: 4b-; 8f; e; 4d; 8c; b-;
+bar
+1 1: 8e; d; e; d; {4e; e; e;}3; 
+lyrics 1: "se-pi-as and um-bers well";
+2 1: 4c; 8c+e+g#+; c+e+g#+; 4f; 8c+e+a#+; c+e+a#+;
+3 1: 4c; e; f; f-; 
+bar
+1 1: [with >] 8e; [with >] e; {8d; e; d;}3; [with >] 8e; [with >] e; r; d<>;
+lyrics 1: "dar-ling you know it ain't no lie";
+2 1: 4b-; 8d+f+b+; d+f+b+; 4d; 8d+f+a+; d+f+a+; 
+3 1: 4b-; 8f; e; 4d; 8c; b-;
+bar
+1 1: 4d; 4r; 8r; e; e; d;
+lyrics 1: "when I say";
+2 1: 4c; 8c+e+g#+; c+e+g#+; 4f; 8c+e+a#+; c+e+a#+;
+3 1: 8c; f-; r; f-; 4f-; a-;
+bar
+1 1: 4e; 8e; d; 4e; 8e; d;
+lyrics 1: "this is the way that I'd";
+2 1: 4b-; 8d+f+b+; d+f+b+; 4d; 8d+f+a+; d+f+a+; 
+3 1: 4b-; 8f; e; 4d; 8c; b-;
+bar
+1 1: 8e; d; e; d; e; d; e; d;
+lyrics 1: "hoped the pic-ture'd look from way be-";
+2 1: 4c; 8c+e+g#+; c+e+g#+; 4f; 8c+e+a#+; c+e+a#+;
+3 1: 4c; e; f; f-; 
+bar
+1 1: 8e; d; e; d; e; d; e; 16e<>; d<>;
+lyrics 1: "fore I'd e-ven star-ted to draw";
+2 1: 4b-; 8d+f+b+; d+f+b+; 4d; 8d+f+a+; d+f+a+; 
+3 1: 4b-; 8f; e; 4d; 8c; b-;
+bar
+1 1: 4b-; 4r; 4r; 8r; 8e;
+lyrics 1: "but";
+2 1: 4c; 8c+e+g#+; c+e+g#+; 4f; 8c+e+a#+; c+e+a#+;
+3 1: 8c; f-; r; f-; 4f-; a-;
+bar
+1 1: 8e; d; e; d; e; d; e; d;
+lyrics 1: "in the glo-ry that I'm see-ing";
+2 1: 4b-; 8d+f+b+; d+f+b+; 4d; 8d+f+a+; d+f+a+; 
+3 1: 4b-; 8f; e; 4d; 8c; b-;
+bar
+1 1: 8e; d; 4e; 8e; d; e; d;
+lyrics 1: "and the joy in my be-ing";
+2 1: 4c; 8c+e+g#+; c+e+g#+; 4f; 8c+e+a#+; c+e+a#+;
+3 1: 4c; e; f; f-; 
+bar
+1 1: 8e; d; e; d; e; d; e; d;
+lyrics 1: "there's a rap-ture that I ne-ver";
+2 1: 4b-; 8d+f+b+; d+f+b+; 4d; 8d+f+a+; d+f+a+; 
+3 1: 4b-; 8f; e; 4d; 8c; b-;
+bar
+1 1: 8e; 2f; 8f; f; 16fn<>; e;
+lyrics 1: "fore-saw while I was";
+2 1: 4c; 8c+e+g#+; c+e+g#+; 4f; 8c+e+a#+; fn;
+3 1: 4c; f; fn; e; 
+bar
+// end third verse
+// begin third and final chorus
+1 1: 4r; 8g; 4.g; 8g; f<>;
+lyrics 1: "throw-ing my life";
+2 1: 4e; 8bd+g+; bd+g+; 4e; bd+g+;
+3 1: 4e; g; f; e;
+bar
+1 1: 4f; 16e<>; 16d; 4.d; 8e; d; 
+lyrics 1: "a-way on a";
+2 1: 4a-; 8gc+e+; gc+e+; 4a-; gc+e+;
+3 1: 4d; c; b-; c;
+bar
+1 1: 8e; d; e; d; e; d; r; f; 
+lyrics 1: "pic-ture'd ne-ver be com-plete"; 
+2 1: 4d; 8ac+f+; ac+f+; 4d; ac+f+;
+3 1: 4d; f; d; a-;
+bar
+1 1: 1r;
+2 1: 4d#; 8acn+f+; ac+f+; {8d#; a; c+; f+; c+; a;}6;
+3 1: 4d#; f; d; b-;
+bar
+1 1: 4r; 8g; g; g; g; g; g;
+lyrics 1: "Be-ing lim-i-ted and";
+2 1: 4e; 8bd+g+; bd+g+; 4e; bd+g+;
+3 1: 4e; g; f; e;
+bar
+1 1: 4f; 8e; e; d; d; e; d; 
+lyrics 1: "burned by the know-ledge and the";
+2 1: 4a-; 8gc+e+; gc+e+; 4a-; gc+e+;
+3 1: 4d; c; b-; c;
+bar
+1 1: 8e; d; e; d; e; d; e; f; 
+lyrics 1: "wis-dom I'd just happ-ened to meet";
+2 1: 4d; 8ac+f+; ac+f+; 4d; ac+f+;
+3 1: 4d; f; d; a-;
+bar
+1 1: 2r; 4r; 8f; g<>;
+lyrics 1: "re-strict-";
+2 1: 4d#; 8acn+f+; ac+f+; {8d#; a; c+; f+; c+; a;}6;
+3 1: 4d#; f; d; b-;
+bar
+1 1: 8g; g; 4g; 8g; g; g; f<>;
+lyrics 1: "ing my vi-sion and ma-";
+2 1: 4e; 8bd+g+; bd+g+; 4e; bd+g+;
+3 1: 4e; g; f; e;
+bar
+1 1: 8f; f; e; e; d; d; e; d; 
+lyrics 1: "king my de-ci-sions with a";
+2 1: 4a-; 8gc+e+; gc+e+; 4a-; gc+e+;
+3 1: 4d; c; b-; c;
+bar
+1 1: 8e; d; e; d; e; d; r; f; 
+lyrics 1: "dou-ble di-git view of life";
+2 1: 4d; 8ac+f+; ac+f+; 4d; ac+f+;
+3 1: 4d; f; d; a-;
+bar
+1 1: 2r; 4r; 8f; f;
+lyrics 1: "Well I";
+2 1: 4d#; 8acn+f+; ac+f+; {8d#; a; c+; f+; c+; a;}6;
+3 1: 4d#; f; d; b-;
+bar
+1 1: 8g; g; g; g; g; g; g; g;
+lyrics 1: "thought that I was li-ving but the";
+2 1: 4e; 8bd+g+; bd+g+; 4e; bd+g+;
+3 1: 4e; g; f; e;
+bar
+1 1: 8f; f; e; e; d; d; e; d; 
+lyrics 1: "co-lors that you're gi-ving make me";
+2 1: 4a-; 8gc+e+; gc+e+; 4a-; gc+e+;
+3 1: 4d; c; b-; c;
+bar
+1 1: 8e; d; e; d; e; d; fn; f#<>;
+lyrics 1: "see what I was mi-ssing be-fore"; 
+2 1: 4dac+f+; d#acn+f+; ebd+g+; 8fnac#+fn+; f#a#d+f#+; 
+3 1: 4d; d#; e; 8fn; f#;
+bar
+1 1: 1f;
+2 1: 8f; fa#d+f+; r; f; fad+f+; r; f; fad+an+ slur; 
+3 1: 8f-; f; r; f-; f; r; fn; f#<>;
+bar
+1 1: 8r; f-; fn; e; f<>; e; d; d;
+lyrics 1: "E-mo-tion-al cray-ol-";
+2 1: 1fad+a+;
+3 1: 1f;
+bar
+1 1: 8b-; 8r; 4r; 2r;
+lyrics 1: "as";
+2 1: 4b-; 8d+f+b+; d+f+b+; 4d; 8d+f+a+; d+f+a+; 
+3 1: 4b-; 8f; e; 4d; 8c; b-;
+bar
+2 1: 4c; 8c+e+g#+; c+e+g#+; 4f; 8c+e+a#+; c+e+a#+;
+3 1: 4c; e; f; f-; 
+bar
+2 1: 4b-; 8d+f+b+; d+f+b+; 4d; 8d+f+a+; d+f+a+; 
+3 1: 4b-; 8f; e; 4d; 8c; b-;
+bar
+1 1: 8r; f-; fn; e; f<>; e; d; d;
+lyrics 1: "E-mo-tion-al cray-ol-";
+2 1: 4c; 8c+e+g#+; c+e+g#+; 4f; 8c+e+a#+; c+e+a#+;
+3 1: 8c; f-; r; f-; 4f-; a-;
+bar
+1 1: 8b-; 8r; 4r; 2r;
+lyrics 1: "as";
+2 1: 4b-; 8d+f+b+; d+f+b+; 4d; 8d+f+a+; d+f+a+; 
+3 1: 4b-; 8f; e; 4d; 8c; b-;
+bar
+2 1: 4c; 8c+e+g#+; c+e+g#+; 4f; 8c+e+a#+; c+e+a#+;
+3 1: 4c; e; f; f-; 
+bar
+2 1: 4b-; 8d+f+b+; d+f+b+; 4d; 8d+f+a+; d+f+a+; 
+3 1: 4b-; 8f; e; 4d; 8c; b-;
+bar
+1 1: 8r; f-; 2fn; 8e; d;
+lyrics 1: "E-mo-tion-ol-";
+2 1: 4c; 8c+e+g#+; c+e+g#+; 4f; 8c+e+a#+; c+e+a#+;
+3 1: 8c; f-; r; f-; 4f-; a-;
+bar
+1 1: 8b-; 8r; 4r; 2r;
+lyrics 1: "a";
+2 1: 4b-; 8d+f+b+; d+f+b+; 4d; 8d+f+a+; d+f+a+; 
+3 1: 4b-; b; a; g;
+bar
+2 1: 4c; 8c+e+g#+; c+e+g#+; 4f; 8c+e+a#+; c+e+a#+;
+3 1: 4f; e; d; c; 
+bar
+2 1: 8b-; d+f+b+; r; b-; d+f+b+; r; b-; d+f+b+ slur; 
+3 1: 8b-; b; r; b-; b; r; b-; b<>;
+bar
+2 1: 4.d+f+b+; 8b-d+f+c++ slur; 2b-d+f+c++; 
+3 1: 1b;
+roll 2: 2;
+bar
+// end of "Emotional Crayola"

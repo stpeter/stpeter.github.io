@@ -1,0 +1,14 @@
+<journal>
+<header><title>Process Improvement</title><date>2004-07-19</date></header>
+<entry>
+    <p>As noted, <a href="555.html">mantra #2</a> is now to write more code and fewer specs. The code I've been working on for the last few days consists of Python scripts that will help me work more efficiently. The first script handles all the niceties involved in publishing a <a href="http://www.jabber.org/jeps/">Jabber Enhancment Proposal</a>; based on metadata in the JEP XML file format, the script does the following:</p>
+    <ol>
+      <li>automatically generates a message to the <a href="http://www.jabber.org/mailman/listinfo/standards-jig/">Standards-JIG list</a> (done)</li>
+      <li>inserts or updates JEP data in a database, whence the <a href="http://www.jabber.org/jeps/jeplist.php">JEP list</a> and content feeds (<a href="http://www.jabber.org/jeps/atom.xml">ATOM</a> | <a href="http://www.jabber.org/jeps/rss.xml">RSS</a>) are generated (in progress)</li>
+      <li>publishes an event, with payload, to pubsub.jabber.org (planned)</li>
+    </ol>
+    <p>Other scripts on the drawing board will automagically gather the information used to populate the <a href="http://www.jabber.org/user/publicservers.php">public servers page</a> and detail pages for the <a href="http://www.jabber.org/software/clients.php">Jabber clients page</a>. Also on my list are a new version of <a href="http://www.jabberstudio.org/projects/memberbot/project/view.php">memberbot</a>, a similar bot for <a href="http://www.jabber.org/council/">Jabber Council votes</a>, and a bot that will handle manual updates to all the <a href="http://www.jabber.org/software/">software listings</a> via <a href="http://www.jabber.org/jeps/jep-0004.html">x:data</a>.</p>
+    <p>After I finish a few of these scripts, I'm hoping that my time will be freed up a bit to work on some less utilitarian projects, first among them <a href="http://jabberzilla.jabberstudio.org/">Jabberzilla</a>.</p>
+    <p>Fewer specs, more code!</p>
+</entry>
+</journal>

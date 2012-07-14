@@ -1,0 +1,134 @@
+// This is the source file to the sheet music for 
+// Peter Saint-Andre's song "Invocation".
+//
+// I wrote the words and music for this song in 1995.
+//
+// Find out more about my music at http://music.stpeter.im/
+//
+// I have placed this song into the public domain; visit
+// http://stpeter.im/ for details.
+//
+// This file was originally created in February of 2001 
+// using Mup 4.1 for Linux, and subsequently corrected in
+// December of 2009 using Mupmate for Mac. Many thanks to
+// John and Bill of Arkkra Enterprises for their software;
+// visit http://arkkra.com/ for more information.
+//
+header
+	title (18) "Invocation"
+	title   ""   "Peter Saint-Andre"
+footer
+	title "This song is in the public domain. No rights reserved."
+header2
+	title   "Invocation"   "Peter Saint-Andre"
+footer2
+	title "- \% -"
+score
+	time = 16/8
+	key = 1&
+	staffs = 2
+	clef = treble
+	vscheme = 2o
+        beamstyle = 2,2,2,2
+music
+// first verse
+1 1: 2r; 4d+; e+; 2f+; e+;
+2 1: 2r; 4a~d+; a~e+; 2a~f+; ae+;
+2 2: 2r; 2d~; 1d;
+lyrics 1: "No-ble hun-ter";
+ital above 1: 1 "Slow";
+bar
+1 1: 2r; 4d+; e+; 2f+; r;
+2 1: 2r; 4a~d+; a~e+; 2af+; r;
+2 2: 1d~; 2d; 2c;
+lyrics 1: "Grey on white";
+bar
+1 1: 2r; 4d+; e+; 2f+; e+;
+2 1: 2r; 4a~d+; a~e+; 2a~f+; ae+;
+2 2: 1d~; 1d;
+lyrics 1: "Bound in the pack";
+bar
+1 1: 2r; 4d+; e+; 2f+; r;
+2 1: 2r; 4a~d+; a~e+; 1af+; 
+2 2: 1d~; 1d;
+lyrics 1: "Fierce a-lone";
+bar
+1 1: 2r; 4g+; f+; 2e+; d+;
+2 1: 2r; 4c+g+; c+f+; 2c+e+; d+;
+2 2: 1c~; 1c;
+lyrics 1: "All at home on";
+bar
+1 1: 2r; 4g+; f+; 2e+; r;
+2 1: 2r; 4c+g+; c+f+; 2c+e+; r;
+2 2: 1c~; 2c; 8c; d; e; f;
+lyrics 1: "Qui-et ice";
+bar
+// second verse
+1 1: 4r; 4d+; d+; e+; f+; e+; 2d+;
+2 1: 4r; 4ad+; a~d+; a~e+; a~f+; a~e+; 2ad+;
+2 2: 1d~; 2.d~; 8d; 8a-;
+lyrics 1: "Wil-der-ness a-ni-mal";
+bar
+1 1: 4r; 4d+; d+; e+; 2f+; e+;
+2 1: 4r; 4ad+; a~d+; a~e+; 2a~f+; ae+;
+2 2: 1c~; 1c;
+lyrics 1: "Of in-de-pen-dence";
+bar
+1 1: 2r; 4d+; e+; 4f+; r; 2r;
+2 1: 2r; 4a~d+; a~e+; 2af+; r;
+2 2: 1d~; 2d; 4.c; 16d; e;
+lyrics 1: "Kind in heart";
+bar
+1 1: 2r; 4d+; d+; e+; 2f+; 4r;
+2 1: 2r; 4ad+; a~d+; a~e+; 2.af+; 
+2 2: 1d~; 1d;
+lyrics 1: "Of un-tamed soul";
+bar
+1 1: 4r; 4g+; g+; f+; 2e+; r;
+2 1: 4r; 4c+g+; c+g+; c+f+; 2c+e+; r;
+2 2: 1c~; 2c; 8c; d; e; d;
+lyrics 1: "Wa-ry of traps";
+bar
+1 1: 4r; 4g+; g+; f+; 2e+; r;
+2 1: 4r; 4c+g+; c+g+; c+f+; 2c+e+; r;
+2 2: 1c~; 2c; 8c; d; e; f;
+lyrics 1: "Hun-gry for life";
+bar
+// third verse
+1 1: 4r; 8d+; d+; 4d+; e+; 2f+; e+;
+2 1: 4r; 8ad+; ad+; 4a~d+; a~e+; 2a~f+; ae+;
+2 2: 1d~; 1d;
+lyrics 1: "Sol-i-tude be-fits you";
+bar
+1 1: 2r; 4d+; e+; 2f+; e+;
+2 1: 2r; 4a~d+; a~e+; 2a~f+; ae+;
+2 2: 1d~; 1d;
+lyrics 1: "Arc-tic crea-ture";
+bar
+1 1: 4r; 4d+; d+; e+; 2f+; 4e+; d+;
+2 1: 4r; 4ad+; a~d+; a~e+; 2a~f+; 4ae+; d+;
+2 2: 1d~; 1d;
+lyrics 1: "See-king for-e-ver the";
+bar
+1 1: 4g+; f+; 8e+<>; d+; 4c+; 1d+;
+2 1: 4c+g+; c+f+; 8c+e+; d+; 4c+; 1ad+;
+2 2: 4c; c; 2c; 1d;
+lyrics 1: "true way of the wolf";
+bar
+1 1: 2r; 4g+; f+; 2e+; d+;
+2 1: 2r; 4c+g+; c+f+; 2c+e+; d+;
+2 2: 1c~; 1c;
+lyrics 1: "Spi-rit know-ledge";
+bar
+1 1: 2r; 4g+; f+; 2e+; r;
+2 1: 2r; 4c+g+; c+f+; 2c+e+; r;
+2 2: 1c~; 2c; 8c; d; e; f;
+lyrics 1: "Make me whole";
+bar
+2 1: 4r; 8ad+; ad+; 4a~d+; a~e+; 2a~f+; 4ae+; d+;
+2 2: 1d~; 1d;
+bar
+2 1: 4c+g+; c+f+; 8c+e+; d+; 4c+; 1ad+;
+2 2: 4c; c; 2c; 1d;
+bar
+// end of "Invocation"

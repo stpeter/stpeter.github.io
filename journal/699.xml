@@ -1,0 +1,6 @@
+<journal>
+<header><title>Broccoli?</title><date>2005-03-18</date></header>
+<entry>
+    <p>After reading John Schneider's proposal on <a href="http://www.agiledelta.com/EfficientXMLEncoding.htm">Efficient XML</a> and discussing the matter with him a bit, I think I'm beginning to see the light on finding ways to make XMPP's use of XML more efficient in certain problem spaces (think mobile telephony and other applications with limited bandwidth). I've previously pooh-poohed the concept of binary XML as the technology equivalent of <a href="675.html">broccoli ice cream</a>, but I now think it's a concept worth exploring. However, John's Efficient XML ideas are just starting to get a hearing within the <a href="http://www.w3.org/">W3C</a> so it may be quite a while before they see the light of day. Don't hold your breath. :-)</p>
+</entry>
+</journal>

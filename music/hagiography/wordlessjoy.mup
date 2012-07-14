@@ -1,0 +1,214 @@
+// This is the source file for Peter Saint-Andre's 
+// instrumental song "Wordless Joy". 
+//
+// I think this piece was written in 1991 or so.
+//
+// This music is in the public domain; for details, see:
+// http://www.saint-andre.com/me/copyright.html
+//
+// The file you are looking at was created in
+// February of 2001 using Mup 4.1 for Linux and 
+// is the canonical representation of this work. 
+// However, I'm calling this file "Version 0.9" 
+// simply because I have not yet had a chance to 
+// verify the accuracy of every detail. Also, the 
+// textual score markings in the PDF file didn't
+// come out so well because I don't have good  
+// TrueType fonts on my computer, so the PostScript 
+// file is of higher quality and is the preferred
+// version for printing.
+//
+header
+	title (18) "Wordless Joy"
+	title   ""   "Peter Saint-Andre"
+footer
+	title "Copyright 1991 - 2001 by Peter Saint-Andre"
+header2
+	title   "Wordless Joy"   "Peter Saint-Andre"
+footer2
+	title "- \% -"
+score
+	time = 4/4
+	key = 0#
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+        beamstyle = 4.,4.,4
+music
+1 1: 4d; 8ac#+f+; d; d; ac#+f+; r; c~g~b~e+~;
+ital above 1: 1 "Medium Fast";
+bar
+1 1: 4.cgbe+; 8a-; c; a-; c; d~;
+bar
+1 1: 4d; 8ac#+f+; d; d; ac#+f+; r; c~g~b~e+~;
+bar
+1 1: 4.cgbe+; 8a-; c; a-; c; f~;
+bar
+1 1: 4f; 8c+e+a+; f; f; c+e+a+; r; b&~d+g+~;
+1 2: 2r; 4r; 8r; 8e&~;
+bar
+1 1: 4bd+g+; 8b&+; g+; d+; b+; g+; d+;
+1 2: 1e;
+bar
+1 1: 8a+; f+; c+; a+; f+; c+; a+; f+;
+1 2: 1d;
+bar
+1 1: 8g+; d+; f#; g+; d+; f#; g+; d+;
+1 2: 1g-;
+bar rehearsal mnum
+1 1: 4c; 8gbe+; c; c; gbe+; r; b&-~f~a~d+~;
+bar
+1 1: 4.b-fad+; 8g-; b&-; g-; b-; c~;
+bar
+1 1: 4c; 8gbe+; c; c; gbe+; r; b&-~f~a~d+~;
+bar
+1 1: 4.b-fad+; 8g-; b&-; g-; b-; f~;
+bar
+1 1: 4f; 8c+e+a+; f; f; c+e+a+; r; b&~d+g+~;
+1 2: 2r; 4r; 8r; 8e&~;
+bar
+1 1: 4bd+g+; 8b&+; g+; d+; b+; g+; d+;
+1 2: 1e;
+bar
+1 1: 8a+; f+; c+; a+; f+; c+; a+; f+;
+1 2: 1d;
+bar
+1 1: 8g+; d+; f#; g+; d+; f#; 4g+;
+1 2: 1g-;
+bar rehearsal mnum
+score
+	time = 4/4
+	key = 0#
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+        beamstyle = 2,2
+music
+1 1: 8e+; b; g; e+; f+; c+; a; f+;
+1 2: 2c; 2d;
+bar
+1 1: 8g+; d+; b; g+; f+; c+; a; f+;
+1 2: 2e; 2d;
+bar
+1 1: 8e+; b; g; e+; f+; c+; a; f+;
+1 2: 2c; 2d;
+bar
+1 1: 8g+; d+; b; g+; f+; c+; a; f+;
+1 2: 2e; 2d;
+bar
+1 1: 8e+; b; g; e+; f+; c+; a; f+;
+1 2: 2c; 2d;
+bar
+1 1: 8g+; d+; b; g+; a+; e+; c+; a+;
+1 2: 2e; 2f;
+bar
+1 1: 8g+; d+; b&; g+; d+; b; g+; d+;
+1 2: 1e&;
+bar
+1 1: 8f+; c+; a; f+; c+; a; f+; c+;
+1 2: 1d;
+bar
+1 1: 8e+; b; g; e+; 4ac+f+; 4bd+g+;
+1 2: 2c; 4d; 4e;
+bar
+1 1: 8e+; b; g; e+; b; g; e+; b;
+1 2: 1c;
+bar
+1 1: 4r; 8g+; d+; b&; g+; d+; b;
+1 2: 1e&;
+bar
+1 1: 8f+; c+; a; f+; c+; a; f+; c+;
+1 2: 1d;
+bar
+1 1: 8e&+; c+; a&; e+; c+; a; e+; c+;
+1 2: 1a&-;
+bar
+1 1: 8d+; b; g; d+; b; g; d+; b;
+1 2: 1g-;
+bar
+1 1: 4r; 8g+; d+; b&; g+; d+; b;
+1 2: 1e&;
+bar
+1 1: 8f+; c+; a; f+; c+; a; f+; c+;
+1 2: 1d;
+bar
+1 1: 8e+; b; g; e+; 4ac+f+; 4bd+g+;
+1 2: 2c; 4d; 4e;
+bar
+1 1: 8e+; b; g; e+; b; g; e+; b;
+1 2: 1c;
+bar
+1 1: 4r; 8g+; d+; b&; g+; d+; b;
+1 2: 1e&;
+bar
+score
+	time = 4/4
+	key = 0#
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+        beamstyle = 4.,4.,4
+music
+1 1: 8f+; c+; a; f+; c+; a; f+; c+;
+1 2: 1d;
+bar
+1 1: 8e&+; c+; a&; e+; c+; a; e+; c+;
+1 2: 4.a&-; 4.a-; 4a-;
+bar
+1 1: 8d+; a; f; d+; a; f; d+; a;
+1 2: 4.b&-; 4.b-; 4b-;
+bar rehearsal mnum
+1 1: 4c; 8gbe+; c; c; gbe+; r; b&-~f~a~d+~;
+bar
+1 1: 4.b-fad+; 8g-; b&-; g-; b-; c~;
+bar
+1 1: 4c; 8gbe+; c; c; gbe+; r; b&-~f~a~d+~;
+bar
+1 1: 4.b-fad+; 8g-; b&-; g-; b-; f~;
+bar
+1 1: 4f; 8c+e+a+; f; f; c+e+a+; r; b&~d+g+~;
+1 2: 2r; 4r; 8r; 8e&~;
+bar
+1 1: 4bd+g+; 8b&+; g+; d+; b+; g+; d+;
+1 2: 1e;
+bar
+1 1: 8a+; f+; c+; a+; f+; c+; a+; f+;
+1 2: 1d;
+bar
+1 1: 8g+; d+; f#; g+; d+; f#; 4g+;
+1 2: 1g-;
+bar rehearsal mnum
+score
+	time = 4/4
+	key = 0#
+	staffs = 1
+	clef = treble
+	vscheme = 2o
+        beamstyle = 2,2
+music
+1 1: 8e+; b; g; e+; f+; c+; a; f+;
+1 2: 2c; 2d;
+bar
+1 1: 8g+; d+; b; g+; f+; c+; a; f+;
+1 2: 2e; 2d;
+bar
+1 1: 8e+; b; g; e+; f+; c+; a; f+;
+1 2: 2c; 2d;
+bar
+1 1: 8g+; d+; b; g+; f+; c+; a; f+;
+1 2: 2e; 2d;
+bar
+1 1: 8e+; b; g; e+; f+; c+; a; f+;
+1 2: 2c; 2d;
+bar
+1 1: 8g+; d+; b; g+; e+; c#+; g; e+;
+1 2: 2e; 2a-;
+ital below 1: 1 "rit. poco a poco";
+bar
+1 1: 8f+; cn+; a; f+; d+; b; g; d+;
+1 2: 2d; 2g-;
+bar
+1 1: 1cgbe+;
+roll 1: 1;
+bar
+// end of "Wordless Joy"

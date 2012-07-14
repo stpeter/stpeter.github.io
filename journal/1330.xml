@@ -1,0 +1,7 @@
+<journal>
+<header><title>The Joys of Running Code</title><date>2009-04-02</date></header>
+<entry>
+<p>Over at the Jabber.org IM service, we have <a href="http://www.jabber.org/index.php/2009/04/account-registration-policy/">turned off</a> the technology we've long used for account creation, called <a href="http://xmpp.org/extensions/xep-0077.html">in-band registration</a>. The security problems associated with unprotected in-band registration have simply become too serious for us to continue using it. I hope that eventually we'll be able to deploy <a href="http://xmpp.org/extensions/xep-0158.html">CAPTCHA forms</a> with in-band registration, but for now we're using web registration (including CAPTCHAs) via the web at <a href="http://register.jabber.org/">register.jabber.org</a>.</p>
+<p>Oh, and lest I forget: many, many thanks to Matthew Wild for his help in migrating to the new system!</p>
+</entry>
+</journal>

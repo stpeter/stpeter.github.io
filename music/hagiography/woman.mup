@@ -1,0 +1,443 @@
+// This is the source file to the sheet music for 
+// Peter Saint-Andre's song "You Are Woman".
+//
+// I wrote the words and music for this song in 1991.
+//
+// Find out more about my music at http://music.stpeter.im/
+//
+// I have placed this song into the public domain; visit
+// http://stpeter.im/ for details.
+//
+// This file was originally created in February of 2001 
+// using Mup 4.1 for Linux, and subsequently corrected in
+// December of 2009 using Mupmate for Mac. Many thanks to
+// John and Bill of Arkkra Enterprises for their software;
+// visit http://arkkra.com/ for more information.
+//
+header
+	title (18) "You Are Woman"
+	title   ""   "Peter Saint-Andre"
+footer
+	title "This song is in the public domain. No rights reserved."
+header2
+	title   "You Are Woman"   "Peter Saint-Andre"
+footer2
+	title "- \% -"
+score
+	time = 4/4
+	key = 0#
+	staffs = 2
+	clef = treble
+	vscheme = 2o
+        beamstyle = 2,2
+music
+2 1: 8c; g; c+; g+; c+; g; e+; c+;
+ital above 1: 1 "Sweetly";
+bar
+2 1: 8b-; g; d+; g+; c+; g; e+; d+;
+bar
+2 1: 8b&-; g; d+; g+; c+; g; e+; d+;
+bar
+2 1: 8a-; a; c#+; g+; c#+; g; e+; d+;
+bar
+2 1: 8d; a; d+; g+; d+; a; f+; d+;
+bar
+2 1: 8c; a; d+; g+; d+; a; f+; d+;
+bar
+2 1: 8b-; g; d+; g+; d+; g; f+; d+;
+bar
+2 1: 8g-; g; b; g+; b; g; e+; b;
+bar rehearsal mnum
+1 1: 4.r; 8g-; c; d; e; f;
+2 1: 8c; g; c+; g+; c+; g; e+; c+;
+lyrics 1: "You know it was so";
+bar
+1 1: 4g; 8a; 4g; 8f<>; 4e;
+2 1: 8b-; g; d+; g+; c+; g; e+; d+;
+lyrics 1: "long that I was";
+bar
+1 1: 8f<>; 4e; 8e<>; 2e;
+2 1: 8b&-; g; d+; g+; c+; g; e+; d+;
+lyrics 1: "lone-ly";
+bar
+2 1: 8a-; a; c#+; g+; c#+; g; e+; d+;
+bar
+1 1: 2r; 8d; e; f; e<>;
+2 1: 8d; a; d+; g+; d+; a; f+; d+;
+lyrics 1: "won-der-ing if";
+bar
+1 1: 4e; r; 8d; e; f; e<>;
+2 1: 8c; a; d+; g+; d+; a; f+; d+;
+lyrics 1: "I'd ev-er find";
+bar
+1 1: 4e; 8r; a-; d; e; f; d<>;
+2 1: 8b-; g; d+; g+; d+; g; f+; d+;
+lyrics 1: "a love that could match";
+bar
+1 1: 4d; 8c; 4d; 8c; 4b-;
+2 1: 8g-; g; b; g+; b; g; e+; b;
+lyrics 1: "my pa-ssion in-";
+bar
+1 1: 4c; 8r; a-; c; 4d; 8g<>;
+2 1: 8c; g; c+; g+; c+; g; e+; c+;
+lyrics 1: "side. But that all seems";
+bar
+1 1: 4g; a; 8g<>; f; 4e;
+2 1: 8b-; g; d+; g+; c+; g; e+; d+;
+lyrics 1: "so far a-";
+bar
+1 1: 8f<>; 4e; 8e<>; 2e;
+2 1: 8b&-; g; d+; g+; c+; g; e+; d+;
+lyrics 1: "way now";
+bar
+2 1: 8a-; a; c#+; g+; c#+; g; e+; d+;
+bar
+1 1: 2r; 8d; e; f; e<>;
+2 1: 8d; a; d+; g+; d+; a; f+; d+;
+lyrics 1: "now that I've seen";
+bar
+1 1: 4e; r; 8d; e; f; e<>;
+2 1: 8c; a; d+; g+; d+; a; f+; d+;
+lyrics 1: "deep in your eyes";
+bar
+1 1: 4e; 8r; a-; d; e; 4f;
+2 1: 8b-; g; d+; g+; d+; g; f+; d+;
+lyrics 1: "a spi-rit with";
+bar
+1 1: 4d; 8d; 4f; 8g<>; 4f;
+2 1: 8g-; g; b; g+; b; g; f+; b;
+lyrics 1: "life to match mine";
+bar rehearsal mnum
+1 1: 4.r; 8c; f; g; a; g<>;
+2 1: 8f-; a; c+; f+; c+; a; f-; a;
+lyrics 1: "I've fi-na-lly found";
+bar
+1 1: 4g; 8r; d; g; a; 4b;
+2 1: 8g-; g; b; g+; b; g; g-; g;
+lyrics 1: "the wo-man I";
+bar
+1 1: 4c+; 8b; 4a; 8g; 4a;
+2 1: 8a-; a; c+; e+; c+; a; e+; c+;
+lyrics 1: "nee-ded all a-long";
+bar
+2 1: 8a; a+; e+; c+; a+; e+; c+; a+;
+bar
+1 1: 2r; 4a; 8a; 8g<>;
+2 1: 8f-; a; c+; f+; c+; a; f-; a;
+lyrics 1: "all a-long";
+bar
+1 1: 8g; f; f<>; e; 4f; 8g; e<>;
+2 1: 8g-; g; b; g+; b; g; g-; g;
+lyrics 1: "the long lone-ly years";
+bar
+1 1: 2e; r;
+2 1: 8a-; a; c+; e+; c+; a; g+; c+;
+bar
+2 1: 8a; e+; c+; a; e+; c+; a; e+;
+bar
+1 1: 4.r; 8c; f; g; a; g<>;
+2 1: 8f-; a; c+; f+; c+; a; f-; a;
+lyrics 1: "I look out and see";
+bar
+1 1: 4g; 8r; d; g; a; 4b;
+2 1: 8g-; g; b; g+; b; g; g-; g;
+lyrics 1: "that all I be-";
+bar
+1 1: 4c+; b; 8a; 4g; 8a<>;
+2 1: 8a-; a; c+; e+; c+; a; e+; c+;
+lyrics 1: "lieve is ful-ly real";
+bar
+1 1: 4a; 2.r;
+2 1: 8a; a+; e+; c+; a+; e+; c+; a+;
+bar
+1 1: 4.r; 8f; 4a; 8a<>; g;
+2 1: 8f-; a; c+; f+; c+; a; f-; a;
+lyrics 1: "be-cause to";
+bar
+1 1: 4.g; 8r; f; 4e; 8r;
+2 1: 8g-; g; b; g+; b; g; e+; b;
+lyrics 1: "me you are";
+bar
+1 1: 8f<>; 4e; 4.c; 4r;
+2 1: 8c; g; c+; g+; c+; g; e+; c+;
+lyrics 1: "wo-man";
+bar
+2 1: 8b-; g; d+; g+; c+; g; e+; d+;
+bar
+2 1: 8b&-; g; d+; g+; c+; g; e+; d+;
+bar
+2 1: 8a-; a; c#+; g+; c#+; g; e+; d+;
+bar
+2 1: 8d; a; d+; g+; d+; a; f+; d+;
+bar
+2 1: 8c; a; d+; g+; d+; a; f+; d+;
+bar
+2 1: 8b-; g; d+; g+; d+; g; f+; d+;
+bar
+2 1: 8g-; g; b; g+; b; g; e+; b;
+bar rehearsal mnum
+1 1: 4.r; 8g-; c; d; e; f;
+2 1: 8c; g; c+; g+; c+; g; e+; c+;
+lyrics 1: "You know it feels so";
+bar
+1 1: 4g; 8a; 4g; 8f<>; 4e;
+2 1: 8b-; g; d+; g+; c+; g; e+; d+;
+lyrics 1: "right that I should";
+bar
+1 1: 8f<>; 4e; 8e<>; 2e;
+2 1: 8b&-; g; d+; g+; c+; g; e+; d+;
+lyrics 1: "trust you";
+bar
+2 1: 8a-; a; c#+; g+; c#+; g; e+; d+;
+bar
+1 1: 4.r; 8a-; d; e; f; e<>;
+2 1: 8d; a; d+; g+; d+; a; f+; d+;
+lyrics 1: "with all of my mind";
+bar
+1 1: 4e; r; 8a-; d; e; f; 
+2 1: 8c; a; d+; g+; d+; a; f+; d+;
+lyrics 1: "and all of my";
+bar
+1 1: 4e; 8r; a-; d; e; f; d<>;
+2 1: 8b-; g; d+; g+; d+; g; f+; d+;
+lyrics 1: "soul and all of this pa-";
+bar
+1 1: 4d; 8c; c; 4d; 8c; b-;
+2 1: 8g-; g; b; g+; b; g; e+; b;
+lyrics 1: "ssion for life that you";
+bar
+1 1: 4c; 8r; c; d; e; f; g<>;
+2 1: 8c; g; c+; g+; c+; g; e+; c+;
+lyrics 1: "know. Can it be some-how";
+bar
+1 1: 4g; 8a; 4g; 8f; 4e;
+2 1: 8b-; g; d+; g+; c+; g; e+; d+;
+lyrics 1: "I've known you for-";
+bar
+1 1: 8f<>; 4e; 8e<>; 2e;
+2 1: 8b&-; g; d+; g+; c+; g; e+; d+;
+lyrics 1: "ev-er?";
+bar
+2 1: 8a-; a; c#+; g+; c#+; g; e+; d+;
+bar
+1 1: 2r; 8d; e; f; e<>;
+2 1: 8d; a; d+; g+; d+; a; f+; d+;
+lyrics 1: "Two of a kind";
+bar
+1 1: 8e; r; 4d; e; 8f; e<>;
+2 1: 8c; a; d+; g+; d+; a; f+; d+;
+lyrics 1: "one soul and mind";
+bar
+1 1: 4e; 8r; a-; d; e; 4f;
+2 1: 8b-; g; d+; g+; d+; g; f+; d+;
+lyrics 1: "I know you're my";
+bar
+1 1: 4d; 4f; 8g; 4.f;
+2 1: 8g-; g; b; g+; b; g; f+; b;
+lyrics 1: "kin-dred spi-rit";
+bar rehearsal mnum
+1 1: 4r; 8f; f; f; g; a; g<>;
+2 1: 8f-; a; c+; f+; c+; a; f-; a;
+lyrics 1: "there's the love that you show";
+bar
+1 1: 4g; 4.r; 8a; 4b;
+2 1: 8g-; g; b; g+; b; g; g-; g;
+lyrics 1: "when you";
+bar
+1 1: 4c+; 8b; 4a; 8g; 4a;
+2 1: 8a-; a; c+; e+; c+; a; e+; c+;
+lyrics 1: "give your heart a-way";
+bar
+2 1: 8a; a+; e+; c+; a+; e+; c+; a+;
+bar
+1 1: 4.r; 8f; a; 4a; 8g;
+2 1: 8f-; a; c+; f+; c+; a; f-; a;
+lyrics 1: "and then there's the";
+bar
+1 1: 4g; 8f; e; f; e; 4f;
+2 1: 8g-; g; b; g+; b; g; g-; g;
+lyrics 1: "love that you che-rish in-";
+bar
+1 1: 2e; r;
+2 1: 8a-; a; c+; e+; c+; a; g+; c+;
+lyrics 1: "side";
+bar
+2 1: 8a; e+; c+; a; e+; c+; a; e+;
+bar
+1 1: 4.r; 8c; f; g; a; g<>;
+2 1: 8f-; a; c+; f+; c+; a; f-; a;
+lyrics 1: "But I ne-ver felt";
+bar
+1 1: 4g; 8r; d; g; a; 4b;
+2 1: 8g-; g; b; g+; b; g; g-; g;
+lyrics 1: "that out-side and";
+bar
+1 1: 4c+; b; 8a; 4g; 8a<>;
+2 1: 8a-; a; c+; e+; c+; a; e+; c+;
+lyrics 1: "in my love was one";
+bar
+1 1: 4a; 2.r;
+2 1: 8a; a+; e+; c+; a+; e+; c+; a+;
+bar
+1 1: 4.r; 8c; a; 4a<>; 8g;
+2 1: 8f-; a; c+; f+; c+; a; f-; a;
+lyrics 1: "un-til I";
+bar
+1 1: 4.g; 8r; f; 4e; 8r;
+2 1: 8g-; g; b; g+; b; g; e+; b;
+lyrics 1: "found you my";
+bar
+1 1: 8f<>; 4e; 4.c; 4r;
+2 1: 8c; g; c+; g+; c+; g; e+; c+;
+lyrics 1: "wo-man";
+bar
+2 1: 8b-; g; d+; g+; c+; g; e+; d+;
+bar
+2 1: 8b&-; g; d+; g+; c+; g; e+; d+;
+bar
+2 1: 8a-; a; c#+; g+; c#+; g; e+; d+;
+bar
+2 1: 8d; a; d+; g+; d+; a; f+; d+;
+bar
+2 1: 8c; a; d+; g+; d+; a; f+; d+;
+bar
+2 1: 8b-; g; d+; g+; d+; g; f+; d+;
+bar
+2 1: 8g-; g; b; g+; b; g; e+; b;
+bar rehearsal mnum
+1 1: 2r; 8c; d; e; f;
+2 1: 8c; g; c+; g+; c+; g; e+; c+;
+lyrics 1: "You a-wa-ken";
+bar
+1 1: 4g; 8a; 8g<>; 4f; 4e;
+2 1: 8b-; g; d+; g+; c+; g; e+; d+;
+lyrics 1: "all that lies with-";
+bar
+1 1: 8f<>; 4e; 8e<>; 2e;
+2 1: 8b&-; g; d+; g+; c+; g; e+; d+;
+lyrics 1: "in me";
+bar
+2 1: 8a-; a; c#+; g+; c#+; g; e+; d+;
+bar
+1 1: 2r; 8d; e; f; e<>;
+2 1: 8d; a; d+; g+; d+; a; f+; d+;
+lyrics 1: "all I can do";
+bar
+1 1: 4e; r; 8a-; d; e; f<>; 
+2 1: 8c; a; d+; g+; d+; a; f+; d+;
+lyrics 1: "all that I see-";
+bar
+1 1: 4f; 4r; 8d; e; f; d<>;
+2 1: 8b-; g; d+; g+; d+; g; f+; d+;
+lyrics 1: "all that I am";
+bar
+1 1: 4d; 8c; 4d; 8c; 4b-;
+2 1: 8g-; g; b; g+; b; g; e+; b;
+lyrics 1: "and know I can";
+bar
+1 1: 4c; 8r; g-; c; d; e; f;
+2 1: 8c; g; c+; g+; c+; g; e+; c+;
+lyrics 1: "be. I ne-ver felt this";
+bar
+1 1: 4g; 8a; 4g<>; 8f; 4e;
+2 1: 8b-; g; d+; g+; c+; g; e+; d+;
+lyrics 1: "kind of in-spi-";
+bar
+1 1: 8f<>; 4e; 8e<>; 2e;
+2 1: 8b&-; g; d+; g+; c+; g; e+; d+;
+lyrics 1: "ra-tion";
+bar
+2 1: 8a-; a; c#+; g+; c#+; g; e+; d+;
+bar
+1 1: 2r; 8d; e; f; e<>;
+2 1: 8d; a; d+; g+; d+; a; f+; d+;
+lyrics 1: "Fi-lling me up";
+bar
+1 1: 8e; r; 4d; e; 8f; e<>;
+2 1: 8c; a; d+; g+; d+; a; f+; d+;
+lyrics 1: "gi-ving me life";
+bar
+1 1: 4e; 4r; 8d; e; f; d<>;
+2 1: 8b-; g; d+; g+; d+; g; f+; d+;
+lyrics 1: "fee-ding the fire";
+bar
+1 1: 4d; 8e; 4f; 4.g;
+2 1: 8g-; g; b; g+; b; g; f+; b;
+lyrics 1: "with-in my";
+bar rehearsal mnum
+1 1: 4.f; 8c; f; g; a; g<>;
+2 1: 8f-; a; c+; f+; c+; a; f-; a;
+lyrics 1: "soul was long-ing to find";
+bar
+1 1: 4g; 8r; 8d; g; a; 4b;
+2 1: 8g-; g; b; g+; b; g; g-; g;
+lyrics 1: "a wo-man in";
+bar
+1 1: 4c+; 8b; 4a; 8g; 4a;
+2 1: 8a-; a; c+; e+; c+; a; e+; c+;
+lyrics 1: "kind but not the same";
+bar
+2 1: 8a; a+; e+; c+; a+; e+; c+; a+;
+bar
+1 1: 4.r; 8c; 4a; 8a; g;
+2 1: 8f-; a; c+; f+; c+; a; f-; a;
+lyrics 1: "a soul to com-";
+bar
+1 1: 4g; 8f; e; 4f; g;
+2 1: 8g-; g; b; g+; b; g; g-; g;
+lyrics 1: "plete me in eve-ry";
+bar
+1 1: 2e; r;
+2 1: 8a-; a; c+; e+; c+; a; g+; c+;
+lyrics 1: "way";
+bar
+2 1: 8a; e+; c+; a; e+; c+; a; e+;
+bar
+1 1: 4.r; 8c; f; g; a; g<>;
+2 1: 8f-; a; c+; f+; c+; a; f-; a;
+lyrics 1: "To make my life whole";
+bar
+1 1: 4g; 8r; d; g; a; 4b;
+2 1: 8g-; g; b; g+; b; g; g-; g;
+lyrics 1: "there's on-ly one";
+bar
+1 1: 4c+; b; a; 8g; a<>;
+2 1: 8a-; a; c+; e+; c+; a; e+; c+;
+lyrics 1: "thing that's left to do";
+bar
+1 1: 4a; 2.r;
+2 1: 8a; a+; e+; c+; a+; e+; c+; a+;
+bar
+1 1: 4.r; 8c; a; 4a<>; 8g;
+2 1: 8f-; a; c+; f+; c+; a; f-; a;
+lyrics 1: "and that's to";
+bar
+1 1: 4.g; 8r; f; 4e; 8r;
+2 1: 8g-; g; b; g+; b; g; e+; b;
+lyrics 1: "make you my";
+bar
+1 1: 8f<>; 4e; 4.c; 4r;
+2 1: 8c; g; c+; g+; c+; g; e+; c+;
+lyrics 1: "wo-man";
+bar
+2 1: 8b-; g; d+; g+; c+; g; e+; d+;
+bar
+2 1: 8b&-; g; d+; g+; c+; g; e+; d+;
+bar
+2 1: 8a-; a; c#+; g+; c#+; g; e+; d+;
+bar
+2 1: 8d; a; d+; g+; d+; a; f+; d+;
+bar
+2 1: 8c; a; d+; g+; d+; a; f+; d+;
+bar
+2 1: 8b-; g; d+; g+; d+; g; f+; d+;
+ital below 2: 1 "rit. poco a poco";
+bar
+2 1: 8g-; g; gb; ac+; gb; g+; e+; d+;
+ital below 2: 3.5 "rit.";
+bar 
+2 1: 8g; cegd+; 2.e+;
+roll 2: 1.5;
+mussym above 2: 2 "ferm";
+mussym above 2: 1 "ferm";
+bar

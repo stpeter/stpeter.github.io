@@ -1,0 +1,11 @@
+<journal>
+<header><title>XMPP in TiVo</title><date>2008-01-10</date></header>
+<entry>
+<p>The <a href="http://www.tivolovers.com/">TiVo Lovers</a> blog <a href="http://www.tivolovers.com/2008/01/08/some-more-on-tivo-desktop-plus-26-web-video/">reports as follows</a> from CES:</p>
+<blockquote>
+<p>OK, so why is the desktop linked to your account online? Because the TiVo back-end plays a role in the new system. Today each TiVo polls TiVo&#x2019;s severs roughly every 15 minutes to check for new scheduled recordings, TiVoCast downloads, Unbox downloads, etc. That&#x2019;s highly inefficient - nearly all of those polling calls are for nothing. There is nothing waiting to be done. And it introduces a lag when you want to start a download - up to 15 minutes. And it doesn&#x2019;t scale well as TiVo&#x2019;s user base keeps growing.</p>
+<p>So what&#x2019;s changed? The polling system is gone. TiVo is using XMPP now instead. What is XMPP? The Extensible Messaging and Presence Protocol - better known as the instant messaging protocol that powers Jabber, Google Talk, and other IM systems. Yep, TiVo is basically using instant messaging for real-time communication. Now when the TiVo server has a new recording to schedule, it will IM the TiVo to tell it. Or if there is a download to pull, it will IM the TiVo to tell it to do so. This is a much more efficient system and it eliminates latency. It is really a clever idea.</p>
+</blockquote>
+<p>Those TiVo people are smart. :-)</p>
+</entry>
+</journal>

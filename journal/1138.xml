@@ -1,0 +1,7 @@
+<journal>
+<header><title>Less Restrictive</title><date>2007-09-06</date></header>
+<entry>
+<p>Well after a few days of reflection and feedback, I've decided that it was a bit rash of me to  <a href="1137.html">disallow chatroom creation</a> at the conference.jabber.org service. However, in order to run this service in the proper manner I think we need more people monitoring it, so I've added a few more server admins who have the privilege to clean up any chatroom they want to (yes we'll set some informal policies). I've also requested an ejabberd feature of sending a message to the server admins whenever a new chatroom is created, since I think that would help tremendously in figuring out who's doing what. Probably other reporting would be good too, such as seeing if certain users are creating lots of chatrooms, disallowing chatroom creation by JabberID, and the like. Perhaps these capabilities are already in ejabberd or its Mnesia database and I just don't know it. But in any case, more intelligent management of the service is the first step. If after that we continue to have problems, we'll need to take more drastic measures.</p>
+<p>Jabber on!</p>
+</entry>
+</journal>

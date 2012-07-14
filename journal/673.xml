@@ -1,0 +1,10 @@
+<journal>
+<header><title>IDN-O-Matic</title><date>2005-02-07</date></header>
+<entry>
+    <p>In <a href="http://arch.jabber.com/archives/2005/02/000132.html">commenting</a> on the <a href="http://www.shmoo.com/idn/">IDN phishing exploit</a>, Joe Hildebrand says that the substitution of Cyrillic &amp;#x430; for Latin a violates one of his fundamental assumptions about stringprep, namely "that two codepoints that look alike will normalize to the same bytes". <a href="http://www.pgmillard.com/blog/">Peter Millard</a> and I were chatting about it over lunch, and I think Peter's right that the browsers are doing the right thing in rendering the Cyrllic &amp;#x430; character (all except Internet Explorer, which doesn't support internationalized domain names at all), but that they should probably warn the user if a domain name contains one or more glyphs that are outside the user's default character set. Consider the following domain name:</p>
+    <blockquote><p>&amp;#x13AB;&amp;#x13AA;&amp;#x13F4;&amp;#x13F4;&amp;#x13AC;&amp;#x13D2;.org</p></blockquote>
+    <p>If you have Cherokee fonts installed, that should look an awful lot like this:</p>
+    <blockquote><p>JABBER.org</p></blockquote>
+    <p>But it ain't. ;-) Now, probably not that many people have Cherokee fonts installed, but they might have Cyrllic fonts installed (or some default Unicode glyph renderer). What's violating Joe's sense of Unicode rightness is that <a href="http://www.istrianet.org/istria/linguistics/glagolitic/cyril-meth1.htm">St. Cyril</a> borrowed characters from the Latin alphabet while constructing the Cyrllic alphabet (in fact he did the same thing with Greek characters -- compare Cyrllic &amp;#x424; against Greek &amp;#x3D5;). But is it accurate to say that Cyrllic &amp;#x430; should properly decompose to Latin a or that Cyrllic &amp;#x424; should decompose to Greek &amp;#x3D5;? That's not obvious to me, so I am not convinced that this is a Unicode bug.</p>
+</entry>
+</journal>

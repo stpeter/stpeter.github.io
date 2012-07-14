@@ -1,0 +1,17 @@
+<journal>
+<header><title>Petnames</title><date>2005-07-07</date></header>
+<entry>
+    <p>Thanks to a <a href="https://www.financialcryptography.com/mt/archives/000499.html">link</a> over at the <a href="http://www.financialcryptography.com/">Financial Cryptography blog</a>, I've found an intriguing exposition by Marc Stiegler of <a href="http://www.skyhunter.com/marcs/petnames/IntroPetNames.html">petnames</a>. It turns out that the contact lists (Jabber rosters, AIM buddy lists, etc.) in your typical IM system provide a pretty good foundation for petname systems. In particular, petname systems differentiate between three things:</p>
+    <ol>
+      <li>An address, ID, or "key" (which is globally unique and unforgeable)</li>
+      <li>A friendly nickname (which is memorable and global)</li>
+      <li>A personal petname (which is memorable and secretly unique)</li>
+    </ol>
+    <p>In XMPP, my Jabber ID (stpeter@jabber.org) is globally unique and close to unforgeable (given server dialback, emerging use of TLS for server-to-server connections, address verification at the server level, etc.). My nickname (stpeter) is memorable and global (or would be if I published it explicitly) but it is not globally unique. A person's petname for me (I call it a "handle") is how they have tagged me in their roster via the 'name' attribute (see <a href="http://www.ietf.org/rfc/rfc3921.txt">RFC 3921</a>) -- maybe they call me "Patron Saint of Jabber", "psa", or "Peter SA", "that guy who annoys me so much", or whatever they like. So we have all the elements for a petname system here. There are only a few things we need in order to strengthen the system:</p>
+    <ul>
+      <li><p>Define some best practices for nicknames and make them more prominent in XMPP. For example, <a href="http://www.jabber.org/jeps/jep-0077.html">JEP-0077</a> enables you to specify your nickname when you register an account, but not many implementations use that, nor is it easy to advertise your nickname (e.g., via presence or pubsub).</p></li>
+      <li><p>Encourage Jabber clients to clearly and visually distinguish JIDs, nicknames, and handles. This would make it easier for humans to know if a JID is being spoofed (unlikely) and to differentiate between similar JIDs. (Note: a petname need not be textual -- it could be an avatar, a photographic image, etc.)</p></li>
+    </ul>
+    <p>The benefits would be a naming system that is simultaneously global, secure, and memorable. We're pretty close to that already, but we need a few more bits to put us over the top.</p>
+</entry>
+</journal>

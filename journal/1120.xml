@@ -1,0 +1,15 @@
+<journal>
+<header><title>Punching Holes</title><date>2007-07-18</date></header>
+<entry>
+<p>Some IETF discussion lists (BEHAVE, MMUSIC, SIP) have erupted in controversy over the last few days with regard to <a href="http://tools.ietf.org/html/draft-ietf-mmusic-ice">ICE</a>. As a result I've been introduced to the concept of <a href="http://www.brynosaurus.com/pub/net/p2pnat/">UDP hole punching</a>. I think this is the kind of thing that Matt Tucker and Thiago Camargo were talking about months ago on the standards@xmpp.org list. Consider:</p>
+<ol>
+<li>You ask your XMPP server what it thinks your outward-facing IP address and port are, i.e., your "public endpoint". (We'd need a protocol for this, and it wouldn't work in all situations, but we might as well leverage the stable TCP connection we've already got in XMPP.)</li>
+<li>Your potential Jingle conversation partner does the same. (Probably you both do this on login.)</li>
+<li>When negotiating with your potential conversation party, you both exchange your public and private endpoints. (This would probably be an improved version of the <a href="http://www.xmpp.org/extensions/xep-0177.html">Raw UDP Transport Method</a>.)</li>
+<li>You both try to connect over the public and private endpoints. If one of the endpoints succeeds, use it. (You need to figure out if it works, but there are no acks in UDP. Maybe checking via the <a href="http://tools.ietf.org/html/rfc0862">Echo Protocol</a> but <a href="http://www.xmpp.org/extensions/xep-0208.html">on a high port</a> would do it?)</li>
+</ol>
+<p>We'd need a fallback, which would probably be none other than the <a href="http://www.xmpp.org/extensions/xep-0176.html">Jingle ICE Transport Method</a>. But this basic hole-punching technique would be more effective than our current raw UDP method, which right now is the NAT traversal equivalent of the "I'm Feeling Lucky" button in Google search.</p>
+<p>Something to think about...</p>
+<p>UPDATE: Well, ICE simply <em>is</em> a hole-punching technology, and the right fallback is probably a relay &#xE0; la TURN. Plus you can't have your XMPP server tell you what your outfacing IP+port is since XMPP runs over TCP, not UDP. So call this post an intriguing idea that won't pan out. BTW, when it comes to open-source ICE libraries, check out <a href="http://nice.freedesktop.org/wiki/">libnice</a>.</p>
+</entry>
+</journal>
