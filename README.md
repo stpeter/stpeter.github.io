@@ -1,4 +1,4 @@
 stpeter
 =======
 
-HTML source files for stepper.im
+HTML source files for stpeter.im
