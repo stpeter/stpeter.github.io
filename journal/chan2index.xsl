@@ -65,7 +65,7 @@
           <xsl:apply-templates select='/channel/journal[position()=3]/entry'/>
         </xsl:if>
         <hr/>
-        <p>For older entries, check the <a href='archive.html'>Archive</a>.</p>
+        <p>For older entries, check the <a href='archive.html'>archive</a>. To track changes, follow the <a href='/atom.xml'>feed</a>.</p>
         <hr/>
         <p><a href='/'>Peter Saint-Andre</a> &gt; Journal</p>
       </body>
