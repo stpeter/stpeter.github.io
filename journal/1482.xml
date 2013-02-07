@@ -1,0 +1,6 @@
+<journal>
+<header><title>New OpenPGP Key</title><date>2013-02-06</date></header>
+<entry>
+<p>At a keysigning in Brussels last week during the XMPP Summit, I learned that the DSA algorithm I used to generate my current OpenPGP key (ID 0DB0FEFC) back in 2008 is now considered to be less than fully secure. Therefore I've generated a new key, this time using the RSA algorithm. While I was at it, I upped the keysize from 1024 to 4096. The new KeyID is 2BC5ADA9, and the fingerprint is 3B58 0662 73C6 F1A7 87F8  947D EA06 A491 2BC5 ADA9. The file located at <a href='https://stpeter.im/stpeter.asc'>https://stpeter.im/stpeter.asc</a> now contains the ASCII armored output of the new key.</p>
+</entry>
+</journal>
