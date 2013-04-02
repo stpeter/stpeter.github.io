@@ -11,13 +11,13 @@
     <xsl:variable name='antepenultimate' select='$ultimate - 2'/>
 
     <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-      <title>one small voice</title>
+      <title>One Small Voice</title>
       <link rel="alternate" type="text/html" href="http://stpeter.im/journal/"/>
       <author>
         <name>Peter Saint-Andre</name>
         <url>http://stpeter.im/</url>
       </author>
-      <tagline>The journal of Peter Saint-Andre - technologist, writer, musician.</tagline>
+      <tagline>The journal of Peter Saint-Andre - technologist, writer, musician, philosopher.</tagline>
       <id>http://stpeter.im/journal/</id>
       <copyright>http://creativecommons.org/publicdomain/zero/1.0/</copyright>
       <modified><xsl:value-of select='/channel/journal[position()=1]/header/date'/></modified>

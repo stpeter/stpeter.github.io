@@ -12,7 +12,7 @@
 
     <html>
       <head>
-        <title><xsl:value-of select='/journal/header/title'/></title>
+        <title>One Small Voice: The Journal of Peter Saint-Andre</title>
         <link rel='stylesheet' type='text/css' href='/stpeter.css'/>
         <link rel='alternate' type='application/atom+xml' href='http://stpeter.im/atom.xml'/>
         <meta http-equiv='Content-Type' content='text/html; charset=utf-8'/>
@@ -30,7 +30,7 @@
         </meta>
       </head>
       <body>
-        <h1>Peter Saint-Andre: Journal</h1>
+        <h1>One Small Voice: The Journal of Peter Saint-Andre</h1>
         <hr/>
         <xsl:if test='/channel/journal[position()=1]'>
           <h2>
