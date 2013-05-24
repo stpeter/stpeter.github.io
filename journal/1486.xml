@@ -1,0 +1,6 @@
+<journal>
+<header><title>RFC 6963</title><date>2013-05-24</date></header>
+<entry>
+<p><a href='http://www.rfc-editor.org/rfc/rfc6963.txt'>RFC 6963</a>, released today, is the latest document I've had published in the <a href='http://www.rfc-editor.org/'>RFC series</a>. This RFC provides a way for specification authors to generate documentation examples using Uniform Resource Names (URNs), similar to domain names like "example.com" (see <a href='http://www.rfc-editor.org/rfc/rfc2606.txt'>RFC 2606</a>). So if you've been dying to put "urn:example:foo" in your documentation or you need to generate random URNs for testing purposes, have at it!</p>
+</entry>
+</journal>
