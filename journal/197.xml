@@ -1,7 +1,7 @@
 <journal>
 <header><title>XML + XSLT = bliss</title><date>2002-03-06</date></header>
 <entry>
-<p>I love being able to type './gen.sh 2002-03' and have my blog site be automatically updated -- RSS included.</p>
+<p>I love being able to type './gen.sh 2002-03' and have my blog site be automatically updated &mdash; RSS included.</p>
 <p>(Why is RSS so cool, you wonder? Because it's content syndication. People can subscribe to it and know when I've updated my blog. If we still had an RSS Agent in Jabber, you could even receive a special message of type "headline" when my RSS file was updated to contain a new item. Unfortunately, we no longer have an RSS Agent. Makes me want to write one in C++ using Dizzy's JECL code. In fact, I think that I <em>will</em> write such a component. It'll give me a good excuse to vastly improve my C++ skills, and provide a valuable addition to the Jabber community to boot.)</p>
 </entry>
 </journal>

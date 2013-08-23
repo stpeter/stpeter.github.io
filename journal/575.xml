@@ -11,13 +11,13 @@
     </ol>
     <p>Let's go over those adjectives, shall we?</p>
     <ul>
-      <li>Modular -- designed so that people can contribute to it without having to grok the entire codebase.</li>
-      <li>Hackable -- written in a language that lots of developers understand and can productively code in.</li>
-      <li>Well-documented -- including a complete architectural description, user/admin guide, and in-depth comments in the code (see hackability above).</li>
-      <li>Cross-platform -- works on Linux/Unix, Windows, and Mac OS X.</li>
-      <li>Easy-to-use -- no more difficult configuration or installation, good user interfaces, and lots of help files.</li>
-      <li>Protocol-compliant -- wouldn't it be cool if you could actually make use of protocols like pubsub, XHTML, and file transfer?</li>
-      <li>Server | Client -- Jabber is a client-server system, so we need both.</li>
+      <li>Modular &mdash; designed so that people can contribute to it without having to grok the entire codebase.</li>
+      <li>Hackable &mdash; written in a language that lots of developers understand and can productively code in.</li>
+      <li>Well-documented &mdash; including a complete architectural description, user/admin guide, and in-depth comments in the code (see hackability above).</li>
+      <li>Cross-platform &mdash; works on Linux/Unix, Windows, and Mac OS X.</li>
+      <li>Easy-to-use &mdash; no more difficult configuration or installation, good user interfaces, and lots of help files.</li>
+      <li>Protocol-compliant &mdash; wouldn't it be cool if you could actually make use of protocols like pubsub, XHTML, and file transfer?</li>
+      <li>Server | Client &mdash; Jabber is a client-server system, so we need both.</li>
     </ul>
     <p>Why don't we have these two things right now? One big reason, as I've discussed recently with Peter Millard and Ryan Eatmon, is that the Jabber community contains a plethora of one-person projects. We have a thousand points of light, but they are so widely scattered that server admins and end users are still pretty much in the dark.</p>
     <p>What do I propose? Although I am not known for my hacking skills, I've found that one language is more productive for me than any other: Python. A well-designed, well-documented Jabber server and client written in Python might just be the trick. (Yes, I appreciate all the work that has gone into jabberd 1.4 and jabberd2 on the server side, but C is simply not accessible for most developers; yes, Exodus and Psi and Jabberzilla and other clients have received attention over time, but most of them are one-person projects or written in languages that again are not as open or accessible.)</p>

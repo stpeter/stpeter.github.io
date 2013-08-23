@@ -6,7 +6,7 @@
       <li><p>SIP is a complicated technology.</p></li>
       <li><p>SIMPLE is a set of fairly complicated extensions to SIP for basic messaging and presence.</p></li>
       <li><p>In order to build really interesting applications with SIMPLE, you need to extend it even further since it supports only basic messaging and presence.</p></li>
-      <li><p>But by the time you extend the extensions, you're overextended -- and no software developer wants to be overextended because that means a long time to market and unnecessary application complexity (if you can even build what you need in the first place).</p></li>
+      <li><p>But by the time you extend the extensions, you're overextended &mdash; and no software developer wants to be overextended because that means a long time to market and unnecessary application complexity (if you can even build what you need in the first place).</p></li>
     </ol>
     <p>By contrast, XMPP has flexibility, extensibility, and simplicity built into the core. XMPP is a simple but powerful XML routing technology, and XML is the lingua franca of modern application development. The result: it's damn easy to extend XMPP so you can build the kind of interesting applications that produce competitive advantage for your organization. Competitive advantage means you are successful and your competitors aren't. It doesn't get any more simple than that. ;-)</p>
 </entry>

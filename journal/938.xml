@@ -8,7 +8,7 @@
       <li>Too many codecs! (But none are required.)</li>
       <li>NAT and firewall traversal is a major problem.</li>
       <li>Interoperability is inconsistent.</li>
-      <li>Imitating the PSTN (voice calling) is not enough -- we need true multimedia innovation (whiteboarding, collaborative editing, app sharing, etc.).</li>
+      <li>Imitating the PSTN (voice calling) is not enough &mdash; we need true multimedia innovation (whiteboarding, collaborative editing, app sharing, etc.).</li>
     </ol>
     <p>There is a growing perception that the current crop of second-generation technologies are extremely limited and that SIP is not going to solve these problems. So what is to be done? For future technologies, the consensus is that we need to:</p>
     <ol>

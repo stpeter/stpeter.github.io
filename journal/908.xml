@@ -14,7 +14,7 @@
     <blockquote>
       <p>The value of this attribute is a URI that designates a source document or message. This attribute is intended to give further information about the element's contents...</p>
     </blockquote>
-    <p>If you twist your head just right and squint your eyes a bit, a tag: URI could be seen as a source document or message -- the tag identifies the context for the citation.</p>
+    <p>If you twist your head just right and squint your eyes a bit, a tag: URI could be seen as a source document or message &mdash; the tag identifies the context for the citation.</p>
     <p>However, few if any browsers currently provide a way for users to actuate 'cite' URIs (even though they are supposed to). But perhaps that is to the good, since the point of open tagging is quite possibly automated processing rather than user clicking.</p>
     <p>If folks don't like the presentational implications of the <a href="http://www.w3.org/TR/xhtml2/mod-text.html#edef_text_cite">cite element</a>, they can add the 'cite' attribute to non-presentational elements like <a href="http://www.w3.org/TR/xhtml2/mod-text.html#edef_text_span">span element</a>. The result? A kind of invisible yet open tagging that smart browsers could render in intelligent ways, but that would be hidden from less savvy users.</p>
     <p>It's worth considering...</p>

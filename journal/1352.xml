@@ -25,6 +25,6 @@
 <p>Heck, that would be a fairly strong password on its own. But now if you run it through a hashing algorithm, you'll have a really strong password.</p>
 <p>One problem is that some websites don't let you use a long password (e.g., not more than 20 characters) and they often restrict the characters you can use (e.g., no "+" or "="). Sadly, it's often financial websites that have these stupid, insecure restrictions! But that's another story...</p>
 <p>Yes, this is a <a href="http://www.urbandictionary.com/define.php?term=PITA">PITA</a>. But is it more of a PITA than having your email account or IM address or online banking access hacked? I don't think so.</p>
-<p>Nothing in this rant excuses the other parts of the system that often break down, including people-who-should-know-better -- such as, say, the admins of the jabber.org IM service (c'est moi). More about that in future posts.</p>
+<p>Nothing in this rant excuses the other parts of the system that often break down, including people-who-should-know-better &mdash; such as, say, the admins of the jabber.org IM service (c'est moi). More about that in future posts.</p>
 </entry>
 </journal>

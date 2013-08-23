@@ -4,7 +4,7 @@
 <p>Yow, woke up late this morning and missed Jeremie's talk. Joe Hildebrand is giving a talk right now entitled "A Day in the Life of a Jabber Developer" with a fun Beatles thread (woke up, fell out of bed, dragged a comb across my head...). At the end of my talk this morning about the Jabber Software Foundation I asked who has a weblog (not enough!) and <a href="http://doc.weblogs.com/">Doc</a> followed up by asking who is blogging the conference live. He is, so I figured I'd do so as well. :)</p>
 <p>Some aha moments for me at the conference so far:</p>
 <ol>
-<li>We need to make greater use of jabber:x:data -- there is a lot of potential here to extend Jabber in the same way that HTML forms greatly extended the World Wide Web.</li>
+<li>We need to make greater use of jabber:x:data &mdash; there is a lot of potential here to extend Jabber in the same way that HTML forms greatly extended the World Wide Web.</li>
 <li>Dale Malik of BellSouth pointed out that 95% of people prefer real-time chat with customer service representatives as opposed to telephone interactions. We need better website integration!</li>
 <li>The Jabber network is key. There are thousands of Jabber servers but it's not easy to find them all. How do we encourage people to "come out of the closet" and improve service discovery and directories on the Jabber network?</li>
 <li>Web services right now consists of synchronous request-response interactions over HTTP. Sure they're structured with XML-RPC and SOAP, but Jabber's asynchronous nature and live presence capabilities make possible new kinds of web services (or "Jabber services"), such as transactional "conversations" like workflow processing or trading systems.</li>

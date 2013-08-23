@@ -13,8 +13,8 @@
 <li>Transport Layer Security (TLS) for channel encryption. If the peer XMPP server presents a self-signed certificate or whatever, don't proceed.</li>
 <li>Simple Authentication and Security Layer (SASL) via SASL EXTERNAL after TLS negotiation.</li>
 </ol>
-<p>One of the challenges here is getting server admins to use proper certificates, which is why we created the <a href="https://www.xmpp.net/">XMPP ICA</a>. Naturally, service providers and enterprises may trust other CAs (e.g., Verisign) more than they trust the XMPP ICA, and that's fine -- they can use their trusted roots.</p>
-<p>Granted there are instances in which certificate management and deployment becomes a significant challenge -- e.g., service providers that host a large number of virtual hosts. I don't have the answers for those folks, so that's something we need to work on.</p>
+<p>One of the challenges here is getting server admins to use proper certificates, which is why we created the <a href="https://www.xmpp.net/">XMPP ICA</a>. Naturally, service providers and enterprises may trust other CAs (e.g., Verisign) more than they trust the XMPP ICA, and that's fine &mdash; they can use their trusted roots.</p>
+<p>Granted there are instances in which certificate management and deployment becomes a significant challenge &mdash; e.g., service providers that host a large number of virtual hosts. I don't have the answers for those folks, so that's something we need to work on.</p>
 <p>Perhaps that's one reason why Paul Mockapetris thinks we need a new authentication layer for the Internet. But personally I think we have the tools we need (DNS SRV, certificates, TLS, SASL) for dynamic peering or trusted federation or whatever you want to call it. We "just" need to deploy these tools more widely, gain more experience with them, and define some best practices that everyone can follow.</p>
 </entry>
 </journal>
