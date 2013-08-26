@@ -1,7 +1,7 @@
 <journal>
 <header><title>Quick OAuth Notes</title><date>2008-07-23</date></header>
 <entry>
-<p>I got an email from <a href="http://anarchogeek.com/">rabble</a> overnight asking for some quick notes about our consensus on OAuth + XMPP from yesterday's discussion at the <a href="http://www.xmpp.org/summit/summit5.shtml">XMPP Summit</a>, so here goes...</p>
+<p>I got an email from <a href="http://anarchogeek.com/">rabble</a> overnight asking for some quick notes about our consensus on OAuth + XMPP from yesterday's discussion at the <a href="http://www.xmpp.org/summit/summit5.shtml">XMPP Summit</a>, so here goes&hellip;</p>
 <p>Scenario: I want my <a href="http://www.twhirl.org/">Twhirl</a> client to receive <a href="http://www.last.fm/music/Kellan+Elliott-McCrea">Kellan's tune stream</a> from <a href="http://last.fm/">last.fm</a> via XMPP.</p>
 <ol>
 <li><p>My Twhirl client asks last.fm for an OAuth token.</p></li>

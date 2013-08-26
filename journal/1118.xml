@@ -12,6 +12,6 @@
 <li>Does the server misbehave at all (e.g., send bad XML or reconnect too often)?</li>
 </ul>
 <p>As a result of factors like this, we could define an automated reputation scoring system for Jabber servers. Your server starts at zero and gets closer to 100 if you do the right things.</p>
-<p>It's worth considering among our other weapons against the inevitable rise of spam on our network...</p>
+<p>It's worth considering among our other weapons against the inevitable rise of spam on our network&hellip;</p>
 </entry>
 </journal>

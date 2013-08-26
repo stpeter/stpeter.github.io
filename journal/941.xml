@@ -22,6 +22,6 @@
       <li>They require support for <a href="http://www.w3.org/TR/xml-c14n">Canonical XML</a> (this has elicited howls of protest from some Jabber developers in the past, but I think the objections can be overcome)</li>
       <li>In order to support signing and encryption of IQ stanzas, we'd need to relax the prohibition on multiple child elements (but, I think, only for children qualified by the http://www.w3.org/2000/09/xmldsig# and http://www.w3.org/2001/04/xmlenc# namespaces)</li>
     </ol>
-    <p>Further research required...</p>
+    <p>Further research required&hellip;</p>
 </entry>
 </journal>

@@ -6,6 +6,6 @@
       <li><a href="http://www.w3.org/TR/xml-exc-c14n/">Exclusive XML Canonicalization</a></li>
       <li><a href="http://www.uddi.org/pubs/SchemaCentricCanonicalization.htm">Schema Centric XML Canonicalization</a></li>
     </ul>
-    <p>It's a bit worrisome that plain old XML canonicalization doesn't work well. It's even more worrisome that the folks who worked on Schema Centric XML Canonicalization didn't think that Exclusive XML Canonicalization solved the problem...</p>
+    <p>It's a bit worrisome that plain old XML canonicalization doesn't work well. It's even more worrisome that the folks who worked on Schema Centric XML Canonicalization didn't think that Exclusive XML Canonicalization solved the problem&hellip;</p>
 </entry>
 </journal>

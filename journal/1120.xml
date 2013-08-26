@@ -9,7 +9,7 @@
 <li>You both try to connect over the public and private endpoints. If one of the endpoints succeeds, use it. (You need to figure out if it works, but there are no acks in UDP. Maybe checking via the <a href="http://tools.ietf.org/html/rfc0862">Echo Protocol</a> but <a href="http://www.xmpp.org/extensions/xep-0208.html">on a high port</a> would do it?)</li>
 </ol>
 <p>We'd need a fallback, which would probably be none other than the <a href="http://www.xmpp.org/extensions/xep-0176.html">Jingle ICE Transport Method</a>. But this basic hole-punching technique would be more effective than our current raw UDP method, which right now is the NAT traversal equivalent of the "I'm Feeling Lucky" button in Google search.</p>
-<p>Something to think about...</p>
+<p>Something to think about&hellip;</p>
 <p>UPDATE: Well, ICE simply <em>is</em> a hole-punching technology, and the right fallback is probably a relay &#xE0; la TURN. Plus you can't have your XMPP server tell you what your outfacing IP+port is since XMPP runs over TCP, not UDP. So call this post an intriguing idea that won't pan out. BTW, when it comes to open-source ICE libraries, check out <a href="http://nice.freedesktop.org/wiki/">libnice</a>.</p>
 </entry>
 </journal>

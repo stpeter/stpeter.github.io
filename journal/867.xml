@@ -3,7 +3,7 @@
 <entry>
     <p>Linus Torvalds <a href="http://lkml.org/lkml/2006/2/1/377">saith</a>:</p>
     <blockquote>
-      <p>... the reason GPLv2 is so successful at fighting the root problem of using copyright to fight restrictive copyrights is that it makes "interesting material" available under a license that forbids further restricting it.</p> 
+      <p>&hellip; the reason GPLv2 is so successful at fighting the root problem of using copyright to fight restrictive copyrights is that it makes "interesting material" available under a license that forbids further restricting it.</p> 
       <p>I would suggest that anybody who wants to fight DRM practices seriously look at the equivalent angle. If you create interesting content, you can forbid that _content_ to ever be encrypted or limited.</p>
       <p>In other words, I personally think that the anti-DRM clause is much more sensible in the context of the Creative Commons licenses, than in software licenses. If you create valuable and useful content that other people want to be able to use (catchy tunes, funny animation, good icons), I would suggest you protect that _content_ by saying that it cannot be used in any content-protection schemes.</p>
       <p>Afaik, all the Creative Commons licenses already require that you can't use technological measures to restrict the rigts you give with the CC licenses. The "Share Alike" license in particular requires all work based on it to also be shared alike, ie it has the "GPL feel" to it.</p>

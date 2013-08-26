@@ -9,6 +9,6 @@
       <li>Write a real XMPP signalling protocol.</li>
     </ol>
     <p>Option #1 turns out to be harder than you might think, and we specifically received feedback from a large company that had implemented such a solution that it was not a good solution, and that they wanted something like Option #2. That feedback fueled the fire, so we got busy on the XMPP signalling extensions. The rest, as they say, is history. ;-)</p>
-    <p>Naturally there is still a lot of work to be done &mdash; these are just version 0.1 specs and we'll work hard to refine them over the next few months (<a href="http://mail.jabber.org/mailman/listinfo/standards-jig">join the conversation</a>). But I think Jingle gives us a strong foundation not just for VoIP but for video, gaming, file sharing, app casting, whiteboarding, and a whole range of other multimedia session types. So stay tuned for more exciting developments...</p>
+    <p>Naturally there is still a lot of work to be done &mdash; these are just version 0.1 specs and we'll work hard to refine them over the next few months (<a href="http://mail.jabber.org/mailman/listinfo/standards-jig">join the conversation</a>). But I think Jingle gives us a strong foundation not just for VoIP but for video, gaming, file sharing, app casting, whiteboarding, and a whole range of other multimedia session types. So stay tuned for more exciting developments&hellip;</p>
 </entry>
 </journal>

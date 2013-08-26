@@ -9,7 +9,7 @@
 <p>Additionally, just like the web encompasses both the human web and programmable web, we need a messaging infrastructure that is not only human friendly but also bot friendly.  In this area Jabber doesn&#x2019;t disappoint.</p>
 </blockquote>
 <p>Naturally those in the know realize that Google Talk is built on Jabber technologies, i.e., the <a href="http://www.xmpp.org/">Extensible Messaging and Presence Protocol</a>. Google was smart to choose XMPP as the basis for its Talk service 2 years ago, and more smart companies are implementing and deploying XMPP technologies all the time.</p>
-<p>Yes, the Jabber juggernaut rolls on...</p>
+<p>Yes, the Jabber juggernaut rolls on&hellip;</p>
 <p>UPDATE: There's an interesting follow-up conversation happening about pulling feeds via HTTP or pushing feeds via XMPP (or a little bit of both). Check out the posts from <a href="http://www.dehora.net/journal/2007/08/rates_of_decay_xmpp_push_http_pull.html">Bill de H&#xF3;ra</a>, <a href="http://fuzzypanic.blogspot.com/2007/08/pubsub-vs-atom.html">Mike Herrick</a>, <a href="http://www.dancres.org/blitzblog/2007/08/21/pull-vs-push/">Dan Creswell</a>, and <a href="http://patricklogan.blogspot.com/2007/08/polling-andor-pushing.html">Patrick  Logan</a> for details. And see <a href="http://torrez.us/archives/2007/08/15/545/">Elias Torres</a> on Hadoop and Jabber, too.</p>
 </entry>
 </journal>
