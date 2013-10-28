@@ -1,0 +1,9 @@
+<journal>
+<header><title>TLS Everywhere</title><date>2013-10-27</date></header>
+<entry>
+<p>Almost 15 years have passed since my friend Jeremie Miller released the initial version of the jabberd IM server, launching the Jabber open-source community and the technology we know today as <a href='http://xmpp.net/'>XMPP</a>. Yet, all that time, hop-by-hop encryption using SSL/TLS has been optional on the XMPP network. A number of server operators and software developers in the XMPP community have decided that needs to change for the better. Based on discussions at the XMPP Summit last week in Portland, Oregon, I have drafted a plan for upgrading the XMPP network to always-on, mandatory, ubiquitous encryption. You can find it here:</p>
+<p><a href='https://github.com/stpeter/manifesto'>https://github.com/stpeter/manifesto</a></p>
+<p>In short: we owe it to those who use XMPP technologies to improve the security of the network. Although we know that channel encryption is not the complete answer, it's the right thing to do because it will help to protect people's communications from prying eyes.</p> 
+<p>If you or your organization develop XMPP-compatible software or run a service that's connected to the XMPP network, I encourage you to sign the statement by following the instructions in the README at the URL shown above.</p>
+</entry>
+</journal>
