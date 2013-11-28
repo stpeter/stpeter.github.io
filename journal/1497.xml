@@ -1,0 +1,6 @@
+<journal>
+<header><title>RFC 7081</title><date>2013-11-27</date></header>
+<entry>
+<p>I'm not working this week, but I thought I'd note that <a href='http://www.rfc-editor.org/rfc/rfc7081.txt'>RFC 7081</a> was published today, providing guidelines for dual-stack SIP/XMPP software and services. Many thanks to Emil Ivov and Enrico Marocco for working on this document with me, and thanks also to the many software developers and service operators who provided feedback regarding our recommendations. And hey, now I've had RFCs published in the 3000's, 4000's, 5000's, 6000's, and 7000's, with another ~15 on the way in the next year or so.</p>
+</entry>
+</journal>
