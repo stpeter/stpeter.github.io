@@ -5,10 +5,12 @@
 
   <xsl:template match='/'>
 
-    <xsl:variable name='thelast' select='/channel/@last'/>
-    <xsl:variable name='ultimate' select='$thelast'/>
-    <xsl:variable name='penultimate' select='$ultimate - 1'/>
-    <xsl:variable name='antepenultimate' select='$ultimate - 2'/>
+    <xsl:variable name='last' select='/channel/@last'/>
+    <xsl:variable name='min1' select='$last - 1'/>
+    <xsl:variable name='min2' select='$last - 2'/>
+    <xsl:variable name='min3' select='$last - 3'/>
+    <xsl:variable name='min4' select='$last - 4'/>
+    <xsl:variable name='min5' select='$last - 5'/>
 
     <html>
       <head>
@@ -35,7 +37,7 @@
         <xsl:if test='/channel/journal[position()=1]'>
           <h2>
             <a>
-              <xsl:attribute name='href'><xsl:value-of select='$ultimate'/><xsl:text>.html</xsl:text></xsl:attribute>
+              <xsl:attribute name='href'><xsl:value-of select='$last'/><xsl:text>.html</xsl:text></xsl:attribute>
               <xsl:value-of select='/channel/journal[position()=1]/header/title'/>
             </a>
           </h2>
@@ -46,7 +48,7 @@
         <xsl:if test='/channel/journal[position()=2]'>
           <h2>
             <a>
-              <xsl:attribute name='href'><xsl:value-of select='$penultimate'/><xsl:text>.html</xsl:text></xsl:attribute>
+              <xsl:attribute name='href'><xsl:value-of select='$min1'/><xsl:text>.html</xsl:text></xsl:attribute>
               <xsl:value-of select='/channel/journal[position()=2]/header/title'/>
             </a>
           </h2>
@@ -57,12 +59,45 @@
         <xsl:if test='/channel/journal[position()=3]'>
           <h2>
             <a>
-              <xsl:attribute name='href'><xsl:value-of select='$antepenultimate'/><xsl:text>.html</xsl:text></xsl:attribute>
+              <xsl:attribute name='href'><xsl:value-of select='$min2'/><xsl:text>.html</xsl:text></xsl:attribute>
               <xsl:value-of select='/channel/journal[position()=3]/header/title'/>
             </a>
           </h2>
           <h3><xsl:value-of select='/channel/journal[position()=3]/header/date'/></h3>
           <xsl:apply-templates select='/channel/journal[position()=3]/entry'/>
+        </xsl:if>
+        <hr/>
+        <xsl:if test='/channel/journal[position()=4]'>
+          <h2>
+            <a>
+              <xsl:attribute name='href'><xsl:value-of select='$min3'/><xsl:text>.html</xsl:text></xsl:attribute>
+              <xsl:value-of select='/channel/journal[position()=4]/header/title'/>
+            </a>
+          </h2>
+          <h3><xsl:value-of select='/channel/journal[position()=4]/header/date'/></h3>
+          <xsl:apply-templates select='/channel/journal[position()=4]/entry'/>
+        </xsl:if>
+        <hr/>
+        <xsl:if test='/channel/journal[position()=5]'>
+          <h2>
+            <a>
+              <xsl:attribute name='href'><xsl:value-of select='$min4'/><xsl:text>.html</xsl:text></xsl:attribute>
+              <xsl:value-of select='/channel/journal[position()=5]/header/title'/>
+            </a>
+          </h2>
+          <h3><xsl:value-of select='/channel/journal[position()=5]/header/date'/></h3>
+          <xsl:apply-templates select='/channel/journal[position()=5]/entry'/>
+        </xsl:if>
+        <hr/>
+        <xsl:if test='/channel/journal[position()=6]'>
+          <h2>
+            <a>
+              <xsl:attribute name='href'><xsl:value-of select='$min5'/><xsl:text>.html</xsl:text></xsl:attribute>
+              <xsl:value-of select='/channel/journal[position()=6]/header/title'/>
+            </a>
+          </h2>
+          <h3><xsl:value-of select='/channel/journal[position()=6]/header/date'/></h3>
+          <xsl:apply-templates select='/channel/journal[position()=6]/entry'/>
         </xsl:if>
         <hr/>
         <p>For older entries, check the <a href='archive.html'>archive</a>. To track changes, follow the <a href='/atom.xml'>feed</a>.</p>
