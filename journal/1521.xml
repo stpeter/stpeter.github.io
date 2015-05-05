@@ -1,5 +1,5 @@
 <journal>
-<header><title>RFC 7457</title><date>2015-02-05</date></header>
+<header><title>RFC 7457: Attacks on SSL/TLS</title><date>2015-02-05</date></header>
 <entry>
 <p>I'm in the midst of a big push to finish off the ~15 Internet-Drafts I have underway at the <a href='https://www.ietf.org/'>IETF</a>, on topics such as security, internationalization, SIP-XMPP interworking, and even Uniform Resource Names (the lesser-known cousin of URLs). The first of these to be published as an RFC is a document entitled "Summarizing Known Attacks on Transport Layer Security (TLS) and Datagram TLS (DTLS)", a.k.a. <a href='https://datatracker.ietf.org/doc/rfc7457/'>RFC 7457</a>. Here I'll freely admit that Yaron Scheffer and Ralph Holz did most of the hard work, but they were gracious enough to include me as a co-author. The three of us are also close to finishing a <a href='https://datatracker.ietf.org/doc/draft-ietf-uta-tls-bcp/'>companion document</a> that describes how to address some of these attacks, so look for that soon!</p>
 </entry>
