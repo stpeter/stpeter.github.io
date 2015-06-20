@@ -1,0 +1,6 @@
+<journal>
+<header><title>RFC 7590: TLS in XMPP</title><date>2015-06-19</date></header>
+<entry>
+<p>Following on the work that Yaron Sheffer, Ralph Holz, and I did on <a href='https://datatracker.ietf.org/doc/rfc7525/'>best practices for SSL/TLS</a> in application protocols, Thijs Alkemade and I have now applied those recommendations to XMPP in the form of <a href='https://datatracker.ietf.org/doc/rfc7590/'>RFC 7590</a> (published today). This document explicitly updates the security considerations of the <a href='https://datatracker.ietf.org/doc/rfc6120/'>core XMPP spec</a> and thus helps us further strengthen the security properties of the Jabber/XMPP network. Naturally there is still much to be done, but this is another step in the right direction...</p>
+</entry>
+</journal>
