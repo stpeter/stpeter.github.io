@@ -1,0 +1,6 @@
+<journal>
+<header><title>RFC 7673: DNSSEC, DANE, and SRV</title><date>2015-10-14</date></header>
+<entry>
+<p>Traditionally, connections to Internet services such as websites are secured using SSL/TLS with digital certificates issued by third-party certification authorities. Because this dependency on CAs isn't always a good thing (can you say Diginotar?), building atop <a href='https://datatracker.ietf.org/doc/rfc4033/'>DNSSEC</a> some smart folks at the IETF designed <a href='https://datatracker.ietf.org/doc/rfc6698/'>DANE</a> as a way for application service providers to specify their own keying material. This works just fine for protocols like HTTP in which a client to look up a server "directly" using DNS A or AAAA records. However, it doesn't work for protocols like IMAP or XMPP in which a client uses DNS SRV records to find the server to which it will ultimately connect. Because we care about this scenario in the Jabber/XMPP community, Matt Miller and I volunteered to help Tony Finch finish his initial work to fill this gap. The resulting document was published today as <a href='https://datatracker.ietf.org/doc/rfc7673/'>RFC 7673</a>. Security FTW!</p>
+</entry>
+</journal>
