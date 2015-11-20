@@ -1,0 +1,9 @@
+<journal>
+<header><title>RFC 7711 and RFC 7712: POSH and DNA</title><date>2015-11-18</date></header>
+<entry>
+<p>Today the IETF published two intertwined specifications that I've co-authored with a few folks in the XMPP community: <a href='https://datatracker.ietf.org/doc/rfc7711/'>RFC 7711</a> and <a href='https://datatracker.ietf.org/doc/rfc7712/'>RFC 7712</a>.</p>
+<p>RFC 7711 - PKIX over Secure HTTP or "POSH" - defines a way to retrieve digital certificates for application servers over HTTPS, essentially as an alternative method for bootstrapping trust in cases where it's not feasible for a service provider to obtain the proper certificates through a certification authority (CA). Once upon a time I wrote a humorous <a href='https://mailarchive.ietf.org/arch/msg/posh/-u4BZfZ_rh9Qoegu05_ua_OzS9c'>POSH-ian Play</a> to explain the need for this protocol; some people remain unconvinced but they don't have to operate XMPP services in multi-tenanted environments.</p>
+<p>RFC 7712 - Domain Name Associations ("DNA") in XMPP - formalizes the methods for checking the association between a domain name and an XML stream in XMPP, which is necessary for proper security. Traditionally we've relied on CA-issued digital certificates to establish such associations, but now that we have DNSSEC/DANE (see <a href='1537.html'>RFC 7673</a> and POSH two more methods can be used, thus expanding our toolkit for XMPP security.</p>
+<p>Thanks to Matt Miller and Philipp Hancke for working with me on these specs!</p>
+</entry>
+</journal>
