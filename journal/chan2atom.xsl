@@ -19,7 +19,7 @@
         <name>Peter Saint-Andre</name>
         <url>http://stpeter.im/</url>
       </author>
-      <tagline>The journal of Peter Saint-Andre - technologist, writer, musician, philosopher.</tagline>
+      <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
       <id>http://stpeter.im/journal/</id>
       <copyright>http://creativecommons.org/publicdomain/zero/1.0/</copyright>
       <modified><xsl:value-of select='/channel/journal[position()=1]/header/date'/></modified>
@@ -36,6 +36,7 @@
           <modified><xsl:value-of select='/channel/journal[position()=1]/header/date'/></modified>
           <summary>
             <xsl:value-of select='/channel/journal[position()=1]/entry/p[position()=1]'/>
+            <xsl:text>...</xsl:text>
           </summary>
         </entry>
       </xsl:if>
@@ -52,6 +53,7 @@
           <modified><xsl:value-of select='/channel/journal[position()=2]/header/date'/></modified>
           <summary>
             <xsl:value-of select='/channel/journal[position()=2]/entry/p[position()=1]'/>
+            <xsl:text>...</xsl:text>
           </summary>
         </entry>
       </xsl:if>
@@ -68,6 +70,7 @@
           <modified><xsl:value-of select='/channel/journal[position()=3]/header/date'/></modified>
           <summary>
             <xsl:value-of select='/channel/journal[position()=3]/entry/p[position()=1]'/>
+            <xsl:text>...</xsl:text>
           </summary>
         </entry>
       </xsl:if>
@@ -84,6 +87,7 @@
           <modified><xsl:value-of select='/channel/journal[position()=4]/header/date'/></modified>
           <summary>
             <xsl:value-of select='/channel/journal[position()=4]/entry/p[position()=1]'/>
+            <xsl:text>...</xsl:text>
           </summary>
         </entry>
       </xsl:if>
@@ -100,6 +104,7 @@
           <modified><xsl:value-of select='/channel/journal[position()=5]/header/date'/></modified>
           <summary>
             <xsl:value-of select='/channel/journal[position()=5]/entry/p[position()=1]'/>
+            <xsl:text>...</xsl:text>
           </summary>
         </entry>
       </xsl:if>
@@ -116,6 +121,7 @@
           <modified><xsl:value-of select='/channel/journal[position()=6]/header/date'/></modified>
           <summary>
             <xsl:value-of select='/channel/journal[position()=6]/entry/p[position()=1]'/>
+            <xsl:text>...</xsl:text>
           </summary>
         </entry>
       </xsl:if>
