@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>One Small Voice: c14n</title>
+<link rel="stylesheet" type="text/css" href="/stpeter.css">
+<link rel="alternate" type="application/atom+xml" href="http://stpeter.im/atom.xml">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="DC.Creator" content="Peter Saint-Andre">
+<meta name="DC.Rights" content="http://creativecommons.org/publicdomain/zero/1.0/">
+<meta name="DC.Title" content="c14n">
+<meta name="DC.Date" content="2006-05-17">
+</head>
+<body>
+<h2>c14n</h2>
+<h3>2006-05-17</h3>
+    <p>Following up on my <a href="941.html">prior post</a> about end-to-end encryption, I chatted with <a href="http://www.dizzyd.com/blog/">DizzyD</a> about the <a href="http://www.w3.org/TR/xml-c14n">XML canonicalization</a> requirement imposed by XML signatures and XML encryption. He reports (based on his interop experience with <a href="http://xml.coverpages.org/saml.html">SAML</a>) that canonicalization (a.k.a. "c14n") doesn't get along well with <a href="http://www.w3.org/TR/REC-xml-names/">XML namespaces</a>. This is important because we use a lot of XML namespaces in the Jabber/XMPP world. It seems that the XML community has worked on two solutions to the namespaces issue:</p>
+    <ul>
+      <li><a href="http://www.w3.org/TR/xml-exc-c14n/">Exclusive XML Canonicalization</a></li>
+      <li><a href="http://www.uddi.org/pubs/SchemaCentricCanonicalization.htm">Schema Centric XML Canonicalization</a></li>
+    </ul>
+    <p>It's a bit worrisome that plain old XML canonicalization doesn't work well. It's even more worrisome that the folks who worked on Schema Centric XML Canonicalization didn't think that Exclusive XML Canonicalization solved the problem...</p>
+<hr>
+<p><a href="/">Peter Saint-Andre</a> &gt; <a href="/journal/">Journal</a></p>
+</body>
+</html>

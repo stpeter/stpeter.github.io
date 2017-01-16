@@ -1,0 +1,32 @@
+<html>
+<head>
+<title>One Small Voice: ESessions Reconsidered</title>
+<link rel="stylesheet" type="text/css" href="/stpeter.css">
+<link rel="alternate" type="application/atom+xml" href="http://stpeter.im/atom.xml">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="DC.Creator" content="Peter Saint-Andre">
+<meta name="DC.Rights" content="http://creativecommons.org/publicdomain/zero/1.0/">
+<meta name="DC.Title" content="ESessions Reconsidered">
+<meta name="DC.Date" content="2005-07-07">
+</head>
+<body>
+<h2>ESessions Reconsidered</h2>
+<h3>2005-07-07</h3>
+    <p>I have <a href="691.html">yet again</a> been investigating end-to-end encryption technologies for <a href="http://www.xmpp.org/">XMPP</a>. As we recall, there are three documented approaches:</p>
+    <ol>
+      <li>
+<a href="http://www.jabber.org/jeps/jep-0027.html">JEP-0027</a> (OpenPGP signing of presence and encryption of the message &lt;body/&gt; character data)</li>
+      <li>
+<a href="http://www.ietf.org/rfc/rfc3923.txt">RFC 3923</a> (S/MIME-based signing and encryption of CPIM message bodies and PIDF presence documents)</li>
+      <li>
+<a href="http://www.jabber.org/jeps/jep-0116.html">JEP-0116</a> (an SSH-like protocol for secure communication sessions between XMPP entities)</li>
+    </ol>
+    <p>I've also heard rumblings from people who want to use <a href="http://www.ietf.org/rfc/rfc3275.txt">XML Signature</a> for end-to-end encryption of XMPP stanzas, but I have yet to see a formal proposal (only informal documentation). And of course there is the <a href="http://www.cypherpunks.ca/otr/">OTR</a> (off-the-record messaging) approach, for which there is a Gaim plugin.</p>
+    <p>Without discussing the relative merits of these approaches in depth right now, I'd like to share the results of some research I've been doing with regard to JEP-0116 (Encrypted Sessions or ESessions). That protocol was defined by Dave Smith (I was simply the scribe in writing the JEP) and he has retracted the JEP from consideration. However, the more I read, the more I see that ESessions is essentially a translation of secure shell (<a href="http://www.ssh.com/">SSH</a>) semantics into XMPP syntax. While JEP-0116 could be better written in order to bring out its SSH-ness and to properly document the protocol (blame the scribe), I like the fact that it re-uses the semantics of a protocol that has undergone wide deployment and strong cross-area review within the IETF (in fact, I would hazard to say that ssh is one of the most successful security technologies on the Internet).</p>
+    <p>At this point I would like to take a stab at re-writing JEP-0116 to properly and completely document the ESessions protocol. This will give us a basis for comparing ESessions against the OpenPGP, S/MIME, and OTR approaches. In fact I'm about half done with the task, and I hope to finish it soon once I'm done grokking the SSH <a href="http://www.ietf.org/internet-drafts/draft-ietf-secsh-architecture-22.txt">architecture</a> and <a href="http://www.ietf.org/internet-drafts/draft-ietf-secsh-transport-24.txt">transport</a> specs (approved by the IESG but not yet published as RFCs) as well as related specifications such as RFCs <a href="http://www.ietf.org/rfc/rfc3526.txt">3526</a> and <a href="http://www.ietf.org/rfc/rfc2409.txt">2409</a>. In particular, I'm curious to see how ESessions differs from OTR, since both seem to inherit from the SSH model.</p>
+    <p>Stay tuned!</p>
+<hr>
+<p><a href="/">Peter Saint-Andre</a> &gt; <a href="/journal/">Journal</a></p>
+</body>
+</html>

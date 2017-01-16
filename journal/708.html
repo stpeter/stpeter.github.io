@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>One Small Voice: Every JID a PubSub Service</title>
+<link rel="stylesheet" type="text/css" href="/stpeter.css">
+<link rel="alternate" type="application/atom+xml" href="http://stpeter.im/atom.xml">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="DC.Creator" content="Peter Saint-Andre">
+<meta name="DC.Rights" content="http://creativecommons.org/publicdomain/zero/1.0/">
+<meta name="DC.Title" content="Every JID a PubSub Service">
+<meta name="DC.Date" content="2005-04-04">
+</head>
+<body>
+<h2>Every JID a PubSub Service</h2>
+<h3>2005-04-04</h3>
+    <p>Over the weekend, I had an interesting thought: what if every user's Jabber ID were a <a href="http://www.jabber.org/jeps/jep-0060.html">pubsub</a> node? Right now, in order for a user (let's say, our old favorite Romeo) to publish his <a href="http://www.jabber.org/jeps/jep-0080.html">geolocation</a>, <a href="http://www.jabber.org/jeps/jep-0107.html">mood</a>, <a href="http://www.jabber.org/jeps/jep-0108.html">activity</a>, or other forms of <a href="http://www.jabber.org/jeps/jep-0119.html">extended presence</a>, he needs to find a service that implements <a href="http://www.jabber.org/jeps/jep-0060.html">JEP-0060</a>, create a dedicated pubsub node for each data type he wants to publish, perform a <a href="http://www.jabber.org/jeps/jep-0030.html#publish">disco-publish</a>, and so on (this whole dance is described is <a href="http://www.jabber.org/jeps/jep-0119.html">JEP-0119</a>). Plus, when someone (let's say, Juliet) receives an event notification from such a pubsub node, she needs to somehow correlate it with the publisher, either by keeping track of all the nodes to which she is subscribed (including its metadata) or the publisher needs to include an appropriate <a href="http://www.jabber.org/jeps/jep-0131.html">SHIM header</a>. Is this really in keeping with the <a href="http://www.jabber.org/jeps/jep-0134.html">Tao of Jabber</a>?</p>
+    <p>Now let's visualize what the world would be like if <a href="http://www.jabber.org/jeps/jep-0060.html">pubsub</a> were more tightly integrated into Jabber server implementations. Romeo could simply publish information to his own JID, at nodes identified by the appropriate protocol namespace names (his geolocation data is at JID='romeo@shakespeare.lit' + node='http://jabber.org/protocol/geoloc' etc.). When Juliet receives data from these nodes, she doesn't have to guess who the data is about -- obviously, it's about Romeo. We could do the same for any information about Romeo -- his <a href="http://www.jabber.org/jeps/inbox/profile.html">vCard</a>, his <a href="http://www.jabber.org/jeps/jep-0084.html">avatar</a>, syndication feeds for his weblog (can you say <a href="http://www.xmpp.org/drafts/draft-saintandre-atompub-notify-02.html">Atom-over-XMPP</a>?), and so on (perhaps someday even including network availability, i.e., presence, though that might be overkill). Romeo will probably still need to complete a disco-publish so that each of his pubsub nodes is also a disco node, but the server implementation could also be written to handle that transparently (every pubsub node created at a user's JID is also a disco node).</p>
+    <p>I'm not saying that every Jabber server should or would do things this way -- that train has left the station. But it might be a neat way to implement things if one were writing a new server from scratch.</p>
+<hr>
+<p><a href="/">Peter Saint-Andre</a> &gt; <a href="/journal/">Journal</a></p>
+</body>
+</html>

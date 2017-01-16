@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>One Small Voice: You MUST/SHOULD/MAY be Joking</title>
+<link rel="stylesheet" type="text/css" href="/stpeter.css">
+<link rel="alternate" type="application/atom+xml" href="http://stpeter.im/atom.xml">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="DC.Creator" content="Peter Saint-Andre">
+<meta name="DC.Rights" content="http://creativecommons.org/publicdomain/zero/1.0/">
+<meta name="DC.Title" content="You MUST/SHOULD/MAY be Joking">
+<meta name="DC.Date" content="2008-07-02">
+</head>
+<body>
+<h2>You MUST/SHOULD/MAY be Joking</h2>
+<h3>2008-07-02</h3>
+<p>The folks over in <a href="http://www.ietf.org/">IETF land</a> recently had a nice long <a href="http://www.ietf.org/mail-archive/web/ietf/current/msg52048.html">discussion thread</a> about the use of <a href="http://www.ietf.org/rfc/rfc2119.txt">RFC 2119</a> requirements terms like "MUST", "SHOULD", and "MAY". Even though I've written a few RFCs myself, I found the discussion illuminating. Here are my lessons learned:</p>
+<ul>
+<li>If you mean must, should, or may in their special requirements sense, <a href="http://www.ietf.org/mail-archive/web/ietf/current/msg52194.html">capitalize them</a>.</li>
+<li>If you don't mean must, should, or may in their special requirements sense, <a href="http://www.ietf.org/mail-archive/web/ietf/current/msg52156.html">don't use them</a> (instead, use words like "ought", "might", "can", and other such constructions).</li>
+<li>It's better to say <a href="http://www.ietf.org/mail-archive/web/ietf/current/msg52104.html">MUST do A unless Y occurs</a> than to say <a href="http://www.ietf.org/mail-archive/web/ietf/current/msg52119.html">SHOULD do A but without explaining why</a>, so <a href="http://www.ietf.org/mail-archive/web/ietf/current/msg52123.html">avoid SHOULD</a>.</li>
+<li>Changing SHOULD to MUST may leave older implementations in non-compliance, but that is the <a href="http://www.ietf.org/mail-archive/web/ietf/current/msg52132.html">fault of the spec writer</a>, so just admit you were wrong, change the SHOULD to MUST, and note that older implementations will follow the old SHOULD so newer implementations MUST accept the old behavior.</li>
+</ul>
+<p>I've been <a href="http://svn.xmpp.org:18080/browse/XMPP/trunk/internet-drafts/draft-saintandre-rfc3920bis-07.xml">updating rfc3920bis</a> along these lines (I finished this evening) and next I'll do the same for rfc3921bis.</p>
+<hr>
+<p><a href="/">Peter Saint-Andre</a> &gt; <a href="/journal/">Journal</a></p>
+</body>
+</html>

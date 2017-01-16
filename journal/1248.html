@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>One Small Voice: SuperStandardFederatedOpenMicroBlogoSphere</title>
+<link rel="stylesheet" type="text/css" href="/stpeter.css">
+<link rel="alternate" type="application/atom+xml" href="http://stpeter.im/atom.xml">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="DC.Creator" content="Peter Saint-Andre">
+<meta name="DC.Rights" content="http://creativecommons.org/publicdomain/zero/1.0/">
+<meta name="DC.Title" content="SuperStandardFederatedOpenMicroBlogoSphere">
+<meta name="DC.Date" content="2008-07-02">
+</head>
+<body>
+<h2>SuperStandardFederatedOpenMicroBlogoSphere</h2>
+<h3>2008-07-02</h3>
+<p>So the buzz today was all about <a href="http://identi.ca/">Identi.ca</a>, a new microblogging service. What has microbloggers all a-twitter (pardon the pun) is not the fact that <a href="http://evan.prodromou.name/">Evan Prodromou</a> and his friends at <a href="http://controlezvous.ca/">Control Yourself</a> have launched yet another microblogging silo, or even that it has built-in support for OpenID logins and XMPP notifications. No, the fun part is that Evan and company are releasing the source code to the underlying application (called <a href="http://laconi.ca/">Laconica</a>) and will enable Laconica instances to federate using something they call <a href="http://openmicroblogging.org/">OpenMicroBlogging</a>. Although passing lots of small messages between inter-connected Laconica instances sounds quite a bit like a special-purpose version of <a href="http://www.xmpp.org/">XMPP</a>, so far OpenMicroBlogging uses OpenID, OAuth, and YADIS instead. I'll be curious to see how that approach scales, because IMHO there will be an awful lot of HTTP GET requests and 200 OK responses involved. Instead of having 10 or 20 or 100 subscribers send in a polling request every 10 minutes (or less!) to see if I've generated a <a href="http://identi.ca/stpeter">new post</a>, it strikes me as much more efficient to push out a notification only when I've posted. We've done this in the Jabber world since 1999 for presence (network availability) information, and we've extended that model over the last few years to build out a generalized infrastructure for <a href="http://www.xmpp.org/extensions/xep-0060.html">publish-subscribe</a> notifications. Evan knows a thing or two about XMPP so it wouldn't surprise me if he's already thinking along those lines. But the most important thing is that, no matter which technologies are used, I think we're seeing the emergence of a standardized, federated, open microblogosphere, which is just super. :)</p>
+<hr>
+<p><a href="/">Peter Saint-Andre</a> &gt; <a href="/journal/">Journal</a></p>
+</body>
+</html>

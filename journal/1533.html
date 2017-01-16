@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>One Small Voice: RFC 7613: Internationalized Usernames and Passwords</title>
+<link rel="stylesheet" type="text/css" href="/stpeter.css">
+<link rel="alternate" type="application/atom+xml" href="http://stpeter.im/atom.xml">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="DC.Creator" content="Peter Saint-Andre">
+<meta name="DC.Rights" content="http://creativecommons.org/publicdomain/zero/1.0/">
+<meta name="DC.Title" content="RFC 7613: Internationalized Usernames and Passwords">
+<meta name="DC.Date" content="2015-08-14">
+</head>
+<body>
+<h2>RFC 7613: Internationalized Usernames and Passwords</h2>
+<h3>2015-08-14</h3>
+<p>A few months ago I posted about the <a href="1527.html">internationalization odyssey</a> that was the <a href="https://datatracker.ietf.org/doc/rfc7564/">Framework for Preparation, Enforcement, and Comparison of Internationalized Strings in Application Protocols</a>, a.k.a. RFC 7564. This work has <a href="https://blog.liftsecurity.io/2015/06/08/security-and-internationalization">significant implications</a> for security, as exemplified by the PRECIS profiles for usernames and passwords, just published as <a href="https://datatracker.ietf.org/doc/rfc7613/">RFC 7613</a>. The old approach to internationalization of usernames and passwords (<a href="https://datatracker.ietf.org/doc/rfc4013/">RFC 4013</a>) was locked into Unicode version 3.2 (it's now up to version 7, with version 8 coming soon) and also used an identical algorithm for both usernames and passwords, even though the security characteristics of these two constructs are quite different (for passwords we want to maximize entropy by allowing just about every possible Unicode character, whereas for usernames we want a more controlled subset of Unicode characters mostly limited to letters and numbers). With RFC 7613, Alexey Melnikov and I took a more modern and careful approach: among other things it's version-agile with respect to Unicode and it defines separate profiles - actually one for passwords (called "OpaqueString") and two for usernames, depending on whether uppercase characters are preserved or mapped to lowercase. It will take awhile for this new approach to trickle into application protocols (<a href="https://datatracker.ietf.org/doc/draft-ietf-xmpp-6122bis/">XMPP identifiers</a> and <a href="http://datatracker.ietf.org/doc/draft-ietf-precis-nickname/">chatroom nicknames</a> are the first two) and then into running code, but eventually this new approach will provide a stronger and more sustainable foundation for handling internationalized usernames and passwords over the Internet.</p>
+<hr>
+<p><a href="/">Peter Saint-Andre</a> &gt; <a href="/journal/">Journal</a></p>
+</body>
+</html>

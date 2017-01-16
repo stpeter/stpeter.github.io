@@ -1,0 +1,76 @@
+<html>
+<head>
+<title>One Small Voice: Got RDF?</title>
+<link rel="stylesheet" type="text/css" href="/stpeter.css">
+<link rel="alternate" type="application/atom+xml" href="http://stpeter.im/atom.xml">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="DC.Creator" content="Peter Saint-Andre">
+<meta name="DC.Rights" content="http://creativecommons.org/publicdomain/zero/1.0/">
+<meta name="DC.Title" content="Got RDF?">
+<meta name="DC.Date" content="2005-08-30">
+</head>
+<body>
+<h2>Got RDF?</h2>
+<h3>2005-08-30</h3>
+    <p>Chatting with <a href="http://danbri.org/words/">Dan Brickley</a> just now, he mentioned that he's <a href="http://danbri.org/words/2005/08/24/132">interested</a> in sending <a href="http://www.w3.org/TR/rdf-sparql-query/">SPARQL</a> over <a href="http://www.xmpp.org/">XMPP</a> so that folks can query things like each other's local RDF databases for information about photos, calendar events, tunes, etc. Here's how I think we'd do it (using examples similar to those at Dave Beckett's <a href="http://librdf.org/query/">demo page</a>):</p>
+    <ol>
+      <li>
+        <p>First, find out the resource of the SPARQL-aware script on the other side. Your script can get presence from all of your friend's XMPP resources and then send a <a href="http://www.jabber.org/jeps/jep-0030.html">Service Discovery</a> query to each one in order to figure out which one supports our little custom namespace (or of course you can cache that info using <a href="http://www.jabber.org/jeps/jep-0115.html">Entity Capabilities</a>). Here we'll assume that each side has done the necessary discovery and we have two SPARQL-aware resources: stpeter@jabber.org/sparql and danbri@jabber.org/rdfdb (no need to settle on conventional resource names since we have service discovery).</p>
+      </li>
+      <li>
+        <p>Dan wants to know the Jabber IDs of the people in my FOAF file, so he sends me an IQ-get that looks something like this (the xmlns is just a placeholder for now, note that we have to escape angle brackets in the SPARQL query):</p>
+        <pre>
+&lt;iq type='get'
+       from='danbri@jabber.org/rdfdb'
+       to='stpeter@jabber.org/sparql'
+       id='sparkling1'&gt;
+&lt;query xmlns='http://www.w3.org/TR/rdf-sparql-query/'&gt;
+      PREFIX foaf: &lt;http://xmlns.com/foaf/0.1/&gt;
+      SELECT ?jabberID
+      WHERE {
+             ?x rdf:type foaf:Person .
+             ?x foaf:name ?jabberID
+      }
+&lt;/query&gt;
+&lt;/iq&gt;
+        </pre>
+      </li>
+      <li>
+        <p>Now my SPARQL-aware script returns an IQ-result using the <a href="http://www.w3.org/TR/rdf-sparql-XMLres/">SPARQL Query Results XML Format</a>:</p>
+        <pre>
+&lt;iq type='result'
+       from='stpeter@jabber.org/sparql'
+       to='danbri@jabber.org/rdfdb'
+       id='sparkling1'&gt;
+  &lt;sparql xmlns='http://www.w3.org/2005/sparql-results#'&gt;
+    &lt;head&gt;
+      &lt;variable name='jabberID'&gt;
+    &lt;/head&gt;
+    &lt;results ordered="false" distinct="false"&gt;
+      &lt;result&gt;
+        &lt;binding name='jabberID'&gt;
+          &lt;uri&gt;xmpp:dizzyd@jabber.org&lt;/uri&gt;
+        &lt;/binding&gt;
+      &lt;/result&gt;
+      &lt;result&gt;
+        &lt;binding name='jabberID'&gt;
+          &lt;uri&gt;xmpp:jer@jabber.org&lt;/uri&gt;
+        &lt;/binding&gt;
+      &lt;/result&gt;
+      &lt;result&gt;
+        &lt;binding name='jabberID'&gt;
+          &lt;uri&gt;xmpp:pgmillard@jabber.org&lt;/uri&gt;
+        &lt;/binding&gt;
+      &lt;/result&gt;
+    &lt;/results&gt;
+  &lt;/sparql&gt;
+&lt;/iq&gt;
+        </pre>
+      </li>
+    </ol>
+    <p>That's a first pass, anyway. Further experimentation probably necessary.</p>
+<hr>
+<p><a href="/">Peter Saint-Andre</a> &gt; <a href="/journal/">Journal</a></p>
+</body>
+</html>

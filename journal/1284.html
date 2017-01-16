@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>One Small Voice: Maturity and Diversity in the XMPP Ecosystem</title>
+<link rel="stylesheet" type="text/css" href="/stpeter.css">
+<link rel="alternate" type="application/atom+xml" href="http://stpeter.im/atom.xml">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="DC.Creator" content="Peter Saint-Andre">
+<meta name="DC.Rights" content="http://creativecommons.org/publicdomain/zero/1.0/">
+<meta name="DC.Title" content="Maturity and Diversity in the XMPP Ecosystem">
+<meta name="DC.Date" content="2008-11-05">
+</head>
+<body>
+<h2>Maturity and Diversity in the XMPP Ecosystem</h2>
+<h3>2008-11-05</h3>
+<p>Eric Marcoullier of <a href="http://gnipcentral.com/">Gnip</a> recently <a href="http://blog.gnipcentral.com/2008/11/03/winding-down-xmpp-for-now/">announced</a> that they were winding down their XMPP support. Both <a href="http://www.readwriteweb.com/archives/gnip_says_xmpp_ecosytem_too_ha.php">Marshall Kirkpatrick</a> and <a href="http://www.stoweboyd.com/message/2008/11/gnip-dropping-x.html">Stowe Boyd</a> found this surprising, given that Gnip's customers seem to be crying for the real-time data that an XMPP firehose would provide (and despite the fact that services like Yahoo Fire Eagle are busy <a href="http://www.readwriteweb.com/archives/gnip_says_xmpp_ecosytem_too_ha.php#comment-115822">ramping up</a> their XMPP support).</p>
+<p>I find Eric's reasoning to be a bit flawed. First he says that the XMPP ecosystem is immature because there are too many XMPP server implementations, in contrast to the simpler world of HTTP servers where <a href="http://news.netcraft.com/archives/web_server_survey.html">Apache dominates</a>. Yet the email ecosystem is quite mature and has <a href="http://www.mailradar.com/mailstat/">no one dominant server implementation</a> (the current stats at mailradar.com are Sendmail 24%, Postfix 20%, qmail 17%, Microsoft Mail 15%, and exim 13%).</p>
+<p>It's true that there are <a href="http://xmpp.org/software/servers.shtml">quite a few XMPP server implementations</a>, but only about half a dozen of them are serious players and some <a href="http://www.process-one.net/en/imtrends/article/usage_estimation_of_public_xmpp_servers_per_domain/">rough estimates of deployment</a> indicate that there is no one dominant implementation (not very different from the email landscape). Furthermore, there is strong interoperability between these implementations because we run an open and growing network of servers and most people are happily unaware of which implementation is running at any particular domain.</p>
+<p>A bit further along in Eric's post, we learn why they are experiencing problems:</p>
+<blockquote>
+<p>From Gnip’s perspective, XMPP is causing us pain and eating cycles.  More than half of all customer service requests are about XMPP and in many cases, the receiving party isn’t standing up their own server.  They’re running off of Google or Jabber.org and there’s not much we can do when they get throttled.</p>
+</blockquote>
+<p>So here's the problem: it's not that the XMPP ecosystem is immature, it's that Gnip's customers are immature. They are attempting to run high-throughput data services via end-user accounts or bots running at open IM services like Google Talk and jabber.org. Then they are surprised when their accounts get rate-limited for excessive usage! The solution is for them to run their own XMPP servers. As mentioned there are plenty of such servers to choose from, and you can have most of them up and running in a few minutes.</p>
+<p>My conclusion: diversity and maturity can go hand-in-hand, but you need to choose the right tool for the job.</p>
+<hr>
+<p><a href="/">Peter Saint-Andre</a> &gt; <a href="/journal/">Journal</a></p>
+</body>
+</html>

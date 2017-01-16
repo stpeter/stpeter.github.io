@@ -1,0 +1,38 @@
+<html>
+<head>
+<title>One Small Voice: Identity Rights Agreements, Revisited</title>
+<link rel="stylesheet" type="text/css" href="/stpeter.css">
+<link rel="alternate" type="application/atom+xml" href="http://stpeter.im/atom.xml">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="DC.Creator" content="Peter Saint-Andre">
+<meta name="DC.Rights" content="http://creativecommons.org/publicdomain/zero/1.0/">
+<meta name="DC.Title" content="Identity Rights Agreements, Revisited">
+<meta name="DC.Date" content="2006-01-06">
+</head>
+<body>
+<h2>Identity Rights Agreements, Revisited</h2>
+<h3>2006-01-06</h3>
+    <p>Back in August I introduced the concept of <a href="795.html">Identity Rights Agreements</a>. Over the last few weeks, I've been chatting about the idea a bit more seriously with <a href="http://www.dizzyd.com/blog/">Dizzy</a> and <a href="http://jeremie.com/blog/">Jer</a>. So in line with Jer's post on 2006 as <a href="http://jeremie.com/blog/index.php?entry=entry051229-000152">The Year of I</a>, I thought I'd provide some insight into our thinking.</p>
+    <p>Recall the concept: I need the ability to specify how my information is to be used by online entities I interact with. But how? Ideally, someone would develop a way of tagging information so that I could, for example, tell an ecommerce site that my personal preferences are not to be shared with partners. Dizzy, Jer, and I have started to work on the concept in hopes of bringing it closer to reality. The basic idea is a kind of photographic negative of <a href="http://www.creativecommons.org/">Creative Commons</a>: rather than saying "here's something I've created, feel free to do anything with you want with it <em>except</em> for X", when it comes to my personally identifying information I want to say "here's some information about me and you <em>must not</em> do anything with it except Y". When that statement is instantiated in code (such as an HTML form I submit), we're calling it an Identity Privacy Contract (IDPC).</p>
+    <p>So what are the equivalent in IDPCs of the well-known Creative Commons licenses? We see two dimensions here: whether you can store my information, and whether (and with whom) you can share it. Boiling that down has yielded five options:</p>
+    <ol>
+      <li>Don't Store, Don't Share</li>
+      <li>Store, But Don't Share</li>
+      <li>Store, Share Internally</li>
+      <li>Store, Share With Partners</li>
+      <li>Store, Share With Anyone</li>
+    </ol>
+    <p>Let's look at each of these in a bit more depth...</p>
+    <ol>
+      <li><p>"Don't Store, Don't Share" means I'm providing this information to you only for the length of this transaction, where the time to live (TTL) of this transaction is zero. I think of the stores that ask for my ZIP code when I complete a cash transation: they don't store that information and they don't share it with anyone, although in some computer system there's a counter that's incremented by one every time someone in my ZIP code buys something (conclusion: aggregation is OK). Similar functionality might be used by online polls and such. This ties your hands with regard to using my information, but sometimes that's what I want.</p></li>
+      <li><p>"Store, Don't Share" means that you can keep a record of my information (e.g., in a database or cookie) and associate it with me (e.g., with my email address), but you can't share it with anyone else, not even other subsidiaries of your company. Your hands are tied less tightly here (perhaps you need to store the information to provide me with a better user experience or whatever) but the potential damage is limited since you can't share my information with anyone else. Note also that unlike "Don't Store, Don't Share", there is something of a real contract here, which needs to be time-limited (you can store this data for 2 hours or 2 weeks or 2 years); finally a real-life use for TTLs on cookies!</p></li>
+      <li><p>"Store, Share Internally" opens the door a little wider: now you can share the information with other subsidiaries. The data still has a TTL, but you can use it to offer a more seamless service (or blast me with marketing messages).</p></li>
+      <li><p>"Store, Share With Partners" gives you even greater freedom (now you can make money by selling this information to your partners or doing some co-marketing). But we stipulate that you must name your partners (good for small partner networks, not good for big partner networks) or describe the network (e.g., "all companies in the VISA network, all members of this federation, all subscribers to this mailing list"). But those partners must not share my information -- if they want to do anything with my information, they must negotiate directly with me.</p></li>
+      <li><p>"Store, Share With Anyone" might seem strange -- why would I let you share my personally identifying information with literally anyone? Yet I think there is precedent here: consider blog comments or forum posts, where I provide an email address or URL that is under my control and you link to it from your blog or forum. You've stored it and you're sharing it with the world.</p></li>
+    </ol>
+    <p>There is still much to work out here -- definitions of "aggregation", "transaction", "partner", "personally identifying information", and even "store", what counts as an address (required so that you can renegotiate with me or so that a partner can negotiate with me), and much more. But I think we're on to something. Stay tuned for more details...</p>
+<hr>
+<p><a href="/">Peter Saint-Andre</a> &gt; <a href="/journal/">Journal</a></p>
+</body>
+</html>

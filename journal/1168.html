@@ -1,0 +1,34 @@
+<html>
+<head>
+<title>One Small Voice: Peering</title>
+<link rel="stylesheet" type="text/css" href="/stpeter.css">
+<link rel="alternate" type="application/atom+xml" href="http://stpeter.im/atom.xml">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="DC.Creator" content="Peter Saint-Andre">
+<meta name="DC.Rights" content="http://creativecommons.org/publicdomain/zero/1.0/">
+<meta name="DC.Title" content="Peering">
+<meta name="DC.Date" content="2007-11-30">
+</head>
+<body>
+<h2>Peering</h2>
+<h3>2007-11-30</h3>
+<p>In an <a href="http://vonmag.com/news/featured-articles/paul-mockapetris-chairman-and-chief-scientist-nominum-interview">interview</a> over at VON Magazine, DNS expert Paul Mockapetris contrasts the differing models of peering or trusted federation in the telco world and the Internet world:</p>
+<blockquote>
+<p>But I have to add that the whole idea of peering models as a technology discussion seems slightly off to me. In the e-mail world we route more e-mail than the PSTN routes phone calls, and everybody either does their own e-mail server configuration via the DNS and MX information, or hires it done. There’s no model–just a set of data primitives that takes care of inter-organization routing, and then organizations can do whatever they want.</p>
+<p>One of the classical counterarguments is to say that the MX system leads to spam. I don’t think that’s the right way to look at it. I can go to Web pages and have them authenticated via HTTPS and certificates, even though I find the Web server via DNS. Long term, what we need to do is to add a robust and generic authentication system to the suite of tools in the Internet technology toolbox and combine it with a simplification of existing ENUM (Electronic Number Mapping System). But that’s the Internet’s “missing link.” ENUM and peering aren’t its only jobs; it might even get used to defeat spam. It seems to me that we could do the same for all media and applications.</p>
+</blockquote>
+<p>I agree that we don't especially need special peering agreements for things like instant messaging and presence. In <a href="http://www.xmpp.org/">XMPP</a> I think we have all the required basic technology for trusted federation:</p>
+<ol>
+<li>DNS lookups, preferably via SRV. If the peer XMPP server cannot be resolved properly via DNS, don't connect.</li>
+<li>Digital certificates for all peer servers, issued by a mostly-common set of root and intermediate CAs.</li>
+<li>Transport Layer Security (TLS) for channel encryption. If the peer XMPP server presents a self-signed certificate or whatever, don't proceed.</li>
+<li>Simple Authentication and Security Layer (SASL) via SASL EXTERNAL after TLS negotiation.</li>
+</ol>
+<p>One of the challenges here is getting server admins to use proper certificates, which is why we created the <a href="https://www.xmpp.net/">XMPP ICA</a>. Naturally, service providers and enterprises may trust other CAs (e.g., Verisign) more than they trust the XMPP ICA, and that's fine -- they can use their trusted roots.</p>
+<p>Granted there are instances in which certificate management and deployment becomes a significant challenge -- e.g., service providers that host a large number of virtual hosts. I don't have the answers for those folks, so that's something we need to work on.</p>
+<p>Perhaps that's one reason why Paul Mockapetris thinks we need a new authentication layer for the Internet. But personally I think we have the tools we need (DNS SRV, certificates, TLS, SASL) for dynamic peering or trusted federation or whatever you want to call it. We "just" need to deploy these tools more widely, gain more experience with them, and define some best practices that everyone can follow.</p>
+<hr>
+<p><a href="/">Peter Saint-Andre</a> &gt; <a href="/journal/">Journal</a></p>
+</body>
+</html>

@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>One Small Voice: XMPP Is Not Bloated</title>
+<link rel="stylesheet" type="text/css" href="/stpeter.css">
+<link rel="alternate" type="application/atom+xml" href="http://stpeter.im/atom.xml">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="DC.Creator" content="Peter Saint-Andre">
+<meta name="DC.Rights" content="http://creativecommons.org/publicdomain/zero/1.0/">
+<meta name="DC.Title" content="XMPP Is Not Bloated">
+<meta name="DC.Date" content="2009-11-08">
+</head>
+<body>
+<h2>XMPP Is Not Bloated</h2>
+<h3>2009-11-08</h3>
+<p>I'm getting a bit tired of all the unsupported allegations from people like <a href="http://lifehacker.com/5332540/what-works-the-web-way-vs-the-wave-way">Anil Dash</a> and <a href="http://gigaom.com/2009/11/05/facebook-xmpp-adium-chat/">Adam Fisk</a> that XMPP is bloated or impossible to deploy. Now maybe I'm just a bit snarky at the moment because it's 5:30 AM where I am in Hiroshima Japan and I got 3 hours of sleep last night, but it seems to me that some salient facts might be in order:</p>
+<ol>
+<li><p>We didn't have protocol buffers and other such shiny new binary technologies back in 1999 when Jabber/XMPP technologies were originally designed. Feel free to design a new binary collaboration protocol from the ground up using a non-XML technology if you'd like, but don't criticize design choices from 10+ years ago if better alternatives were not available.</p></li>
+<li><p>XMPP messages are not on the order of a kilobyte as some people seem to believe (apparently without ever reading the XMPP specs or running the XML console in an XMPP client like Psi). Think more like 100 bytes or less! We have deliberately kept the footprint light.</p></li>
+<li><p>The major bandwidth hog in an IM system is presence, not messaging. We have kept presence very small. To save bandwidth on mobile devices and such, don't share presence. We're working on optimizations here (step one of our mobile optimization strategy was <a href="http://xmpp.org/extensions/xep-0237.html">roster versioning</a> so that you don't have to download your complete buddy list if it hasn't changed since you last logged in). Instead of complaining, help solve the problem by joining with other smart developers at the <a href="http://xmpp.org/">XMPP Standards Foundation</a>.</p></li>
+<li><p>XMPP has native compression (via TLS or at the application layer) and it is extremely efficient because we use long-lived XML streams and only a single parser instance for all those repetitive, purportedly bloated XML elements and attributes.</p></li>
+</ol>
+<p>I seriously question the charge that XMPP is bloated or impossible to deploy, especially when those comments arise in the context of major applications and services like Google Wave / Chrome / Talk, Facebook IM and Live Journal Talk, etc. Yes, XMPP is a bit bigger on the wire than a purely binary protocol might have been, but there are legitimate design tradeoffs here of size vs. ease of understanding (and ease of extension). Anyone who designs that "one binary collaboration protocol to rule them all" will run into the same basic issues that the Jabber team faced in 1999, and then ten years from now some smart (but smart-aleck) commentators will be saying the same thing about whatever you come up with.</p>
+<p>TANSTAAFL, folks. :)</p>
+<hr>
+<p><a href="/">Peter Saint-Andre</a> &gt; <a href="/journal/">Journal</a></p>
+</body>
+</html>

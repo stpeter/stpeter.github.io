@@ -1,0 +1,44 @@
+<html>
+<head>
+<title>One Small Voice: A Thousands Points of Light</title>
+<link rel="stylesheet" type="text/css" href="/stpeter.css">
+<link rel="alternate" type="application/atom+xml" href="http://stpeter.im/atom.xml">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="DC.Creator" content="Peter Saint-Andre">
+<meta name="DC.Rights" content="http://creativecommons.org/publicdomain/zero/1.0/">
+<meta name="DC.Title" content="A Thousands Points of Light">
+<meta name="DC.Date" content="2004-08-10">
+</head>
+<body>
+<h2>A Thousands Points of Light</h2>
+<h3>2004-08-10</h3>
+    <p>There is something rotten in the Jabber community.</p>
+    <p>There have now been over 300,000 downloads of the jabberd 1.4.x and jabber2 servers (not to mention other servers such as ejabberd and commercial offerings from various companies). The core Jabber protocols have been ratified by the IETF under the name XMPP. Word has it that big companies like Oracle and Sun have adopted Jabber technologies. The JSF continues to crank out XMPP extensions in its JEP series. There are Jabber libraries for Perl, Python, Ruby, Java, C, and many other languages. There are literally hundreds of Jabber clients. So why is something rotten?</p>
+    <p>As anyone who subscribes to the JADMIN mailing list can tell you, the existing server options all have issues, from difficulty of installation to lack of documentation to missing protocols to inability to run the existing gateways to non-Jabber IM services. As anyone who talks with Jabber users knows, there are hundreds of Jabber clients but almost all of them are close to useless. I chat with server admins and end users all the time, so I hear these complaints in abundance. I'm beginning to think that it's time to do something about it.</p>
+    <p>What's the solution? I see two critical pieces:</p>
+    <ol>
+      <li>A modular, hackable, well-documented, cross-platform, easy-to-use, protocol-compliant server.</li>
+      <li>A modular, hackable, well-documented, cross-platform, easy-to-use, protocol-compliant client.</li>
+    </ol>
+    <p>Let's go over those adjectives, shall we?</p>
+    <ul>
+      <li>Modular -- designed so that people can contribute to it without having to grok the entire codebase.</li>
+      <li>Hackable -- written in a language that lots of developers understand and can productively code in.</li>
+      <li>Well-documented -- including a complete architectural description, user/admin guide, and in-depth comments in the code (see hackability above).</li>
+      <li>Cross-platform -- works on Linux/Unix, Windows, and Mac OS X.</li>
+      <li>Easy-to-use -- no more difficult configuration or installation, good user interfaces, and lots of help files.</li>
+      <li>Protocol-compliant -- wouldn't it be cool if you could actually make use of protocols like pubsub, XHTML, and file transfer?</li>
+      <li>Server | Client -- Jabber is a client-server system, so we need both.</li>
+    </ul>
+    <p>Why don't we have these two things right now? One big reason, as I've discussed recently with Peter Millard and Ryan Eatmon, is that the Jabber community contains a plethora of one-person projects. We have a thousand points of light, but they are so widely scattered that server admins and end users are still pretty much in the dark.</p>
+    <p>What do I propose? Although I am not known for my hacking skills, I've found that one language is more productive for me than any other: Python. A well-designed, well-documented Jabber server and client written in Python might just be the trick. (Yes, I appreciate all the work that has gone into jabberd 1.4 and jabberd2 on the server side, but C is simply not accessible for most developers; yes, Exodus and Psi and Jabberzilla and other clients have received attention over time, but most of them are one-person projects or written in languages that again are not as open or accessible.)</p>
+    <p>I've heard the objections before: Python is just a scripting language. A Python server wouldn't scale (real servers are written in C). The client-side widget sets for Python are clunky (we need native apps that are slick as hell).</p>
+    <p>I'm not so sure. For one, you'll notice that I didn't include scalability in the foregoing requirements. A server that scales from 1 to 1000 users is all that most small organizations really need. Bigger organizations can contract with one of the server vendors.</p>
+    <p>On the client side, people complain about things like Tkinter and wxWidgets. But wxWidgets is coming along and the folks at OSAF are using it (and improving it) for Chandler (here is a <a href="http://www.wxwindows.org/images/screens/audacity-osx-screen.png">nice OS X screenshot</a> from the Audacity application). Sure, the result might not be the client to please all people, and some developers would continue to write their own clients. But in general I think we could standardize on a common Jabber client for the major OSes.</p>
+    <p>So how do we do this? Do we add the "S" back into the JSF and start creating official software projects? Perhaps. I note that even a standards organization like the W3C writes software, as witness the Amaya browser. And groups such as the Apache Software Foundation are seriously productive. Perhaps we have strayed too far towards the protocol side of things. We have certainly strayed from what makes open-source projects successful in the long run (modular code, accessible languages, good user interfaces, strong documentation). But whether this happens inside or outside the JSF, it needs to happen. We can't continue to work this way, at least not if we expect Jabber technologies to succeed. World domination doesn't happen by accident.</p>
+    <p>As always, let the flames begin.</p>
+<hr>
+<p><a href="/">Peter Saint-Andre</a> &gt; <a href="/journal/">Journal</a></p>
+</body>
+</html>

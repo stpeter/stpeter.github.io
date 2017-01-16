@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>One Small Voice: Tag This</title>
+<link rel="stylesheet" type="text/css" href="/stpeter.css">
+<link rel="alternate" type="application/atom+xml" href="http://stpeter.im/atom.xml">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="DC.Creator" content="Peter Saint-Andre">
+<meta name="DC.Rights" content="http://creativecommons.org/publicdomain/zero/1.0/">
+<meta name="DC.Title" content="Tag This">
+<meta name="DC.Date" content="2006-03-22">
+</head>
+<body>
+<h2>Tag This</h2>
+<h3>2006-03-22</h3>
+    <p>A chat with <a href="http://jeremie.com/blog/">Jer</a> today has gotten me interested again in <a href="http://microformats.org/">microformats</a> such as <a href="http://gmpg.org/xfn/">XFN</a> and (the point of this blog entry) <a href="http://microformats.org/wiki/rel-tag">rel=tag</a>. Since we <a href="796.html">last blogged</a> about open or decentralized tagging (not centralized services like Technorati), the <a href="http://taguri.org/">tag: URI scheme</a> has been published as <a href="http://www.ietf.org/rfc/rfc4151.txt">RFC 4151</a> and perhaps folks have gotten a chance to think more about how tag: URIs can be useful. I now see that tag: URIs are not hyperlinks to places; instead, they provide unique identifiers. So perhaps my old example was misleading:</p>
+    <blockquote>
+      <p>&lt;a href="tag:saint-andre.com,2005-08-05:open+tags"&gt;open tagging&lt;/a&gt;</p>
+    </blockquote>
+    <p>Well, I don't think so. We're not linking to anything here, we're identifying something. So you might think that <a href=""></a> would make sense, but the 'name' attribute is used to identify page fragments, so that's not right, either. How about the XHMTL 'id' attribute? Well, that must be unique within a page, so we have the same issue I raised before: you can't use the same tag: URI in the same document multiple times (e.g., to tag multiple blog entries posted on the same day); besides which, URIs don't match the <a href="http://www.w3.org/TR/html401/types.html#type-name">name datatype</a>.</p>
+    <p>So how about the 'cite' attribute?</p>
+    <blockquote>
+      <p>&lt;a cite="open tagging" href="tag:saint-andre.com,2005-08-05:open+tags"&gt;open tagging&lt;/a&gt;</p>
+    </blockquote>
+    <p>Perhaps. We may have lost the rel='tag' semantics (though just about any XHTML element may possess the 'rel' attribute, so maybe not). Yet the <a href="http://www.w3.org/TR/xhtml2/mod-hyperAttributes.html#adef_hyperAttributes_cite">meaning of the cite attribute</a> seems more appropriate:</p>
+    <blockquote>
+      <p>The value of this attribute is a URI that designates a source document or message. This attribute is intended to give further information about the element's contents...</p>
+    </blockquote>
+    <p>If you twist your head just right and squint your eyes a bit, a tag: URI could be seen as a source document or message -- the tag identifies the context for the citation.</p>
+    <p>However, few if any browsers currently provide a way for users to actuate 'cite' URIs (even though they are supposed to). But perhaps that is to the good, since the point of open tagging is quite possibly automated processing rather than user clicking.</p>
+    <p>If folks don't like the presentational implications of the <a href="http://www.w3.org/TR/xhtml2/mod-text.html#edef_text_cite">cite element</a>, they can add the 'cite' attribute to non-presentational elements like <a href="http://www.w3.org/TR/xhtml2/mod-text.html#edef_text_span">span element</a>. The result? A kind of invisible yet open tagging that smart browsers could render in intelligent ways, but that would be hidden from less savvy users.</p>
+    <p>It's worth considering...</p>
+<hr>
+<p><a href="/">Peter Saint-Andre</a> &gt; <a href="/journal/">Journal</a></p>
+</body>
+</html>

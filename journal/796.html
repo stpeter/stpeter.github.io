@@ -1,0 +1,29 @@
+<html>
+<head>
+<title>One Small Voice: tag: You're It</title>
+<link rel="stylesheet" type="text/css" href="/stpeter.css">
+<link rel="alternate" type="application/atom+xml" href="http://stpeter.im/atom.xml">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="DC.Creator" content="Peter Saint-Andre">
+<meta name="DC.Rights" content="http://creativecommons.org/publicdomain/zero/1.0/">
+<meta name="DC.Title" content="tag: You're It">
+<meta name="DC.Date" content="2005-08-05">
+</head>
+<body>
+<h2>tag: You're It</h2>
+<h3>2005-08-05</h3>
+    <p>Stowe Boyd outlines the <a href="http://www.corante.com/getreal/archives/2005/07/21/jeff_jarvis_on_made_for_a_distributed_world.php">problem</a> with <a href="tag:saint-andre.com,2005-08-05:tagging">tagging</a> blog posts by pointing to closed services such as <a href="http://www.technorati.com/">Technorati</a>, and outlines a <a href="http://www.corante.com/getreal/archives/2005/07/24/open_tags_made_for_a_distributed_world.php">solution</a> he calls <a href="http://technorati.com/tag/open+tags">open tagging</a>. Drummond Reed responds with an <a href="http://www.equalsdrummond.name/index.php?p=39">alternative solution</a> using XRIs. I'm not yet convinced by Drummond's argument that <a href="http://www.equalsdrummond.name/index.php?p=40">XRIs are better than URNs</a> for this purpose (though I probably need to do further research on XRIs), and I wonder why folks don't just use the existing <a href="http://taguri.org/07/draft-kindberg-tag-uri-07.html">tag: URI scheme</a> instead. As Bob Wyman has <a href="http://bobwyman.pubsub.com/main/2005/03/tag_uri_scheme_.html">noted</a>, tag: URIs provide a mechanism for uniquely identifying an entity, which can be used to identify Atom entries but, perhaps, also specify the tags used in an entry. For instance, let's say that in this blog entry I use the tags "technology", "blogs", and "tagging"; thus I could uniquely identify the entry as "tag:saint-andre.com,2005-08-05:technology;blogs;tagging" and when I tag the term "tagging" I would do so with the following link:</p>
+    <blockquote>
+      <p>&lt;a href="tag:saint-andre.com,2005-08-05:tagging"&gt;tagging&lt;/a&gt;</p>
+    </blockquote>
+    <p>There are several potential drawbacks to this approach:</p>
+    <ol>
+      <li>Browsers don't support it. But they don't support XRIs, either.</li>
+      <li>What if I want to use the identical combination of tags in multiple entries on the same day? The tag: spec doesn't resolve any times smaller than a yyyy-mm-dd.</li>
+    </ol>
+    <p>However, it would enable tag crawlers to look for properly-constructed tag: URIs, scrape off the tags from the end of each URI (keeping track of the publishing domain or email address), and begin to create collections of commonly-used tags as well as of those who are doing the tagging.</p>
+<hr>
+<p><a href="/">Peter Saint-Andre</a> &gt; <a href="/journal/">Journal</a></p>
+</body>
+</html>

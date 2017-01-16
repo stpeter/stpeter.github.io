@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>One Small Voice: The Network</title>
+<link rel="stylesheet" type="text/css" href="/stpeter.css">
+<link rel="alternate" type="application/atom+xml" href="http://stpeter.im/atom.xml">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="DC.Creator" content="Peter Saint-Andre">
+<meta name="DC.Rights" content="http://creativecommons.org/publicdomain/zero/1.0/">
+<meta name="DC.Title" content="The Network">
+<meta name="DC.Date" content="2004-11-10">
+</head>
+<body>
+<h2>The Network</h2>
+<h3>2004-11-10</h3>
+    <p>I've started to think about how to make the <a href="http://www.xmpp.org/">XMPP</a> network into the most secure messaging network on the open Internet. As far as I can see so far, there are several pieces to the puzzle:</p>
+    <ol>
+      <li><p>We need to get the existing open-source server codebases in compliance with RFC 3920 regarding TSL and SASL for server-to-server communications. There are probably three or four main open-source server implementations, plus of course the commercial ones. Both <a href="http://jabberd.jabberstudio.org/2/">jabberd2</a> and <a href="http://ejabberd.jabberstudio.org/">ejabberd</a> are probably close to compliant. The venerable <a href="http://jabberd.jabberstudio.org/1.4/">jabberd 1.4</a> codebase is the biggest challenge, but I've heard rumors that Matthias Wimmer has been working on its s2s security features.</p></li>
+      <li><p>We need to get XMPP addresses into standard certificates. This is easier said than done, even though RFC 3920 specifies where the address goes. I've been talking with the good people at <a href="http://www.cacert.org/">CAcert</a> about whether/how to do this, but that's only CAcert, which is not really a trusted source yet. I have not yet talked about this with Thawte, Verisign, and the like.</p></li>
+      <li><p>Do we use existing certificate authorities, or attempt to set up the <a href="http://www.jabber.org/jsf/">Jabber Software Foundation</a> (or a subsidiary thereof) as a root CA for the XMPP network? If we can't get XMPP addresses into standard certs, then we may need to set up our own CA and a web of trust based on that (e.g., using a concept similiar to Thawte's <a href="http://www.thawte.com/wot/index.html">web of trust notaries</a>). This might enable us to more quickly bootstrap certificates into the deployed base of XMPP servers, naturally with appropriate identity authentication and audit policies. Using existing certificate authorities would also cost money, which the JSF doesn't especially have a lot of and which most of the free public XMPP servers would not be able to afford.</p></li>
+      <li><p>This doesn't say anything about client-side certs or end-to-end encryption, just server-to-server communications. But I think that server-to-server is a good place to start, and perhaps we can build out the client side from there.</p></li>
+    </ol>
+<hr>
+<p><a href="/">Peter Saint-Andre</a> &gt; <a href="/journal/">Journal</a></p>
+</body>
+</html>

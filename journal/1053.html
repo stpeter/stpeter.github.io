@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>One Small Voice: Size Matters</title>
+<link rel="stylesheet" type="text/css" href="/stpeter.css">
+<link rel="alternate" type="application/atom+xml" href="http://stpeter.im/atom.xml">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="DC.Creator" content="Peter Saint-Andre">
+<meta name="DC.Rights" content="http://creativecommons.org/publicdomain/zero/1.0/">
+<meta name="DC.Title" content="Size Matters">
+<meta name="DC.Date" content="2007-02-16">
+</head>
+<body>
+<h2>Size Matters</h2>
+<h3>2007-02-16</h3>
+    <p>The other day I <a href="1051.html">mentioned</a> that I have around 1400 people in my Jabber roster (that's a Buddy List [tm] for you non-Jabberites, but I prefer not to use that term since it's been trademarked by AOL). So one of those many people IM'd me overnight, asking how I (and the <a href="http://status.jabber.org/">jabber.org IM server</a>, and the Jabber clients I use) manage all those contacts.</p>
+    <p>First the server. Well, no problems there. Since I am one of the server admins, I can tell you that our trusty <a href="http://ejabberd.jabber.ru/">ejabberd</a> deployment does experience a CPU usage spike when I log in, i.e., while my Jabber client slurps down my roster. But other than that ejabberd simply chugs along happily, processing all the inbound presence information I receive.</p>
+    <p>But not all Jabber clients are quite so happy. The "stpeter roster test" is somewhat legendary as a hurdle to pass in optimizing roster processing and presentation. I've tested clients that took three or four minutes to render my roster (and that's not counting presence information)! But after some optimization, most of those clients have gotten the time down under one minute.</p>
+    <p>As to my personal IM habits, I use a lot of roster groups. One group in particular is a kind of catch-all, and it contains probably 600 people (but folks that I don't contact often, if ever). Typically I wait for people to IM me (hey, I'm interrupt-driven). But when I need to IM someone and they're not in one of my smaller roster groups, then I need to find that person fast (i.e., before I get interrupted!); thankfully, some clients (e.g., <a href="http://www.igniterealtime.org/projects/spark/">Spark</a>) make that task easy by enabling me to essentially search my roster via Ctrl-F or somesuch keystroke. In a client like Adium or iChat I'll disable the groups view and scroll through the entire roster, but that's not necessarily very efficient.</p>
+    <p>Managing multiple simultaneous chats (both one-to-one and multi-user) can also be difficult. I'm somewhat agnostic about tabbed chats in one window vs. multiple windows. Adium uses tabs and iChat uses multiple windows, and I can handle either approach. It's all about proper placement of the window or windows on my desktop -- I typically have quite a few applications open at once (Firefox with 10+ tabs, Thunderbird with my (still empty!) inbox and one or two draft emails, four or five terminal windows, calendar, a PDF viewer, etc.) and my chat and groupchat windows go toward the bottom left of the screen, where I can keep an eye on them for new messages. Seems to work for me.</p>
+    <p>Another challenge is reading through the flood of offline messages and presence subscription requests that I typically receive when I log in after 8 or 10 or 12 hours offline (don't even think about what happens when I return from vacation -- I try not to take those ;-). Some clients present one window for each chat or subscription request, which is sub-optimal if you have received 20 offline messages and three or four subscription requests, let me tell you. I have not found a client that handles this with aplomb (perhaps because until recently the major IM services have not supported offline messages).</p>
+    <p>I don't claim that my IM profile is typical. Few people have more than 100 people in their rosters, and vanishingly few have more than 500; 1400 is almost unheard of (let alone the ~3200 I used to have!). And I doubt that such heavy IM use will ever become typical (though I do think that people will tend to have more contacts as IM becomes more popular). So you client developers might not want to read too much into my feature requests. :-) But do feel free to <a href="xmpp:stpeter@jabber.org">ping me</a> if you'd like me to subject your client to the "stpeter roster test"...</p>
+<hr>
+<p><a href="/">Peter Saint-Andre</a> &gt; <a href="/journal/">Journal</a></p>
+</body>
+</html>
