@@ -18,3 +18,5 @@ xsltproc chan2atom.xsl channel.txt > ../atom.xml
 
 xsltproc chan2index.xsl channel.txt > index.html
 
+rm channel.txt
+
