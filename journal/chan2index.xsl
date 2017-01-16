@@ -16,7 +16,7 @@
       <head>
         <title>One Small Voice: The Journal of Peter Saint-Andre</title>
         <link rel='stylesheet' type='text/css' href='/stpeter.css'/>
-        <link rel='alternate' type='application/atom+xml' href='http://stpeter.im/atom.xml'/>
+        <link rel='alternate' type='application/atom+xml' href='https://stpeter.im/atom.xml'/>
         <meta http-equiv='Content-Type' content='text/html; charset=utf-8'/>
         <meta name='viewport' content='width=device-width'/>
         <meta name='DC.Creator' content='Peter Saint-Andre'/>
