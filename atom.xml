@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>http://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2017-01-14</modified>
+  <modified>2017-01-20</modified>
+  <entry>
+    <title>There's Never Just One Cause</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1573.html"/>
+    <id>tag:stpeter.im,1573</id>
+    <issued>2017-01-20</issued>
+    <modified>2017-01-20</modified>
+    <summary>Some years ago I did some intensive research into the origins of the industrial revolution. At the time I was working my way out of the Rand meme, so the starting point of my investigation was her assertion that the cause of the industrial revolution was the philosophy of Aristotle. My conclusion was that Rand was wrong, and that there were multiple causes involved. I presented the fruits of my research in a paper published by the UK Libertarian Alliance, entitled Ayn Rand and the Ascent of Man....</summary>
+  </entry>
   <entry>
     <title>Monadnock Valley Press Annual Report 2016</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1572.html"/>
@@ -43,19 +51,11 @@
     <summary>I know someone who only listens to the music of Bob Dylan. Now, I respect Dylan's songwriting immensely and I play a number of his songs, but I don't think you can call someone who only listens to Bob Dylan a lover of music. That requires what jazz musicians call big ears: an appreciation for a wide variety of musical styles, composers, and performers....</summary>
   </entry>
   <entry>
-    <title>The Irrelevance of God</title>
+    <title>Philosophy and Ideology</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1568.html"/>
     <id>tag:stpeter.im,1568</id>
     <issued>2016-12-31</issued>
     <modified>2016-12-31</modified>
     <summary>While doing research for my forthcoming book on Henry David Thoreau, I've been exploring the philosophies of ancient India (Thoreau was a great admirer of the Bhagavat-Gita, the Rig-Veda, and the Laws of Manu). In so doing, I recently came across the Samkhya school of thought, which is an atheistic strand of Hinduism closely related to Yoga philosophy (apparently the Yoga Sutras of Patañjali grew out of the Samkhya tradition). Interestingly, Samkhya is more nontheistic than anti-theistic: in essence it treats god or gods as irrelevant to life and ethics. This approach is in line with my attitude; although I have been a non-believer since the age of nine (as described in my very first journal post from 1989), I am not militantly anti-theist and the underlying theme of my lifelong philosophy project is how to be good without god....</summary>
-  </entry>
-  <entry>
-    <title>The Irrelevance of God</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1567.html"/>
-    <id>tag:stpeter.im,1567</id>
-    <issued>2016-12-30</issued>
-    <modified>2016-12-30</modified>
-    <summary>For students of American culture, one of the most fascinating books of the year was Hillbilly Elegy by J.D. Vance. The author's descriptions of his troubled upbringing in the rural hills of Kentucky and a fading industrial town in Ohio have spurred casual observers to note that these are just the kinds of places that switched political allegiances in 2016. Yet cries of "Trump!" uncover only a minuscule percentage of the story. To truly understand what's going on here requires a long-term historical perspective....</summary>
   </entry>
 </feed>
