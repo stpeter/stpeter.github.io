@@ -110,7 +110,7 @@
       </xsl:if>
       <xsl:if test='/channel/journal[position()=6]'>
         <entry>
-          <title><xsl:value-of select='/channel/journal[position()=5]/header/title'/></title>
+          <title><xsl:value-of select='/channel/journal[position()=6]/header/title'/></title>
           <link>
             <xsl:attribute name='type'>text/html</xsl:attribute>
             <xsl:attribute name='rel'>alternate</xsl:attribute>
