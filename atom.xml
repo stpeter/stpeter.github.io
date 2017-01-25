@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>http://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2017-01-20</modified>
+  <modified>2017-01-21</modified>
+  <entry>
+    <title>The Irrelevance of Government</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1574.html"/>
+    <id>tag:stpeter.im,1574</id>
+    <issued>2017-01-21</issued>
+    <modified>2017-01-21</modified>
+    <summary>Imagine life a thousand years ago in, say, France or Italy. The society and culture in which you are immersed is deeply focused on religion. The words of your local priest have great significance, a bishop or archbishop is a personage of divine importance, and the Pope is like a spiritual emperor. Those wishing to effect social change, or tell other people what to do, or pursue their own personal advantage, necessarily use the tool that is ready to hand, and that is the apparatus of the church....</summary>
+  </entry>
   <entry>
     <title>There's Never Just One Cause</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1573.html"/>
@@ -49,13 +57,5 @@
     <issued>2017-01-01</issued>
     <modified>2017-01-01</modified>
     <summary>I know someone who only listens to the music of Bob Dylan. Now, I respect Dylan's songwriting immensely and I play a number of his songs, but I don't think you can call someone who only listens to Bob Dylan a lover of music. That requires what jazz musicians call big ears: an appreciation for a wide variety of musical styles, composers, and performers....</summary>
-  </entry>
-  <entry>
-    <title>Philosophy and Ideology</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1568.html"/>
-    <id>tag:stpeter.im,1568</id>
-    <issued>2016-12-31</issued>
-    <modified>2016-12-31</modified>
-    <summary>While doing research for my forthcoming book on Henry David Thoreau, I've been exploring the philosophies of ancient India (Thoreau was a great admirer of the Bhagavat-Gita, the Rig-Veda, and the Laws of Manu). In so doing, I recently came across the Samkhya school of thought, which is an atheistic strand of Hinduism closely related to Yoga philosophy (apparently the Yoga Sutras of Patañjali grew out of the Samkhya tradition). Interestingly, Samkhya is more nontheistic than anti-theistic: in essence it treats god or gods as irrelevant to life and ethics. This approach is in line with my attitude; although I have been a non-believer since the age of nine (as described in my very first journal post from 1989), I am not militantly anti-theist and the underlying theme of my lifelong philosophy project is how to be good without god....</summary>
   </entry>
 </feed>
