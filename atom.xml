@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>http://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2017-01-21</modified>
+  <modified>2017-01-29</modified>
+  <entry>
+    <title>Ism Book Updates</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1575.html"/>
+    <id>tag:stpeter.im,1575</id>
+    <issued>2017-01-29</issued>
+    <modified>2017-01-29</modified>
+    <summary>One of the great things about publishing to the Internet, and nowadays print on demand as well, is that you can continually improve what you have written. Among my writings, there is no better example than The Ism Book: A Field Guide to Philosophy. I first wrote this highly interlinked book using HyperCard on my first Macintosh computer, then ported it to the Internet in 1996. Since then it has undergone numerous revisions as I've broadened and deepened my understanding of philosophical history and concepts. Last week while in flight to and from California I marked up a copy of the book with copious amounts of red ink, and today I keyed in a large number of edits (in fact I've been making numerous fixes for the last two months). Now I just need to port all these changes over to the physical book and republish it....</summary>
+  </entry>
   <entry>
     <title>The Irrelevance of Government</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1574.html"/>
@@ -49,13 +57,5 @@
     <issued>2017-01-06</issued>
     <modified>2017-01-06</modified>
     <summary>While taking my dog to two different doctors the other day (long story), I discovered that veterinary practices are increasing being bought up by large corporate entities like PetVet and VCA. Your seemingly small, local caregiver just might have sold his or her practice to one of these companies, supposedly while still retaining control over medical decision-making (that little voice in the back of my head is saying "he who pays the piper, calls the tune")....</summary>
-  </entry>
-  <entry>
-    <title>Philosophy and Ideology</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1569.html"/>
-    <id>tag:stpeter.im,1569</id>
-    <issued>2017-01-01</issued>
-    <modified>2017-01-01</modified>
-    <summary>I know someone who only listens to the music of Bob Dylan. Now, I respect Dylan's songwriting immensely and I play a number of his songs, but I don't think you can call someone who only listens to Bob Dylan a lover of music. That requires what jazz musicians call big ears: an appreciation for a wide variety of musical styles, composers, and performers....</summary>
   </entry>
 </feed>
