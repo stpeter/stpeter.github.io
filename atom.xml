@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>http://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2017-01-29</modified>
+  <modified>2017-01-31</modified>
+  <entry>
+    <title>The Poets' Paradox</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1576.html"/>
+    <id>tag:stpeter.im,1576</id>
+    <issued>2017-01-31</issued>
+    <modified>2017-01-31</modified>
+    <summary>Here's another draft poem for my far-future book Songs of Zarathustra (I think this might make a fine opening salvo, with its Nietzschean questioning of the entire enterprise):...</summary>
+  </entry>
   <entry>
     <title>Ism Book Updates</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1575.html"/>
@@ -49,13 +57,5 @@
     <issued>2017-01-08</issued>
     <modified>2017-01-08</modified>
     <summary>Reading is one thing; understanding is another. Part of what I do while "working through" the writings of a thinker like Thoreau is to delve deeply into key themes, concepts, and even words. Consider, for example, this sentence from Economy, the first chapter of Walden: "To be a philosopher is not merely to have subtle thoughts, nor even to found a school, but so to love wisdom as to live according to its dictates, a life of simplicity, independence, magnanimity, and trust." When reading on the surface, it's easy to gloss over a sentence like this and merely have a pleasant feeling that it's a good thing to live philosophically. Yet what exactly is Thoreau talking about here? What does he mean by the somewhat vague and uncommon word magnanimity? To figure that out can require quite a bit of digging....</summary>
-  </entry>
-  <entry>
-    <title>Corporatization</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1570.html"/>
-    <id>tag:stpeter.im,1570</id>
-    <issued>2017-01-06</issued>
-    <modified>2017-01-06</modified>
-    <summary>While taking my dog to two different doctors the other day (long story), I discovered that veterinary practices are increasing being bought up by large corporate entities like PetVet and VCA. Your seemingly small, local caregiver just might have sold his or her practice to one of these companies, supposedly while still retaining control over medical decision-making (that little voice in the back of my head is saying "he who pays the piper, calls the tune")....</summary>
   </entry>
 </feed>
