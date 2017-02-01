@@ -9,14 +9,22 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>http://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2017-01-31</modified>
+  <modified>2017-02-01</modified>
   <entry>
-    <title>The Poets' Paradox</title>
+    <title>VPS No More</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1577.html"/>
+    <id>tag:stpeter.im,1577</id>
+    <issued>2017-02-01</issued>
+    <modified>2017-02-01</modified>
+    <summary>A few weeks ago I spent most of a Sunday trying, and failing, to upgrade the Debian Linux distribution on my virtual private server (VPS). After the Linux experts at my hosting company also failed after 90 minutes of fighting with the thing, I realized that the time had come to shut down my VPS and find simpler solutions. For me, that turned out to be FastMail for my email addresses and GitHub Pages for my websites (I was also hosting a few WordPress sites for friends, which I've moved to WordPress.com). The only things I miss at this point are HTTPS for one of my websites, and the personal XMPP server I was running. Yet the HTTPS wasn't really all that critical (I know, HTTPS Everywhere and all that, but in practice I'm not running transactional websites and in fact all of my sites are even free of JavaScript - I guess I'm a Web 1.0 kind of person). And although the XMPP server was a fine thing, I do run jabber.org and I've had a few addresses there forever, so I might as well use them. Simplify, simplify!...</summary>
+  </entry>
+  <entry>
+    <title>Poets' Paradox</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1576.html"/>
     <id>tag:stpeter.im,1576</id>
     <issued>2017-01-31</issued>
     <modified>2017-01-31</modified>
-    <summary>Here's another draft poem for my far-future book Songs of Zarathustra (I think this might make a fine opening salvo, with its Nietzschean questioning of the entire enterprise):...</summary>
+    <summary>Here's another draft poem for my far-future book Songs of Zarathustra:...</summary>
   </entry>
   <entry>
     <title>Ism Book Updates</title>
@@ -49,13 +57,5 @@
     <issued>2017-01-14</issued>
     <modified>2017-01-14</modified>
     <summary>In 2016 I again spent very little time on posting public-domain texts at the Monadnock Valley Press - only a few works by Henry David Thoreau, Virginia Woolf, and Blaise Pascal. Once I finish my forthcoming book on Thoreau, I plan to clear out a backlog of books, essays, and plays by Ibsen, Confucius, Emerson, Montaigne, Spinoza, Petrarch, Lucretius, Epictetus, Seneca, and Cicero. With revenue of $248.62 and expenses of $181.58, we earned only $67.04 in 2016, too. It's a good thing I don't write philosophy books for the money!...</summary>
-  </entry>
-  <entry>
-    <title>Thoreau on Magnanimity</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1571.html"/>
-    <id>tag:stpeter.im,1571</id>
-    <issued>2017-01-08</issued>
-    <modified>2017-01-08</modified>
-    <summary>Reading is one thing; understanding is another. Part of what I do while "working through" the writings of a thinker like Thoreau is to delve deeply into key themes, concepts, and even words. Consider, for example, this sentence from Economy, the first chapter of Walden: "To be a philosopher is not merely to have subtle thoughts, nor even to found a school, but so to love wisdom as to live according to its dictates, a life of simplicity, independence, magnanimity, and trust." When reading on the surface, it's easy to gloss over a sentence like this and merely have a pleasant feeling that it's a good thing to live philosophically. Yet what exactly is Thoreau talking about here? What does he mean by the somewhat vague and uncommon word magnanimity? To figure that out can require quite a bit of digging....</summary>
   </entry>
 </feed>

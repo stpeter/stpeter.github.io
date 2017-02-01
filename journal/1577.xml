@@ -1,0 +1,6 @@
+<journal>
+<header><title>VPS No More</title><date>2017-02-01</date></header>
+<entry>
+<p>A few weeks ago I spent most of a Sunday trying, and failing, to upgrade the Debian Linux distribution on my virtual private server (VPS). After the Linux experts at my hosting company also failed after 90 minutes of fighting with the thing, I realized that the time had come to shut down my VPS and find simpler solutions. For me, that turned out to be FastMail for my email addresses and GitHub Pages for my websites (I was also hosting a few WordPress sites for friends, which I've moved to WordPress.com). The only things I miss at this point are HTTPS for one of my websites, and the personal XMPP server I was running. Yet the HTTPS wasn't really all that critical (I know, HTTPS Everywhere and all that, but in practice I'm not running transactional websites and in fact all of my sites are even free of JavaScript - I guess I'm a Web 1.0 kind of person). And although the XMPP server was a fine thing, I do run jabber.org and I've had a few addresses there forever, so I might as well use them. Simplify, simplify!</p>
+</entry>
+</journal>
