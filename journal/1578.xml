@@ -1,0 +1,6 @@
+<journal>
+<header><title>HTTPS No More</title><date>2017-02-02</date></header>
+<entry>
+<p>One unfortunate byproduct of shutting down my VPS and moving my websites to GitHub Pages is that I'm no longer hosting the stpeter.im domain via HTTPS. Although I'm not overjoyed about this, I'm also not deeply disturbed by it given that my personal website isn't exactly the kind of information that needs to be encrypted in transit (and someone could retrieve it over HTTPS from GitHub.com if they really wanted to). Mike Linksvayer helpfully pointed out to me that there are some solutions, and I'll look into those soon. In the meantime I've modified all the cross-links within my websites so that they use http instead of https URLs.</p> 
+</entry>
+</journal>

@@ -1,18 +1,26 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en-US">
   <title>One Small Voice</title>
-  <link rel="alternate" type="text/html" href="https://stpeter.im/journal/"/>
+  <link rel="alternate" type="text/html" href="http://stpeter.im/journal/"/>
   <author>
     <name>Peter Saint-Andre</name>
-    <url>https://stpeter.im/</url>
+    <url>http://stpeter.im/</url>
   </author>
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
-  <id>https://stpeter.im/journal/</id>
+  <id>http://stpeter.im/journal/</id>
   <copyright>http://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2017-02-01</modified>
+  <modified>2017-02-02</modified>
+  <entry>
+    <title>HTTPS No More</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1578.html"/>
+    <id>tag:stpeter.im,1578</id>
+    <issued>2017-02-02</issued>
+    <modified>2017-02-02</modified>
+    <summary>One unfortunate byproduct of shutting down my VPS and moving my websites to GitHub Pages is that I'm no longer hosting the stpeter.im domain via HTTPS. Although I'm not overjoyed about this, I'm also not deeply disturbed by it given that my personal website isn't exactly the kind of information that needs to be encrypted in transit (and someone could retrieve it over HTTPS from GitHub.com if they really wanted to). Mike Linksvayer helpfully pointed out to me that there are some solutions, and I'll look into those soon. In the meantime I've modified all the cross-links within my websites so that they use http instead of https URLs....</summary>
+  </entry>
   <entry>
     <title>VPS No More</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1577.html"/>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1577.html"/>
     <id>tag:stpeter.im,1577</id>
     <issued>2017-02-01</issued>
     <modified>2017-02-01</modified>
@@ -20,7 +28,7 @@
   </entry>
   <entry>
     <title>Poets' Paradox</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1576.html"/>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1576.html"/>
     <id>tag:stpeter.im,1576</id>
     <issued>2017-01-31</issued>
     <modified>2017-01-31</modified>
@@ -28,7 +36,7 @@
   </entry>
   <entry>
     <title>Ism Book Updates</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1575.html"/>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1575.html"/>
     <id>tag:stpeter.im,1575</id>
     <issued>2017-01-29</issued>
     <modified>2017-01-29</modified>
@@ -36,7 +44,7 @@
   </entry>
   <entry>
     <title>The Irrelevance of Government</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1574.html"/>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1574.html"/>
     <id>tag:stpeter.im,1574</id>
     <issued>2017-01-21</issued>
     <modified>2017-01-21</modified>
@@ -44,18 +52,10 @@
   </entry>
   <entry>
     <title>There's Never Just One Cause</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1573.html"/>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1573.html"/>
     <id>tag:stpeter.im,1573</id>
     <issued>2017-01-20</issued>
     <modified>2017-01-20</modified>
     <summary>Some years ago I did some intensive research into the origins of the industrial revolution. At the time I was working my way out of the Rand meme, so the starting point of my investigation was her assertion that the cause of the industrial revolution was the philosophy of Aristotle. My conclusion was that Rand was wrong, and that there were multiple causes involved. I presented the fruits of my research in a paper published by the UK Libertarian Alliance, entitled Ayn Rand and the Ascent of Man....</summary>
-  </entry>
-  <entry>
-    <title>Monadnock Valley Press Annual Report 2016</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1572.html"/>
-    <id>tag:stpeter.im,1572</id>
-    <issued>2017-01-14</issued>
-    <modified>2017-01-14</modified>
-    <summary>In 2016 I again spent very little time on posting public-domain texts at the Monadnock Valley Press - only a few works by Henry David Thoreau, Virginia Woolf, and Blaise Pascal. Once I finish my forthcoming book on Thoreau, I plan to clear out a backlog of books, essays, and plays by Ibsen, Confucius, Emerson, Montaigne, Spinoza, Petrarch, Lucretius, Epictetus, Seneca, and Cicero. With revenue of $248.62 and expenses of $181.58, we earned only $67.04 in 2016, too. It's a good thing I don't write philosophy books for the money!...</summary>
   </entry>
 </feed>
