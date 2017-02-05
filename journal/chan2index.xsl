@@ -32,7 +32,8 @@
         </meta>
       </head>
       <body>
-        <h1>One Small Voice: The Journal of Peter Saint-Andre</h1>
+        <h1>One Small Voice</h1>
+        <h2>The Journal of Peter Saint-Andre</h2>
         <hr/>
         <xsl:if test='/channel/journal[position()=1]'>
           <h2>
