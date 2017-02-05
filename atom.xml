@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>http://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2017-02-02</modified>
+  <modified>2017-02-04</modified>
+  <entry>
+    <title>Thoreau on Genius</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1579.html"/>
+    <id>tag:stpeter.im,1579</id>
+    <issued>2017-02-04</issued>
+    <modified>2017-02-04</modified>
+    <summary>Someone who knows that I'm writing a book on Thoreau sent me a link from BrainPickings.org about Thoreau's views on the topic of genius. Drawing on the "Thursday" and "Friday" chapters of A Week on the Concord and Merrimack Rivers, the author focuses her brief essay on the difference between an artisan, an artist, and a genius....</summary>
+  </entry>
   <entry>
     <title>HTTPS No More</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1578.html"/>
@@ -49,13 +57,5 @@
     <issued>2017-01-21</issued>
     <modified>2017-01-21</modified>
     <summary>Imagine life a thousand years ago in, say, France or Italy. The society and culture in which you are immersed is deeply focused on religion. The words of your local priest have great significance, a bishop or archbishop is a personage of divine importance, and the Pope is like a spiritual emperor. Those wishing to effect social change, or tell other people what to do, or pursue their own personal advantage, necessarily use the tool that is ready to hand, and that is the apparatus of the church....</summary>
-  </entry>
-  <entry>
-    <title>There's Never Just One Cause</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1573.html"/>
-    <id>tag:stpeter.im,1573</id>
-    <issued>2017-01-20</issued>
-    <modified>2017-01-20</modified>
-    <summary>Some years ago I did some intensive research into the origins of the industrial revolution. At the time I was working my way out of the Rand meme, so the starting point of my investigation was her assertion that the cause of the industrial revolution was the philosophy of Aristotle. My conclusion was that Rand was wrong, and that there were multiple causes involved. I presented the fruits of my research in a paper published by the UK Libertarian Alliance, entitled Ayn Rand and the Ascent of Man....</summary>
   </entry>
 </feed>
