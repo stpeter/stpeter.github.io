@@ -11,6 +11,14 @@
   <copyright>http://creativecommons.org/publicdomain/zero/1.0/</copyright>
   <modified>2017-02-12</modified>
   <entry>
+    <title>Limited Liability</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1582.html"/>
+    <id>tag:stpeter.im,1582</id>
+    <issued>2017-02-12</issued>
+    <modified>2017-02-12</modified>
+    <summary>Someone I know who is an avowed socialist told me he'd be much more sympathetic to libertarian views if we didn't need big government to protect us from big business....</summary>
+  </entry>
+  <entry>
     <title>Forever Jung</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1581.html"/>
     <id>tag:stpeter.im,1581</id>
@@ -49,13 +57,5 @@
     <issued>2017-02-01</issued>
     <modified>2017-02-01</modified>
     <summary>A few weeks ago I spent most of a Sunday trying, and failing, to upgrade the Debian Linux distribution on my virtual private server (VPS). After the Linux experts at my hosting company also failed after 90 minutes of fighting with the thing, I realized that the time had come to shut down my VPS and find simpler solutions. For me, that turned out to be FastMail for my email addresses and GitHub Pages for my websites (I was also hosting a few WordPress sites for friends, which I've moved to WordPress.com). The only things I miss at this point are HTTPS for one of my websites, and the personal XMPP server I was running. Yet the HTTPS wasn't really all that critical (I know, HTTPS Everywhere and all that, but in practice I'm not running transactional websites and in fact all of my sites are even free of JavaScript - I guess I'm a Web 1.0 kind of person). And although the XMPP server was a fine thing, I do run jabber.org and I've had a few addresses there forever, so I might as well use them. Simplify, simplify!...</summary>
-  </entry>
-  <entry>
-    <title>Poets' Paradox</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1576.html"/>
-    <id>tag:stpeter.im,1576</id>
-    <issued>2017-01-31</issued>
-    <modified>2017-01-31</modified>
-    <summary>Here's another draft poem for my far-future book Songs of Zarathustra:...</summary>
   </entry>
 </feed>
