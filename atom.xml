@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>http://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2017-02-11</modified>
+  <modified>2017-02-12</modified>
+  <entry>
+    <title>Forever Jung</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1581.html"/>
+    <id>tag:stpeter.im,1581</id>
+    <issued>2017-02-12</issued>
+    <modified>2017-02-12</modified>
+    <summary>Recently I got to talking with a friend about personality assessments, especially in relation to hiring and talent development. It took me awhile to figure out why we were not in agreement: he was thinking about the Myers-Briggs Type Indicator (MBTI) whereas I was thinking about assessments based on the five-factor model (also called the "big five") of personality traits....</summary>
+  </entry>
   <entry>
     <title>Why Do I Think What I Think?</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1580.html"/>
@@ -49,13 +57,5 @@
     <issued>2017-01-31</issued>
     <modified>2017-01-31</modified>
     <summary>Here's another draft poem for my far-future book Songs of Zarathustra:...</summary>
-  </entry>
-  <entry>
-    <title>Ism Book Updates</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1575.html"/>
-    <id>tag:stpeter.im,1575</id>
-    <issued>2017-01-29</issued>
-    <modified>2017-01-29</modified>
-    <summary>One of the great things about publishing to the Internet, and nowadays print on demand as well, is that you can continually improve what you have written. Among my writings, there is no better example than The Ism Book: A Field Guide to Philosophy. I first wrote this highly interlinked book using HyperCard on my first Macintosh computer, then ported it to the Internet in 1996. Since then it has undergone numerous revisions as I've broadened and deepened my understanding of philosophical history and concepts. Last week while in flight to and from California I marked up a copy of the book with copious amounts of red ink, and today I keyed in a large number of edits (in fact I've been making numerous fixes for the last two months). Now I just need to port all these changes over to the physical book and republish it....</summary>
   </entry>
 </feed>
