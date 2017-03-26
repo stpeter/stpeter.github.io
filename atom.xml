@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>http://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2017-02-19</modified>
+  <modified>2017-03-26</modified>
+  <entry>
+    <title>Unethical Philosophers</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1584.html"/>
+    <id>tag:stpeter.im,1584</id>
+    <issued>2017-03-26</issued>
+    <modified>2017-03-26</modified>
+    <summary>Reports and allegations continue to surface regarding widespread sexual misconduct by male philosophy professors, including "stars" such as John Searle and Thomas Pogge (as well as several professors here in Colorado). The sad irony and arrogant hypocrisy of professors of philosophy engaging in such despicable and deeply unethical behavior cannot be passed by in silence. We witness here in a particularly painful form the truth of Thoreau's observation that "There are nowadays professors of philosophy, but not philosophers." According to Thoreau and the ancients, "to be a philosopher is not merely to have subtle thoughts, nor even to found a school, but so to love wisdom as to live according to its dictates" - which these piddling professors clearly fail to do....</summary>
+  </entry>
   <entry>
     <title>Going Deep</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1583.html"/>
@@ -49,13 +57,5 @@
     <issued>2017-02-04</issued>
     <modified>2017-02-04</modified>
     <summary>Someone who knows that I'm writing a book on Thoreau sent me a link from BrainPickings.org about Thoreau's views on the topic of genius. Drawing on the "Thursday" and "Friday" chapters of A Week on the Concord and Merrimack Rivers, the author focuses her brief essay on the difference between an artisan, an artist, and a genius....</summary>
-  </entry>
-  <entry>
-    <title>HTTPS No More</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1578.html"/>
-    <id>tag:stpeter.im,1578</id>
-    <issued>2017-02-02</issued>
-    <modified>2017-02-02</modified>
-    <summary>One unfortunate byproduct of shutting down my VPS and moving my websites to GitHub Pages is that I'm no longer hosting the stpeter.im domain via HTTPS. Although I'm not overjoyed about this, I'm also not deeply disturbed by it given that my personal website isn't exactly the kind of information that needs to be encrypted in transit (and someone could retrieve it over HTTPS from GitHub.com if they really wanted to). Mike Linksvayer helpfully pointed out to me that there are some solutions, and I'll look into those soon. In the meantime I've modified all the cross-links within my websites so that they use http instead of https URLs....</summary>
   </entry>
 </feed>
