@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>http://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2017-03-26</modified>
+  <modified>2017-04-02</modified>
+  <entry>
+    <title>Conceptism</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1585.html"/>
+    <id>tag:stpeter.im,1585</id>
+    <issued>2017-04-02</issued>
+    <modified>2017-04-02</modified>
+    <summary>While dipping back into Baltasar Gracián's Art of Worldly Wisdom recently, I got curious about the author, who it turns out was both a practitioner and a theoretician of a 17th-century Iberian literary style called conceptism. My interest was further piqued when I learned that conceptist writers attempted to express intricate conceptual meanings in a very concise form, and that both Schopenhauer and Nietzsche were great admirers of Gracián (in Nietzsche's case perhaps reflected in his aphoristic style). I'm reminded also of Yevgeny Zamyatin's essay Theme and Plot, in which he espoused a concentrated brevity that he called "the art of writing with ninety-proof ink" (Zamyatin, in turn, was a great admirer of Nietzsche). These stylistic currents strike a deep chord with me, given my project of writing six extremely compressed books on eudaimonia. Speaking of which, now that I'm almost done with the book about Thoreau I'm making fast progress on a cycle of philosophical poems about Nietzsche....</summary>
+  </entry>
   <entry>
     <title>Unethical Philosophers</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1584.html"/>
@@ -49,13 +57,5 @@
     <issued>2017-02-11</issued>
     <modified>2017-02-11</modified>
     <summary>Most people seem to believe that their thoughts are right, and that this is so because they are righteous people. Those who disagree with them are wrong and have bad intentions; those who agree with them have the truth on their side and have good intentions....</summary>
-  </entry>
-  <entry>
-    <title>Thoreau on Genius</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1579.html"/>
-    <id>tag:stpeter.im,1579</id>
-    <issued>2017-02-04</issued>
-    <modified>2017-02-04</modified>
-    <summary>Someone who knows that I'm writing a book on Thoreau sent me a link from BrainPickings.org about Thoreau's views on the topic of genius. Drawing on the "Thursday" and "Friday" chapters of A Week on the Concord and Merrimack Rivers, the author focuses her brief essay on the difference between an artisan, an artist, and a genius....</summary>
   </entry>
 </feed>
