@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>http://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2017-04-02</modified>
+  <modified>2017-04-27</modified>
+  <entry>
+    <title>RFC 8141: Uniform Resource Names</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1586.html"/>
+    <id>tag:stpeter.im,1586</id>
+    <issued>2017-04-27</issued>
+    <modified>2017-04-27</modified>
+    <summary>Long, long ago on an Internet far, far away, some forward-thinking technologists defined several different types of identifiers called Uniform Resource Locators URLs (for locating things on the Internet - say, an article published online) and Uniform Resource Names or URNs (for permanently naming things without necessarily locating them - say, identifying a book by its ISBN no matter where a physical or electronic copy might be located). Some years later, a grand unified theory of identifiers was formulated, leading to the creation of Uniform Resource Identifiers (URIs) including both URLs and URNs (and URCs, but who's ever heard of those?). Even though most URIs that we use today are URLs, URNs as specified in RFC 2141 have continued to be widely deployed, especially for bibliographic purposes and as XML namespace names. Because the communities that use URNs have felt the need to make some slight adjustments to the syntax and to align URNs with the formal definition of URIs, back in 2010 folks at the IETF decided to start work on a new document to obsolete RFC 2141. It took us 7 years (!), but here we are today with RFC 8141 to bring URNs into the modern age (almost exactly 20 years after the publication of RFC 2141 in 1997). Special thanks to John Klensin for co-editing this specification with me!...</summary>
+  </entry>
   <entry>
     <title>Conceptism</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1585.html"/>
@@ -49,13 +57,5 @@
     <issued>2017-02-12</issued>
     <modified>2017-02-12</modified>
     <summary>Recently I got to talking with a friend about personality assessments, especially in relation to hiring and talent development. It took me awhile to figure out why we were not in agreement: he was thinking about the Myers-Briggs Type Indicator (MBTI) whereas I was thinking about assessments based on the five-factor model (also called the "big five") of personality traits....</summary>
-  </entry>
-  <entry>
-    <title>Why Do I Think What I Think?</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1580.html"/>
-    <id>tag:stpeter.im,1580</id>
-    <issued>2017-02-11</issued>
-    <modified>2017-02-11</modified>
-    <summary>Most people seem to believe that their thoughts are right, and that this is so because they are righteous people. Those who disagree with them are wrong and have bad intentions; those who agree with them have the truth on their side and have good intentions....</summary>
   </entry>
 </feed>
