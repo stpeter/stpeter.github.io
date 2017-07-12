@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>http://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2017-06-21</modified>
+  <modified>2017-07-12</modified>
+  <entry>
+    <title>Happy 200th, Henry Thoreau</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1588.html"/>
+    <id>tag:stpeter.im,1588</id>
+    <issued>2017-07-12</issued>
+    <modified>2017-07-12</modified>
+    <summary>Today is the 200th anniversary of Henry David Thoreau's birth. To celebrate, I've published two books on his philosophy of life: The Upland Farm (a 50-page original exploration in the form of a journal) and Seasons of Thoreau (a 300-page compilation of quotes from his writings). Both books are available for free on my website, and can also be purchased in paperback and ebook formats from Amazon....</summary>
+  </entry>
   <entry>
     <title>Poetry as Code</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1587.html"/>
@@ -49,13 +57,5 @@
     <issued>2017-02-19</issued>
     <modified>2017-02-19</modified>
     <summary>Three months ago, in a post entitled "Below the Surface", I started a habit of posting in my weblog at least once a week. Although it's been a good run, I've cleared out my backlog of topics to write about. More importantly, I have a big project to finish (The Upland Farm, my forthcoming book on Thoreau) and another one to restart (more on that in the coming weeks), not to mention the need to focus intently on building the team at Filament and bringing our products to market. Because all of these initiatives will require a lot of deep work, my weblog will likely be fairly quiet until mid-summer. See you then....</summary>
-  </entry>
-  <entry>
-    <title>Limited Liability</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1582.html"/>
-    <id>tag:stpeter.im,1582</id>
-    <issued>2017-02-12</issued>
-    <modified>2017-02-12</modified>
-    <summary>Someone I know who is an avowed socialist told me he'd be much more sympathetic to libertarian views if we didn't need big government to protect us from big business....</summary>
   </entry>
 </feed>
