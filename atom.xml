@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>http://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2017-08-10</modified>
+  <modified>2017-08-16</modified>
+  <entry>
+    <title>Providing an Alternative</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1591.html"/>
+    <id>tag:stpeter.im,1591</id>
+    <issued>2017-08-16</issued>
+    <modified>2017-08-16</modified>
+    <summary>Although I pay no attention to the news, I'm vaguely aware that perhaps the world is becoming more negative and irrational. Rather than getting lost in despair and confusion, I try to model a positive, reasonable alternative by living the best life I can and by writing philosophical books that are clear, concise, and constructive. I've written six such books, with a seventh half done and an eighth outlined. Even though each of these books takes 500-1000 hours to research and write, I make them all available for free on my website (however, I do charge for the paperback and ebook versions). To date I've also made no effort to market them, so I depend on word of mouth. If you have found value in any of these books, I'd greatly appreciate it if you could tell a friend, write a review at Amazon, or give a copy as a gift. Thanks. :-)...</summary>
+  </entry>
   <entry>
     <title>None of My Business</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1590.html"/>
@@ -49,13 +57,5 @@
     <issued>2017-04-27</issued>
     <modified>2017-04-27</modified>
     <summary>Long, long ago on an Internet far, far away, some forward-thinking technologists defined several different types of identifiers called Uniform Resource Locators or URLs (for locating things - say, an article published online) and Uniform Resource Names or URNs (for permanently naming things without necessarily locating them - say, identifying a book by its ISBN no matter where a physical or electronic copy might be located). Some years later, a grand unified theory of identifiers was formulated, leading to the creation of Uniform Resource Identifiers (URIs) including both URLs and URNs (and URCs, but who's ever heard of those?). Even though most URIs that we use today are URLs, URNs as specified in RFC 2141 have continued to be widely deployed, especially for bibliographic purposes and as XML namespace names. Because the communities that use URNs have felt the need to make some slight adjustments to the syntax and to align URNs with the formal definition of URIs, back in 2010 folks at the IETF decided to start work on a new document to obsolete RFC 2141. It took us 7 years (!), but here we are today with RFC 8141 to bring URNs into the modern age (almost exactly 20 years after the publication of RFC 2141 in 1997). Special thanks to John Klensin for co-editing this specification with me!...</summary>
-  </entry>
-  <entry>
-    <title>Conceptism</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1585.html"/>
-    <id>tag:stpeter.im,1585</id>
-    <issued>2017-04-02</issued>
-    <modified>2017-04-02</modified>
-    <summary>While dipping back into Baltasar Gracián's Art of Worldly Wisdom recently, I got curious about the author, who it turns out was both a practitioner and a theoretician of a 17th-century Iberian literary style called conceptism. My interest was further piqued when I learned that conceptist writers attempted to express intricate conceptual meanings in a very concise form, and that both Schopenhauer and Nietzsche were great admirers of Gracián (in Nietzsche's case perhaps reflected in his aphoristic style). I'm reminded also of Yevgeny Zamyatin's essay Theme and Plot, in which he espoused a concentrated brevity that he called "the art of writing with ninety-proof ink" (Zamyatin, in turn, was a great admirer of Nietzsche). These stylistic currents strike a deep chord with me, given my project of writing six extremely compressed books on eudaimonia. Speaking of which, now that I'm almost done with the book about Thoreau I'm making fast progress on a cycle of philosophical poems about Nietzsche....</summary>
   </entry>
 </feed>
