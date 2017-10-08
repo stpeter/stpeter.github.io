@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>http://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2017-10-05</modified>
+  <modified>2017-10-08</modified>
+  <entry>
+    <title>Ultra-Short Poems</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1594.html"/>
+    <id>tag:stpeter.im,1594</id>
+    <issued>2017-10-08</issued>
+    <modified>2017-10-08</modified>
+    <summary>Reading a book on Matsuo Bashō has renewed my interest in ultra-short poems. The best-known form here is haiku, which in Japanese consists of three sections of 5, 7, and 5 syllables each. The most famous haiku is probably this one written by Bashō in 1686:...</summary>
+  </entry>
   <entry>
     <title>Internationalized RFCs</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1593.html"/>
@@ -49,13 +57,5 @@
     <issued>2017-07-18</issued>
     <modified>2017-07-18</modified>
     <summary>I have become progressively disenchanted with, indeed actively opposed to, politics. More and more, I see it as a disease that has grown to take over not only the "body politic" but also the individual mind and soul. My enemy is the assertion that "the personal is the political", and that there is no domain of life outside of politics - not art or music, not love or friendship, not philosophy or religion - nothing. This idea emerged in the radical Marxist-feminist movement of the late 1960s, and was given canonical expression in an essay by Carol Hanisch....</summary>
-  </entry>
-  <entry>
-    <title>Happy 200th, Henry Thoreau</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1588.html"/>
-    <id>tag:stpeter.im,1588</id>
-    <issued>2017-07-12</issued>
-    <modified>2017-07-12</modified>
-    <summary>Today is the 200th anniversary of Henry David Thoreau's birth. To celebrate, I've published two books on his philosophy of life: The Upland Farm (a 50-page original exploration in the form of a journal) and Seasons of Thoreau (a 300-page compilation of quotes from his writings). Both books are available for free on my website, and can also be purchased in paperback and ebook formats from Amazon....</summary>
   </entry>
 </feed>
