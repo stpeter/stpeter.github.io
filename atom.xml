@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>http://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2017-10-08</modified>
+  <modified>2017-11-09</modified>
+  <entry>
+    <title>Songs of Zarathustra: First Draft</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1595.html"/>
+    <id>tag:stpeter.im,1595</id>
+    <issued>2017-11-09</issued>
+    <modified>2017-11-09</modified>
+    <summary>About eight months ago, even before I published The Upland Farm as the fourth volume in my series on the art of living, I started to read Nietzsche's books for a third time, writing poems for Songs of Zarathustra as I worked my way chronologically from The Birth of Tragedy through Ecce Homo. Last weekend, I completed work on the first draft of this poetry cycle on Nietzsche's philosophy of life, which I plan to publish in early 2018. Before then, I'll read his letters and notebooks (including the ever-controversial collection called "The Will to Power") as well as some of the vast literature on Nietzsche's life and thought, such as:...</summary>
+  </entry>
   <entry>
     <title>Ultra-Short Poems</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1594.html"/>
@@ -49,13 +57,5 @@
     <issued>2017-08-10</issued>
     <modified>2017-08-10</modified>
     <summary>Apropos of my latest journal entry "Politics is a Disease", here is a quote from Beyond Good and Evil (Section 251) by Friedrich Nietzsche:...</summary>
-  </entry>
-  <entry>
-    <title>Politics is a Disease</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1589.html"/>
-    <id>tag:stpeter.im,1589</id>
-    <issued>2017-07-18</issued>
-    <modified>2017-07-18</modified>
-    <summary>I have become progressively disenchanted with, indeed actively opposed to, politics. More and more, I see it as a disease that has grown to take over not only the "body politic" but also the individual mind and soul. My enemy is the assertion that "the personal is the political", and that there is no domain of life outside of politics - not art or music, not love or friendship, not philosophy or religion - nothing. This idea emerged in the radical Marxist-feminist movement of the late 1960s, and was given canonical expression in an essay by Carol Hanisch....</summary>
   </entry>
 </feed>
