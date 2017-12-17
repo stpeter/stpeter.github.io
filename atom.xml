@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>http://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2017-11-29</modified>
+  <modified>2017-12-17</modified>
+  <entry>
+    <title>A Novel Idea</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1598.html"/>
+    <id>tag:stpeter.im,1598</id>
+    <issued>2017-12-17</issued>
+    <modified>2017-12-17</modified>
+    <summary>I've long imagined that the sixth movement in my "eudaimonia suite" of books on the art of living would be about Taoism. However, recently an intriguing ambition came to me: writing a novel about Pyrrho's journey to Central Asia and Northwestern India with Alexander the Great's army and his conversion to skepticism there by early Buddhists (likely in the Gandharan city of Taxila, a great center of learning at the time). I like the goal of exploring the commonalities among early Taoism, early Buddhism, and Pyrrhonism, as well as Heraclitus and other pre-Socractic philosophers. In essence, this would be a novelization of Christopher Beckwith's thesis from his fascinating book Greek Buddha. Aside from the usual challenges of working through the ideas of a thinker like Nietzsche or Thoreau, there would be new obstacles to overcome here: I don't know Sanskrit or classical Chinese, and I've never written any fiction, not even a short story. Truth be told, I'm not deeply drawn to stories and I rarely read novels. However, a few years ago I read both The Glass Bead Game and Siddhartha by Hermann Hesse, and recently I read When Nietzsche Wept by Irvin Yalom. In so doing, I realized that I enjoy novels of ideas, which have no plot to speak of but make up for it with interesting dialogue and internal discovery. In any case, after I publish Songs of Zarathustra a few weeks ago I'll first finish my translation of the ethical writings of Epicurus and then write an epitome of Aristotle's moral philosophy, so writing a book on ancient Buddhism and skepticism is years away....</summary>
+  </entry>
   <entry>
     <title>Jabber.org Account Experiment</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1597.html"/>
@@ -49,13 +57,5 @@
     <issued>2017-10-05</issued>
     <modified>2017-10-05</modified>
     <summary>Ever since the first "Request for Comments" (RFC 1) was published in 1969, the RFC series has been typeset exclusively in ASCII text. It's almost a running joke among technologists and programmers. Yet that is finally changing. The recently-published RFC 8187 marks the first time that RFCs have included Unicode characters and an encoding other than ASCII (i.e., UTF-8). Today, RFCs 8264, 8265, and 8266 take that a step further by using non-ASCII characters in a more thorough-going way; appropriately enough, these three RFCs define revised versions of the PRECIS specifications for the preparation, enforcement, and comparison of internationalized strings in application protocols (thus replacing RFCs 7564, 7613, and 7700, which I authored in 2015). I'm sure many readers never thought they'd see a symbol like ∞ (INFINITY, Unicode code point U+221E) in an RFC, but we did it! Many thanks to the RFC Editor team for making this day possible, and to my co-authors Marc Blanchet and Alexey Melnikov for making this day necessary. ;-)...</summary>
-  </entry>
-  <entry>
-    <title>Asymmetries</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1592.html"/>
-    <id>tag:stpeter.im,1592</id>
-    <issued>2017-09-23</issued>
-    <modified>2017-09-23</modified>
-    <summary>Having done a lot of hiring and recruiting lately, I've been struck by the deep asymmetries of information and power involved in the process of building a team. Because the organization has the money, it can compel the applicant (supplicant?) to complete intelligence tests and personality assessments, ask lots of questions about background and knowledge and experience, require completion of a sample work task or delivery of a short-term project, perform background checks, call character references, and just about whatever else the hiring manager or HR department can dream up. Yet how much information does the applicant get to truly learn about the organization or, especially, the hiring manager? Consider that, supposedly, 50% of voluntary terminations occur because the employee does not like or agree with or get along with the employee's manager - yet the fundamental asymmetry of the hiring process means that the employee is mostly in the dark about potential problems in this key aspect of the employment relationship....</summary>
   </entry>
 </feed>
