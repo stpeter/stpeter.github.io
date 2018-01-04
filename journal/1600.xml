@@ -1,0 +1,43 @@
+<journal>
+<header><title>Scales and Modes and Tetrachords, Oh My!</title><date>2018-01-03</date></header>
+<entry>
+<p>In preparation for recording my arrangements of music by Yes for solo electric bass, I've started taking music lessons with Mark Stefaniw, a fine bassist in the Denver area. Under Mark's tutelage I've been digging into music theory, which is both fascinating and enlightening (especially given my many years of musical learning at the surface).</p>
+<p>Mark likes to explain scales and modes in terms of tetrachords: a sequence of four notes, each of which is separated from its neighbor by a whole step or a half step. In turn, any given mode consists of two tetrachords (i.e., a set of four notes followed by a second set of four notes). For instance, a C major scale consists of C-D-E-F (with steps of whole, whole, and half) and G-A-B-C (again with steps of whole, whole, and half). Furthermore, there's also a step (either whole or half) between the first tetrachord and the second tetrachord (in the case of C major, it's a whole step between F and G).</p>
+<p>In constructing the traditional modes of Western music, there are four possible tetrachords (I'm making up the notation here, using numbers for the notes in the sequence and "w" or "h" for a whole step or half step from one note to the next):</p>
+<ul>
+<li>ionian: 1-w-2-w-3-h-4 (e.g., C-D-E-F)</li>
+<li>dorian: 1-w-2-h-3-w-4 (e.g., C-D-E♭-F)</li>
+<li>phrygian: 1-h-2-w-3-w-4 (e.g., C-D♭-E♭-F)</li>
+<li>lydian: 1-w-2-w-3-w-4 (e.g., C-D-E-F♯)</li>
+</ul>
+<p>Now, here's where things get interesting. The traditional modes are constructed as shown below (confusingly, some of the modes have the same names as the tetrachords, so I use lowercase for tetrachords and uppercase for modes), where the mode examples are formed from the steps of the C major scale:</p>
+<ul>
+<li>Ionian: ionian-w-ionian (e.g., C Ionian = C-D-E-F + G-A-B-C)</li>
+<li>Dorian: dorian-w-dorian (e.g., D Dorian = D-E-F-G + A-B-C-D)</li>
+<li>Phrygian: phrygian-w-phrygian (e.g., E Phrygian = E-F-G-A + B-C-D-E)</li>
+<li>Lydian: lydian-h-ionian (e.g., F Lydian = F-G-A-B + C-D-E-F)</li>
+<li>Mixolydian: ionian-w-dorian (e.g., G Mixolydian = G-A-B-C + D-E-F-G)</li>
+<li>Aeolian: dorian-w-phrygian (e.g., A Aeolian = A-B-C-D + E-F-G-A)</li>
+<li>Locrian: phrygian-h-lydian (e.g., B Locrian = B-C-D-E + F-G-A-B)</li>
+</ul>
+<p>After the Phrygian mode, the modes cycle through the tetrachords in the same order as the modes, but starting at the lydian tetrachord (not the ionian). Therefore at some level all you really need to remember is i-d-p-l as the tetrachord building blocks for the modes.</p>
+<p>My favorite exercise right now is working my way through the modes (and up the neck of the bass) by playing all the notes of the C-major scale but progressively increasing the tonic as shown above:</p>
+<ul>
+<li>C Ionian (2nd position)</li>
+<li>D Dorian (5th position)</li>
+<li>E Phrygian (7th position)</li>
+<li>F Lydian (7th position)</li>
+<li>G Mixolydian (9th position)</li>
+<li>A Aeolian (12th position)</li>
+<li>B Locrian (14th position)</li>
+<li>C Ionian (14th position)</li>
+</ul>
+<p>These aren't just theoretical games. One practical application is my arrangement of the Yes song "A Venture" (from <cite>The Yes Album</cite>). Although the song is in the key of G minor (the relative minor of B♭ major), I discern three distinct sections: D Phrygian for the bass-heavy introduction, A Dorian for the first part of each verse, and G Aeolian for the second part of each verse. Almost all of the notes are in the key of G minor, but changing the tonal center from D to A to G gives each section quite a different sound. I didn't understand the theory behind all this when I arranged the song for solo electric bass a few years ago, but understanding it now gives me a greater appreciation for what Yes did in the compositional process and enables me to highlight certain notes as a way of emphasizing the modes for each section.</p>
+<p><em>FOR FURTHER EXPLORATION</em></p>
+<ul>
+<li><a href='/music/yes/'>Fundamental Affirmation</a></li>
+<li><a href='http://markstefaniwmusic.com/'>Mark Stefaniw</a></li>
+<li><a href='http://blog.dubspot.com/music-theory-modes/'>Modes, Modes Modes</a> by <a href='http://www.mnomusic.com/'>Michael Emenau</a></li>
+</ul>
+</entry>
+</journal>

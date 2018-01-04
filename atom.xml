@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>http://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2017-12-20</modified>
+  <modified>2018-01-03</modified>
+  <entry>
+    <title>Scales and Modes and Tetrachords, Oh My!</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1600.html"/>
+    <id>tag:stpeter.im,1600</id>
+    <issued>2018-01-03</issued>
+    <modified>2018-01-03</modified>
+    <summary>In preparation for recording my arrangements of music by Yes for solo electric bass, I've started taking music lessons with Mark Stefaniw, a fine bassist in the Denver area. Under Mark's tutelage I've been digging into music theory, which is both fascinating and enlightening (especially given my many years of musical learning at the surface)....</summary>
+  </entry>
   <entry>
     <title>Ceding Our Humanity</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1599.html"/>
@@ -24,7 +32,7 @@
     <id>tag:stpeter.im,1598</id>
     <issued>2017-12-17</issued>
     <modified>2017-12-17</modified>
-    <summary>I've long imagined that the sixth movement in my "eudaimonia suite" of books on the art of living would be about Taoism. However, recently an intriguing ambition came to me: writing a novel about Pyrrho's journey to Central Asia and Northwestern India with Alexander the Great's army and his conversion to skepticism there by early Buddhists (likely in the Gandharan city of Taxila, a great center of learning at the time). I like the goal of exploring the commonalities among early Taoism, early Buddhism, and Pyrrhonism, as well as Heraclitus and other pre-Socractic philosophers. In essence, this would be a novelization of Christopher Beckwith's thesis from his fascinating book Greek Buddha. Aside from the usual challenges of working through the ideas of a thinker like Nietzsche or Thoreau, there would be new obstacles to overcome here: I don't know Sanskrit or classical Chinese, and I've never written any fiction, not even a short story. Truth be told, I'm not deeply drawn to stories and I rarely read novels. However, a few years ago I read both The Glass Bead Game and Siddhartha by Hermann Hesse, and recently I read When Nietzsche Wept by Irvin Yalom. In so doing, I realized that I enjoy novels of ideas, which have no plot to speak of but make up for it with interesting dialogue and internal discovery. In any case, after I publish Songs of Zarathustra a few weeks from now I'll first finish my translation of the ethical writings of Epicurus and then write an epitome of Aristotle's moral philosophy, so writing a book on ancient Buddhism and skepticism is years away....</summary>
+    <summary>I've long imagined that the sixth movement in my "eudaimonia suite" of books on the art of living would be about Taoism. However, recently an intriguing ambition came to me: writing a novel about Pyrrho's journey to Central Asia and Northwestern India with Alexander the Great's army and his conversion to skepticism there by early Buddhists (likely in the Gandharan city of Taxila above the Peshawar Valley - a great center of learning at the time). I like the goal of exploring the commonalities among early Taoism, early Buddhism, and Pyrrhonism, as well as Heraclitus and other pre-Socractic philosophers. In essence, this would be a novelization of Christopher Beckwith's thesis from his fascinating book Greek Buddha. Aside from the usual challenges of working through the ideas of a thinker like Nietzsche or Thoreau, there would be new obstacles to overcome here: I don't know Sanskrit or classical Chinese, and I've never written any fiction, not even a short story. Truth be told, I'm not deeply drawn to stories and I rarely read novels. However, a few years ago I read both The Glass Bead Game and Siddhartha by Hermann Hesse, and recently I read When Nietzsche Wept by Irvin Yalom. In so doing, I realized that I enjoy novels of ideas, which have no plot to speak of but make up for it with interesting dialogue and internal discovery. In any case, after I publish Songs of Zarathustra a few weeks from now I'll first finish my translation of the ethical writings of Epicurus and then write an epitome of Aristotle's moral philosophy, so writing a book on ancient Buddhism and skepticism is years away....</summary>
   </entry>
   <entry>
     <title>Jabber.org Account Experiment</title>
@@ -49,13 +57,5 @@
     <issued>2017-11-09</issued>
     <modified>2017-11-09</modified>
     <summary>About eight months ago, even before I published The Upland Farm as the fourth volume in my series on the art of living, I started to read Nietzsche's books for a third time, writing poems for Songs of Zarathustra as I worked my way chronologically from The Birth of Tragedy through Ecce Homo. Last weekend, I completed work on the first draft of this poetry cycle on Nietzsche's philosophy of life, which I plan to publish in early 2018. Before then, I'll read his letters and notebooks (including the ever-controversial collection called "The Will to Power") as well as some of the vast literature on Nietzsche's life and thought, such as:...</summary>
-  </entry>
-  <entry>
-    <title>Ultra-Short Poems</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1594.html"/>
-    <id>tag:stpeter.im,1594</id>
-    <issued>2017-10-08</issued>
-    <modified>2017-10-08</modified>
-    <summary>Reading a book on Matsuo Bashō has renewed my interest in ultra-short poems. The best-known form here is haiku, which in Japanese consists of three sections of 5, 7, and 5 syllables each. The most famous haiku is probably this one written by Bashō in 1686:...</summary>
   </entry>
 </feed>
