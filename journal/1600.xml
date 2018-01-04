@@ -10,7 +10,7 @@
 <li>phrygian: 1-h-2-w-3-w-4 (e.g., C-D♭-E♭-F)</li>
 <li>lydian: 1-w-2-w-3-w-4 (e.g., C-D-E-F♯)</li>
 </ul>
-<p>Now, here's where things get interesting. The traditional modes are constructed as shown below (confusingly, some of the modes have the same names as the tetrachords, so I use lowercase for tetrachords and uppercase for modes), where the mode examples are formed from the steps of the C major scale:</p>
+<p>Now, here's where things get interesting. The traditional modes are constructed as shown below (confusingly, some of the modes have the same names as the tetrachords, so I use lowercase for tetrachords and uppercase for modes), where the root or tonic notes of mode examples are formed from the steps of the C major scale:</p>
 <ul>
 <li>Ionian: ionian-w-ionian (e.g., C Ionian = C-D-E-F + G-A-B-C)</li>
 <li>Dorian: dorian-w-dorian (e.g., D Dorian = D-E-F-G + A-B-C-D)</li>
@@ -20,8 +20,8 @@
 <li>Aeolian: dorian-w-phrygian (e.g., A Aeolian = A-B-C-D + E-F-G-A)</li>
 <li>Locrian: phrygian-h-lydian (e.g., B Locrian = B-C-D-E + F-G-A-B)</li>
 </ul>
-<p>After the Phrygian mode, the modes cycle through the tetrachords in the same order as the modes, but starting at the lydian tetrachord (not the ionian). Therefore at some level all you really need to remember is i-d-p-l as the tetrachord building blocks for the modes.</p>
-<p>My favorite exercise right now is working my way through the modes (and up the neck of the bass) by playing all the notes of the C-major scale but progressively increasing the tonic as shown above:</p>
+<p>After the Phrygian mode, the modes cycle through the tetrachords in the same order as the modes, but starting at the lydian tetrachord (not the ionian). Therefore at some level all you really need to remember is i-d-p-l (ionian-dorian-phrygian-lydian) as the tetrachord building blocks for the modes.</p>
+<p>My favorite exercise right now is working my way through the modes (and up the neck of the bass) by playing all the notes of the C-major scale but progressively increasing the tonic as hinted above:</p>
 <ul>
 <li>C Ionian (2nd position)</li>
 <li>D Dorian (5th position)</li>
@@ -35,7 +35,7 @@
 <p>These aren't just theoretical games. One practical application is my arrangement of the Yes song "A Venture" (from <cite>The Yes Album</cite>). Although the song is in the key of G minor (the relative minor of B♭ major), I discern three distinct sections: D Phrygian for the bass-heavy introduction, A Dorian for the first part of each verse, and G Aeolian for the second part of each verse. Almost all of the notes are in the key of G minor, but changing the tonal center from D to A to G gives each section quite a different sound. I didn't understand the theory behind all this when I arranged the song for solo electric bass a few years ago, but understanding it now gives me a greater appreciation for what Yes did in the compositional process and enables me to highlight certain notes as a way of emphasizing the modes for each section.</p>
 <p><em>FOR FURTHER EXPLORATION</em></p>
 <ul>
-<li><a href='/music/yes/'>Fundamental Affirmation</a></li>
+<li><a href='/music/yes/'>Fundamental Affirmation: Music of Yes for Solo Electric Bass</a></li>
 <li><a href='http://markstefaniwmusic.com/'>Mark Stefaniw</a></li>
 <li><a href='http://blog.dubspot.com/music-theory-modes/'>Modes, Modes Modes</a> by <a href='http://www.mnomusic.com/'>Michael Emenau</a></li>
 </ul>
