@@ -1,0 +1,51 @@
+// This is the source file for Peter Saint-Andre's 
+// solo bass arrangement of the Yes song "A Venture".
+//
+header
+	title (18) "A Venture"
+	title   "Jon Anderson"   "Arranged by Peter Saint-Andre"
+footer
+	title "Solo Bass Arrangement"
+header2
+	title   "A Venture"   ""
+footer2
+	title "- \% -"
+score
+	time = 3/4
+	key = 2&
+	staffs = 1
+	clef = bass
+music
+1: 4b-; 4a-; 4r;
+bar
+1: 2c; 4b-;
+bar
+1: 4d; 4c; 4r;
+bar
+1: 2e; 4d;
+bar
+1: 2f; 4e;
+bar
+1: 4d; 4c; 4b-;
+bar
+1: 4c; 4b-; 4g-;
+bar
+1: 4f-; 2d-;
+bar
+1: 4b-; 4a-; 4r;
+bar
+1: 2c; 4b-;
+bar
+1: 4d; 4c; 4r;
+bar
+1: 2e; 4d;
+bar
+1: 2f; 4e;
+bar
+1: 4d; 4c; 4b-;
+bar
+1: 4c; 4d; 4c;
+bar
+1: 4b-; 2a-;
+bar
+// end of "A Venture"
