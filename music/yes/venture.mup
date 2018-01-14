@@ -7,7 +7,7 @@
 header
 	title (18) "A Venture"
 	title  "" "Jon Anderson"   
-	title  "Tuning: DADG" "Arranged for Bass by Peter Saint-Andre"
+	title (10) "Tuning: DADG" "Arranged for Bass by Peter Saint-Andre"
 footer
 	title ""
 header2
@@ -21,6 +21,7 @@ score
 	clef = bass
         vscheme = 2o
         beamstyle = 4., 4.
+        packfact = 0.1
 music
 // intro, part one
 1 1: [with >] 8g; 8g; 8r; [with >] 4g; 8g;
@@ -31,7 +32,6 @@ bar
 bar
 1: [with >] 8g; 8g; 8r; [with >] 4g; 8g;
 bar
-newscore
 score
         time = 4/8
         key = 2&
@@ -40,7 +40,6 @@ score
 music
 1: 4d; 4f;
 bar
-newscore
 score
         time = 6/8
         key = 2&
@@ -55,7 +54,6 @@ bar
 bar
 1: [with >] 8g; 8g; 8r; [with >] 4g; 8g;
 bar
-newscore
 score
         time = 4/8
         key = 2&
@@ -65,7 +63,6 @@ music
 1: 4d; 4f;
 bar
 // intro, part two
-newscore
 score
         time = 6/8
         key = 2&
@@ -80,7 +77,6 @@ bar
 1 1: [with >] 8g; 8g; 8r; [with >] 4g; 8r;
 1 2: [with >] 8g-; 8c; 8r; [with >] 4d; 8e;
 bar
-newscore
 score
         time = 4/8
         key = 2&
@@ -89,7 +85,6 @@ score
 music
 1: 4d-; 4f-;
 bar
-newscore
 score
         time = 6/8
         key = 2&
@@ -104,7 +99,6 @@ bar
 1 1: [with >] 8g; 8g; 8r; [with >] 4g; 8r;
 1 2: [with >] 8g-; 8c; 8r; [with >] 4d; 8e;
 bar
-newscore
 score
         time = 4/8
         key = 2&
@@ -113,7 +107,6 @@ score
 music
 1: 4d-; 4f-;
 bar rehearsal mnum
-newscore
 score
         time = 6/8
         key = 2&
@@ -287,7 +280,6 @@ bar
 bar rehearsal mnum
 1: 8d; 4f#; 4a; 8c+;
 bar
-newscore
 score
         time = 4/4
         key = 2&
@@ -296,7 +288,6 @@ score
 music
 1: 8d+; 8r; [grace] 8fn; 8g; 8f; 8e; 8r; 8d; 8r;
 bar
-newscore
 score
         time = 6/8
         key = 2&
@@ -309,7 +300,6 @@ bar
 bar
 1: 8d; 4f#; 4a; 8c+;
 bar
-newscore
 score
         time = 4/4
         key = 2&
@@ -318,7 +308,6 @@ score
 music
 1: 8d+; 8r; [grace] 8fn; 8g; 8f; 8e; 8r; 8d; 8r;
 bar
-newscore
 score
         time = 6/8
         key = 2&
@@ -365,7 +354,6 @@ bar
 bar rehearsal mnum
 1: 8d; 4f#; 4a; 8c+;
 bar
-newscore
 score
         time = 4/4
         key = 2&
@@ -374,7 +362,6 @@ score
 music
 1: 8d+; 8r; [grace] 8fn; 8g; 8f; 8e; 8r; 8d; 8r;
 bar
-newscore
 score
         time = 6/8
         key = 2&
@@ -387,7 +374,6 @@ bar
 bar
 1: 8d; 4f#; 4a; 8c+;
 bar
-newscore
 score
         time = 4/4
         key = 2&
@@ -396,7 +382,6 @@ score
 music
 1: 8d+; 8r; [grace] 8fn; 8g; 8f; 8e; 8r; 8d; 8r;
 bar
-newscore
 score
         time = 6/8
         key = 2&
@@ -431,7 +416,6 @@ bar
 bar
 1: 8g-; 8c; 8r; 4d; 8e;
 bar
-newscore
 score
         time = 4/8
         key = 2&
@@ -440,7 +424,6 @@ score
 music
 1: 4d-; 4f-;
 bar
-newscore
 score
         time = 6/8
         key = 2&
@@ -461,7 +444,6 @@ bar
 bar
 1: 8g-; 8c; 8r; 4d; 8c;
 bar
-newscore
 score
         time = 4/8
         key = 2&
@@ -470,7 +452,6 @@ score
 music
 1: 4d-; 4f-;
 bar
-newscore
 score
         time = 6/8
         key = 2&
