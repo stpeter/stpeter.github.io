@@ -60,7 +60,6 @@ bar
 1 1: 2r; 4b;
 1 2: 2d; 4r;
 bar
-newscore
 score
 	time = 4/4
 	key = 1&
@@ -71,7 +70,6 @@ score
 music
 1 1: 2a; 8g; 8b; 4a;
 bar
-newscore
 score
 	time = 3/4
 	key = 1&
@@ -86,7 +84,6 @@ bar
 1 1: 2r; 8d; e;
 1 2: 2d; 4r;
 bar
-newscore
 score
 	time = 4/4
 	key = 1&
@@ -97,7 +94,6 @@ score
 music
 1 1: 8f; e; d<>; g; f; e<>; 4a;
 bar
-newscore
 score
 	time = 3/4
 	key = 1&
@@ -115,7 +111,6 @@ roll 1: 1;
 bar
 1 1: 2a; 4b;
 bar
-newscore
 score
 	time = 4/4
 	key = 1&
@@ -126,7 +121,6 @@ score
 music
 1 1: 2a; 8b; 8b; 4a;
 bar
-newscore
 score
 	time = 3/4
 	key = 1&
@@ -141,7 +135,6 @@ bar
 1 1: 4r; 8d; e; f; e;
 1 2: 4d; 2r;
 bar
-newscore
 score
 	time = 4/4
 	key = 1&
@@ -152,7 +145,6 @@ score
 music
 1 1: 8d; c; d; e; d; c; 4b-;
 bar
-newscore
 score
 	time = 3/4
 	key = 1&
@@ -191,7 +183,6 @@ bar
 bar
 1 1: 8d; b; a; b; 4d+;
 bar
-newscore
 score
 	time = 4/4
 	key = 1&
@@ -202,7 +193,6 @@ score
 music
 1 1: 2c+; 32b; 32c+; 16b; 4.a;
 bar
-newscore
 score
 	time = 3/4
 	key = 1&
@@ -217,7 +207,6 @@ bar
 1 1: 2r; 8d; e;
 1 2: 2d; 4r;
 bar
-newscore
 score
 	time = 4/4
 	key = 1&
@@ -228,7 +217,6 @@ score
 music
 1 1: 8f; e; d<>; g; f; e<>; 4a;
 bar
-newscore
 score
 	time = 3/4
 	key = 1&
@@ -268,7 +256,6 @@ bar
 bar
 1 1: 4d; 16d; e; 8f; g; f;
 bar
-newscore
 score
 	time = 4/4
 	key = 1&
@@ -279,7 +266,6 @@ score
 music
 1 1: 8e; 4c; 16d; e; 32f; e; 16d~; 8d; c; b-;
 bar
-newscore
 score
 	time = 3/4
 	key = 1&
@@ -309,7 +295,6 @@ bar
 1 1: 4a; 8a; 4.d;
 bar
 // third variation
-newscore
 score
 	time = 4/4
 	key = 1&
@@ -359,7 +344,6 @@ bar
 1 1: 1d-;
 bar
 // fourth variation
-newscore
 score
 	time = 27/8
 	key = 1&
@@ -393,7 +377,6 @@ bar
 ital below 1: 1 "rit. poco a poco";
 mussym above 1: 25 "ferm";
 bar
-newscore
 score
 	time = 9/4
 	key = 1&
@@ -404,7 +387,6 @@ score
 music
 1 1: [with >] 8d+; f+; d+; [with >] d+; f+; d+; [with >] d+; f+; d+; [with >] d+; f+; d+; [with >] c+; f+; d+; [with >] b; f+; d+; 
 bar
-newscore
 score
 	time = 6/4
 	key = 1&
@@ -415,7 +397,6 @@ score
 music
 1 1: [with >] 8a; f+; d+; [with >] b; f+; d+; [with >] c+; f+; d+; [with >] b; f+; d+;
 bar
-newscore
 score
 	time = 9/4
 	key = 1&
@@ -432,7 +413,6 @@ bar
 bar
 1 1: [with >] 8c; f+; d+; [with >] d; f+; d+; [with >] e; f+; d+; [with >] d; f+; d+; [with >] c; f+; d+; [with >] b-; f+; d+;
 bar
-newscore
 score
 	time = 27/8
 	key = 1&
@@ -447,7 +427,6 @@ bar
 1 1: 4.r; [with >] 8e+; c#+; a; [with >] 8e+; c#+; a; [with >] 8e+; c#+; a; [with >] 8e+; c#+; a; [with >] 8e+; c#+; a; [with >] 8e+; c#+; a; [with >] 8e+; c#+; a; [with >] 8e+; c#+; a; 
 1 2: 1a-~; a-~; a-~; 4.a-;
 bar
-newscore
 score
 	time = 3/4
 	key = 1&
@@ -477,7 +456,6 @@ bar
 1 1: 8r; a; d+; f+; 4gd+;
 1 2: 2d; 4c;
 bar
-newscore
 score
 	time = 16/8
 	key = 1&
@@ -577,7 +555,6 @@ bar
 bar
 1 1: 4.fb; gc+; 2ad+; 8d; a; d+; a; 4d;
 bar
-newscore
 score
 	time = 10/8
 	key = 1&
@@ -588,7 +565,6 @@ score
 music
 1 1: 4.fb; gc+; 2ad+;
 bar
-newscore
 score
 	time = 14/8
 	key = 1&
@@ -599,7 +575,6 @@ score
 music
 1 1: 8d; a; d+; a; d; a; d+; a; d; a; 4d+; c; 
 bar rehearsal mnum
-newscore
 score
 	time = 16/8
 	key = 1&
@@ -708,7 +683,6 @@ bar
 1 1: 4cgd+; 8c; g; d+; g; 4c; 8d; a; 2d+; 4c;
 ital below 1: 1 "rit.";
 bar
-newscore
 score
 	time = 14/8
 	key = 1&
@@ -726,7 +700,6 @@ bar
 bar
 1 1: 8b-; a; d+; c; g; d+; d; a; 2d+; 4c;
 bar
-newscore
 score
 	time = 12/8
 	key = 1&
@@ -742,7 +715,6 @@ bar
 bar
 1 1: 8b-; a; d+; c; g; d+; d; a; d+; c; g; d+;
 bar
-newscore
 score
 	time = 6/8
 	key = 1&
@@ -754,7 +726,6 @@ music
 1 1: 8b-; a; d+; c; g; d+; 
 ital below 1: 1 "rit. poco a poco";
 bar
-newscore
 score
 	time = 12/8
 	key = 1&
@@ -809,7 +780,6 @@ bar
 bar
 1 1: 8c#; a; c#+; e; c+; 32bn-; 32c; 16b-; 8a-; a; c+; e+; c+; 16f; e;
 bar
-newscore
 score
 	time = 7/8
 	key = 1&
@@ -820,7 +790,6 @@ score
 music
 1 1: 16d; c; d; e; f; g; a; g; f; e; f; e; d; c#;
 bar
-newscore
 score
 	time = 12/8
 	key = 1&
@@ -860,7 +829,6 @@ bar
 1 1: 8d+; f#+; a+; d++; a+; f#+; 2.d+f#+a+d++;
 roll 1: 7;
 bar
-newscore
 score
 	time = 16/8
 	key = 2#

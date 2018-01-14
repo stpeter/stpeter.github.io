@@ -80,7 +80,6 @@ bar
 1 1: 8r; e+; b; [with >] g; e+; b; [with >] g; e+; b; [with >] g; e+; b; [with >] g; e+; [with >] g; e+;
 1 2: 1b-~; 1b-;
 bar
-newscore
 score
 	time = 12/8
 	key = 1#
@@ -101,7 +100,6 @@ bar
 1 1: 8r; e+; b; r; e+; b; r; e+; b; r; e+; b;
 1 2: 4.g-; b-; f-; c;
 bar
-newscore
 score
 	time = 9/8
 	key = 1#
@@ -135,7 +133,6 @@ bar
 1 2: 4.f-; c; e;
 ital below 1: 1 "do not sustain";
 bar
-newscore
 score
 	time = 6/8
 	key = 1#
@@ -147,7 +144,6 @@ music
 1 1: 8r; e+; b; r; e+; b;
 1 2: 4.c; e;
 bar rehearsal mnum
-newscore
 score
 	time = 12/8
 	key = 1#
@@ -395,7 +391,6 @@ bar
 1 1: 2e; 1egbe+;
 roll 1: 5;
 bar
-newscore
 score
 	time = 4/4
 	key = 1#
@@ -523,7 +518,6 @@ ital below 1: 1.5 "rit.";
 mussym above 1: 4 "ferm";
 ital below 1: 4 "pp";
 bar
-newscore
 score
 	time = 12/8
 	key = 1#
@@ -984,7 +978,6 @@ bar
 bar
 1 1: [with >] 8e; e+; b; [with >] b; e+; b; [with >] d; e+; b; [with >] a; e+; b;
 bar
-newscore
 score
 	time = 6/8
 	key = 1#
@@ -995,7 +988,6 @@ score
 music
 1 1: [with >] 8c; e+; b; [with >] g; e+; b;
 bar
-newscore
 score
 	time = 12/8
 	key = 1#

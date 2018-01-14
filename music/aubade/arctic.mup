@@ -183,7 +183,6 @@ bar
 1 1: 8r; 8be+; 8be+; 4be+; 8be+; 8be+; 8be+;
 1 2: 2e; 2e-;
 bar
-newscore
 score
 	time = 9/8
 	key = 1#
@@ -201,7 +200,6 @@ bar
 1 1: 8c+f+; 8c+f+; 8c+f+; 8c+f+; 8c+f+; 8c+f+; 8c+f+; 8c+<d+>f+<f+>; 8d+f#+;
 1 2: 4.fn-~; 4.f-~; 4f-; 8r;
 bar
-newscore
 score
 	time = 4/4
 	key = 2#
@@ -316,7 +314,6 @@ ital above 1: 1 "rit.";
 ital above 1: 2 "rit.";
 ital above 1: 3 "rit.";
 bar
-newscore
 score
 	time = 4/4
 	key = 1#
@@ -406,7 +403,6 @@ bar
 1 1: 16r; e+a+; e+a+; 8e+a+; e+a+; 16d+g+; r; be+; be+; 8be+; 16be+; be+; be+;
 1 2: 4f; 8b; 8b-<e>; 4e; 4e-;
 bar
-newscore
 score
 	time = 4/8
 	key = 1#
@@ -418,7 +414,6 @@ music
 1 1: 16r; e+a+; e+a+; 8e+a+; e+a+; 16d+g+;
 1 2: 4f; 8b; 8b-<e>;
 bar
-newscore
 score
 	time = 4/4
 	key = 1#
@@ -516,7 +511,6 @@ bar
 1 1: 16r; e+a+; e+a+; e+a+; r; d+g+; d+g+; d+g+; r; be+; be+; 8be+; 16be+; be+; be+;
 1 2: 4f; 4b-<e>; 4e; 4e-;
 bar
-newscore
 score
 	time = 4/8
 	key = 1#
@@ -528,7 +522,6 @@ music
 1 1: 16r; e+a+; e+a+; 8e+a+; 16d+g+; d+g+; d+g+;
 1 2: 4f; 4b-<e>;
 bar
-newscore
 score
 	time = 4/4
 	key = 1#
@@ -579,7 +572,6 @@ bar
 ital above 1: 2 "harm., 7";
 ital above 1: 4 "harm., 12";
 bar
-newscore
 score
 	time = 4/8
 	key = 1#
@@ -592,7 +584,6 @@ music
 1 2: 16a; f; f; 8f; 16f; f; f;
 ital above 1: 2 "harm., 12";
 bar
-newscore
 score
 	time = 4/4
 	key = 1#
