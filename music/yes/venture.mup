@@ -296,7 +296,7 @@ score
 music
 1: 8d; 4f#; 4a; 8c+;
 bar
-1: 8d; 8r; 8c; 8r; 8c; 8r;
+1: 8d+; 8r; 8c; 8r; 8c; 8r;
 bar
 1: 8d; 4f#; 4a; 8c+;
 bar
@@ -370,7 +370,7 @@ score
 music
 1: 8d; 4f#; 4a; 8c+;
 bar
-1: 8d; 8r; 8c; 8r; 8c; 8r;
+1: 8d+; 8r; 8c; 8r; 8c; 8r;
 bar
 1: 8d; 4f#; 4a; 8c+;
 bar
