@@ -270,13 +270,13 @@ bar
 bar
 1: 8b; 8g; 8e; 8b; 8g; 8e;
 bar
-1: 8a; 8f; 8d; 8a; 8f; 8d;
+1: 8a; 8f#; 8d; 8a; 8f#; 8d;
 bar
-1: 8a; 8f; 8d; 8a; 8f; 8d;
+1: 8a; 8f#; 8d; 8a; 8f#; 8d;
 bar
-1: 8a; 8f; 8d; 8a; 8f; 8d;
+1: 8a; 8f#; 8d; 8a; 8f#; 8d;
 bar
-1: 8a; 8f; 8d; 8a; 8f; 8d;
+1: 8a; 8f#; 8d; 8a; 8f#; 8d;
 bar rehearsal mnum
 1: 8d; 4f#; 4a; 8c+;
 bar
@@ -344,13 +344,13 @@ bar
 bar
 1: 8a; 8g; 8e; 8b; 8g; 8e;
 bar
-1: 8a; 8f; 8d; 8a; 8f; 8d;
+1: 8a; 8f#; 8d; 8a; 8f#; 8d;
 bar
-1: 8a; 8f; 8d; 8a; 8f; 8d;
+1: 8a; 8f#; 8d; 8a; 8f#; 8d;
 bar
-1: 8b; 8f; 8d; 8a; 8f; 8d;
+1: 8b; 8f#; 8d; 8a; 8f#; 8d;
 bar
-1: 8g; 8f; 8d; 8a; 8f; 8d;
+1: 8g; 8f#; 8d; 8a; 8f#; 8d;
 bar rehearsal mnum
 1: 8d; 4f#; 4a; 8c+;
 bar
