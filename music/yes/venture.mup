@@ -1,8 +1,8 @@
 // This is the source file for Peter Saint-Andre's 
 // solo bass arrangement of the Yes song "A Venture".
 //
-// Version: 0.9
-// Last Updated: 2018-01-14
+// Version: 1.0
+// Last Updated: 2018-01-15
 //
 header
 	title (18) "A Venture"
@@ -24,13 +24,13 @@ score
         beamstyle = 4., 4.
 music
 // intro, part one
-1 1: [with >] 8g; 8g; 8r; [with >] 4g; 8g;
-1 2: [with >] 8g-; 8c; 8r; [with >] 4.d~;
+1 1: 8g; 8g; 8r; 4g; 8g;
+1 2: 8g-; 8c; 8r; 4.d~;
 bar
-1 1: [with >] 8g; 8g; 8r; [with >] 4g; 8g;
+1 1: 8g; 8g; 8r; 4g; 8g;
 1 2: 4d; 2r;
 bar
-1: [with >] 8g; 8g; 8r; [with >] 4g; 8g;
+1: 8g; 8g; 8r; 4g; 8g;
 bar
 score
         time = 4/8
@@ -46,13 +46,13 @@ score
         staffs = 1
         clef = bass
 music
-1 1: [with >] 8g; 8g; 8r; [with >] 4g; 8g;
-1 2: [with >] 8g-; 8c; 8r; [with >] 4.d~;
+1 1: 8g; 8g; 8r; 4g; 8g;
+1 2: 8g-; 8c; 8r; 4.d~;
 bar
-1: [with >] 8g; 8g; 8r; [with >] 4g; 8g;
+1: 8g; 8g; 8r; 4g; 8g;
 1 2: 4d; 2r;
 bar
-1: [with >] 8g; 8g; 8r; [with >] 4g; 8g;
+1: 8g; 8g; 8r; 4g; 8g;
 bar
 score
         time = 4/8
@@ -69,13 +69,12 @@ score
         staffs = 1
         clef = bass
 music
-1 1: [with >] 8g; 8g; 8r; [with >] 4g; 8r;
-1 2: [with >] 8g-; 8c; 8r; [with >] 4d; 8e;
+1 1: 8g; 8g; 8r; 4g; 8r;
+1 2: 8g-; 8c; 8r; 4d; 8e;
 bar
 1: 8d; 8c; 8b-; 8a-; 8g-; 8f-;
 bar
-1 1: [with >] 8g; 8g; 8r; [with >] 4g; 8r;
-1 2: [with >] 8g-; 8c; 8r; [with >] 4d; 8e;
+1 1: 8g-; 8c; 8r; 4d; 8c;
 bar
 score
         time = 4/8
@@ -91,13 +90,12 @@ score
         staffs = 1
         clef = bass
 music
-1 1: [with >] 8g; 8g; 8r; [with >] 4g; 8r;
-1 2: [with >] 8g-; 8c; 8r; [with >] 4d; 8e;
+1 1: 8g; 8g; 8r; 4g; 8r;
+1 2: 8g-; 8c; 8r; 4d; 8e;
 bar
 1: 8d; 8c; 8b-; 8a-; 8g-; 8f-;
 bar
-1 1: [with >] 8g; 8g; 8r; [with >] 4g; 8r;
-1 2: [with >] 8g-; 8c; 8r; [with >] 4d; 8e;
+1: 8g-; 8c; 8r; 4d; 8c;
 bar
 score
         time = 4/8
@@ -118,9 +116,9 @@ music
 bar
 1: 8d; 8c; 8r; 4e; 8d;
 bar
-1: 4f; 8e; 8d; 8c; 8b-;
+1: 4f; 8d; 8c; 8b-; 8a-;
 bar
-1: 8c; 8b-; 8g-; 8f-; 4d-;
+1: 8b-; 8a-; 8g-; 8f-; 4d-;
 bar
 1: 8b-; 8a-; 8r; 4c; 8b-;
 bar
@@ -167,9 +165,9 @@ bar rehearsal mnum
 bar
 1: 8d; 8c; 8r; 4e; 8d;
 bar
-1: 4f; 8e; 8d; 8c; 8b-;
+1: 4f; 8d; 8c; 8b-; 8a-;
 bar
-1: 8c; 8b-; 8g-; 8f-; 4d-;
+1: 8b-; 8a-; 8g-; 8f-; 4d-;
 bar
 1: 8b-; 8a-; 8r; 4c; 8b-;
 bar
@@ -229,6 +227,22 @@ bar
 bar
 1: 8f; 8g; 8f; 8d; 4c;
 bar rehearsal mnum
+1: 8g; 8a; 8b; 8g; 8a; 8b;
+bar
+1: 8g; 8a; 8b; 8g; 8a; 8b;
+bar
+1: 8g; 8a; 8b; 8g; 8a; 8b;
+bar
+1: 8g; 8a; 8b; 8g; 8a; 8b;
+bar
+1: 8a; 8b; 8c+; 8a; 8b; 8c+;
+bar
+1: 8a; 8b; 8c+; 8a; 8b; 8c+;
+bar
+1: 8a; 8b; 8c+; 8a; 8b; 8c+;
+bar
+1: 8a; 8b; 8c+; 8a; 8b; 8c+;
+bar
 1: 8g; 8a; 8b; 8g; 8a; 8b;
 bar
 1: 8g; 8a; 8b; 8g; 8a; 8b;
@@ -434,9 +448,9 @@ music
 bar
 1: 8d; 8c; 8r; 4e; 8d;
 bar
-1: 4f; 8e; 8d; 8c; 8b-;
+1: 4f; 8d; 8c; 8b-; 8a-;
 bar
-1: 8c; 8b-; 8g-; 8f-; 8d-; 8f-;
+1: 8b-; 8a-; 8g-; 8f-; 8d-; 8f-;
 bar
 1: 8g-; 8c; 8r; 4d; 8e;
 bar
@@ -458,11 +472,11 @@ score
         staffs = 1
         clef = bass
 music
-1 1: [with >] 8g; 8g; 8r; [with >] 4g; [with >] 8f;
-1 2: [with >] 8g-; 8c; 8r; [with >] 4d; [with >] 8f-;
+1 1: 8g; 8g; 8r; 4g; 8f;
+1 2: 8g-; 8c; 8r; 4d; 8f-;
 bar
-1 1: [with >] 8g; 8r; 2r;
-1 2: [with >] 8g-; 8r; 2r;
+1 1: 8g; 8r; 2r;
+1 2: 8g-; 8r; 2r;
 bar
 //
 // end of "A Venture"
