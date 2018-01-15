@@ -6,7 +6,8 @@
 //
 header
 	title (18) "A Venture"
-	title  "" "Jon Anderson"   
+	title (12) "Words and Music by"
+	title (12) "JON ANDERSON"
 	title (10) "Tuning: DADG" "Arranged for Bass by Peter Saint-Andre"
 footer
 	title ""
@@ -270,15 +271,15 @@ bar
 bar
 1: 8b; 8g; 8e; 8b; 8g; 8e;
 bar
-1: 8a; 8f#; 8d; 8a; 8f#; 8d;
+1: 8a; 8f#; 8d; 8a; 8f; 8d;
 bar
-1: 8a; 8f#; 8d; 8a; 8f#; 8d;
+1: 8a; 8f; 8d; 8a; 8f; 8d;
 bar
-1: 8a; 8f#; 8d; 8a; 8f#; 8d;
+1: 8a; 8f; 8d; 8a; 8f; 8d;
 bar
-1: 8a; 8f#; 8d; 8a; 8f#; 8d;
+1: 8a; 8f; 8d; 8a; 8f; 8d;
 bar rehearsal mnum
-1: 8d; 4f#; 4a; 8c+;
+1: 8d; 4f; 4a; 8c+;
 bar
 score
         time = 4/4
@@ -286,7 +287,7 @@ score
         staffs = 1
         clef = bass
 music
-1: 8d+; 8r; [grace] 8fn; 8g; 8f; 8e; 8r; 8d; 8r;
+1: 8d+; 8r; [grace] 8fn; 8g; 8fn; 8e; 8r; 8d; 8r;
 bar
 score
         time = 6/8
@@ -298,7 +299,7 @@ music
 bar
 1: 8d+; 8r; 8c; 8r; 8c; 8r;
 bar
-1: 8d; 4f#; 4a; 8c+;
+1: 8d; 4f; 4a; 8c+;
 bar
 score
         time = 4/4
@@ -306,7 +307,7 @@ score
         staffs = 1
         clef = bass
 music
-1: 8d+; 8r; [grace] 8fn; 8g; 8f; 8e; 8r; 8d; 8r;
+1: 8d+; 8r; [grace] 8fn; 8g; 8fn; 8e; 8r; 8d; 8r;
 bar
 score
         time = 6/8
@@ -344,15 +345,15 @@ bar
 bar
 1: 8a; 8g; 8e; 8b; 8g; 8e;
 bar
-1: 8a; 8f#; 8d; 8a; 8f#; 8d;
+1: 8a; 8f#; 8d; 8a; 8f; 8d;
 bar
-1: 8a; 8f#; 8d; 8a; 8f#; 8d;
+1: 8a; 8f; 8d; 8a; 8f; 8d;
 bar
-1: 8b; 8f#; 8d; 8a; 8f#; 8d;
+1: 8b; 8f; 8d; 8a; 8f; 8d;
 bar
-1: 8g; 8f#; 8d; 8a; 8f#; 8d;
+1: 8g; 8f; 8d; 8a; 8f; 8d;
 bar rehearsal mnum
-1: 8d; 4f#; 4a; 8c+;
+1: 8d; 4f; 4a; 8c+;
 bar
 score
         time = 4/4
@@ -360,7 +361,7 @@ score
         staffs = 1
         clef = bass
 music
-1: 8d+; 8r; [grace] 8fn; 8g; 8f; 8e; 8r; 8d; 8r;
+1: 8d+; 8r; [grace] 8fn; 8g; 8fn; 8e; 8r; 8d; 8r;
 bar
 score
         time = 6/8
@@ -372,7 +373,7 @@ music
 bar
 1: 8d+; 8r; 8c; 8r; 8c; 8r;
 bar
-1: 8d; 4f#; 4a; 8c+;
+1: 8d; 4f; 4a; 8c+;
 bar
 score
         time = 4/4
@@ -380,7 +381,7 @@ score
         staffs = 1
         clef = bass
 music
-1: 8d+; 8r; [grace] 8fn; 8g; 8f; 8e; 8r; 8d; 8r;
+1: 8d+; 8r; [grace] 8fn; 8g; 8fn; 8e; 8r; 8d; 8r;
 bar
 score
         time = 6/8
