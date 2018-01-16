@@ -1,13 +1,13 @@
-// This is the source file for Peter Saint-Andre's 
+// This is the Mup source file for Peter Saint-Andre's 
 // solo bass arrangement of the Yes song "To Be Over".
 //
-// Version: 0.1
-// Last Updated: 2018-01-14
+// Version: 0.2
+// Last Updated: 2018-01-15
 //
 header
 	title (18) "To Be Over"
 	title (12) "Words and Music by"
-	title (12) "JON ANDERSON, STEVE HOWE, PATRICK MORAZ, CHRIS SQUIRE, and ALAN WHITE"
+	title (12) "JON ANDERSON, STEVE HOWE, PATRICK MORAZ, CHRIS SQUIRE and ALAN WHITE"
 	title (10) "" "Arranged for Bass by Peter Saint-Andre"
 footer
 	title ""
@@ -20,7 +20,10 @@ score
 	key = 4#
 	staffs = 1
 	clef = bass
+        vscheme = 2o
 music
+// harmonics from Canon Song
+// intro, part one
 1: 4c+; a; e; c+;
 bar
 1: 4b; g; e; b;
@@ -75,6 +78,123 @@ bar
 1: 2bge; 4a-; a-;
 bar
 1: 4a-; r; a-; r;
+bar rehearsal mnum
+// intro, part two
+1: 4c+; a; e; c+;
+bar
+1: 4b; g; e; b;
+bar
+1: 4d+; a; f; d+;
+bar
+1: 4c+; a; e; c+;
+bar
+1: 4b; g; e; b;
+bar
+1: 4a; f; d; a;
+bar
+1: 2f; e;
+bar
+1: 4f; d; a-; d;
+bar
+1: 2f; a;
+bar
+1: 4d+; a; f; d+;
+bar
+1: 2d+; e+;
+bar
+1: 4d+; a; f; d+;
+bar
+1: 4d+; a; d+; e+;
+bar
+1: 4f+; e+; d+; f+;
+bar
+1: 4e+; d+; c+; b;
+bar
+1: 4c+; a; e; c+;
+bar
+1: 4b; g; e; b;
+bar
+1: 4d+; a; f; d+;
+bar
+1: 4c+; a; e; c+;
+bar
+1: 4b; g; e; b;
+bar
+1: 4a; f; d; a;
+bar
+1: 4b; g; e; g;
+bar
+1: 2b; 2d+;
+bar
+1: 4b; g; e; g;
+bar
+1: 2b; 2c+;
+bar
+1: 4b; g; e; g;
+bar
+1: 2b; 2d+;
+bar
+1: 1b;
+bar
+1: 4c+; a; c+; d+;
+bar
+1: 2c+; 4a; a;
+bar
+1: 2a; 2e;
+bar
+1: 2f; 2a;
+bar
+1: 2c+; 2d+;
+bar
+1 1: 4e+; d+; c+; e+;
+1 2: 1e-~;
+bar
+1 1: 4d+; c+; b; c+;
+1 2: 2e-; r;
+bar
+1: 2b; 4e; e;
+bar
+1: 4c+; a; c+; d+;
+bar
+1: 2c+; 4a; a;
+bar
+1: 2e; f;
+bar
+1: 2.a; 4b;
+bar
+1: 4c+; b; c+; d+~;
+bar
+1: 4d+; 2c+; 4b;
+bar
+1: 2c+; a;
+bar
+1: 2g; f;
+bar
+1 1: 2r; 4bd+; bd+;
+1 2: 1e~;
+bar
+1 1: 2bd+; bd+;
+1 2: 1e;
+bar
+1: 2r; 4ac+; ac+;
+1 2: 1e~;
+bar
+1 1: 2ac+; ac+;
+1 2: 1e;
+bar
+1: 2r; 4gb; gb;
+1 2: 1e~;
+bar
+1 1: 2gb; gb;
+1 2: 1e;
+bar
+1: 2r; 4gb; gb;
+1 2: 1e-~;
+bar
+1 1: 2gb; gb;
+1 2: 1e-;
+bar rehearsal mnum
+1 2: 1a-;
 bar
 //
 // end of "To Be Over"
