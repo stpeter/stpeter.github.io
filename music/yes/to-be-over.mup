@@ -1,8 +1,8 @@
 // This is the Mup source file for Peter Saint-Andre's 
 // solo bass arrangement of the Yes song "To Be Over".
 //
-// Version: 0.2
-// Last Updated: 2018-01-15
+// Version: 0.3
+// Last Updated: 2018-01-16
 //
 header
 	title (18) "To Be Over"
@@ -22,37 +22,191 @@ score
 	clef = bass
         vscheme = 2o
 music
-// harmonics from Canon Song
-// intro, part one
+// intro, part one - harmonics from Safe (Canon Song)
+1: 2.r; 4e+;
+ital above 1: 1 "harmonics";
+bar
+1: 1a+~; 
+bar
+1: 2a+; 4g+; f+;
+bar
+1: 1g+~;
+bar
+1: 2g+; 4f+; e+~;
+bar
+1: 4e+; f+; 2g+;
+bar
+1: 1c+~;
+bar
+1: 2.c+; 4e+;
+bar
+1: 1a+~; 
+bar
+1: 2a+; 4g+; f+;
+bar
+1: 1g+~;
+bar
+1: 2g+; 4f+; e+~;
+bar
+1: 4e+; f+; 2g+;
+bar
+1: 1c+~;
+bar
+1: 2.c+; 4b;
+bar
+1 1: 2r; 2e+~;
+1 2: 1c+~;
+bar
+1 1: 2.e+; 4r;
+1 2: 2.c+; 4b;
+bar
+1 1: 2r; 2e+~;
+1 2: 1c+~;
+bar
+1 1: 2.e+; 4r;
+1 2: 2.c+; 8b; 8c+;
+bar
+1 2: 1a~;
+bar
+1 2: 1a;
+bar
+1 2: 1e~;
+bar
+1 2: 1e;
+bar
+// second time
+1: 2.r; 4e+;
+bar
+1: 1a+~; 
+bar
+1: 2a+; 4g+; f+;
+bar
+1: 1g+~;
+bar
+1: 2g+; 4f+; e+~;
+bar
+1: 4e+; f+; 2g+;
+bar
+1: 1c+~;
+bar
+1: 2.c+; 4e+;
+bar
+1: 1a+~; 
+bar
+1: 2a+; 4g+; f+;
+bar
+1: 1g+~;
+bar
+1: 2g+; 4f+; e+~;
+bar
+1: 4e+; f+; 2g+;
+bar
+1: 1c+~;
+bar
+1: 2.c+; 4b;
+bar
+1 1: 2r; 2e+~;
+1 2: 1c+~;
+bar
+1 1: 2.e+; 4r;
+1 2: 2.c+; 4b;
+bar
+1 1: 2r; 2e+~;
+1 2: 1c+~;
+bar
+1 1: 2.e+; 4r;
+1 2: 2.c+; 8b; 8c+;
+bar
+1 2: 1a~;
+bar
+1 2: 1a;
+bar
+1 2: 1a~;
+bar
+1 2: 1a;
+bar
+1 2: 1a~;
+bar
+1 2: 1a;
+bar
+1 2: 1a~;
+bar
+1 2: 1a;
+ital above 1: 1 "end harmonics";
+bar rehearsal mnum
+// intro, part two
+repeatstart
+1 1: 4r; 2.c+a;
+1 2: 1a-;
+bar
+1 1: 4r; 2.bg;
+1 2: 1a-;
+bar
+1 1: 4r; 2.d+b;
+1 2: 1a-;
+bar
+1 1: 4r; 2.c+~a~;
+1 2: 1a-~;
+bar
+1 1: 1c+~a~;
+1 2: 1a-~;
+bar
+1 1: 2c+a; 2r;
+1 2: 2a-; 4e-; e-;
+bar
+1: 4e-; r; e-; r;
+repeatend
+1 1: 4r; 2.c+a;
+1 2: 1a-;
+bar
+1 1: 4r; 2.bg;
+1 2: 1a-;
+bar
+1 1: 4r; 2.d+b;
+1 2: 1a-;
+bar
+1 1: 4r; 2.c+a;
+1 2: 1a-;
+bar
+1 1: 4r; 2.e+c+;
+1 2: 1a-;
+bar
+1 1: 4r; 2.d+b;
+1 2: 1a-;
+bar
+1 1: 4r; 2.f+d+;
+1 2: 1a-;
+bar
+1 1: 4r; 2.e+c+;
+1 2: 1a-;
+bar
+1 1: 4r; 2d+b; 4c+~a~;
+1 2: 1a-~;
+bar
+1 1: 4c+a; 2.b~g~;
+1 2: 4a-; 2.r;
+bar
+1 1: 1b~g~;
+bar
+1 1: 2bg; 2r;
+1 2: 2r; 4e-; e-;
+bar
+1: 4e-; r; e-; r;
+repeatstart
 1: 4c+; a; e; c+;
 bar
 1: 4b; g; e; b;
 bar
 1: 4d+; a; f; d+;
 bar
-1: 1c+ae~;
+1: 1c+~a~e~;
 bar
-1: 1c+ae~;
-bar
-1: 2c+ae; 4a-; a-;
-bar
-1: 4a-; r; a-; r;
-bar
-1: 4c+; a; e; c+;
-bar
-1: 4b; g; e; b;
-bar
-1: 4d+; a; f; d+;
-bar
-1: 1c+ae~;
-bar
-1: 1c+ae~;
+1: 1c+~a~e~;
 bar
 1: 2c+ae; 4a-; a-;
 bar
 1: 4a-; r; a-; r;
-bar
-// third
+repeatend
 1: 4c+; a; e; c+;
 bar
 1: 4b; g; e; b;
@@ -71,15 +225,15 @@ bar
 bar
 1: 2d+af; 2c+ae; 
 bar
-1: 1bge~;
+1: 1b~g~e~;
 bar
-1: 1bge~;
+1: 1b~g~e~;
 bar
 1: 2bge; 4a-; a-;
 bar
 1: 4a-; r; a-; r;
-bar rehearsal mnum
-// intro, part two
+repeatstart rehearsal mnum
+// first verse
 1: 4c+; a; e; c+;
 bar
 1: 4b; g; e; b;
@@ -161,7 +315,8 @@ bar
 1: 2e; f;
 bar
 1: 2.a; 4b;
-bar
+repeatend
+// end of second verse
 1: 4c+; b; c+; d+~;
 bar
 1: 4d+; 2c+; 4b;
