@@ -1,8 +1,8 @@
 // This is the Mup source file for Peter Saint-Andre's 
 // solo bass arrangement of the Yes song "To Be Over".
 //
-// Version: 0.3
-// Last Updated: 2018-01-16
+// Version: 0.4
+// Last Updated: 2018-01-17
 //
 header
 	title (18) "To Be Over"
@@ -136,7 +136,7 @@ ital above 1: 1 "end harmonics";
 bar rehearsal mnum
 // intro, part two
 repeatstart
-1 1: 4r; 2.c+a;
+1 1: 1c+a;
 1 2: 1a-;
 bar
 1 1: 4r; 2.bg;
@@ -156,7 +156,7 @@ bar
 bar
 1: 4e-; r; e-; r;
 repeatend
-1 1: 4r; 2.c+a;
+1 1: 1c+a;
 1 2: 1a-;
 bar
 1 1: 4r; 2.bg;
@@ -348,9 +348,154 @@ bar
 bar
 1 1: 2gb; gb;
 1 2: 1e-;
-bar rehearsal mnum
+repeatstart rehearsal mnum
+1 1: 2r; 4a; 4b;
+1 2: 1a-~;
+bar
+1 1: 2c+; a;
+1 2: 1a-~;
+bar
+1 1: 2b; c+;
+1 2: 1a-~;
+bar
+1 1: 2a; b;
 1 2: 1a-;
 bar
+1 1: 2r; 4a; 4b;
+1 2: 1a-~;
+bar
+1 1: 2c+; a;
+1 2: 1a-~;
+bar
+1 1: 2b; e+;
+1 2: 1a-~;
+bar
+1 1: 2a; b;
+1 2: 1a-;
+bar
+1 1: 2r; 4a; 4b;
+1 2: 1a-~;
+bar
+1 1: 2c+; a;
+1 2: 1a-~;
+bar
+1 1: 2b; c+;
+1 2: 1a-~;
+bar
+1 1: 2a; b;
+1 2: 1a-;
+bar
+1: 4a; g; f; e;
+bar
+1: d; c; b-; a-;
+bar
+1: 4a; g; f; e;
+bar
+1: d; c; 2b-;
+repeatend
+1 1: 2r; 4a; 4b;
+1 2: 1a-~;
+bar
+1 1: 2c+; a;
+1 2: 1a-~;
+bar
+1 1: 2b; c+;
+1 2: 1a-~;
+bar
+1 1: 2a; b;
+1 2: 1a-;
+bar
+1 1: 2r; 4a; 4b;
+1 2: 1a-~;
+bar
+1 1: 2c+; d+;
+1 2: 1a-;
+bar
+1: 4e+; d+; c+; e+;
+bar
+1: 4d+; c+; 2b;
+bar
+1 1: 2r; 4a; 4b;
+1 2: 1a-~;
+bar
+1 1: 2c+; d+;
+1 2: 1a-;
+bar
+1: 4e+; d+; c+; e+;
+bar
+1: 4d+; c+; b; a;
+bar
+1: 4f+; e+; d+; f+;
+bar
+1: 4e+; d+; c+; b;
+bar
+1: 4g+; f+; e+; g+;
+bar
+1: 4f+; e+; d+; c+;
+bar
+score
+        time = 3/4
+	key = 4#
+        staffs = 1
+        clef = bass
+        vscheme = 2o
+music
+1: 4a+; g+; f+;
+bar
+1: 4a+; g+; f+;
+bar
+1: 4a+; g+; f+;
+bar
+1: 4a+; g+; f+;
+bar
+score
+	time = 4/4
+	key = 4#
+	staffs = 1
+	clef = bass
+        vscheme = 2o
+music
+1: 4a+; g+; 2f+;
+repeatstart
+score
+        time = 3/4
+	key = 4#
+        staffs = 1
+        clef = bass
+        vscheme = 2o
+music
+1: 4b+; a+; g+;
+bar
+1: 4b+; a+; g+;
+bar
+1: 4b+; a+; g+;
+bar
+1: 4b+; a+; g+;
+bar
+score
+	time = 4/4
+	key = 4#
+	staffs = 1
+	clef = bass
+        vscheme = 2o
+music
+1: 4b+; a+; 2g+;
+repeatend
+1 1: 2a+; 2r;
+1 2: 2r; 4a-; a-;
+bar rehearsal mnum
+1 1: 2ac+; 2e+c+;
+1 2: 1a-;
+bar
+1 1: 2ac+; 2r;
+1 2: 2r; 4a-; a-;
+bar
+1 1: 2r; 2ac+;
+1 2: 1a-;
+bar
+//
+// work in progress, more to come...
+//
 //
 // end of "To Be Over"
 //
