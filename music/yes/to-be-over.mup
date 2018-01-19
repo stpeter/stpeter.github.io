@@ -1,8 +1,8 @@
 // This is the Mup source file for Peter Saint-Andre's 
 // solo bass arrangement of the Yes song "To Be Over".
 //
-// Version: 0.4
-// Last Updated: 2018-01-17
+// Version: 0.5
+// Last Updated: 2018-01-18
 //
 header
 	title (18) "To Be Over"
@@ -488,11 +488,289 @@ bar rehearsal mnum
 1 2: 1a-;
 bar
 1 1: 2ac+; 2r;
-1 2: 2r; 4a-; a-;
+1 2: 2r; 4a-; a-~;
 bar
 1 1: 2r; 2ac+;
 1 2: 1a-;
 bar
+1: 4bd+; c+; b; d+;
+bar
+1: 4ac+; b; a; c+;
+bar
+1 1: 1bg;
+1 2: 2r; 4e-; e-;
+bar
+1: 4e-; r; e-; r;
+bar
+1 1: 4e+; d+; c+; e+;
+1 2: 1e-~;
+bar
+1 1: 4d+; c+; 2b;
+1 2: 1e-;
+bar
+1 1: 2a; 2r;
+1 2: 2r; 4a-; a-;
+bar
+1 1: 2ac+; 2e+c+;
+1 2: 1a-;
+bar
+1 1: 2ac+; 2r;
+1 2: 2r; 4a-; a-~;
+bar
+1 1: 2r; 2ac+;
+1 2: 1a-;
+bar
+1: 2d+b; d+b;
+bar
+1: 2c+a; c+a;
+bar
+1: 1f+d+;
+bar
+1: 1e+c+;
+bar
+1: 1g+e+;
+bar
+1: 1f+d+;
+bar
+1: 1a+f+;
+bar
+1: 1g+e+;
+bar
+1 1: 1a+~e+~;
+1 2: 2r; 4a-; a-;
+bar
+1 1: 1a+~e+~;
+1 2: 4a-; r; a-; r;
+bar
+1 1: 1a+e+;
+1 2: 1a-;
+bar rehearsal mnum
+score
+        time = 3/4
+	key = 4#
+        staffs = 1
+        clef = bass
+        vscheme = 2o
+music
+1 1: 4a; b; c+;
+1 2: 4a-; 2r;
+bar
+1: 4a; b; c+;
+bar
+1: 4a; b; c+;
+bar
+1: 4a; b; c+;
+bar
+score
+	time = 4/4
+	key = 4#
+	staffs = 1
+	clef = bass
+        vscheme = 2o
+music
+1: 4a; b; 2c+;
+bar
+score
+        time = 3/4
+	key = 4#
+        staffs = 1
+        clef = bass
+        vscheme = 2o
+music
+1 1: 4b; c+; d+;
+1 2: 4b-; 2r;
+bar
+1: 4b; c+; d+;
+bar
+1: 4b; c+; d+;
+bar
+1: 4b; c+; d+;
+bar
+score
+	time = 4/4
+	key = 4#
+	staffs = 1
+	clef = bass
+        vscheme = 2o
+music
+1: 4b; c+; 2d+;
+bar
+score
+        time = 3/4
+	key = 4#
+        staffs = 1
+        clef = bass
+        vscheme = 2o
+music
+1 1: 4c+; d+; e+;
+1 2: 4c; 2r;
+bar
+1: 4c+; d+; e+;
+bar
+1: 4c+; d+; e+;
+bar
+1: 4c+; d+; e+;
+bar
+score
+	time = 4/4
+	key = 4#
+	staffs = 1
+	clef = bass
+        vscheme = 2o
+music
+1: 4c+; d+; 2e+;
+bar
+score
+        time = 3/4
+	key = 4#
+        staffs = 1
+        clef = bass
+        vscheme = 2o
+music
+1 1: 4d+; e+; f+;
+1 2: 4d; 2r;
+bar
+1: 4d+; e+; f+;
+bar
+1: 4d+; e+; f+;
+bar
+1: 4d+; e+; f+;
+bar
+score
+	time = 4/4
+	key = 4#
+	staffs = 1
+	clef = bass
+        vscheme = 2o
+music
+1: 4d+; e+; 2f+;
+bar
+score
+        time = 3/4
+	key = 4#
+        staffs = 1
+        clef = bass
+        vscheme = 2o
+music
+1 1: 4e+; f+; g+;
+1 2: 4e-; 2r;
+bar
+1: 4e+; f+; g+;
+bar
+1: 4e+; f+; g+;
+bar
+1: 4e+; f+; g+;
+bar
+score
+	time = 4/4
+	key = 4#
+	staffs = 1
+	clef = bass
+        vscheme = 2o
+music
+1: 4e+; f+; 2g+;
+bar
+score
+        time = 3/4
+	key = 4#
+        staffs = 1
+        clef = bass
+        vscheme = 2o
+music
+1: 4e+; f+; g+;
+bar
+1: 4e+; f+; g+;
+bar
+1: 4e+; f+; g+;
+bar
+1: 4e+; f+; g+;
+bar
+score
+	time = 4/4
+	key = 4#
+	staffs = 1
+	clef = bass
+        vscheme = 2o
+music
+1: 4e+; f+; 2g+;
+bar
+1 1: 4a+; g+; f+; e+;
+1 2: 1a-~;
+bar
+1 1: 4d+; c+; b; a;
+1 2: 1a-;
+bar
+1 1: 4a; g; f; e;
+1 2: 1a-~;
+bar
+1 1: d; c; b-; a-;
+1 2: 2a-; 2r;
+bar
+1 1: 4a+; g+; f+; e+;
+1 2: 1a-~;
+bar
+1 1: 4d+; c+; b; a;
+1 2: 1a-;
+bar
+1 1: 4a; g; f; e;
+1 2: 1a-~;
+bar
+1 1: d; c; b-; a-;
+1 2: 2a-; 2r;
+repeatstart
+1 1: 4e+; e+; e+; f+;
+1 2: 1a-~;
+bar
+1 1: 4a+; e+; f+; a+;
+1 2: 1a-;
+bar
+1 1: 4a; a; a; b; 
+1 2: 1a-~;
+bar
+1 1: 4c+; a; b; c+;
+1 2: 1a-;
+bar
+1 1: 4e+; e+; e+; f+;
+1 2: 1a-~;
+bar
+1 1: 4a+; e+; f+; a+;
+1 2: 1a-;
+bar
+1 1: 4a; a; a; b; 
+1 2: 1a-~;
+bar
+1 1: 4c+; a; b; c+;
+1 2: 1a-;
+bar
+score
+        time = 3/4
+	key = 4#
+        staffs = 1
+        clef = bass
+        vscheme = 2o
+music
+1: 4a; b; c+;
+bar
+1: 4g; a; b;
+bar
+1: 4f; g; a;
+bar
+1: 4e; f; g;
+bar
+score
+	time = 4/4
+	key = 4#
+	staffs = 1
+	clef = bass
+        vscheme = 2o
+music
+1: 4d; e; f; g;
+bar
+1: 4a; g; f; e; 
+bar
+1: 4d; c; b-; a-;
+repeatend
+
 //
 // work in progress, more to come...
 //
