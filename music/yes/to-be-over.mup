@@ -1,8 +1,8 @@
 // This is the Mup source file for Peter Saint-Andre's 
 // solo bass arrangement of the Yes song "To Be Over".
 //
-// Version: 0.5
-// Last Updated: 2018-01-18
+// Version: 0.6
+// Last Updated: 2018-01-19
 //
 header
 	title (18) "To Be Over"
@@ -22,7 +22,7 @@ score
 	clef = bass
         vscheme = 2o
 music
-// intro, part one - harmonics from Safe (Canon Song)
+// intro, part one - harmonics from Chris Squire's "Safe (Canon Song)"
 1: 2.r; 4e+;
 ital above 1: 1 "harmonics";
 bar
@@ -331,10 +331,10 @@ bar
 1 1: 2bd+; bd+;
 1 2: 1e;
 bar
-1: 2r; 4ac+; ac+;
+1: 2r; 4c+a; c+a;
 1 2: 1e~;
 bar
-1 1: 2ac+; ac+;
+1 1: 2c+a; c+a;
 1 2: 1e;
 bar
 1: 2r; 4gb; gb;
@@ -484,18 +484,18 @@ repeatend
 1 1: 2a+; 2r;
 1 2: 2r; 4a-; a-;
 bar rehearsal mnum
-1 1: 2ac+; 2e+c+;
+1 1: 2c+a; 2e+c+;
 1 2: 1a-;
 bar
-1 1: 2ac+; 2r;
+1 1: 2c+a; 2r;
 1 2: 2r; 4a-; a-~;
 bar
-1 1: 2r; 2ac+;
+1 1: 2r; 2c+a;
 1 2: 1a-;
 bar
 1: 4bd+; c+; b; d+;
 bar
-1: 4ac+; b; a; c+;
+1: 4c+a; b; a; c+;
 bar
 1 1: 1bg;
 1 2: 2r; 4e-; e-;
@@ -511,13 +511,13 @@ bar
 1 1: 2a; 2r;
 1 2: 2r; 4a-; a-;
 bar
-1 1: 2ac+; 2e+c+;
+1 1: 2c+a; 2e+c+;
 1 2: 1a-;
 bar
-1 1: 2ac+; 2r;
+1 1: 2c+a; 2r;
 1 2: 2r; 4a-; a-~;
 bar
-1 1: 2r; 2ac+;
+1 1: 2r; 2c+a;
 1 2: 1a-;
 bar
 1: 2d+b; d+b;
@@ -770,10 +770,411 @@ bar
 bar
 1: 4d; c; b-; a-;
 repeatend
+bar rehearsal mnum
+score
+        time = 3/4
+	key = 4#
+        staffs = 1
+        clef = bass
+        vscheme = 2o
+music
+1 1: 4a; b; c+;
+1 2: 4a-; 2r;
+bar
+1: 4a; b; c+;
+bar
+1: 4a; b; c+;
+bar
+1: 4a; b; c+;
+bar
+score
+	time = 4/4
+	key = 4#
+	staffs = 1
+	clef = bass
+        vscheme = 2o
+music
+1: 4a; b; c+; 8d+; c+;
+bar
+score
+        time = 3/4
+	key = 4#
+        staffs = 1
+        clef = bass
+        vscheme = 2o
+music
+1 1: 4b; c+; d+;
+bar
+1: 4b; c+; d+;
+bar
+1: 4b; c+; d+;
+bar
+1: 4b; c+; d+;
+bar
+score
+	time = 4/4
+	key = 4#
+	staffs = 1
+	clef = bass
+        vscheme = 2o
+music
+1: 4b; c+; d+; 8e+; d+;
+bar
+score
+        time = 3/4
+	key = 4#
+        staffs = 1
+        clef = bass
+        vscheme = 2o
+music
+1 1: 4c+; d+; e+;
+bar
+1: 4c+; d+; e+;
+bar
+1: 4c+; d+; e+;
+bar
+1: 4c+; d+; e+;
+bar
+score
+	time = 4/4
+	key = 4#
+	staffs = 1
+	clef = bass
+        vscheme = 2o
+music
+1: 4c+; d+; 4e+; 8f+; e+;
+bar
+score
+        time = 3/4
+	key = 4#
+        staffs = 1
+        clef = bass
+        vscheme = 2o
+music
+1 1: 4d+; e+; f+;
+bar
+1: 4d+; e+; f+;
+bar
+1: 4d+; e+; f+;
+bar
+1: 4d+; e+; f+;
+bar
+score
+	time = 4/4
+	key = 4#
+	staffs = 1
+	clef = bass
+        vscheme = 2o
+music
+1: 4d+; e+; f+; 8g+; f+;
+bar
+score
+        time = 3/4
+	key = 4#
+        staffs = 1
+        clef = bass
+        vscheme = 2o
+music
+1 1: 4e+; f+; g+;
+bar
+1: 4e+; f+; g+;
+bar
+1: 4e+; f+; g+;
+bar
+1: 4e+; f+; g+;
+bar
+score
+	time = 4/4
+	key = 4#
+	staffs = 1
+	clef = bass
+        vscheme = 2o
+music
+1: 4e+; f+; g+; 8g+; f+;
+bar
+score
+        time = 3/4
+	key = 4#
+        staffs = 1
+        clef = bass
+        vscheme = 2o
+music
+1: 4e+; f+; g+;
+bar
+1: 4e+; f+; g+;
+bar
+1: 4e+; f+; g+;
+bar
+1: 4e+; f+; g+;
+bar
+score
+	time = 4/4
+	key = 4#
+	staffs = 1
+	clef = bass
+        vscheme = 2o
+music
+1: 4e+; f+; 2g+;
+bar
+1 1: 2a+; 2r;
+1 2: 2r; 4a-; a-;
+bar
+1 1: 2c+a; 2e+c+;
+1 2: 1a-;
+bar
+1 1: 2c+a; 2r;
+1 2: 2r; 4a-; a-~;
+bar
+1 1: 2r; 2c+a;
+1 2: 1a-;
+bar
+1: 4bd+; c+; b; d+;
+bar
+1: 4c+a; b; a; c+;
+bar
+1 1: 1bg;
+1 2: 2r; 4e-; e-;
+bar
+1: 4e-; r; e-; r;
+bar
+1 1: 4e+; d+; c+; e+;
+1 2: 1e-~;
+bar
+1 1: 4d+; c+; 2b;
+1 2: 1e-;
+bar
+1 1: 2a; 2r;
+1 2: 2r; 4a-; a-;
+bar
+1 1: 2c+a; 2e+c+;
+1 2: 1a-;
+bar
+1 1: 2c+a; 2r;
+1 2: 2r; 4a-; a-~;
+bar
+1 1: 2r; 2c+a;
+1 2: 1a-;
+bar
+1: 2d+b; d+b;
+bar
+1: 2c+a; c+a;
+bar
+1: 1f+d+;
+bar
+1: 1e+c+;
+bar
+1: 2d+b; 2c+a;
+bar
+1: 1bg;
+bar rehearsal mnum
+1 1: 4a; r; a; b;
+1 2: 4r; 2.a-~;
+bar
+1 1: 2c+; a;
+1 2: 1a-~;
+bar
+1 1: 2b; c+;
+1 2: 1a-~;
+bar
+1 1: 2a; b;
+1 2: 1a-;
+bar
+1 1: 2r; 4a; 4b;
+1 2: 1a-~;
+bar
+1 1: 2c+; a;
+1 2: 1a-~;
+bar
+1 1: 2b; e+;
+1 2: 1a-~;
+bar
+1 1: 2a; b;
+1 2: 1a-;
+bar
+1 1: 2r; 4a; 4b;
+1 2: 1a-~;
+bar
+1 1: 2c+; a;
+1 2: 1a-~;
+bar
+1 1: 2b; c+;
+1 2: 1a-~;
+bar
+1 1: 2a; b;
+1 2: 1a-;
+bar
+1: 4a; g; f; e;
+bar
+1: d; c; b-; a-;
+bar
+1: 4a; g; f; e;
+bar
+1: d; c; 2b-;
+bar
+1 1: 2r; 4a; b;
+1 2: 1a-;
+bar
+1 1: 2c+; a;
+1 2: 1a-~;
+bar
+1 1: 2b; c+;
+1 2: 1a-~;
+bar
+1 1: 2a; b;
+1 2: 1a-;
+bar
+1 1: 2r; 4a; 4b;
+1 2: 1a-~;
+bar
+1 1: 2c+; a;
+1 2: 1a-~;
+bar
+1 1: 2b; e+;
+1 2: 1a-~;
+bar
+1 1: 2a; b;
+1 2: 1a-;
+bar
+1 1: 2r; 4a; 4b;
+1 2: 1a-~;
+bar
+1 1: 2c+; a;
+1 2: 1a-~;
+bar
+1 1: 2b; c+;
+1 2: 1a-~;
+bar
+1 1: 2a; b;
+1 2: 1a-;
+bar
+1: 4a; g; f; e;
+bar
+1: d; c; b-; a-;
+bar
+1: 4a; g; f; e;
+bar
+1: d; c; 2b-;
+bar
 
-//
-// work in progress, more to come...
-//
+
+
+
+1 1: 2r; 4a; 4b;
+1 2: 1a-~;
+bar
+1 1: 2c+; a;
+1 2: 1a-~;
+bar
+1 1: 2b; c+;
+1 2: 1a-~;
+bar
+1 1: 2a; b;
+1 2: 1a-;
+bar
+1 1: 2r; 4a; 4b;
+1 2: 1a-~;
+bar
+1 1: 2c+; d+;
+1 2: 1a-;
+bar
+1: 4e+; d+; c+; e+;
+bar
+1: 4d+; c+; 2b;
+bar
+1 1: 2r; 4a; 4b;
+1 2: 1a-~;
+bar
+1 1: 2c+; d+;
+1 2: 1a-;
+bar
+1: 4e+; d+; c+; e+;
+bar
+1: 4d+; c+; b; a;
+bar
+1: 4f+; e+; d+; f+;
+bar
+1: 4e+; d+; c+; b;
+bar
+1: 4g+; f+; e+; g+;
+bar
+1: 4f+; e+; d+; c+;
+bar
+score
+        time = 3/4
+	key = 4#
+        staffs = 1
+        clef = bass
+        vscheme = 2o
+music
+1: 4a+; g+; f+;
+bar
+1: 4a+; g+; f+;
+bar
+1: 4a+; g+; f+;
+bar
+1: 4a+; g+; f+;
+bar
+score
+	time = 4/4
+	key = 4#
+	staffs = 1
+	clef = bass
+        vscheme = 2o
+music
+1: 4a+; g+; 2f+;
+repeatstart
+score
+        time = 3/4
+	key = 4#
+        staffs = 1
+        clef = bass
+        vscheme = 2o
+music
+1: 4b+; a+; g+;
+bar
+1: 4b+; a+; g+;
+bar
+1: 4b+; a+; g+;
+bar
+1: 4b+; a+; g+;
+bar
+score
+	time = 4/4
+	key = 4#
+	staffs = 1
+	clef = bass
+        vscheme = 2o
+music
+1: 4b+; a+; 2g+;
+repeatend
+score
+        time = 3/4
+	key = 4#
+        staffs = 1
+        clef = bass
+        vscheme = 2o
+music
+1: 4b+; a+; g+;
+ital above 1: 1 "rit. poco a poco";
+bar
+1: 4b+; a+; g+;
+bar
+1: 4b+; a+; g+;
+bar
+1: 4b+; a+; g+;
+bar
+score
+	time = 4/4
+	key = 4#
+	staffs = 1
+	clef = bass
+        vscheme = 2o
+music
+1: 4b+; a+; 2g+;
+bar
+1: 1a+;
+mussym above 1: 1 "ferm";
+bar
 //
 // end of "To Be Over"
 //
