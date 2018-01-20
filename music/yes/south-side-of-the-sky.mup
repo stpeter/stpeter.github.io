@@ -1,0 +1,163 @@
+// This is the Mup source file for Peter Saint-Andre's 
+// solo bass arrangement of the Yes song "South Side 
+// of the Sky".
+//
+// Version: 0.1
+// Last Updated: 2018-01-19
+//
+header
+	title (18) "South Side of the Sky"
+	title (12) "Words and Music by"
+	title (12) "JON ANDERSON and CHRIS SQUIRE"
+	title (10) "" "Arranged for Bass by Peter Saint-Andre"
+footer
+	title ""
+header2
+	title   "South Side of the Sky"   "Solo Bass Arrangement"
+footer2
+	title "- \% -"
+score
+	time = 6/8
+	key = 1#
+	staffs = 1
+	clef = bass
+        vscheme = 2o
+        beamstyle = 4., 4.
+music
+// intro
+1: 8g; e; b-; a; f; d;
+bar
+1: 8b; g; e; a; f; d;
+bar
+score
+        time = 4/8
+        beamstyle = 4, 4
+music
+1: 4geb-; afd;
+bar
+score
+	time = 6/8
+music
+1: 8g; e; b-; a; f; d;
+bar
+1: 8b; g; e; a; f; d;
+bar
+score
+        time = 4/8
+music
+1: 4geb-; afd;
+bar
+score
+	time = 6/8
+music
+1: 8c+; a; e; d+; b; g;
+bar
+1: 8e+; c+; a; d+; b; g;
+bar
+score
+        time = 4/8
+music
+1: 4c+ae; d+bg;
+bar
+score
+	time = 6/8
+music
+1: 8g; e; b-; a; f; d;
+bar
+1: 8b; g; e; a; f; d;
+bar
+score
+        time = 4/8
+music
+1: 4geb-; afd;
+bar
+score
+        time = 4/4
+        beamstyle = 4., 4., 4
+music
+1: 8c+; a; e; c+; a; e; c+; a;
+bar
+1: 8b; g; e; b; g; e; b; g;
+bar
+1: 8c+; a; e; c+; a; e; c+; a;
+bar
+1: 8d+; b; g; d+; b; g; d+; b;
+bar
+1: 8c+; a; e; c+; a; e; c+; a;
+bar
+1: 8b; g; e; b; g; e; b; g;
+bar
+score
+	time = 6/8
+music
+1: 8a; f; d; a; f; d;
+bar
+1: 8a; f; d; a; f; d;
+bar
+score
+        time = 4/8
+music
+1: 8a; f; 4d;
+bar
+score
+	time = 4/4
+music
+1: 8a; f; d; a; f; d; a; f;
+bar
+score
+	time = 4/4
+        beamstyle = 2, 2
+music
+1: 8b; a; g; f; g; f; e; d;
+bar
+score
+        time = 4/4
+        beamstyle = 4., 4., 4
+music
+1: 8g; e; b-; g; e; b-; g; e;
+bar
+1: 8f; d; b-; f; d; b-; f; d;
+bar
+1: 8g; e; b-; g; e; b-; g; e;
+bar
+1: 8a; f; d; a; f; d; a; f;
+bar
+1: 8g; e; b-; g; e; b-; g; e;
+bar
+1: 8f; d; b-; f; d; b-; f; d;
+bar
+1: 8e; c; a-; e; c; a-; e; c;
+bar
+score
+	time = 6/8
+music
+1: 8d; b-; g-; d; b-; g-;
+bar
+1: 8d; b-; g-; d; b-; g-;
+bar
+score
+        time = 4/8
+music
+1: 8d; b-; 4g-;
+bar
+score
+	time = 6/8
+music
+1: 8d; b-; g-; d; b-; g-;
+bar
+1: 8d; b-; g-; d; b-; g-;
+bar
+score
+        time = 4/8
+music
+1: 8g-; g; f-; g;
+bar
+
+
+
+//
+// work in progress, more soon
+//
+//
+// end of "South Side of the Sky"
+//
