@@ -2,8 +2,8 @@
 // solo bass arrangement of the Yes song "South Side 
 // of the Sky".
 //
-// Version: 0.1
-// Last Updated: 2018-01-19
+// Version: 0.2
+// Last Updated: 2018-01-20
 //
 header
 	title (18) "South Side of the Sky"
@@ -17,7 +17,7 @@ header2
 footer2
 	title "- \% -"
 score
-	time = 6/8
+	time = 3/4
 	key = 1#
 	staffs = 1
 	clef = bass
@@ -30,44 +30,44 @@ bar
 1: 8b; g; e; a; f; d;
 bar
 score
-        time = 4/8
+        time = 2/4
         beamstyle = 4, 4
 music
 1: 4geb-; afd;
 bar
 score
-	time = 6/8
+	time = 3/4
 music
 1: 8g; e; b-; a; f; d;
 bar
 1: 8b; g; e; a; f; d;
 bar
 score
-        time = 4/8
+        time = 2/4
 music
 1: 4geb-; afd;
 bar
 score
-	time = 6/8
+	time = 3/4
 music
 1: 8c+; a; e; d+; b; g;
 bar
 1: 8e+; c+; a; d+; b; g;
 bar
 score
-        time = 4/8
+        time = 2/4
 music
 1: 4c+ae; d+bg;
 bar
 score
-	time = 6/8
+	time = 3/4
 music
 1: 8g; e; b-; a; f; d;
 bar
 1: 8b; g; e; a; f; d;
 bar
 score
-        time = 4/8
+        time = 2/4
 music
 1: 4geb-; afd;
 bar
@@ -88,14 +88,14 @@ bar
 1: 8b; g; e; b; g; e; b; g;
 bar
 score
-	time = 6/8
+	time = 3/4
 music
 1: 8a; f; d; a; f; d;
 bar
 1: 8a; f; d; a; f; d;
 bar
 score
-        time = 4/8
+        time = 2/4
 music
 1: 8a; f; 4d;
 bar
@@ -129,35 +129,664 @@ bar
 1: 8e; c; a-; e; c; a-; e; c;
 bar
 score
-	time = 6/8
+	time = 3/4
 music
 1: 8d; b-; g-; d; b-; g-;
 bar
 1: 8d; b-; g-; d; b-; g-;
 bar
 score
-        time = 4/8
+        time = 2/4
 music
 1: 8d; b-; 4g-;
 bar
 score
-	time = 6/8
+	time = 3/4
 music
 1: 8d; b-; g-; d; b-; g-;
 bar
 1: 8d; b-; g-; d; b-; g-;
 bar
 score
-        time = 4/8
+        time = 2/4
 music
 1: 8g-; g; f-; g;
 bar
-
-
-
-//
-// work in progress, more soon
-//
+score
+	time = 4/4
+        beamstyle = 2, 2
+music
+1: 8e-; b-; e; g; e; b-; e-; b-;
+bar
+1: 8f-; a-; d; g; d; a-; f-; b-;
+bar
+1: 8g-; b-; d; g; d; b-; g-; b-;
+bar
+1: 8a-; c; e; g; e; c; a-; c;
+bar
+1: 8b-; d; f; g; f; d; f; g;
+bar
+1: 8f; d; f; g; g-; g; f-; g;
+bar
+1: 8e-; b-; e; g; b; g; b-; e-;
+bar
+1: 8f-; a-; d; g; b; g; d; a-;
+bar
+1: 8g-; b-; d; g; b; g; d; b-;
+bar
+1: 8a-; c; e; g; b; g; e; c;
+bar
+1: 8b-; d; f; g; b; g; f; d;
+bar
+1: 8b-; d; f; g; 2b~;
+bar rehearsal mnum
+score
+	time = 3/4
+music
+1: 4.b; 8b; a; f; 
+bar
+1: 4fn; 8d; 4e; 8c;
+bar
+1: 4d; 8b-; 4c; 8a-;
+bar
+1: 8b-; d; f#; b; a; f; 
+bar
+1: 4fn; 8d; 4e; 8c;
+bar
+1: 4d; 8b-; 4c; 8a-;
+bar
+1: 8b-; d; f#; b; a; f; 
+bar
+1: 4fn; 8d; 4e; 8c;
+bar
+1: 4d; 8b-; 4c; 8a-;
+bar rehearsal mnum
+1: 8f#; e; b-; f; e; b-;
+bar
+1: 8f; e; b-; f; e; b-;
+bar
+score
+	time = 2/4
+music
+1: 8f; e; 4b-;
+bar
+score
+	time = 3/4
+music
+1: 8g#; f; b-; g; f; b-;
+bar
+1: 8g; f; b-; g; f; b-;
+bar
+score
+	time = 2/4
+music
+1: 8g; f; 4b-;
+bar
+score
+	time = 3/4
+music
+1: 8f; e; b-; f; e; b-;
+bar
+1: 8f; e; b-; f; e; b-;
+bar
+score
+	time = 2/4
+music
+1: 8f; e; 4b-;
+bar
+score
+	time = 3/4
+music
+1: 8g#; f; b-; g; f; b-;
+bar
+1: 8g; f; b-; g; f; b-;
+bar
+score
+	time = 2/4
+music
+1: 8g; f; 4b-;
+bar
+score
+	time = 4/4
+music
+1: 8a; fn; c; a; f; c; a; f;
+bar
+score
+	time = 3/4
+music
+1: 8a; g; d; a; g; d;
+bar
+1: 8a; g; d; a; g; d;
+bar
+score
+	time = 2/4
+music
+1: 8a; g; 4d;
+bar
+score
+	time = 4/4
+music
+1: 8a; fn; c; a; f; c; a; f;
+bar
+score
+	time = 3/4
+music
+1: 8a; g; d; a; g; d;
+bar
+score
+	time = 2/4
+music
+1: 8a; g; 4d;
+bar
+score
+	time = 4/4
+music
+1: 8a; g; f; d; c; a-; g-; f-;
+bar
+score
+	time = 4/4
+music
+1: 8f; e; c#; a-; r; a-; r; a-;
+bar
+1: 8b-; c; e; f; b-; c; 4f-;
+bar
+1: 8f; e; c#; a-; r; a-; r; a-;
+bar
+1: 8b-; c; e; f; b-; c; 4f-;
+bar
+1: 8g#; f; d#; b-; r; b-; r; b-;
+bar
+1: 8c; d; f; g; c; d; 4g-;
+bar
+1: 8g#; f; d#; b-; r; b-; r; b-;
+bar
+score
+	time = 7/8
+music
+1: 8c; d; f; g; c; d; f; 
+bar
+score
+	time = 3/4
+music
+1: 8dn; f; g; b; a; f; 
+bar
+1: 4fn; 8d; 4e; 8c;
+bar
+1: 4d; 8b-; 4c; 8a-;
+bar
+1: 8b-; d; f#; b; a; f; 
+bar
+1: 4fn; 8d; 4e; 8c;
+bar
+1: 4d; 8b-; 4c; 8a-;
+bar
+1: 8b-; d; f#; b; a; f; 
+bar
+1: 4fn; 8d; 4e; 8c;
+bar
+1: 4d; 8b-; 4c; 8a-;
+bar rehearsal mnum
+1: 8f#; e; b-; f; e; b-;
+bar
+1: 8f; e; b-; f; e; b-;
+bar
+score
+	time = 2/4
+music
+1: 8f; e; 4b-;
+bar
+score
+	time = 3/4
+music
+1: 8g#; f; b-; g; f; b-;
+bar
+1: 8g; f; b-; g; f; b-;
+bar
+score
+	time = 2/4
+music
+1: 8g; f; 4b-;
+bar
+score
+	time = 3/4
+music
+1: 8f; e; b-; f; e; b-;
+bar
+1: 8f; e; b-; f; e; b-;
+bar
+score
+	time = 2/4
+music
+1: 8f; e; 4b-;
+bar
+score
+	time = 3/4
+music
+1: 8g#; f; b-; g; f; b-;
+bar
+1: 8g; f; b-; g; f; b-;
+bar
+score
+	time = 2/4
+music
+1: 8g; f; 4b-;
+bar
+score
+	time = 4/4
+music
+1: 8a; fn; c; a; f; c; a; f;
+bar
+score
+	time = 3/4
+music
+1: 8a; g; d; a; g; d;
+bar
+1: 8a; g; d; a; g; d;
+bar
+score
+	time = 2/4
+music
+1: 8a; g; 4d;
+bar
+score
+	time = 4/4
+music
+1: 8a; fn; c; a; f; c; a; f;
+bar
+score
+	time = 3/4
+music
+1: 8a; g; d; a; g; d;
+bar
+score
+	time = 2/4
+music
+1: 8a; g; 4d;
+bar
+score
+	time = 4/4
+music
+1: 8a; g; f; d; c; a-; g-; f-;
+bar
+score
+	time = 4/4
+music
+1: 8f; e; c#; a-; r; a-; r; a-;
+bar
+1: 8b-; c; e; f; b-; c; 4f-;
+bar
+1: 8f; e; c#; a-; r; a-; r; a-;
+bar
+1: 8b-; c; e; f; b-; c; 4f-;
+bar
+1: 8g#; f; d#; b-; r; b-; r; b-;
+bar
+1: 8c; d; f; g; c; d; 4g-;
+bar
+1: 8g#; f; d#; b-; r; b-; r; b-;
+bar
+score
+	time = 7/8
+music
+1: 8c; d; f; g; c; d; f; 
+bar
+score
+	time = 3/4
+music
+1: 8dn; f; g; b; a; f; 
+bar
+1: 4fn; 8d; 4e; 8c;
+bar
+1: 4d; 8b-; 4c; 8a-;
+bar
+1: 8b-; d; f#; b; a; f; 
+bar
+1: 4fn; 8d; 4e; 8c;
+bar
+1: 4d; 8b-; 4c; 8a-;
+bar
+1: 8b-; d; f#; b; a; f; 
+bar
+1: 4fn; 8d; 4e; 8c;
+bar
+score
+	time = 4/4
+music
+1: 4d; b-; 8c; b-; a-; g-;
+repeatstart rehearsal mnum
+score
+	time = 3/4
+music
+1 1: 8a; e; a-; b; g; a-;
+1 2: 8a-; 8r; 2r;
+bar
+1: 8e+; a; a-; b; g; a-;
+bar 
+score
+	time = 2/4
+music
+1: 4aea-; bga-; 
+bar
+score
+	time = 3/4
+music
+1 1: 8a; e; a-; b; g; a-;
+1 2: 8a-; 8r; 2r;
+bar
+1: 8e+; a; a-; b; g; a-;
+bar 
+score
+	time = 2/4
+music
+1: 4aea-; bga-; 
+bar
+score
+	time = 3/4
+music
+1 1: 8d+; a; d; e+; c+; d;
+1 2: 8d; 8r; 2r;
+bar
+1: 8f+; d+; d; e+; c+; d;
+bar
+score
+	time = 2/4
+music
+1: 4d+ad; e+c+d;
+bar
+score
+	time = 3/4
+music
+1 1: 8a; e; a-; b; g; a-;
+1 2: 8a-; 8r; 2r;
+bar
+1: 8e+; a; a-; b; g; a-;
+bar 
+score
+	time = 2/4
+music
+1: 4aea-; bga-; 
+bar
+score
+	time = 4/4
+music
+1: 8f+; d+; a; f+; d+; a+; f+; d+;
+bar
+1: 8e+; c+; a; e+; c+; a; e+; c+; 
+bar
+1: 8f+; d+; a; f+; d+; a+; f+; d+;
+bar
+1: 8g+; e+; c+; g+; e+; c+; g+; e+;
+bar
+1: 8f+; d+; a; f+; d+; a+; f+; d+;
+bar
+1: 8e+; c+; a; e+; c+; a; e+; c+; 
+bar
+score
+	time = 3/4
+music
+1: 8d+; b; g; d+; b; g;
+bar
+1: 8d+; b; g; d+; b; g;
+bar
+score
+	time = 2/4
+music
+1: 8d+; b; 4g;
+bar
+score
+	time = 4/4
+music
+1: 8d+; b; g; d+; b; g; d+; b;
+bar
+1: 8e+; d+; c+; b; c+; b; a; g;
+repeatend
+score
+	time = 3/4
+music
+1 1: 8a; e; a-; b; g; a-;
+1 2: 8a-; 8r; 2r;
+bar
+1: 8e+; a; a-; b; g; a-;
+bar 
+score
+	time = 2/4
+music
+1: 4aea-; bga-; 
+bar
+score
+	time = 3/4
+music
+1 1: 8a; e; a-; b; g; a-;
+1 2: 8a-; 8r; 2r;
+bar
+1: 8e+; a; a-; b; g; a-;
+bar 
+score
+	time = 2/4
+music
+1: 4aea-; bga-; 
+bar
+score
+	time = 4/4
+music
+1: 8a; e; a-; a; e; a-; a; e;
+bar
+1: 8g; d; g-; g; d; g-; g; d;
+bar
+1: 8a; e; a-; a; e; a-; a; e;
+bar
+1: 8b; f; b-; b; f; b-; b; f;
+bar
+1: 8a; e; a-; a; e; a-; a; e;
+bar
+1: 8g; d; g-; g; d; g-; g; d;
+bar
+1: 8fn; c; fn-; f; c; f-; f; c;
+bar
+score
+	time = 3/4
+music
+1: 8e; b-; e-; e; b-; e-;
+bar
+1: 8e; b-; e-; e; b-; e-;
+bar
+score
+	time = 2/4
+music
+1: 8e; b-; 4e-;
+bar
+score
+	time = 3/4
+music
+1: 8e; e; b-; e; e; b-;
+bar
+1: 8e; e; b-; e; e; b-;
+bar
+score
+	time = 2/4
+music
+1: 8e; e; 4b-; 
+bar
+score
+	time = 3/4
+music
+1: 8e; e; e; e; e; e;
+bar
+1: 8e; e; e; e; e; e;
+bar
+score
+	time = 2/4
+music
+1: 8e; e; 4e;
+bar rehearsal mnum
+score
+	time = 3/4
+music
+1: 8f#; e; b-; f; e; b-;
+bar
+1: 8f; e; b-; f; e; b-;
+bar
+score
+	time = 2/4
+music
+1: 8f; e; 4b-;
+bar
+score
+	time = 3/4
+music
+1: 8g#; f; b-; g; f; b-;
+bar
+1: 8g; f; b-; g; f; b-;
+bar
+score
+	time = 2/4
+music
+1: 8g; f; 4b-;
+bar
+score
+	time = 3/4
+music
+1: 8f; e; b-; f; e; b-;
+bar
+1: 8f; e; b-; f; e; b-;
+bar
+score
+	time = 2/4
+music
+1: 8f; e; 4b-;
+bar
+score
+	time = 3/4
+music
+1: 8g#; f; b-; g; f; b-;
+bar
+1: 8g; f; b-; g; f; b-;
+bar
+score
+	time = 2/4
+music
+1: 8g; f; 4b-;
+bar
+score
+	time = 4/4
+music
+1: 8a; fn; c; a; f; c; a; f;
+bar
+score
+	time = 3/4
+music
+1: 8a; g; d; a; g; d;
+bar
+1: 8a; g; d; a; g; d;
+bar
+score
+	time = 2/4
+music
+1: 8a; g; 4d;
+bar
+score
+	time = 4/4
+music
+1: 8a; fn; c; a; f; c; a; f;
+bar
+score
+	time = 3/4
+music
+1: 8a; g; d; a; g; d;
+bar
+score
+	time = 2/4
+music
+1: 8a; g; 4d;
+bar
+score
+	time = 4/4
+music
+1: 8a; g; f; d; c; a-; g-; f-;
+bar
+score
+	time = 4/4
+music
+1: 8f; e; c#; a-; r; a-; r; a-;
+bar
+1: 8b-; c; e; f; b-; c; 4f-;
+bar
+1: 8f; e; c#; a-; r; a-; r; a-;
+bar
+1: 8b-; c; e; f; b-; c; 4f-;
+bar
+1: 8g#; f; d#; b-; r; b-; r; b-;
+bar
+1: 8c; d; f; g; c; d; 4g-;
+bar
+1: 8g#; f; d#; b-; r; b-; r; b-;
+bar
+score
+	time = 7/8
+music
+1: 8c; d; f; g; c; d; f; 
+bar
+score
+	time = 3/4
+music
+1: 8dn; f; g; b; a; f; 
+bar
+1: 4fn; 8d; 4e; 8c;
+bar
+1: 4d; 8b-; 4c; 8a-;
+bar
+1: 8b-; d; f#; b; a; f; 
+bar
+1: 4fn; 8d; 4e; 8c;
+bar
+1: 4d; 8b-; 4c; 8a-;
+bar
+1: 8b-; d; f#; b; a; f; 
+bar
+1: 4fn; 8d; 4e; 8c;
+bar
+1: 4d; 8b-; 4c; 8a-;
+bar
+1: 8f#; e; b-; f; e; b-;
+bar
+1: 8f; e; b-; f; e; b-;
+bar
+score
+	time = 2/4
+music
+1: 8f; e; 4b-;
+bar
+score
+	time = 3/4
+music
+1: 8g#; f; b-; g; f; b-;
+bar
+1: 8g; f; b-; g; f; b-;
+bar
+score
+	time = 2/4
+music
+1: 8g; f; 4b-;
+bar
+score
+	time = 4/4
+music
+1: 8a; fn; c; a; f; c; a; f;
+bar
+1: 8a; g; d; a; g; d; a; g; 
+bar
+1: 8b; a; e; b; a; e; b; a; 
+bar
+1: 8c#+; b; f#; c+; b; f; c+; b;
+bar
+1: 8d+; cn+; g; d+; c+; g; d+; c+;
+bar
+1: 8e+; d+; a; e+; d+; a; e+; d+;
+bar
+1: 8f+; e+; b; f+; e+; b; f+; e+;
+bar
+1: 1g#+be;
+bar
 //
 // end of "South Side of the Sky"
 //
