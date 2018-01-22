@@ -1,0 +1,73 @@
+// This is the Mup source file for Peter Saint-Andre's 
+// solo bass arrangement of the Yes song "Turn of the
+// Century".
+//
+// Version: 0.1
+// Last Updated: 2018-01-21
+//
+header
+	title (18) "Turn of the Century"
+	title (12) "Words and Music by"
+	title (12) "JON ANDERSON, STEVE HOWE and ALAN WHITE"
+	title (10) "Lento" "Arranged for Bass by Peter Saint-Andre"
+footer
+	title ""
+header2
+	title   "Turn of the Century"   "Solo Bass Arrangement"
+footer2
+	title "- \% -"
+score
+	time = 4/4
+	staffs = 1
+	clef = bass
+        vscheme = 2o
+        beamstyle = 2,2
+music
+1: 4r; 4e; 4.c+; 8e;
+bar
+1: 4d+; 8c+; b; 4.a; 8e;
+bar
+1: 2g; 4g; b;
+bar
+1: 4f+; 8e+; d+; 4.b; 8c+;
+bar
+1: 2.a~; 8a; 16f+; g+;
+bar
+1: 4.a+; 16g+; f+; 4.e+; 16c+; d+;
+bar
+1: 8d+; e+; d+; c+; {4b; g; a;}3;
+bar
+1: 8e+; f+; e+; d+; 4c+; 8b+; c++;
+bar
+//1: 8b+; 8a+~; 2.a+;
+1: { 16b+; c++; b+; }3; 8a+~; 2.a+;
+bar
+1 1: 8r; a; c+; 4e+; 8a; c+; e+~;
+1 2: 1a-~;
+bar
+1 1: 8e+; a; c+; 4e+; 8d+; c+; b;
+1 2: 1a-;
+bar
+1 1: 8r; c+; e+; 4a+; 8c+; e+; a+~;
+1 2: 1a-~;
+bar
+1 1: 8a+; c+; e+; 4a+; 8g+; f+; e+;
+1 2: 1a-;
+bar
+1 1: 8r; e+; a+; 4c++; 8e+; a+; c++~;
+1 2: 1a-~;
+bar
+1 1: 8c++; e+; a+; 4c++; 8b+; a+; g+;
+1 2: 1a-;
+bar
+1: { 4a+; g+; e+; }3; { 4g+; f+; d+; }3;
+bar
+1: 4f+; e+; 2c+~;
+bar
+1: 2c+~; 8c+; d+; e+; f+;
+bar
+1: 2d; 4.c; 8b;
+bar
+//
+// end of "Turn of the Century"
+//
