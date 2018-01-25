@@ -2,8 +2,8 @@
 // solo bass arrangement of the Yes song "Turn of the
 // Century".
 //
-// Version: 0.3
-// Last Updated: 2018-01-23
+// Version: 0.4
+// Last Updated: 2018-01-24
 //
 header
 	title (18) "Turn of the Century"
@@ -94,7 +94,7 @@ bar
 1 2: 1a-;
 bar
 1 1: 2r; 8a+; 4g+; 8e+~;
-1 2: 1a-~;
+1 2: 4.a-; 8a-~; 2a-~;
 bar
 1 1: 8e+; 16f+; e+; 2.d+; 
 1 2: 1a-;
@@ -118,7 +118,7 @@ bar
 1 2: 1a-;
 bar
 1 1: 2r; 8a+; 4g+; 8e+~;
-1 2: 1a-~;
+1 2: 4.a-; 8a-~; 2a-~;
 bar
 1 1: 8e+; 16f+; e+; 2d+~; 8d+; 16c+; d+;
 1 2: 1a-;
@@ -140,7 +140,7 @@ bar
 1 2: 1c+;
 bar
 1 1: 2r; 8a+; 4g+; 8e+~;
-1 2: 1c+~;
+1 2: 4.c+; 8c+~; 2c+~;
 bar
 1 1: 8e+; 16f+; e+; 4.d+; 8c+; 4b;
 1 2: 4c+; 2r; 4r;
@@ -152,7 +152,7 @@ bar
 1 2: 1c+;
 bar
 1 1: 2r; 8a+; 4g+; 8a+~;
-1 2: 1c+~;
+1 2: 4.c+; 8c+~; 2c+~;
 bar
 1 1: 8a+; r; a+; g+; f+; e+; 4d+;
 1 2: 8c+; 2.c+; 8r;
@@ -230,7 +230,7 @@ bar
 1 2: 1a-;
 bar
 1 1: 2r; 8a+; 4g+; 8e+~;
-1 2: 1a-~;
+1 2: 4.a-; 8a-~; 2a-~;
 bar
 1 1: 8e+; 16f+; e+; 2.d+; 
 1 2: 1a-;
@@ -254,13 +254,138 @@ bar
 1 2: 1a-;
 bar
 1 1: 2r; 8a+; 4g+; 8e+~;
-1 2: 1a-~;
+1 2: 4.a-; 8a-~; 2a-~;
 bar
 1 1: 8e+; 16f+; e+; 2d+~; 8d+; 16c+; d+;
 1 2: 1a-;
 bar
-//
-// work in progress, more to come...
+1: 8e+; 4r; 2a+e+; 16c+; d+;
+bar
+1: 8e+; 4r; 8b+~g+~; 2b+g+; 
+bar
+1 1: 8c++a+; b+g+; a+e+; g+e+; 2e+c+;
+bar
+1 1: 4r; 8a+; e+; c+; g+; e+; c+;
+1 2: 1a-~;
+bar
+1 1: 8f+; e+; 4c+~; 2c+;
+1 2: 1a-;
+bar
+1 1: 4r; 8f+; c+; a; e+; c+; a;
+1 2: 1a-~;
+bar
+1 1: 8d+; c+; 4a~; 2a;
+1 2: 1a-;
+bar
+1: 4c+; 8a+; e+; c+; g+; e+; c+; 
+bar
+1: 8f+; e+; 4c+~; 2c+;
+bar
+1: 4a; 8f+; c+; a; e+; c+; a;
+bar
+1: 8d+; c+; 4a~; 2a;
+bar
+1: 4c+; 8a+; e+; c+; g+; e+; c+; 
+bar
+1: 8f+; e+; 4c+~; 2c+;
+bar
+1: 4a; 8f+; c+; a; e+; c+; a;
+bar
+1: 8d+; c+; 4a~; 2a;
+bar
+1: 4g; 8f+; b; g; e+; b; g;
+bar
+1: 8d+; b; 4g~; 2g;
+bar
+1: 4c+; 8a+; e+; c+; g+; e+; c+; 
+bar
+1: 8f+; e+; 4c+~; 2c+;
+bar
+1: 4e+; 8d++; a+; e+; c++; a+; e+; 
+bar
+1: 8b+; a+; 4e+~; 2e+;
+bar
+1: 4f+; 8d++; a+; f+; c++; a+; f+; 
+bar
+1: 8b+; a+; 4f+~; 2f+;
+bar
+1: 4g+; 8f++; b+; g+; e++; b+; g+; 
+bar
+1: 8d++; b+; 4g+~; 2g+;
+bar
+1: 4g; 8f+; b; g; e+; b; g;
+ital above 1: 1 "rit. poco a poco";
+bar
+1: 8d+; b; 4.g; 4.f;
+bar
+1: 4e; 4e; 4.c+; 8e;
+mussym above 1: 1 "ferm";
+bar
+1: 4d+; 8c+; b; 4.a; 8e;
+bar
+1: 2g; 4g; b;
+bar
+1: 4f+; 8e+; d+; 4.b; 8c+;
+bar
+1: 2.a~; 8a; 16f+; g+;
+bar
+1: 4.a+; 16g+; f+; 4e+; 8c+; d+;
+bar
+1: 8d+; e+; d+; c+; {4b; g; a;}3;
+bar
+1: 8e+; f+; e+; d+; 4c+; { 8b; c+; b; }3;
+bar
+1: 4a; 4e; 4.c+; 8e;
+bar
+1: 4d+; 8c+; b; 4.a; 8e;
+bar
+1: 2g; 4g; b;
+bar
+1: 4f+; 8e+; d+; 4.b; 8c+;
+bar
+1: 2.a~; 8a; 16f+; g+;
+bar
+1: 4.a+; 16g+; f+; 4e+; 8c+; d+;
+bar
+1: 8d+; e+; d+; c+; {4b; g; a;}3;
+bar
+1: 8e+; f+; e+; d+; 4c+; 8b+; c++;
+bar
+1: { 16b+; c++; b+; }3; 8a+~; 2.a+;
+bar
+1 1: 8r; a; c+; 4e+; 8a; c+; e+~;
+1 2: 1a-~;
+bar
+1 1: 8e+; a; c+; 4e+; 8d+; c+; b;
+1 2: 1a-;
+bar
+1 1: 8r; c+; e+; 4a+; 8c+; e+; a+~;
+1 2: 1a-~;
+bar
+1 1: 8a+; c+; e+; 4a+; 8g+; f+; e+;
+1 2: 1a-;
+bar
+1 1: 8r; e+; a+; 4c++; 8e+; a+; c++~;
+1 2: 1a-~;
+bar
+1 1: 8c++; e+; a+; 4c++; 8b+; a+; g+;
+1 2: 1a-;
+bar
+1: { 4a+; g+; e+; }3; { 4g+; f+; d+; }3;
+bar
+1: 4f+; e+; 2c+~;
+bar
+1: 2c+~; 8c+; d+; e+; f+;
+bar
+1: 2d+; 4.c+; 8b~;
+bar
+1: 4b; g; 8g; 4.a~;
+bar
+1: 2a; {8e+; f+; e+;}3; d+; c+;
+bar
+1: 1a-;
+mussym above 1: 1 "ferm";
+bar
 //
 // end of "Turn of the Century"
 //
