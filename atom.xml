@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>http://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2018-01-03</modified>
+  <modified>2018-01-27</modified>
+  <entry>
+    <title>Privacy FTW</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1601.html"/>
+    <id>tag:stpeter.im,1601</id>
+    <issued>2018-01-27</issued>
+    <modified>2018-01-27</modified>
+    <summary>Tomorrow (January 28th) is Data Privacy Day. Why not join in the celebration? Here are some suggestions to prevent absolutely everything you do online from being tracked:...</summary>
+  </entry>
   <entry>
     <title>Scales and Modes and Tetrachords, Oh My!</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1600.html"/>
@@ -49,13 +57,5 @@
     <issued>2017-11-26</issued>
     <modified>2017-11-26</modified>
     <summary>I'm overjoyed to announce that I'm joining Mozilla, makers of the Firefox web browser. I've been using Mozilla software since Milestone 8 of the original browser release in July of 1999, so this feels like coming home. More important, Mozilla's mission of defending the open web is completely consistent with my own commitment to open source and open standards (as demonstrated through my work on Jabber/XMPP and IETF standards for the past 18 years). I have deep respect for what the Mozilla team has accomplished, both architecturally and organizationally, and I'm extremely excited about helping to make Mozilla an even stronger force for good in the world!...</summary>
-  </entry>
-  <entry>
-    <title>Songs of Zarathustra: First Draft</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1595.html"/>
-    <id>tag:stpeter.im,1595</id>
-    <issued>2017-11-09</issued>
-    <modified>2017-11-09</modified>
-    <summary>About eight months ago, even before I published The Upland Farm as the fourth volume in my series on the art of living, I started to read Nietzsche's books for a third time, writing poems for Songs of Zarathustra as I worked my way chronologically from The Birth of Tragedy through Ecce Homo. Last weekend, I completed work on the first draft of this poetry cycle on Nietzsche's philosophy of life, which I plan to publish in early 2018. Before then, I'll read his letters and notebooks (including the ever-controversial collection called "The Will to Power") as well as some of the vast literature on Nietzsche's life and thought, such as:...</summary>
   </entry>
 </feed>
