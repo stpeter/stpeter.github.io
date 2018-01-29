@@ -20,7 +20,6 @@ score
 	key = 2&
 	staffs = 1
 	clef = bass
-        vscheme = 2o
         beamstyle = 4., 4.
 music
 // intro, part one
@@ -34,17 +33,11 @@ bar
 bar
 score
         time = 4/8
-        key = 2&
-        staffs = 1
-        clef = bass
 music
 1: 4d; 4f;
 bar
 score
         time = 6/8
-        key = 2&
-        staffs = 1
-        clef = bass
 music
 1 1: 8g; 8g; 8r; 4g; 8g;
 1 2: 8g-; 8c; 8r; 4.d~;
@@ -56,18 +49,12 @@ bar
 bar
 score
         time = 4/8
-        key = 2&
-        staffs = 1
-        clef = bass
 music
 1: 4d; 4f;
 bar
 // intro, part two
 score
         time = 6/8
-        key = 2&
-        staffs = 1
-        clef = bass
 music
 1 1: 8g; 8g; 8r; 4g; 8r;
 1 2: 8g-; 8c; 8r; 4d; 8e;
@@ -78,17 +65,11 @@ bar
 bar
 score
         time = 4/8
-        key = 2&
-        staffs = 1
-        clef = bass
 music
 1: 4d-; 4f-;
 bar
 score
         time = 6/8
-        key = 2&
-        staffs = 1
-        clef = bass
 music
 1 1: 8g; 8g; 8r; 4g; 8r;
 1 2: 8g-; 8c; 8r; 4d; 8e;
@@ -99,17 +80,11 @@ bar
 bar
 score
         time = 4/8
-        key = 2&
-        staffs = 1
-        clef = bass
 music
 1: 4d-; 4f-;
 bar rehearsal mnum
 score
         time = 6/8
-        key = 2&
-        staffs = 1
-        clef = bass
 music
 // intro, part three
 1: 8b-; 8a-; 8r; 4c; 8b-;
@@ -296,17 +271,11 @@ bar rehearsal mnum
 bar
 score
         time = 4/4
-        key = 2&
-        staffs = 1
-        clef = bass
 music
 1: 8d+; 8r; [grace] 8fn; 8g; 8fn; 8e; 8r; 8d; 8r;
 bar
 score
         time = 6/8
-        key = 2&
-        staffs = 1
-        clef = bass
 music
 1: 8d; 4f#; 4a; 8c+;
 bar
@@ -316,17 +285,11 @@ bar
 bar
 score
         time = 4/4
-        key = 2&
-        staffs = 1
-        clef = bass
 music
 1: 8d+; 8r; [grace] 8fn; 8g; 8fn; 8e; 8r; 8d; 8r;
 bar
 score
         time = 6/8
-        key = 2&
-        staffs = 1
-        clef = bass
 music
 1: 8d; 4f#; 4a; 8c+;
 bar
@@ -370,17 +333,11 @@ bar rehearsal mnum
 bar
 score
         time = 4/4
-        key = 2&
-        staffs = 1
-        clef = bass
 music
 1: 8d+; 8r; [grace] 8fn; 8g; 8fn; 8e; 8r; 8d; 8r;
 bar
 score
         time = 6/8
-        key = 2&
-        staffs = 1
-        clef = bass
 music
 1: 8d; 4f#; 4a; 8c+;
 bar
@@ -390,17 +347,11 @@ bar
 bar
 score
         time = 4/4
-        key = 2&
-        staffs = 1
-        clef = bass
 music
 1: 8d+; 8r; [grace] 8fn; 8g; 8fn; 8e; 8r; 8d; 8r;
 bar
 score
         time = 6/8
-        key = 2&
-        staffs = 1
-        clef = bass
 music
 1: 8d; 4f#; 4a; 8c+;
 bar
@@ -432,17 +383,11 @@ bar
 bar
 score
         time = 4/8
-        key = 2&
-        staffs = 1
-        clef = bass
 music
 1: 4d-; 4f-;
 bar
 score
         time = 6/8
-        key = 2&
-        staffs = 1
-        clef = bass
 music
 1: 8b-; 8a-; 8r; 4c; 8b-;
 bar
@@ -460,17 +405,11 @@ bar
 bar
 score
         time = 4/8
-        key = 2&
-        staffs = 1
-        clef = bass
 music
 1: 4d-; 4f-;
 bar
 score
         time = 6/8
-        key = 2&
-        staffs = 1
-        clef = bass
 music
 1 1: 8g; 8g; 8r; 4g; 8f;
 1 2: 8g-; 8c; 8r; 4d; 8f-;

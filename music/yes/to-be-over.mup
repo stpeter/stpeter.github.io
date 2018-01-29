@@ -20,7 +20,6 @@ score
 	key = 4#
 	staffs = 1
 	clef = bass
-        vscheme = 2o
 music
 // intro, part one - harmonics from Chris Squire's "Safe (Canon Song)"
 1: 2.r; 4e+;
@@ -435,10 +434,6 @@ bar
 bar
 score
         time = 3/4
-	key = 4#
-        staffs = 1
-        clef = bass
-        vscheme = 2o
 music
 1: 4a+; g+; f+;
 bar
@@ -450,19 +445,11 @@ bar
 bar
 score
 	time = 4/4
-	key = 4#
-	staffs = 1
-	clef = bass
-        vscheme = 2o
 music
 1: 4a+; g+; 2f+;
 repeatstart
 score
         time = 3/4
-	key = 4#
-        staffs = 1
-        clef = bass
-        vscheme = 2o
 music
 1: 4b+; a+; g+;
 bar
@@ -474,10 +461,6 @@ bar
 bar
 score
 	time = 4/4
-	key = 4#
-	staffs = 1
-	clef = bass
-        vscheme = 2o
 music
 1: 4b+; a+; 2g+;
 repeatend
@@ -547,10 +530,6 @@ bar
 bar rehearsal mnum
 score
         time = 3/4
-	key = 4#
-        staffs = 1
-        clef = bass
-        vscheme = 2o
 music
 1 1: 4a; b; c+;
 1 2: 4a-; 2r;
@@ -563,19 +542,11 @@ bar
 bar
 score
 	time = 4/4
-	key = 4#
-	staffs = 1
-	clef = bass
-        vscheme = 2o
 music
 1: 4a; b; 2c+;
 bar
 score
         time = 3/4
-	key = 4#
-        staffs = 1
-        clef = bass
-        vscheme = 2o
 music
 1 1: 4b; c+; d+;
 1 2: 4b-; 2r;
@@ -588,19 +559,11 @@ bar
 bar
 score
 	time = 4/4
-	key = 4#
-	staffs = 1
-	clef = bass
-        vscheme = 2o
 music
 1: 4b; c+; 2d+;
 bar
 score
         time = 3/4
-	key = 4#
-        staffs = 1
-        clef = bass
-        vscheme = 2o
 music
 1 1: 4c+; d+; e+;
 1 2: 4c; 2r;
@@ -613,19 +576,11 @@ bar
 bar
 score
 	time = 4/4
-	key = 4#
-	staffs = 1
-	clef = bass
-        vscheme = 2o
 music
 1: 4c+; d+; 2e+;
 bar
 score
         time = 3/4
-	key = 4#
-        staffs = 1
-        clef = bass
-        vscheme = 2o
 music
 1 1: 4d+; e+; f+;
 1 2: 4d; 2r;
@@ -638,19 +593,11 @@ bar
 bar
 score
 	time = 4/4
-	key = 4#
-	staffs = 1
-	clef = bass
-        vscheme = 2o
 music
 1: 4d+; e+; 2f+;
 bar
 score
         time = 3/4
-	key = 4#
-        staffs = 1
-        clef = bass
-        vscheme = 2o
 music
 1 1: 4e+; f+; g+;
 1 2: 4e-; 2r;
@@ -663,19 +610,11 @@ bar
 bar
 score
 	time = 4/4
-	key = 4#
-	staffs = 1
-	clef = bass
-        vscheme = 2o
 music
 1: 4e+; f+; 2g+;
 bar
 score
         time = 3/4
-	key = 4#
-        staffs = 1
-        clef = bass
-        vscheme = 2o
 music
 1: 4e+; f+; g+;
 bar
@@ -687,10 +626,6 @@ bar
 bar
 score
 	time = 4/4
-	key = 4#
-	staffs = 1
-	clef = bass
-        vscheme = 2o
 music
 1: 4e+; f+; 2g+;
 bar
@@ -744,10 +679,6 @@ bar
 bar
 score
         time = 3/4
-	key = 4#
-        staffs = 1
-        clef = bass
-        vscheme = 2o
 music
 1: 4a; b; c+;
 bar
@@ -759,10 +690,6 @@ bar
 bar
 score
 	time = 4/4
-	key = 4#
-	staffs = 1
-	clef = bass
-        vscheme = 2o
 music
 1: 4d; e; f; g;
 bar
@@ -773,10 +700,6 @@ repeatend
 bar rehearsal mnum
 score
         time = 3/4
-	key = 4#
-        staffs = 1
-        clef = bass
-        vscheme = 2o
 music
 1 1: 4a; b; c+;
 1 2: 4a-; 2r;
@@ -789,19 +712,11 @@ bar
 bar
 score
 	time = 4/4
-	key = 4#
-	staffs = 1
-	clef = bass
-        vscheme = 2o
 music
 1: 4a; b; c+; 8d+; c+;
 bar
 score
         time = 3/4
-	key = 4#
-        staffs = 1
-        clef = bass
-        vscheme = 2o
 music
 1 1: 4b; c+; d+;
 bar
@@ -813,19 +728,11 @@ bar
 bar
 score
 	time = 4/4
-	key = 4#
-	staffs = 1
-	clef = bass
-        vscheme = 2o
 music
 1: 4b; c+; d+; 8e+; d+;
 bar
 score
         time = 3/4
-	key = 4#
-        staffs = 1
-        clef = bass
-        vscheme = 2o
 music
 1 1: 4c+; d+; e+;
 bar
@@ -837,19 +744,11 @@ bar
 bar
 score
 	time = 4/4
-	key = 4#
-	staffs = 1
-	clef = bass
-        vscheme = 2o
 music
 1: 4c+; d+; 4e+; 8f+; e+;
 bar
 score
         time = 3/4
-	key = 4#
-        staffs = 1
-        clef = bass
-        vscheme = 2o
 music
 1 1: 4d+; e+; f+;
 bar
@@ -861,19 +760,11 @@ bar
 bar
 score
 	time = 4/4
-	key = 4#
-	staffs = 1
-	clef = bass
-        vscheme = 2o
 music
 1: 4d+; e+; f+; 8g+; f+;
 bar
 score
         time = 3/4
-	key = 4#
-        staffs = 1
-        clef = bass
-        vscheme = 2o
 music
 1 1: 4e+; f+; g+;
 bar
@@ -885,19 +776,11 @@ bar
 bar
 score
 	time = 4/4
-	key = 4#
-	staffs = 1
-	clef = bass
-        vscheme = 2o
 music
 1: 4e+; f+; g+; 8g+; f+;
 bar
 score
         time = 3/4
-	key = 4#
-        staffs = 1
-        clef = bass
-        vscheme = 2o
 music
 1: 4e+; f+; g+;
 bar
@@ -909,10 +792,6 @@ bar
 bar
 score
 	time = 4/4
-	key = 4#
-	staffs = 1
-	clef = bass
-        vscheme = 2o
 music
 1: 4e+; f+; 2g+;
 bar
@@ -1101,10 +980,6 @@ bar
 bar
 score
         time = 3/4
-	key = 4#
-        staffs = 1
-        clef = bass
-        vscheme = 2o
 music
 1: 4a+; g+; f+;
 bar
@@ -1116,19 +991,11 @@ bar
 bar
 score
 	time = 4/4
-	key = 4#
-	staffs = 1
-	clef = bass
-        vscheme = 2o
 music
 1: 4a+; g+; 2f+;
 repeatstart
 score
         time = 3/4
-	key = 4#
-        staffs = 1
-        clef = bass
-        vscheme = 2o
 music
 1: 4b+; a+; g+;
 bar
@@ -1140,19 +1007,11 @@ bar
 bar
 score
 	time = 4/4
-	key = 4#
-	staffs = 1
-	clef = bass
-        vscheme = 2o
 music
 1: 4b+; a+; 2g+;
 repeatend
 score
         time = 3/4
-	key = 4#
-        staffs = 1
-        clef = bass
-        vscheme = 2o
 music
 1: 4b+; a+; g+;
 ital above 1: 1 "rit. poco a poco";
@@ -1165,10 +1024,6 @@ bar
 bar
 score
 	time = 4/4
-	key = 4#
-	staffs = 1
-	clef = bass
-        vscheme = 2o
 music
 1: 4b+; a+; 2g+;
 bar

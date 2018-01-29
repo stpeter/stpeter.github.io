@@ -21,7 +21,6 @@ score
 	key = 1#
 	staffs = 1
 	clef = bass
-        vscheme = 2o
         beamstyle = 4., 4.
 music
 // intro
