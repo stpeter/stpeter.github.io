@@ -1,0 +1,73 @@
+// This is the Mup source file for Peter Saint-Andre's 
+// solo bass arrangement of the Yes album "Tales From
+// Topographic Oceans".
+//
+// Version: 0.1
+// Last Updated: 2018-01-28
+//
+header
+	title (18) "Tales From Topographic Oceans"
+	title (12) "Words by"
+	title (12) "JON ANDERSON and STEVE HOWE"
+	title (12) "Music by"
+	title (12) "JON ANDERSON, STEVE HOWE, CHRIS SQUIRE, ALAN WHITE and RICK WAKEMAN"
+	title (10) "" "Arranged for Bass Guitar by Peter Saint-Andre"
+footer
+	title ""
+header2
+	title   "Tales From Topographic Oceans"   "Solo Bass Arrangement"
+footer2
+	title "- \% -"
+score
+	time = 6/8
+	key = 4#
+	staffs = 1
+	clef = bass
+        beamstyle = 4, 4, 4
+music
+1: 4b; 8b; b; 4b; 
+bar
+1: 4b; 8b; b; 4b; 
+bar
+1: 4b; 8b; b; 4b; 
+bar
+1: 8b; b; 4b; b;
+bar
+1: 8b; b; 4b; b; 
+bar
+1: 8b; b; 4b; 8b; b; 
+bar
+1: 4b; e+; 8e+; e+; 
+bar
+1: 4e+; f+; 8b; 8b;
+bar
+1: 4b; b; 8b; b; 
+bar
+1: 4b; 4b; 8b; b; 
+bar
+1: 4b; 8b; b; 4b; 
+bar
+1: 4e+; 8b; b; 4b; 
+bar
+1: 4e+; 8b; b; 4b; 
+bar
+1: 8a; a; 4a; 8b; b; 
+bar
+1: 4b; 8e+; e+; 4e+; 
+bar
+1: 8f+; f+; 4f+; 8b; b;
+bar
+1: 4b; b; 8b; b; 
+bar
+1: 4b; 4f+; 8b; b; 
+bar
+1: 4b; b; 8b; b; 
+bar
+1: 4b; 4b; 8b; b;
+bar
+
+//
+// work in progress, more to come
+//
+// end of "Tales From Topographic Oceans"
+//
