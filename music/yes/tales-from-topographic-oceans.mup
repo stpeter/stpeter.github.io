@@ -24,6 +24,7 @@ score
 	staffs = 1
 	clef = bass
         beamstyle = 4, 4, 4
+        vscheme = 2f
 music
 1: 4b; 8b; b; 4b; 
 bar

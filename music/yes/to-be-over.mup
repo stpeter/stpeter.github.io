@@ -20,6 +20,7 @@ score
 	key = 4#
 	staffs = 1
 	clef = bass
+        vscheme = 2f
 music
 // intro, part one - harmonics from Chris Squire's "Safe (Canon Song)"
 1: 2.r; 4e+;
