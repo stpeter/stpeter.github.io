@@ -2,8 +2,8 @@
 // solo bass arrangement of the Yes album "Tales From
 // Topographic Oceans".
 //
-// Version: 0.1
-// Last Updated: 2018-01-28
+// Version: 0.2
+// Last Updated: 2018-02-01
 //
 header
 	title (18) "Tales From Topographic Oceans"
@@ -19,14 +19,14 @@ header2
 footer2
 	title "- \% -"
 score
-	time = 6/8
+	time = 3/4
 	key = 4#
 	staffs = 1
 	clef = bass
         beamstyle = 4, 4, 4
         vscheme = 2f
 music
-1: 4b; 8b; b; 4b; 
+1: 4b; 8b; b; 4b;
 bar
 1: 4b; 8b; b; 4b; 
 bar
@@ -65,6 +65,98 @@ bar
 1: 4b; b; 8b; b; 
 bar
 1: 4b; 4b; 8b; b;
+bar rehearsal mnum
+1 1: 4b; 8b; b; 4b;
+1 2: 4b; 8b; b; 4b;
+bar
+1 1: 8b; b; 4b; 8b; b;
+1 2: 8a; a; 4a; 8f; f;
+bar
+1 1: 4b; 8b; b; 4b;
+1 2: 4f; 8a; a; 4a;
+bar
+1 1: 8b; b; 4b; 8d+; d+;
+1 2: 8b; b; 4b; 8b; b;
+bar
+1 1: 4d+; 8b; b; 4b;
+1 2: 4b; 8b; b; 4b;
+bar
+1 1: 8b; b; 4b; 8b; b;
+1 2: 8a; a; 4a; 8f; f;
+bar
+1 1: 4b; 8b; b; 4b;
+1 2: 4f; 8a; a; 4a;
+bar
+1 1: 8b; b; 4b; 8d+; d+;
+1 2: 8b; b; 4b; 8b; b;
+bar
+1 1: 4d+; 8e+; e+; 4e+;
+1 2: 4b; 8c+; c+; 4c+;
+bar
+1 1: 8f+; f+; 4f+; 4f+;
+1 2: 8d+; d+; 4d+; 4d+;
+bar
+1 1: 8f+; f+; 4f+; 4f+;
+1 2: 8d+; d+; 4d+; 4d+;
+bar
+1 1: 8f+; f+; 4e+; 8e+; e+;
+1 2: 8d+; d+; 4c+; 8c+; c+;
+bar
+1 1: 4e+; 4e+; 8e+; e+;
+1 2: 4c+; 4c+; 8c+; c+;
+bar
+1 1: 4e+; 4e+; 8e+; e+;
+1 2: 4c+; 4c+; 8c+; c+;
+bar
+1 1: 4d+; 8d+; d+; 4d+; 
+1 2: 4b; 8b; b; 4b;
+bar
+1 1: 4d+; 8d+; d+; 4d+; 
+1 2: 4b; 8b; b; 4b;
+bar
+1 1: 4d+; d+; 8b; b;
+1 2: 4b; b; 8b-; b-;
+bar
+1 1: 8b; 4.r; 8b; b;
+1 2: 8b-; 4.r; 8b-; b-;
+bar
+1 1: 8b; 4.r; 8b; b;
+1 2: 8b-; 4.r; 8b-; b-;
+bar
+score
+	time = 2/4
+music
+1 1: 4b; b;
+1 2: 4b-; b-;
+bar
+score
+	time = 4/4
+music
+1 1: 8.e+; 8.d+; 8.b; 16b; d+; b; d+; c+; 8b;
+1 2: 8.b; 8.b; 8.b-; 8.r; 4r;
+bar
+music
+1 1: 8.d+; 8.c+; 8.a; 16a; c+; a; c+; b; 8a;
+1 2: 8.a; 8.a; 8.a-; 8.r; 4r;
+bar
+music
+1 1: 8.e+; 8.d+; 8.b; 16b; d+; b; d+; c+; 8b;
+1 2: 8.b; 8.b; 8.b-; 8.r; 4r;
+bar
+1 1: 8.d+; 8.c+; 8.a; 16a; c+; a; c+; b; 8a;
+1 2: 8.a; 8.a; 8.a-; 8.r; 4r;
+bar
+1 1: 8.e+; 8.d+; 8.b; 16b; d+; b; d+; c+; 8b;
+1 2: 8.b; 8.b; 8.b-; 8.r; 4r;
+bar
+1 1: 8.d+; 8.c+; 8a; 8.c+; 8.b; 8g;
+1 2: 8.a; 8.a; 8a-; 8.g; 8.g; 8g-;
+bar rehearsal mnum
+score
+	time = 2/4
+music
+1 1: 2ec+;
+1 2: 2e-;
 bar
 
 //
