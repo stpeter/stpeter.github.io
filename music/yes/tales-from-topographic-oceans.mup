@@ -2,8 +2,8 @@
 // solo bass arrangement of the Yes album "Tales From
 // Topographic Oceans".
 //
-// Version: 0.2
-// Last Updated: 2018-02-01
+// Version: 0.3
+// Last Updated: 2018-02-02
 //
 header
 	title (18) "Tales From Topographic Oceans"
@@ -20,7 +20,7 @@ footer2
 	title "- \% -"
 score
 	time = 3/4
-	key = 4#
+	key = 5#
 	staffs = 1
 	clef = bass
         beamstyle = 4, 4, 4
@@ -132,31 +132,74 @@ bar
 score
 	time = 4/4
 music
-1 1: 8.e+; 8.d+; 8.b; 16b; d+; b; d+; c+; 8b;
-1 2: 8.b; 8.b; 8.b-; 8.r; 4r;
+repeatstart
+1 1: 4.e+; 4.d+; 4b~;
+1 2: 4.b; 4.b; 4b-~;
 bar
-music
-1 1: 8.d+; 8.c+; 8.a; 16a; c+; a; c+; b; 8a;
-1 2: 8.a; 8.a; 8.a-; 8.r; 4r;
+1 1: 8b; b; d+; b; d+; c+; 4b;
+1 2: 8b-; 8r; 2.r;
 bar
-music
-1 1: 8.e+; 8.d+; 8.b; 16b; d+; b; d+; c+; 8b;
-1 2: 8.b; 8.b; 8.b-; 8.r; 4r;
+1 1: 4.dn+; 4.c+; 4a~;
+1 2: 4.a; 4.a; 4a-~;
 bar
-1 1: 8.d+; 8.c+; 8.a; 16a; c+; a; c+; b; 8a;
-1 2: 8.a; 8.a; 8.a-; 8.r; 4r;
+1 1: 8a; a; c+; a; c+; b; 4a;
+1 2: 8a-; 8r; 2.r;
+repeatend
+1 1: 4.e+; 4.d+; 4b~;
+1 2: 4.b; 4.b; 4b-~;
 bar
-1 1: 8.e+; 8.d+; 8.b; 16b; d+; b; d+; c+; 8b;
-1 2: 8.b; 8.b; 8.b-; 8.r; 4r;
+1 1: 8b; b; d+; b; d+; c+; 4b;
+1 2: 8b-; 8r; 2.r;
 bar
-1 1: 8.d+; 8.c+; 8a; 8.c+; 8.b; 8g;
-1 2: 8.a; 8.a; 8a-; 8.g; 8.g; 8g-;
+1 1: 4.dn+; 4.c+; 4a; 
+1 2: 4.a; 4.a; 4a-;
+bar
+1 1: 4.cn+; 4.b; 4g;
+1 2: 4.g; 4.g; 4g-;
 bar rehearsal mnum
 score
 	time = 2/4
+	key = 4#
 music
-1 1: 2ec+;
-1 2: 2e-;
+1 1: 2ge = _g;
+1 2: 2e-~;
+bar
+score
+	time = 4/4
+music
+1 1: 4e+ = _e; 8f+; 4.r; 4g+~;
+1 2: 1e-~;
+wavy line (_g.e + 2, _g.y + 2) to (_e.w - 2, _e.y)
+bar
+1 1: 4g+; 2.r;
+1 2: 4e-; 8e-; e-; 4e-; 8e-; e-~;
+bar
+1 1: 4a+; 8g+; 4.r; 4f+~;
+1 2: 1e-~;
+bar
+1 1: 4f+; 2.r;
+1 2: 4e-; 8e-; e-; 4e-; 8e-; e-~;
+bar
+1 1: 4e+; 8f+; 4.r; 4g+~;
+1 2: 1e-~;
+bar
+1 1: 4g+; 2.r;
+1 2: 4e-; 8e-; e-; 4e-; 8e-; e-~;
+bar
+1 1: 4a+; 8g+; 4.r; 4f+~;
+1 2: 1e-~;
+bar
+1 1: 4f+; 2.r;
+1 2: 4e-; 8e-; e-; 4e-; 8e-; e-~;
+bar
+1 1: 2b+e+; 4a+e+; 4g+~e+~;
+1 2: 4e-; 8e-; e-; 4e-; 4e-~;
+bar
+1 1: 4g+e+; 2.r;
+1 2: 4e-; 8e-; e-; 4e-; 8e-; e-~;
+bar
+1 1: 2b+e+; 4a+e+; 4g+e+;
+1 2: 4e-; 8e-; e-; 4e-; 4e-;
 bar
 
 //
