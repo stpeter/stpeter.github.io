@@ -1,0 +1,141 @@
+// This is the Mup source file for Peter Saint-Andre's 
+// solo bass arrangement of the Yes song "Close to the Edge".
+//
+// Version: 0.1
+// Last Updated: 2018-02-02
+//
+header
+	title (18) "Close to the Edge"
+	title (12) "Words and Music by"
+	title (12) "JON ANDERSON and STEVE HOWE"
+	title (10) "Fast" "Arranged for Bass by Peter Saint-Andre"
+footer
+	title ""
+header2
+	title   "Close to the Edge"   "Solo Bass Arrangement"
+footer2
+	title "- \% -"
+score
+	time = 6/8
+	staffs = 1
+	clef = bass
+        vscheme = 2f
+        beamstyle = 4., 4.
+music
+repeatstart
+1: 8a+; f+; d+; c+; d+; f+;
+bar
+1: 8a+; f+; d+; c+; d+; f+;
+bar
+1: 8a+; f+; d+; c+; d+; f+;
+bar
+1: 8a+; f+; d+; c+; d+; f+;
+repeatend
+1: 8a+; f+; d+; c+; a; g;
+bar
+1: 8f; d; c; d; a-; c;
+bar
+repeatstart
+1: 8d; c; a-; e; c; a-;
+bar
+1: 8f; d; a-; g; e; c;
+bar
+1: 8a; f; d; a#; g; e;
+bar
+1: 8c#+; a; f; d+; a; f;
+repeatend
+score
+        time = 4/4
+music
+1: 8e; f; a; r; e; f; b; r;
+bar
+1: 8e; f; c+; r; e; f; 4d+;
+mussym above 1: 4 "ferm";
+bar
+score
+	time = 6/8
+music
+repeatstart
+1: 8d; c; a-; e; c; a-;
+bar
+1: 8f; d; a-; g; e; c;
+bar
+1: 8a; f; d; a#; g; e;
+bar
+1: 8c#+; a; f; d+; a; f;
+repeatend
+score
+        time = 4/4
+music
+1: 8e; f; a; r; e; f; b; r;
+bar
+1: 8e; f; c+; r; e; f; 4d+~;
+bar
+1: 2.d+; 4g+;
+bar rehearsal mnum
+score
+        key = 2#
+music
+1: 4f+; 8d+; 4e+; 8f+; 4d+;
+bar
+1: 8e+; 4f+; 8d+; 4e+; 8a; a;
+bar
+1: 8r; a; 2a; 4g+;
+bar
+1: 4f+; 8d+; 4e+; 8f+; 4d+;
+bar
+1: 8e+; 4f+; 8d+; 4e+; 8a; a;
+bar
+1: 8r; a; 2a; 4a;
+bar
+score
+        time = 3/4
+music
+1: 4.g; 4.a; 
+bar
+1: 4.d+; 4c+; 8a;
+bar
+1: 4.g; 4.a; 
+bar
+1: 4.f+; 4e+; 8g+;
+bar rehearsal mnum
+score
+        time = 4/4
+music
+1: 4fn+; 8d+; 4e+; 8f+; 4d+;
+bar
+1: 8e+; 4f+; 8d+; 4e+; 8a&; a;
+bar
+1: 8r; a; 2a; 4a;
+bar
+score
+        time = 3/4
+music
+1: 4.g; 4.a; 
+bar
+1: 4.e&+; 4d+; 8a;
+bar
+1: 4.g; 4.a; 
+bar
+1: 4.f#+; 4e+; 8g+;
+bar
+score
+        time = 4/4
+music
+1: 4f+; 8d+; 4e+; 8f+; 4d+;
+bar
+score
+        time = 9/8
+music
+1: 8e+; 4f+; 8d+; 4e+; 8f+; 4d+;
+bar
+score
+        time = 4/4
+music
+1: 8e+; 4f+; 8d+; 4f+; 8a; a;
+bar
+1: 8r; a; 2a; 4g;
+bar
+//
+// end of "Close to the Edge"
+//
