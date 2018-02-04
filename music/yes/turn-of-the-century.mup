@@ -2,8 +2,8 @@
 // solo bass arrangement of the Yes song "Turn of the
 // Century".
 //
-// Version: 0.6
-// Last Updated: 2018-01-31
+// Version: 1.0
+// Last Updated: 2018-02-04
 //
 header
 	title (18) "Turn of the Century"
@@ -31,9 +31,10 @@ bar
 1 1: 4d+; 8c+; b; a; e; a-; a;
 1 2: 8a-; 4.a-; 4a-; 4r;
 bar
-1: 8g; d; g-; d; g; d; g; b;
+1: 8g; d; g-; d; g; d; g; b = _b;
 bar
-1: 8f+; b; e+; d+; b; g; b; 8c+;
+1: 8f+ = _f; b; e+; d+; b; g; b; 8c+;
+wavy line (_b.e + 1, _b.y) to (_f.w - 1, _f.y - 1)
 bar
 score
 	time = 2/4
@@ -60,13 +61,13 @@ bar
 1 1: 4d+; 8c+; b; a; e; a-; a;
 1 2: 8a-; 4.a-; 4a-; 4r;
 bar
-1: 8g; d; g-; d; g; d; g; b;
+1: 8g; d; g-; d; g; d; g; b = _b;
 bar
-1: 8f+; b; e+; d+; b; g; b; 8c+;
+1: 8f+ = _f; b; e+; d+; b; g; b; 8c+;
+wavy line (_b.e + 1, _b.y) to (_f.w - 1, _f.y - 1)
 bar
 score
 	time = 2/4
-        beamstyle = 4, 4
 music
 1: 8a; e; c; e;
 bar
@@ -103,7 +104,7 @@ bar
 1 2: 1a-~;
 bar
 1 1: 8c++; e+; a+; 4c++; 8b+; a+; g+;
-1 2: 1a-;
+1 2: 2a-; 2r;
 bar
 1: { 4a+; g+; e+; }3; { 4g+; f+; d+; }3;
 bar
@@ -130,7 +131,7 @@ bar
 1 2: 1a-;
 bar
 1 1: 2r; 8a+; 4g+; 8e+~;
-1 2: 8a-; b-; c; d; 2r;
+1 2: 8a-; b-; c; d; a-; 4.r;
 bar
 score
 	time = 3/4
@@ -166,9 +167,9 @@ bar
 1 2: 1a-;
 bar
 1 1: 2r; 8a+; 4g+; 8e+~;
-1 2: 8a-; b-; c; d; 2r;
+1 2: 8a-; b-; c; d; a-; 4.r;
 bar
-1 1: 8e+; 16f+; e+; 2d+~; 8d+; 16c+; d+;
+1: 8e+; 16f+; e+; 8d+; b; 4.g; 16c+; d+;
 bar
 1 1: 8e+; 2.a+; 16c+; d+;
 1 2: 4.r; 8a-; 2a-;
@@ -183,26 +184,40 @@ bar
 1 1: 8r; e+; f+; g+~; g+; e+; f+; g+~;
 1 2: 1c+~;
 bar
-1 1: 8g+; e+; f+; g+~; g+; e+; 4f+;
-1 2: 1c+;
+1 1: 8g+; e+; f+; g+; f+; e+; d+; b;
+1 2: 2c+; 2r;
 bar
-1 1: 2r; 8a+; 4g+; 8e+~;
-1 2: 4.c+; 8c+~; 2c+~;
+1 1: 8c+; g; c; g; a+; 4g+; 8e+~;
 bar
 1 1: 8e+; 16f+; e+; 4.d+; 8c+; 4b;
 1 2: 4c+; 2r; 4r;
 bar
-1 1: 8r; e+; f+; g+~; g+; e+; f+; g+~;
-1 2: 1c+~;
+score
+	time = 3/4
+music
+1: 8e+; 16f+; e+; 8d+; b; g; d; 
 bar
-1 1: 8g+; e+; f+; g+~; g+; a+; 4g+;
-1 2: 1c+;
+score
+	time = 4/4
+music
+1: 8g-; a-; b-; c; d; c; b-; d; 
 bar
-1 1: 2r; 8a+; 4g+; 8a+~;
-1 2: 4.c+; 8c+~; 2c+~;
+1: 8c+; e+; f+; g+~; g+; c+e+; f+; g+~;
 bar
-1 1: 8a+; r; a+; g+; f+; e+; 4d+;
-1 2: 8c+; 2.c+; 8r;
+1: 8g+; c+e+; f+; g+~; g+; a+; g+; f+;
+bar
+score
+	time = 2/4
+music
+1: 8f+; e+; d+; b; 
+bar
+score
+	time = 4/4
+music
+1: 8c+; g; c; g; a+; 4g+e+; 8a+~;
+bar
+1 1: 8a+~; a+; 8a+; g+; f+; e+; d+; c+;
+1 2: 8r; 2c+; 4.r;
 bar
 score
 	time = 3/8
@@ -260,15 +275,21 @@ score
 music
 1: { 4a+; g+; e+; }3; { 4g+; f+; d+; }3;
 bar
-1: 4f+; e+; 2c+~;
+score
+	time = 2/4
+music
+1: 4f+; e+; 
 bar
-1: 2c+~; 8c+; d+; e+; f+;
+score
+	time = 4/4
+music
+1: 8c+; b; a; g; e; d; c; b-; 
 bar
-1: 2d+; 4.c+; 8b~;
+1: 8a-; b-; c; d; e; d; e; f; 
 bar
-1: 4b; g; 8g; 4.a~;
+1: 8d; e; f; g; a; g; a; b; 
 bar
-1: 2a; 16e+; f+; 8e+; d+; c+;
+1: 8c+; b; a; g; f; e; d; c;
 bar rehearsal mnum
 1 1: 8r; c+; d+; e+~; e+; c+; d+; e+~;
 1 2: 1a-~;
@@ -277,7 +298,7 @@ bar
 1 2: 1a-;
 bar
 1 1: 2r; 8a+; 4g+; 8e+~;
-1 2: 8a-; b-; c; d; 2r;
+1 2: 8a-; b-; c; d; a-; 4.r;
 bar
 score
 	time = 3/4
@@ -313,9 +334,9 @@ bar
 1 2: 1a-;
 bar
 1 1: 2r; 8a+; 4g+; 8e+~;
-1 2: 8a-; b-; c; d; 2r;
+1 2: 8a-; b-; c; d; a-; 4.r;
 bar
-1 1: 8e+; 16f+; e+; 2d+~; 8d+; 16c+; d+;
+1 1: 8e+; 16f+; e+; 8d+; b; 4.g; 16c+; d+;
 bar
 1: 8e+; 4r; 8b+~g+~; 2b+g+; 
 bar
@@ -375,15 +396,15 @@ bar
 1: 8d+; b; 4.g; 4.f;
 bar
 1 1: 4e; 4e; 4.c+; 8e;
-1 2: 2.r; 4a-~;
-mussym above 1: 1 "ferm";
+1 2: 8r; 8a-~; 2a-; 4a-~;
 bar
 1 1: 4d+; 8c+; b; a; e; a-; a;
 1 2: 8a-; 4.a-; 4a-; 4r;
 bar
-1: 8g; d; g-; d; g; d; g; b;
+1: 8g; d; g-; d; g; d; g; b = _b;
 bar
-1: 8f+; b; e+; d+; b; g; b; 8c+;
+1: 8f+ = _f; b; e+; d+; b; g; b; 8c+;
+wavy line (_b.e + 1, _b.y) to (_f.w - 1, _f.y - 1)
 bar
 score
 	time = 2/4
@@ -410,9 +431,10 @@ bar
 1 1: 4d+; 8c+; b; a; e; a-; a;
 1 2: 8a-; 4.a-; 4a-; 4r;
 bar
-1: 8g; d; g-; d; g; d; g; b;
+1: 8g; d; g-; d; g; d; g; b = _b;
 bar
-1: 8f+; b; e+; d+; b; g; b; 8c+;
+1: 8f+ = _f; b; e+; d+; b; g; b; 8c+;
+wavy line (_b.e + 1, _b.y) to (_f.w - 1, _f.y - 1)
 bar
 score
 	time = 2/4
@@ -434,15 +456,9 @@ bar
 1: 8e+; f+; e+; d+; c+; a; 8b+; c++;
 bar
 1: 16b+; c++; 8b+; a+; e+; c+; e+; b; e+;
+ital above 1: 2 "rit.";
+mussym above 1: 4.5 "ferm";
 bar
-score
-	time = 2/4
-music
-1: 8a; e; c; e;
-bar
-score
-	time = 4/4
-music
 1 1: 8r; a; c+; 4e+; 8a; c+; e+~;
 1 2: 1a-~;
 bar
@@ -463,15 +479,27 @@ bar
 bar
 1: { 4a+; g+; e+; }3; { 4g+; f+; d+; }3;
 bar
-1: 4f+; e+; 2c+~;
+score
+	time = 2/4
+music
+1: 4f+; e+; 
 bar
-1: 2c+~; 8c+; d+; e+; f+;
+score
+	time = 4/4
+music
+1: 8c+; b; a; g; e; d; c; b-; 
 bar
-1: 2d+; 4.c+; 8b~;
+1 1: 2r; 8c+; d+; e+; f+;
+1 2: 2a-; 2r;
 bar
-1: 4b; g; 8g; 4.a~;
+1: 2d+b; 4.c+; 8b~;
 bar
-1: 2a; 16e+; f+; 8e+; d+; c+;
+1 1: 4b; g; 8g; 4.a~;
+1 2: 2r; 4r; 4e~;
+bar
+1 1: 2a; 16e+; f+; 8e+; d+; c+;
+1 2: 2e; 2r;
+ital above 1: 3 "rit.";
 bar
 1: 1a-;
 mussym above 1: 1 "ferm";
