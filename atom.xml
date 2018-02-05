@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>http://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2018-02-03</modified>
+  <modified>2018-02-04</modified>
+  <entry>
+    <title>Aristotle: A First Encounter</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1603.html"/>
+    <id>tag:stpeter.im,1603</id>
+    <issued>2018-02-04</issued>
+    <modified>2018-02-04</modified>
+    <summary>Aristotle's views on living well and doing well - what the ancient Greeks called εὐδαιμονία or eudaimonia - are some of the most enduring insights into ethics ever put into words. Yet the deepest meaning of those words is usually obscured by efforts to translate and interpret Aristotle's thoughts. In part the problem is linguistic, in part it is cultural, but ultimately it is philosophical: ancient Greek world views, Aristotle's among them, are very far from our modern ways of thinking and feeling....</summary>
+  </entry>
   <entry>
     <title>Songs of Zarathustra Now Published</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1602.html"/>
@@ -49,13 +57,5 @@
     <issued>2017-12-17</issued>
     <modified>2017-12-17</modified>
     <summary>I've long imagined that the sixth movement in my "eudaimonia suite" of books on the art of living would be about Taoism. However, recently an intriguing ambition came to me: writing a novel about Pyrrho's journey to Central Asia and Northwestern India with Alexander the Great's army and his conversion to skepticism there by early Buddhists (likely in the Gandharan city of Taxila above the Peshawar Valley - a great center of learning at the time). I like the goal of exploring the commonalities among early Taoism, early Buddhism, and Pyrrhonism, as well as Heraclitus and other pre-Socractic philosophers. In essence, this would be a novelization of Christopher Beckwith's thesis from his fascinating book Greek Buddha. Aside from the usual challenges of working through the ideas of a thinker like Nietzsche or Thoreau, there would be new obstacles to overcome here: I don't know Sanskrit or classical Chinese, and I've never written any fiction, not even a short story. Truth be told, I'm not deeply drawn to stories and I rarely read novels. However, a few years ago I read both The Glass Bead Game and Siddhartha by Hermann Hesse, and recently I read When Nietzsche Wept by Irvin Yalom. In so doing, I realized that I enjoy novels of ideas, which have no plot to speak of but make up for it with interesting dialogue and internal discovery. In any case, after I publish Songs of Zarathustra a few weeks from now I'll first finish my translation of the ethical writings of Epicurus and then write an epitome of Aristotle's moral philosophy, so writing a book on ancient Buddhism and skepticism is years away....</summary>
-  </entry>
-  <entry>
-    <title>Jabber.org Account Experiment</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1597.html"/>
-    <id>tag:stpeter.im,1597</id>
-    <issued>2017-11-29</issued>
-    <modified>2017-11-29</modified>
-    <summary>In early August I started an experiment to once again offer accounts at the Jabber.org messaging service, where we had turned off account creation several years ago. Given that today is my "Jabiversary" (it was 18 years ago that I first posted to the JDEV discussion list!), I figured I'd end the experiment today and report on the results. My two goals with the experiment were (1) to see if people still want Jabber.org accounts and (2) to informally poll people about donating money to help us run the service, which has been absolutely free since 1999 (e.g., we might use funds to purchase new equipment or pay for individuals to fix bugs, create new features, maintain our infrastructure, offer customer support, etc.). On both counts I would say the experiment was a qualified success: I received over 1000 account requests in 4 months and at least 30% of respondents said they would be happy to donate (some even sent me cash in the mail or payments via PayPal). Based on these results, I am encouraged to move forward with opening up automated account creation again (probably in early 2018) and with establishing a formal organization (e.g., a non-profit or cooperative) to run the service so that we can open a bank account and accept donations. Stay tuned for more details on both fronts! (Oh, and if you really really need an account between now and early 2018, I can still create one for you manually.)...</summary>
   </entry>
 </feed>
