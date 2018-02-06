@@ -1,8 +1,8 @@
 // This is the Mup source file for Peter Saint-Andre's 
 // solo bass arrangement of the Yes song "A Venture".
 //
-// Version: 1.0
-// Last Updated: 2018-01-15
+// Version: 1.1
+// Last Updated: 2018-02-05
 //
 header
 	title (18) "A Venture"
@@ -240,68 +240,6 @@ bar
 bar
 1: 8d+; 8b; 8g; 8d+; 8b; 8g;
 bar
-1: 8d+; 8b; 8g; 8d+; 8b; 8g;
-bar
-1: 8d+; 8b; 8g; 8d+; 8b; 8g;
-bar
-1: 8c+; 8a; 8f; 8c+; 8a; 8f;
-bar
-1: 8c+; 8a; 8f; 8c+; 8a; 8f;
-bar
-1: 8c+; 8a; 8f; 8c+; 8a; 8f;
-bar
-1: 8c+; 8a; 8f; 8c+; 8a; 8f;
-bar
-1: 8b; 8g; 8e; 8b; 8g; 8e;
-bar
-1: 8b; 8g; 8e; 8b; 8g; 8e;
-bar
-1: 8b; 8g; 8e; 8b; 8g; 8e;
-bar
-1: 8b; 8g; 8e; 8b; 8g; 8e;
-bar
-1: 8a; 8f#; 8d; 8a; 8f; 8d;
-bar
-1: 8a; 8f; 8d; 8a; 8f; 8d;
-bar
-1: 8a; 8f; 8d; 8a; 8f; 8d;
-bar
-1: 8a; 8f; 8d; 8a; 8f; 8d;
-bar rehearsal mnum
-1: 8d; 4f; 4a; 8c+;
-bar
-score
-        time = 4/4
-music
-1: 8d+; 8r; [grace] 8fn; 8g; 8fn; 8e; 8r; 8d; 8r;
-bar
-score
-        time = 6/8
-music
-1: 8d; 4f#; 4a; 8c+;
-bar
-1: 8d+; 8r; 8c; 8r; 8c; 8r;
-bar
-1: 8d; 4f; 4a; 8c+;
-bar
-score
-        time = 4/4
-music
-1: 8d+; 8r; [grace] 8fn; 8g; 8fn; 8e; 8r; 8d; 8r;
-bar
-score
-        time = 6/8
-music
-1: 8d; 4f#; 4a; 8c+;
-bar
-1: 8d+; 4c+; 4b; 8a;
-bar
-1: 8b; 4a; 4g; 8f;
-bar rehearsal mnum
-1: 8d+; 8b; 8g; 8d+; 8b; 8g;
-bar
-1: 8d+; 8b; 8g; 8d+; 8b; 8g;
-bar
 1: 8e+; 8b; 8g; 8d+; 8b; 8g;
 bar
 1: 8c+; 8b; 8g; 8d+; 8b; 8g;
@@ -358,7 +296,69 @@ music
 bar
 1: 8d+; 4c+; 4b; 8a;
 bar
-1: 8b; 4a; 4g; 8f;
+1: 8b; 4a; 4g; 8fn;
+bar rehearsal mnum
+1: 8d+; 8b; 8g; 8d+; 8b; 8g;
+bar
+1: 8d+; 8b; 8g; 8d+; 8b; 8g;
+bar
+1: 8g+; fn+; e+; d+; c+; b;
+bar
+1: 8c+; d+; c+; b; a; g;
+bar
+1: 8c+; 8a; 8f; 8c+; 8a; 8fn;
+bar
+1: 8c+; 8a; 8f; 8c+; 8a; 8f;
+bar
+1: 8f+; e+; d+; c+; b; a;
+bar
+1: 8b; c+; b; a; g; f;
+bar
+1: 8b; 8g; 8e; 8b; 8g; 8e;
+bar
+1: 8b; 8g; 8e; 8b; 8g; 8e;
+bar
+1: 8e+; d+; c+; b; a; g;
+bar
+1: 8a; b; a; g; f; e;
+bar
+1: 8a; 8f#; 8d; 8a; 8f; 8d;
+bar
+1: 8a; 8f; 8d; 8a; 8f; 8d;
+bar
+1: 8d+; c+; b; a; g; fn;
+bar
+1: 8g; a; g; f; e; d; 
+bar rehearsal mnum
+1: 8d; 4f#; 4a; 8c+;
+bar
+score
+        time = 4/4
+music
+1: 8d+; 8r; [grace] 8fn; 8g; 8fn; 8e; 8r; 8d; 8r;
+bar
+score
+        time = 6/8
+music
+1: 8d; 4f#; 4a; 8c+;
+bar
+1: 8d+; 8r; 8c; 8r; 8c; 8r;
+bar
+1: 8d; 4f; 4a; 8c+;
+bar
+score
+        time = 4/4
+music
+1: 8d+; 8r; [grace] 8fn; 8g; 8fn; 8e; 8r; 8d; 8r;
+bar
+score
+        time = 6/8
+music
+1: 8d; 4f#; 4a; 8c+;
+bar
+1: 8d+; 4c+; 4b; 8a;
+bar
+1: 8b; 4a; 4g; 8fn;
 bar rehearsal mnum
 1: 8g; 8a; 8b; 8g; 8a; 8b;
 bar
