@@ -2,8 +2,8 @@
 // solo bass arrangement of the Yes song "Turn of the
 // Century".
 //
-// Version: 1.0
-// Last Updated: 2018-02-04
+// Version: 1.1
+// Last Updated: 2018-02-05
 //
 header
 	title (18) "Turn of the Century"
@@ -48,7 +48,7 @@ music
 1 1: 8a; b; c+; d+; e+; f+; g+; a+;
 1 2: 2a-; 2a-;
 bar
-1: 8a+; d+; g+; f+; e+; b; 8c+; d+;
+1 1: 8a+; d+; g+; f+; e+; a; 8c+; d+;
 1 2: 8a-; r; 4r; 2r;
 bar
 1: 8d+; e+; d+; c+; {4b; g; a;}3;
@@ -77,7 +77,7 @@ music
 1 1: 8a; b; c+; d+; e+; f+; g+; a+;
 1 2: 2a-; 2a-;
 bar
-1: 8a+; d+; g+; f+; e+; b; 8c+; d+;
+1 1: 8a+; d+; g+; f+; e+; a; 8c+; d+;
 1 2: 8a-; r; 4r; 2r;
 bar
 1: 8d+; e+; d+; c+; {4b; g; a;}3;
@@ -189,13 +189,10 @@ bar
 bar
 1 1: 8c+; g; c; g; a+; 4g+; 8e+~;
 bar
-1 1: 8e+; 16f+; e+; 4.d+; 8c+; 4b;
-1 2: 4c+; 2r; 4r;
-bar
 score
 	time = 3/4
 music
-1: 8e+; 16f+; e+; 8d+; b; g; d; 
+1 1: 8e+; 16f+; e+; 8d+; b; g; d;
 bar
 score
 	time = 4/4
@@ -204,7 +201,7 @@ music
 bar
 1: 8c+; e+; f+; g+~; g+; c+e+; f+; g+~;
 bar
-1: 8g+; c+e+; f+; g+~; g+; a+; g+; f+;
+1: 8g+; c+e+; f+; g+~; g+; a+; g+; f+~;
 bar
 score
 	time = 2/4
@@ -216,8 +213,8 @@ score
 music
 1: 8c+; g; c; g; a+; 4g+e+; 8a+~;
 bar
-1 1: 8a+~; a+; 8a+; g+; f+; e+; d+; c+;
-1 2: 8r; 2c+; 4.r;
+1 1: 8a+~; a+; 8a+; g+; f+; e+; d+; b;
+1 2: 8r; 8c+; 2.r;
 bar
 score
 	time = 3/8
@@ -395,8 +392,8 @@ ital above 1: 1 "rit. poco a poco";
 bar
 1: 8d+; b; 4.g; 4.f;
 bar
-1 1: 4e; 4e; 4.c+; 8e;
-1 2: 8r; 8a-~; 2a-; 4a-~;
+1 1: 2e; 4.c+; 8e;
+1 2: 2.r; 4a-~;
 bar
 1 1: 4d+; 8c+; b; a; e; a-; a;
 1 2: 8a-; 4.a-; 4a-; 4r;
@@ -418,7 +415,7 @@ music
 1 1: 8a; b; c+; d+; e+; f+; g+; a+;
 1 2: 2a-; 2a-;
 bar
-1: 8a+; d+; g+; f+; e+; b; 8c+; d+;
+1: 8a+; d+; g+; f+; e+; a; 8c+; d+;
 1 2: 8a-; r; 4r; 2r;
 bar
 1: 8d+; e+; d+; c+; {4b; g; a;}3;
@@ -448,7 +445,7 @@ music
 1 1: 8a; b; c+; d+; e+; f+; g+; a+;
 1 2: 2a-; 2a-;
 bar
-1: 8a+; d+; g+; f+; e+; b; 8c+; d+;
+1 1: 8a+; d+; g+; f+; e+; a; 8c+; d+;
 1 2: 8a-; r; 4r; 2r;
 bar
 1: 8d+; e+; d+; c+; {4b; g; a;}3;
