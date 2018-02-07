@@ -1,8 +1,8 @@
 // This is the Mup source file for Peter Saint-Andre's 
 // solo bass arrangement of the Yes song "A Venture".
 //
-// Version: 1.1
-// Last Updated: 2018-02-05
+// Version: 1.2
+// Last Updated: 2018-02-06
 //
 header
 	title (18) "A Venture"
@@ -234,7 +234,7 @@ bar
 1: 8a; 8b; 8c+; 8a; 8b; 8c+;
 bar
 1: 8a; 8b; 8c+; 8a; 8b; 8c+;
-bar
+bar rehearsal mnum
 // down again
 1: 8d+; 8b; 8g; 8d+; 8b; 8g;
 bar
@@ -375,7 +375,7 @@ bar
 1: 8a; 8g; 8f; 8e; 8d; 8c;
 bar
 1: 8b-; 8a-; 8g-; 8f-; 8d-; 8f-;
-bar
+bar rehearsal mnum
 1: 8g-; 8c; 8r; 4d; 8e;
 bar
 1: 8d; 8c; 8b-; 8a-; 8g-; 8f-;
