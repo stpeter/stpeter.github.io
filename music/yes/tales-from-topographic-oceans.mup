@@ -2,8 +2,8 @@
 // solo bass arrangement of the Yes album "Tales From
 // Topographic Oceans".
 //
-// Version: 0.3
-// Last Updated: 2018-02-02
+// Version: 0.4
+// Last Updated: 2018-02-09
 //
 header
 	title (18) "Tales From Topographic Oceans"
@@ -198,12 +198,57 @@ bar
 1 1: 4g+e+; 2.r;
 1 2: 4e-; 8e-; e-; 4e-; 8e-; e-~;
 bar
-1 1: 2b+e+; 4a+e+; 4g+e+;
-1 2: 4e-; 8e-; e-; 4e-; 4e-;
+1 1: 2b+e+; 4a+e+; 4g+~e+~;
+1 2: 4e-; 8e-; e-; 4e-; 4e-~;
 bar
+1 1: 4g+e+; 8e+; r; f+; r; a#+f+~; b+f+;
+1 2: 4e-; 2.r;
+bar
+1 1: 2a+f+; 4g+; 8an+; g+~;
+bar
+score
+	time = 2/4
+music
+1 1: 2g+e+;
+bar
+score
+	time = 3/4
+        beamstyle = 4., 4.
+music
+1 1: 8g+; e+; b; g+; e+; b;
+bar
+1 1: 8a+; e+; b; g+; e+; b;
+bar
+1: 4f+; 8e+; e+; e+; e+;
+bar
+score
+	time = 4/4
+music
+1 1: 2b+; 4a+; 4g+~;
+1 2: 4e+; 8e+; e+; 4e+; 4e+~;
+bar
+1 1: 4g+; 2.r;
+1 2: 4e+; 8e+; e+; 4e+; 8e+; e+~;
+bar
+1 1: 2b+; 4a+; 4g+~;
+1 2: 4e+; 8e+; e+; 4e+; 4e+~;
+bar
+1 1: 4g+; 8e+; r; f+; r; a#+f+~; b+f+;
+1 2: 4e+; 2.r;
+bar
+1 1: 2a+f+; 4g+; 8an+; g+~;
+bar
+score
+	time = 2/4
+music
+1 1: 2g+e+;
+bar
+
 
 //
 // work in progress, more to come
+//
+
 //
 // end of "Tales From Topographic Oceans"
 //
