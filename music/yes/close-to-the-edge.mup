@@ -10,7 +10,7 @@ header
 	title (12) "JON ANDERSON and STEVE HOWE"
 	title (10) "Fast" "Arranged for Bass by Peter Saint-Andre"
 footer
-	title ""
+	title "Copyright 1972, 1977 Topographic Music Limited & Rondor Music (London) Ltd."
 header2
 	title   "Close to the Edge"   "Solo Bass Arrangement"
 footer2
@@ -34,7 +34,6 @@ repeatend
 1: 8a+; f+; d+; c+; a; g;
 bar
 1: 8f; d; c; d; a-; c;
-bar
 repeatstart
 1: 8d; c; a-; e; c; a-;
 bar
