@@ -243,6 +243,28 @@ score
 music
 1 1: 2g+e+;
 bar
+score
+	time = 3/4
+music
+1 1: 8g+; e+; b; g+; e+; b;
+bar
+1 1: 8a+; e+; b; g+; e+; b;
+bar
+1: 4f+; 2e+; 
+bar
+score
+	time = 4/4
+music
+1 1: 4g+; g+; g+; 8g+; g+;
+1 2: 1e+~;
+bar
+1 1: 4g+; g+; 2a+~;
+1 2: 2e+; 2r;
+bar
+1 1: 4a+; 8g+; f+; g+; f+~; 4f+;
+bar
+1 1: 4e+; 4f+; 
+bar
 
 
 //
