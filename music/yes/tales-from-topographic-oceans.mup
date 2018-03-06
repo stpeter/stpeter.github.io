@@ -2,8 +2,8 @@
 // solo bass arrangement of the Yes album "Tales From
 // Topographic Oceans".
 //
-// Version: 0.4
-// Last Updated: 2018-02-09
+// Version: 0.5
+// Last Updated: 2018-03-05
 //
 header
 	title (18) "Tales From Topographic Oceans"
@@ -19,115 +19,63 @@ header2
 footer2
 	title "- \% -"
 score
-	time = 3/4
+	time = 4/4
 	key = 5#
 	staffs = 1
 	clef = bass
-        beamstyle = 4, 4, 4
+        beamstyle = 4, 4, 4, 4
         vscheme = 2f
 music
-1: 4b; 8b; b; 4b;
+1: 8b; 16b; b; 8b; b; 16; b; 8b; b; 16b; b; 
 bar
-1: 4b; 8b; b; 4b; 
+1: 8b; 16b; b; 8b; b; 16b; b; 8b; b; 16b; b; 
 bar
-1: 4b; 8b; b; 4b; 
+1: 8b; 16b; b; 8b; e+; 16e+; e+; 8e+; f+; 16b; b;
 bar
-1: 8b; b; 4b; b;
+1: 8b; b; 16b; b; 8b; b; 16b; b; 8b; 16b; b; 
 bar
-1: 8b; b; 4b; b; 
+1: 8b; e+; 16b; b; 8b; e+; 16b; b; 8b; 16a; a; 
 bar
-1: 8b; b; 4b; 8b; b; 
+1: 8a; 16b; b; 8b; 16e+; e+; 8e+; 16f+; f+; 8f+; 16b; b;
 bar
-1: 4b; e+; 8e+; e+; 
+1: 8b; b; 16b; b; 8b; f+; 16b; b; 8b; b; 
 bar
-1: 4e+; f+; 8b; 8b;
-bar
-1: 4b; b; 8b; b; 
-bar
-1: 4b; 4b; 8b; b; 
-bar
-1: 4b; 8b; b; 4b; 
-bar
-1: 4e+; 8b; b; 4b; 
-bar
-1: 4e+; 8b; b; 4b; 
-bar
-1: 8a; a; 4a; 8b; b; 
-bar
-1: 4b; 8e+; e+; 4e+; 
-bar
-1: 8f+; f+; 4f+; 8b; b;
-bar
-1: 4b; b; 8b; b; 
-bar
-1: 4b; 4f+; 8b; b; 
-bar
-1: 4b; b; 8b; b; 
-bar
-1: 4b; 4b; 8b; b;
+score
+	time = 2/4
+        beamstyle = 4, 4
+music
+1: 16b; b; 8b; b; 16b; b;
 bar rehearsal mnum
-1 1: 4b; 8b; b; 4b;
-1 2: 4b; 8b; b; 4b;
+score
+	time = 4/4
+music
+1 1: 8b; 16b; b; 8b; 16b; b; 8b; 16b; b; 8b; 16b; b; 
+1 2: 8b; 16b; b; 8b; 16a; a; 8a; 16f; f; 8f; 16a; a; 
 bar
-1 1: 8b; b; 4b; 8b; b;
-1 2: 8a; a; 4a; 8f; f;
+1 1: 8b; 16b; b; 8b; 16d+; d+; 8d+; 16b; b; 8b; 16b; b;
+1 2: 8a; 16b; b; 8b; 16b; b; 8b; 16b; b; 8b; 16a; a; 
 bar
-1 1: 4b; 8b; b; 4b;
-1 2: 4f; 8a; a; 4a;
+1 1: 8b; 16b; b; 8b; 16b; b; 8b; 16b; b; 8b; 16d+; d+;
+1 2: 8a; 16f; f; 8f; 16a; a; 8a; 16b; b; 8b; 16b; b;
 bar
-1 1: 8b; b; 4b; 8d+; d+;
-1 2: 8b; b; 4b; 8b; b;
+1 1: 8d+; 16e+; e+; 8e+; 16f+; f+; 8f+; f+; 16f+; f+; 8f+;
+1 2: 8b; 16c+; c+; 8c+; 16d+; d+; 8d+; d+; 16d+; d+; 8d+;
 bar
-1 1: 4d+; 8b; b; 4b;
-1 2: 4b; 8b; b; 4b;
+1 1: 8f+; 16f+; f+; 8e+; 16e+; e+; 8e+; e+; 16e+; e+; 8e+;
+1 2: 8d+; 16d+; d+; 8c+; 16c+; c+; 8c+; c+; 16c+; c+; 8c+;
 bar
-1 1: 8b; b; 4b; 8b; b;
-1 2: 8a; a; 4a; 8f; f;
+1 1: 8e+; 16e+; e+; 8d+; 16d+; d+; 8d+; d+; 16d+; d+; 8d+; 
+1 2: 8c+; 16c+; c+; 8b; 16b; b; 8b; b; 16b; b; 8b;
 bar
-1 1: 4b; 8b; b; 4b;
-1 2: 4f; 8a; a; 4a;
-bar
-1 1: 8b; b; 4b; 8d+; d+;
-1 2: 8b; b; 4b; 8b; b;
-bar
-1 1: 4d+; 8e+; e+; 4e+;
-1 2: 4b; 8c+; c+; 4c+;
-bar
-1 1: 8f+; f+; 4f+; 4f+;
-1 2: 8d+; d+; 4d+; 4d+;
-bar
-1 1: 8f+; f+; 4f+; 4f+;
-1 2: 8d+; d+; 4d+; 4d+;
-bar
-1 1: 8f+; f+; 4e+; 8e+; e+;
-1 2: 8d+; d+; 4c+; 8c+; c+;
-bar
-1 1: 4e+; 4e+; 8e+; e+;
-1 2: 4c+; 4c+; 8c+; c+;
-bar
-1 1: 4e+; 4e+; 8e+; e+;
-1 2: 4c+; 4c+; 8c+; c+;
-bar
-1 1: 4d+; 8d+; d+; 4d+; 
-1 2: 4b; 8b; b; 4b;
-bar
-1 1: 4d+; 8d+; d+; 4d+; 
-1 2: 4b; 8b; b; 4b;
-bar
-1 1: 4d+; d+; 8b; b;
-1 2: 4b; b; 8b-; b-;
-bar
-1 1: 8b; 4.r; 8b; b;
-1 2: 8b-; 4.r; 8b-; b-;
-bar
-1 1: 8b; 4.r; 8b; b;
-1 2: 8b-; 4.r; 8b-; b-;
+1 1: 8d+; d+; 16b; b; 16b; 8.r; 16b; b; 16b; 8.r; 
+1 2: 8b; b; 16b-; b-; 16b-; 8.r; 16b-; b-; 16b-; 8.r; 
 bar
 score
 	time = 2/4
 music
-1 1: 4b; b;
-1 2: 4b-; b-;
+// the timing is wrong in this measure - no rest at the end
+1 1: 16b; b; 8b; b; 8r;
+1 2: 16b-; b-; 8b-; b-; 8r;
 bar
 score
 	time = 4/4
@@ -263,8 +211,8 @@ bar
 bar
 1 1: 4a+; 8g+; f+; g+; f+~; 4f+;
 bar
-1 1: 4e+; 4f+; 
-bar
+//1 1: 4e+; 4f+; 
+//bar
 
 
 //
