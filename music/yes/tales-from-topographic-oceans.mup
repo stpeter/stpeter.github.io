@@ -13,7 +13,7 @@ header
 	title (12) "JON ANDERSON, STEVE HOWE, CHRIS SQUIRE, ALAN WHITE and RICK WAKEMAN"
 	title (10) "" "Arranged for Bass Guitar by Peter Saint-Andre"
 footer
-	title "Copyright 1973, 1977 Topographic Music Limited"
+	title (10) "Copyright 1973, 1977 Topographic Music Limited"
 header2
 	title   "Tales From Topographic Oceans"   "Solo Bass Arrangement"
 footer2
@@ -25,8 +25,10 @@ score
 	clef = bass
         beamstyle = 4, 4, 4, 4
         vscheme = 2f
+        measnum = y
 music
 1: 8b; 16b; b; 8b; b; 16; b; 8b; b; 16b; b; 
+ital above 1: 1 "Part I: The Revealing Science of God";
 bar
 1: 8b; 16b; b; 8b; b; 16b; b; 8b; b; 16b; b; 
 bar
@@ -107,6 +109,8 @@ bar
 1 1: 4r; 4b+e+; 8a+e+; 8g+~e+~; 8g+e+; 8r;
 1 2: 8e-; 16e-; e-~; 8e-; 16e-; e-; 8e-; 16e-; e-~; 8e-; 16e-; e-; 
 bar
+1: 1r;
+bar
 //
 // the following measures need to be fixed
 //
@@ -168,6 +172,36 @@ bar
 //1 1: 4e+; 4f+; 
 //bar
 
+score
+	time = 4/4
+music
+1: 1r;
+ital above 1: 1 "Part II: The Remembering";
+bar
+1: 1r;
+bar
+1: 1r;
+bar
+1: 1r;
+bar
+1: 1r;
+ital above 1: 1 "Part III: The Ancient";
+bar
+1: 1r;
+bar
+1: 1r;
+bar
+1: 1r;
+bar
+1: 1r;
+ital above 1: 1 "Part IV: Ritual";
+bar
+1: 1r;
+bar
+1: 1r;
+bar
+1: 1r;
+bar
 
 //
 // work in progress, more to come

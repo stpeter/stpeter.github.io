@@ -22,6 +22,7 @@ score
 	clef = bass
         beamstyle = 2,2
         vscheme = 2f
+        measnum = y
 music
 1: 8a+; e+; c+; b; a; e; c; b-;
 bar

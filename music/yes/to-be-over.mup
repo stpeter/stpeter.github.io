@@ -10,7 +10,7 @@ header
 	title (12) "JON ANDERSON, STEVE HOWE, PATRICK MORAZ, CHRIS SQUIRE and ALAN WHITE"
 	title (10) "" "Arranged for Bass by Peter Saint-Andre"
 footer
-	title "Copyright 1974, 1975 Topographic Music, Inc."
+	title (10) "Copyright 1974, 1975 Topographic Music, Inc."
 header2
 	title   "To Be Over"   "Solo Bass Arrangement"
 footer2
@@ -21,6 +21,7 @@ score
 	staffs = 1
 	clef = bass
         vscheme = 2f
+        measnum = y
 music
 // intro, part one - harmonics from Chris Squire's "Safe (Canon Song)"
 1: 2.r; 4e+;

@@ -8,9 +8,9 @@ header
 	title (18) "Close to the Edge"
 	title (12) "Words and Music by"
 	title (12) "JON ANDERSON and STEVE HOWE"
-	title (10) "Fast" "Arranged for Bass by Peter Saint-Andre"
+	title (10) "Presto" "Arranged for Bass by Peter Saint-Andre"
 footer
-	title "Copyright 1972, 1977 Topographic Music Limited & Rondor Music (London) Ltd."
+	title (10) "Copyright 1972, 1977 Topographic Music Limited & Rondor Music (London) Ltd."
 header2
 	title   "Close to the Edge"   "Solo Bass Arrangement"
 footer2
@@ -20,6 +20,7 @@ score
 	staffs = 1
 	clef = bass
         vscheme = 2f
+        measnum = y
         beamstyle = 4., 4.
 music
 repeatstart
