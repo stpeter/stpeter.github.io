@@ -1,8 +1,8 @@
 // This is the Mup source file for Peter Saint-Andre's 
 // solo bass arrangement of the Yes song "A Venture".
 //
-// Version: 1.3
-// Last Updated: 2018-02-08
+// Version: 1.4
+// Last Updated: 2018-03-25
 //
 header
 	title (18) "A Venture"
@@ -101,7 +101,7 @@ bar
 bar
 1: 8d; 8c; 8r; 4e; 8d;
 bar
-1: 4f; 8e; 8d; 8c; 8b-;
+1: 4f; 8d; 8c; 8b-; 8a-;
 bar
 1: 8f; 8g; 8f; 8d; 4c;
 bar
@@ -176,15 +176,15 @@ bar rehearsal mnum
 bar
 1: 8d; 8c; 8r; 4e; 8d;
 bar
-1: 4f; 8e; 8d; 8c; 8b-;
+1: 4f; 8d; 8c; 8b-; 8a-;
 bar
-1: 8c; 8b-; 8g-; 8f-; 4d-;
+1: 8b-; 8a-; 8g-; 8f-; 4d-;
 bar
 1: 8b-; 8a-; 8r; 4c; 8b-;
 bar
 1: 8d; 8c; 8r; 4e; 8d;
 bar
-1: 4f; 8e; 8d; 8c; 8b-;
+1: 4f; 8d; 8c; 8b-; 8a-;
 bar
 1: 8f; 8g; 8f; 8d; 4c;
 bar rehearsal mnum
@@ -247,18 +247,18 @@ bar
 bar
 1: 8a; 8f#; 8d; 8a; 8f; 8d;
 bar
-1: 8a; 8f; 8d; 8a; 8f; 8d;
+1: 8a; 8f#; 8d; 8a; 8f; 8d;
 bar
-1: 8b; 8f; 8d; 8a; 8f; 8d;
+1: 8b; 8f#; 8d; 8a; 8f; 8d;
 bar
-1: 8g; 8f; 8d; 8a; 8f; 8d;
+1: 8g; 8f#; 8d; 8a; 8f; 8d;
 bar rehearsal mnum
-1: 8d; 4f; 4a; 8c+;
+1: 8d; 4f#; 4a; 8c+;
 bar
 score
         time = 4/4
 music
-1: 8d+; 8r; [grace] 8fn; 8g; 8fn; 8e; 8r; 8d; 8r;
+1: 8d+; 8r; [grace] 8fn; 8g; 8fn; 8d; 8r; 8c; 8r;
 bar
 score
         time = 6/8
@@ -267,12 +267,12 @@ music
 bar
 1: 8d+; 8r; 8c; 8r; 8c; 8r;
 bar
-1: 8d; 4f; 4a; 8c+;
+1: 8d; 4f#; 4a; 8c+;
 bar
 score
         time = 4/4
 music
-1: 8d+; 8r; [grace] 8fn; 8g; 8fn; 8e; 8r; 8d; 8r;
+1: 8d+; 8r; [grace] 8fn; 8g; 8fn; 8d; 8r; 8c; 8r;
 bar
 score
         time = 6/8
@@ -309,7 +309,7 @@ bar
 bar
 1: 8a; 8f#; 8d; 8a; 8f; 8d;
 bar
-1: 8a; 8f; 8d; 8a; 8f; 8d;
+1: 8a; 8f#; 8d; 8a; 8f; 8d;
 bar
 1: 8d+; c+; b; a; g; fn;
 bar
@@ -320,7 +320,7 @@ bar
 score
         time = 4/4
 music
-1: 8d+; 8r; [grace] 8fn; 8g; 8fn; 8e; 8r; 8d; 8r;
+1: 8d+; 8r; [grace] 8fn; 8g; 8fn; 8d; 8r; 8c; 8r;
 bar
 score
         time = 6/8
@@ -329,12 +329,12 @@ music
 bar
 1: 8d+; 8r; 8c; 8r; 8c; 8r;
 bar
-1: 8d; 4f; 4a; 8c+;
+1: 8d; 4f#; 4a; 8c+;
 bar
 score
         time = 4/4
 music
-1: 8d+; 8r; [grace] 8fn; 8g; 8fn; 8e; 8r; 8d; 8r;
+1: 8d+; 8r; [grace] 8fn; 8g; 8fn; 8d; 8r; 8c; 8r;
 bar
 score
         time = 6/8
@@ -365,7 +365,7 @@ bar rehearsal mnum
 bar
 1: 8d; 8c; 8b-; 8a-; 8g-; 8f-;
 bar
-1: 8g-; 8c; 8r; 4d; 8e;
+1: 8g-; 8c; 8r; 4d; 8c;
 bar
 score
         time = 4/8
