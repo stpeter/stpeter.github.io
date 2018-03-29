@@ -1,14 +1,14 @@
 // This is the Mup source file for Peter Saint-Andre's 
 // solo bass arrangement of the Yes song "To Be Over".
 //
-// Version: 1.0
-// Last Updated: 2018-02-28
+// Version: 2.0
+// Last Updated: 2018-03-28
 //
 header
 	title (18) "To Be Over"
 	title (12) "Words and Music by"
 	title (12) "JON ANDERSON, STEVE HOWE, PATRICK MORAZ, CHRIS SQUIRE and ALAN WHITE"
-	title (10) "" "Arranged for Bass by Peter Saint-Andre"
+	title (10) "Andante" "Arranged for Bass by Peter Saint-Andre"
 footer
 	title (10) "Copyright 1974, 1975 Topographic Music, Inc."
 header2
@@ -17,1020 +17,643 @@ footer2
 	title "- \% -"
 score
 	time = 4/4
-	key = 4#
+	key = 3#
 	staffs = 1
 	clef = bass
         vscheme = 2f
         measnum = y
+        beamstyle = 4, 4, 4, 4
 music
-// intro, part one - harmonics from Chris Squire's "Safe (Canon Song)"
-1: 2.r; 4e+;
+// intro, part one
+// harmonics from the end of "Safe (Canon Song)" by Chris Squire
+1: 2.r; 8r; 8e+;
 ital above 1: 1 "harmonics";
 bar
-1: 1a+~; 
+1: 2a+~; 4a+; 8g+; f+;
 bar
-1: 2a+; 4g+; f+;
+1: 2g+~; 4g+; 8f+; e+~;
 bar
-1: 1g+~;
+1: 8e+; f+; 4g+; 2c+~;
 bar
-1: 2g+; 4f+; e+~;
+1: 4.c+; 8e+; 2a+~; 
 bar
-1: 4e+; f+; 2g+;
+1: 4a+; 8g+; f+; 2g+~;
 bar
-1: 1c+~;
+1: 4g+; 8f+; e+~; e+; f+; 4g+;
 bar
-1: 2.c+; 4e+;
+1: 2c+~; 4.c+; 8b;
 bar
-1: 1a+~; 
+1 1: 4r; 4e+~; 4.e+; 8r;
+1 2: 2c+~; 4.c+; 8b;
 bar
-1: 2a+; 4g+; f+;
+1 1: 4r; 4e+~; 4.e+; 8r;
+1 2: 2c+~; 4c+; 8b; c+;
 bar
-1: 1g+~;
+1: 1a;
 bar
-1: 2g+; 4f+; e+~;
+1: 2e~; 4e~; 8e; 8e+;
 bar
-1: 4e+; f+; 2g+;
+1: 2a+~; 4a+; 8g+; f+;
 bar
-1: 1c+~;
+1: 2g+~; 4g+; 8f+; e+~;
 bar
-1: 2.c+; 4b;
+1: 8e+; f+; 4g+; 2c+~;
 bar
-1 1: 2r; 2e+~;
-1 2: 1c+~;
+1: 4.c+; 8e+; 2a+~; 
 bar
-1 1: 2.e+; 4r;
-1 2: 2.c+; 4b;
+1: 4a+; 8g+; f+; 2g+~;
 bar
-1 1: 2r; 2e+~;
-1 2: 1c+~;
+1: 4g+; 8f+; e+~; e+; f+; 4g+;
 bar
-1 1: 2.e+; 4r;
-1 2: 2.c+; 8b; 8c+;
+1: 2c+~; 4.c+; 8b;
 bar
-1 2: 1a~;
+1 1: 4r; 4e+~; 4.e+; 8r;
+1 2: 2c+~; 4.c+; 8b;
 bar
-1 2: 1a;
+1 1: 4r; 4e+~; 4.e+; 8r;
+1 2: 2c+~; 4c+; 8b; c+;
 bar
-1 2: 1e~;
+1: 1a;
 bar
-1 2: 1e;
+1: 1a;
 bar
-// second time
-1: 2.r; 4e+;
+1: 1a;
 bar
-1: 1a+~; 
-bar
-1: 2a+; 4g+; f+;
-bar
-1: 1g+~;
-bar
-1: 2g+; 4f+; e+~;
-bar
-1: 4e+; f+; 2g+;
-bar
-1: 1c+~;
-bar
-1: 2.c+; 4e+;
-bar
-1: 1a+~; 
-bar
-1: 2a+; 4g+; f+;
-bar
-1: 1g+~;
-bar
-1: 2g+; 4f+; e+~;
-bar
-1: 4e+; f+; 2g+;
-bar
-1: 1c+~;
-bar
-1: 2.c+; 4b;
-bar
-1 1: 2r; 2e+~;
-1 2: 1c+~;
-bar
-1 1: 2.e+; 4r;
-1 2: 2.c+; 4b;
-bar
-1 1: 2r; 2e+~;
-1 2: 1c+~;
-bar
-1 1: 2.e+; 4r;
-1 2: 2.c+; 8b; 8c+;
-bar
-1 2: 1a~;
-bar
-1 2: 1a;
-bar
-1 2: 1a~;
-bar
-1 2: 1a;
-bar
-1 2: 1a~;
-bar
-1 2: 1a;
-bar
-1 2: 1a~;
-bar
-1 2: 1a;
+1: 1a;
 ital above 1: 1 "end harmonics";
-bar rehearsal mnum
+bar rehearsal let
 // intro, part two
+1 1: 8r; 4.c+a; 8r; 4.bg;
+1 2: 2a-; 2a-;
+bar
+1 1: 8r; 4.d+b; 8r; 4.c+~a~;
+1 2: 2a-; 2a-~;
+bar
+1 1: 4c+a; 4r; 2r;
+1 2: 4a-; 8e-; e-; e-; r; 4e-;
+bar
+1 1: 8r; 4.c+a; 8r; 4.bg;
+1 2: 2a-; 2a-;
+bar
+1 1: 8r; 4.d+b; 8r; 4.c+~a~;
+1 2: 2a-; 2a-~;
+bar
+1 1: 4c+a; 4r; 2r;
+1 2: 4a-; 8e-; e-; e-; r; 4e-;
+bar
+1 1: 8r; 4.c+a; 8r; 4.bg;
+1 2: 2a-; 2a-;
+bar
+1 1: 8r; 4.d+b; 8r; 4.c+a;
+1 2: 2a-; 2a-;
+bar
+1 1: 8r; 4.e+c+; 8r; 4.d+b;
+1 2: 2a-; 2a-;
+bar
+1 1: 8r; 4.f+d+; 8r; 4.e+c+;
+1 2: 2a-; 2a-;
+bar
+1 1: 8r; 4d+b; 8c+~a~; 8c+a; 4.b~g~;
+1 2: 2a-~; 8a-; 4.r;
+bar
+1 1: 4bg; 4r; 2r;
+1 2: 4r; 8e-; e-; e-; r; e-; r;
+bar
 repeatstart
-1 1: 1c+a;
-1 2: 1a-;
+1: 8c+; a; e; c+; b; g; e; b;
 bar
-1 1: 4r; 2.bg;
-1 2: 1a-;
+1: 8d+; a; f; d+; 2c+~a~e~;
 bar
-1 1: 4r; 2.d+b;
-1 2: 1a-;
-bar
-1 1: 4r; 2.c+~a~;
-1 2: 1a-~;
-bar
-1 1: 1c+~a~;
-1 2: 1a-~;
-bar
-1 1: 2c+a; 2r;
-1 2: 2a-; 4e-; e-;
-bar
-1: 4e-; r; e-; r;
+1: 4c+ae; 8e-; e-; e-; r; e-; r;
 repeatend
-1 1: 1c+a;
-1 2: 1a-;
+1: 8c+; a; e; c+; b; g; e; b;
 bar
-1 1: 4r; 2.bg;
-1 2: 1a-;
+1: 8d+; a; f; d+; c+; a; e; c+;
 bar
-1 1: 4r; 2.d+b;
-1 2: 1a-;
+1: 8e+; c+; a; e+; d+; a; f; d+;
 bar
-1 1: 4r; 2.c+a;
-1 2: 1a-;
+1: 2f+d+a; 2e+c+a;
 bar
-1 1: 4r; 2.e+c+;
-1 2: 1a-;
+1: 4d+af; c+ae; 2b~g~e~;
 bar
-1 1: 4r; 2.d+b;
-1 2: 1a-;
-bar
-1 1: 4r; 2.f+d+;
-1 2: 1a-;
-bar
-1 1: 4r; 2.e+c+;
-1 2: 1a-;
-bar
-1 1: 4r; 2d+b; 4c+~a~;
-1 2: 1a-~;
-bar
-1 1: 4c+a; 2.b~g~;
-1 2: 4a-; 2.r;
-bar
-1 1: 1b~g~;
-bar
-1 1: 2bg; 2r;
-1 2: 2r; 4e-; e-;
-bar
-1: 4e-; r; e-; r;
-repeatstart
-1: 4c+; a; e; c+;
-bar
-1: 4b; g; e; b;
-bar
-1: 4d+; a; f; d+;
-bar
-1: 1c+~a~e~;
-bar
-1: 1c+~a~e~;
-bar
-1: 2c+ae; 4a-; a-;
-bar
-1: 4a-; r; a-; r;
-repeatend
-1: 4c+; a; e; c+;
-bar
-1: 4b; g; e; b;
-bar
-1: 4d+; a; f; d+;
-bar
-1: 4c+; a; e; c+;
-bar
-1: 4e+; c+; a; e+;
-bar
-1: 4d+; a; f; d+;
-bar
-1: 1f+d+a;
-bar
-1: 1e+c+a;
-bar
-1: 2d+af; 2c+ae; 
-bar
-1: 1b~g~e~;
-bar
-1: 1b~g~e~;
-bar
-1: 2bge; 4a-; a-;
-bar
-1: 4a-; r; a-; r;
-repeatstart rehearsal mnum
+1: 4bge; 8e-; e-; e-; r; e-; r;
+repeatstart rehearsal let
 // first verse
-1: 4c+; a; e; c+;
+1: 8c+; a; e; c+; b; g; e; b;
 bar
-1: 4b; g; e; b;
+1: 8d+; a; f; d+; c+; a; e; c+;
 bar
-1: 4d+; a; f; d+;
+1: 8b; g; e; b; a; f; d; a;
 bar
-1: 4c+; a; e; c+;
+1: 4f; e; 8f; d; a-; d;
 bar
-1: 4b; g; e; b;
+1: 4f; a; 8d+; a; f; a;
 bar
-1: 4a; f; d; a;
+1: 4d+; e+; 8d+; a; f; a;
 bar
-1: 2f; e;
+1: 8d+; a; d+; e+; f+; e+; d+; f+;
 bar
-1: 4f; d; a-; d;
+1: 8e+; d+; c+; b; c+; a; e; c+;
 bar
-1: 2f; a;
+1: 8b; g; e; b; d+; a; f; d+;
 bar
-1: 4d+; a; f; a;
+1: 8c+; a; e; c+; b; g; e; b;
 bar
-1: 2d+; e+;
+1: 8a; f; d; a; b; g; e; g;
 bar
-1: 4d+; a; f; a;
+1: 4b; d+; 8b; g; e; g;
 bar
-1: 4d+; a; d+; e+;
+1: 4b; c+; 8b; g; e; g;
 bar
-1: 4f+; e+; d+; f+;
+1: 4b; d+; 2b;
 bar
-1: 4e+; d+; c+; b;
+1: 8c+; a; c+; d+; 4c+; 8a; a;
 bar
-1: 4c+; a; e; c+;
+1: 4a; e; f; a;
 bar
-1: 4b; g; e; b;
+1 1: 4c+; d+; 8e+; d+; c+; e+;
+1 2: 2r; e-~;
 bar
-1: 4d+; a; f; d+;
+1 1: 8d+; c+; b; c+; 4b; 8e; e;
+1 2: 4e-; r; 2r;
 bar
-1: 4c+; a; e; c+;
+1: 8c+; a; c+; d+; 4c+; 8a; a;
 bar
-1: 4b; g; e; b;
+score
+	time = 3/4
+music
+1: 4a; e; f; 
 bar
-1: 4a; f; d; a;
-bar
-1: 4b; g; e; g;
-bar
-1: 2b; 2d+;
-bar
-1: 4b; g; e; g;
-bar
-1: 2b; 2c+;
-bar
-1: 4b; g; e; g;
-bar
-1: 2b; 2d+;
-bar
-1: 1b;
-bar
-1: 4c+; a; c+; d+;
-bar
-1: 2c+; 4a; a;
-bar
-1: 2a; 2e;
-bar
-1: 2f; 2a;
-bar
-1: 2c+; 2d+;
-bar
-1 1: 4e+; d+; c+; e+;
-1 2: 1e-~;
-bar
-1 1: 4d+; c+; b; c+;
-1 2: 2e-; r;
-bar
-1: 2b; 4e; e;
-bar
-1: 4c+; a; c+; d+;
-bar
-1: 2c+; 4a; a;
-bar
-1: 2e; f;
-bar
-1: 2.a; 4b;
+1: 2a; 4b;
 repeatend
 // end of second verse
-1: 4c+; b; c+; d+~;
-bar
-1: 4d+; 2c+; 4b;
-bar
-1: 2c+; a;
-bar
-1: 2g; f;
-bar
-1 1: 2r; 4bd+; bd+;
-1 2: 1e~;
-bar
-1 1: 2bd+; bd+;
-1 2: 1e;
-bar
-1: 2r; 4c+a; c+a;
-1 2: 1e~;
-bar
-1 1: 2c+a; c+a;
-1 2: 1e;
-bar
-1: 2r; 4gb; gb;
-1 2: 1e~;
-bar
-1 1: 2gb; gb;
-1 2: 1e;
-bar
-1: 2r; 4gb; gb;
-1 2: 1e-~;
-bar
-1 1: 2gb; gb;
-1 2: 1e-;
-repeatstart rehearsal mnum
-1 1: 2r; 4a; 4b;
-1 2: 1a-~;
-bar
-1 1: 2c+; a;
-1 2: 1a-~;
-bar
-1 1: 2b; c+;
-1 2: 1a-~;
-bar
-1 1: 2a; b;
-1 2: 1a-;
-bar
-1 1: 2r; 4a; 4b;
-1 2: 1a-~;
-bar
-1 1: 2c+; a;
-1 2: 1a-~;
-bar
-1 1: 2b; e+;
-1 2: 1a-~;
-bar
-1 1: 2a; b;
-1 2: 1a-;
-bar
-1 1: 2r; 4a; 4b;
-1 2: 1a-~;
-bar
-1 1: 2c+; a;
-1 2: 1a-~;
-bar
-1 1: 2b; c+;
-1 2: 1a-~;
-bar
-1 1: 2a; b;
-1 2: 1a-;
-bar
-1: 4a; g; f; e;
-bar
-1: d; c; b-; a-;
-bar
-1: 4a; g; f; e;
-bar
-1: d; c; 2b-;
-repeatend
-1 1: 2r; 4a; 4b;
-1 2: 1a-~;
-bar
-1 1: 2c+; a;
-1 2: 1a-~;
-bar
-1 1: 2b; c+;
-1 2: 1a-~;
-bar
-1 1: 2a; b;
-1 2: 1a-;
-bar
-1 1: 2r; 4a; 4b;
-1 2: 1a-~;
-bar
-1 1: 2c+; d+;
-1 2: 1a-;
-bar
-1: 4e+; d+; c+; e+;
-bar
-1: 4d+; c+; 2b;
-bar
-1 1: 2r; 4a; 4b;
-1 2: 1a-~;
-bar
-1 1: 2c+; d+;
-1 2: 1a-;
-bar
-1: 4e+; d+; c+; e+;
-bar
-1: 4d+; c+; b; a;
-bar
-1: 4f+; e+; d+; f+;
-bar
-1: 4e+; d+; c+; b;
-bar
-1: 4g+; f+; e+; g+;
-bar
-1: 4f+; e+; d+; c+;
-bar
-score
-        time = 3/4
-music
-1: 4a+; g+; f+;
-bar
-1: 4a+; g+; f+;
-bar
-1: 4a+; g+; f+;
-bar
-1: 4a+; g+; f+;
-bar
 score
 	time = 4/4
 music
-1: 4a+; g+; 2f+;
+1: 8c+; b; c+; d+~; d+; 4c+; 8b;
+bar
+1: 4c+; a; g; f;
+bar
+1 1: 4r; 8d+b; bd+; 4bd+; bd+;
+1 2: 1e;
+bar
+1 1: 4r; 8c+a; c+a; 4c+a; c+a;
+1 2: 1e;
+bar
+1 1: 4r; 8gb; gb; 4gb; gb;
+1 2: 1e;
+bar
+1 1: 4r; 8gb; gb; 4gb; gb;
+1 2: 1e-;
+repeatstart rehearsal let
+1 1: 4r; 8a; b; 4c+; a;
+1 2: 1a-~;
+bar
+1 1: 4b; c+; a; b;
+1 2: 1a-;
+bar
+1 1: 4r; 8a; b; 4c+; a;
+1 2: 1a-~;
+bar
+1 1: 4b; e+; a; b;
+1 2: 1a-;
+bar
+1 1: 4r; 8a; b; 4c+; a;
+1 2: 1a-~;
+bar
+1 1: 4b; c+; a; b;
+1 2: 1a-;
+bar
+1: 8a; g; f; e; d; c; b-; a-;
+bar
+1: 8a; g; f; e; d; c; 4b-;
+repeatend
+1 1: 4r; 8a; b; 4c+; a;
+1 2: 1a-~;
+bar
+1 1: 4b; c+; a; b;
+1 2: 1a-;
+bar
+1 1: 4r; 8a; b; 4c+; d+;
+1 2: 1a-;
+bar
+1: 8e+; d+; c+; e+; d+; c+; 4b;
+bar
+1 1: 4r; 8a; b; 4c+; d+;
+1 2: 1a-;
+bar
+1: 8e+; d+; c+; e+; d+; c+; b; a;
+bar
+1: 8f+; e+; d+; f+; e+; d+; c+; b;
+bar
+1: 8g+; f+; e+; g+; f+; e+; d+; c+;
+bar
+score
+        time = 3/4
+        beamstyle = 4., 4.
+music
+1: 8a+; g+; f+; a+; g+; f+;
+bar
+1: 8a+; g+; f+; a+; g+; f+;
+bar
+score
+	time = 2/4
+music
+1: 8a+; g+; 4f+;
 repeatstart
 score
         time = 3/4
 music
-1: 4b+; a+; g+;
+1: 8b+; a+; g+; b+; a+; g+;
 bar
-1: 4b+; a+; g+;
+1: 8b+; a+; g+; b+; a+; g+;
 bar
-1: 4b+; a+; g+;
-bar
-1: 4b+; a+; g+;
-bar
+score
+	time = 2/4
+music
+1: 8b+; a+; 4g+;
+repeatend rehearsal let
 score
 	time = 4/4
 music
-1: 4b+; a+; 2g+;
-repeatend
-1 1: 2a+; 2r;
-1 2: 2r; 4a-; a-;
-bar rehearsal mnum
-1 1: 2c+a; 2e+c+;
-1 2: 1a-;
+1 1: 4a+; r; c+a; e+c+;
+1 2: 4r; 8a-; a-; 2a-;
 bar
-1 1: 2c+a; 2r;
-1 2: 2r; 4a-; a-~;
+1 1: 4c+a; 2r; 4c+a;
+1 2: 4r; 8a-; a-; 2a-;
 bar
-1 1: 2r; 2c+a;
-1 2: 1a-;
+1: 8d+b; c+; b; d+; c+a; b; a; c+;
 bar
-1: 4bd+; c+; b; d+;
+1 1: 2bg; 2r;
+1 2: 4r; 8e-; e-; e-; r; e-; r;
 bar
-1: 4c+a; b; a; c+;
-bar
-1 1: 1bg;
-1 2: 2r; 4e-; e-;
-bar
-1: 4e-; r; e-; r;
-bar
-1 1: 4e+; d+; c+; e+;
-1 2: 1e-~;
-bar
-1 1: 4d+; c+; 2b;
+1 1: 8e+; d+; c+; e+; 8d+; c+; 4b;
 1 2: 1e-;
 bar
-1 1: 2a; 2r;
-1 2: 2r; 4a-; a-;
+1 1: 4a; r; c+a; e+c+;
+1 2: 4r; 8a-; a-; 2a-;
 bar
-1 1: 2c+a; 2e+c+;
-1 2: 1a-;
+1 1: 4c+a; 2r; 4c+a;
+1 2: 4r; 8a-; a-; 2a-;
 bar
-1 1: 2c+a; 2r;
-1 2: 2r; 4a-; a-~;
+1: 4d+b; d+b; c+a; c+a;
 bar
-1 1: 2r; 2c+a;
-1 2: 1a-;
+1: 2f+d+; e+c+;
 bar
-1: 2d+b; d+b;
+1: 4d+b; c+a; 2b~g~; 
 bar
-1: 2c+a; c+a;
+1: 2bg; 2r;
+1 2: 4r; 8e-; e-; e-; r; e-; r;
 bar
-1: 1f+d+;
+1 1: 2r; 4c+a; e+c+;
+1 2: 4.a-; 8a-~; 2a-;
 bar
-1: 1e+c+;
+1 1: 4c+a; 2r; 4c+a;
+1 2: 4r; 8a-; a-; 2a-;
 bar
-1: 1g+e+;
+1: 8d+b; c+; b; d+; c+a; b; a; c+;
 bar
-1: 1f+d+;
+1 1: 2bg; 8e-; r; e-; r;
+1 2: 4r; 8e-; e-; 2r;
 bar
-1: 1a+f+;
+1 1: 8e+; d+; c+; e+; 8d+; c+; 4b;
+1 2: 1e-;
 bar
-1: 1g+e+;
+1 1: 4a; r; c+a; e+c+;
+1 2: 4r; 8a-; a-; 2a-;
 bar
-1 1: 1a+~e+~;
-1 2: 2r; 4a-; a-;
+1 1: 4c+a; 2r; 4c+a;
+1 2: 4r; 8a-; a-; 2a-;
 bar
-1 1: 1a+~e+~;
-1 2: 4a-; r; a-; r;
+1: 4d+b; d+b; c+a; c+a;
+bar
+1: 2f+d+; e+c+;
+bar
+1: 2g+e+; f+d+;
+bar
+1 1: 2a+f+; g+e+; 
 bar
 1 1: 1a+e+;
+1 2: 4r; 8a-; a-; a-; r; a-; r;
+bar
 1 2: 1a-;
-bar rehearsal mnum
+bar rehearsal let
 score
         time = 3/4
 music
-1 1: 4a; b; c+;
-1 2: 4a-; 2r;
+1 1: 8a; b; c+; a; b; c+;
+1 2: 8a-; 4.r; 4r;
 bar
-1: 4a; b; c+;
-bar
-1: 4a; b; c+;
-bar
-1: 4a; b; c+;
+1: 8a; b; c+; a; b; c+;
 bar
 score
-	time = 4/4
+	time = 2/4
 music
-1: 4a; b; 2c+;
+1: 8a; b; 4c+;
 bar
 score
         time = 3/4
 music
-1 1: 4b; c+; d+;
-1 2: 4b-; 2r;
+1 1: 8b; c+; d+; b; c+; d+;
+1 2: 8b-; 4.r; 4r;
 bar
-1: 4b; c+; d+;
-bar
-1: 4b; c+; d+;
-bar
-1: 4b; c+; d+;
+1: 8b; c+; d+; b; c+; d+;
 bar
 score
-	time = 4/4
+	time = 2/4
 music
-1: 4b; c+; 2d+;
+1: 8b; c+; 4d+;
 bar
 score
         time = 3/4
 music
-1 1: 4c+; d+; e+;
-1 2: 4c; 2r;
+1 1: 8c+; d+; e+; c+; d+; e+;
+1 2: 8c; 4.r; 4r;
 bar
-1: 4c+; d+; e+;
-bar
-1: 4c+; d+; e+;
-bar
-1: 4c+; d+; e+;
+1: 8c+; d+; e+; c+; d+; e+;
 bar
 score
-	time = 4/4
+	time = 2/4
 music
-1: 4c+; d+; 2e+;
+1: 8c+; d+; 4e+;
 bar
 score
         time = 3/4
 music
-1 1: 4d+; e+; f+;
-1 2: 4d; 2r;
+1 1: 8d+; e+; f+; d+; e+; f+;
+1 2: 8d; 4.r; 4r;
 bar
-1: 4d+; e+; f+;
-bar
-1: 4d+; e+; f+;
-bar
-1: 4d+; e+; f+;
+1: 8d+; e+; f+; d+; e+; f+;
 bar
 score
-	time = 4/4
+	time = 2/4
 music
-1: 4d+; e+; 2f+;
+1: 8d+; e+; 4f+;
 bar
 score
         time = 3/4
 music
-1 1: 4e+; f+; g+;
-1 2: 4e-; 2r;
+1 1: 8e+; f+; g+; e+; f+; g+;
+1 2: 8e-; 4.r; 4r;
 bar
-1: 4e+; f+; g+;
-bar
-1: 4e+; f+; g+;
-bar
-1: 4e+; f+; g+;
+1: 8e+; f+; g+; e+; f+; g+;
 bar
 score
-	time = 4/4
+	time = 2/4
 music
-1: 4e+; f+; 2g+;
+1: 8e+; f+; 4g+;
 bar
 score
         time = 3/4
 music
-1: 4e+; f+; g+;
+1: 8e+; f+; g+; e+; f+; g+;
 bar
-1: 4e+; f+; g+;
+1: 8e+; f+; g+; e+; f+; g+;
 bar
-1: 4e+; f+; g+;
-bar
-1: 4e+; f+; g+;
+score
+	time = 2/4
+music
+1: 8e+; f+; 4g+;
 bar
 score
 	time = 4/4
 music
-1: 4e+; f+; 2g+;
-bar
-1 1: 4a+; g+; f+; e+;
-1 2: 1a-~;
-bar
-1 1: 4d+; c+; b; a;
+1 1: 8a+; g+; f+; e+; d+; c+; b; a;
 1 2: 1a-;
 bar
-1 1: 4a; g; f; e;
-1 2: 1a-~;
+1 1: 8a; g; f; e; d; c; b-; a-;
+1 2: 2.a-; 4r;
 bar
-1 1: d; c; b-; a-;
-1 2: 2a-; 2r;
-bar
-1 1: 4a+; g+; f+; e+;
-1 2: 1a-~;
-bar
-1 1: 4d+; c+; b; a;
+1 1: 8a+; g+; f+; e+; d+; c+; b; a;
 1 2: 1a-;
 bar
-1 1: 4a; g; f; e;
-1 2: 1a-~;
-bar
-1 1: d; c; b-; a-;
-1 2: 2a-; 2r;
+1 1: 8a; g; f; e; d; c; b-; a-;
+1 2: 2.a-; 4r;
 repeatstart
-1 1: 4e+; e+; e+; f+;
-1 2: 1a-~;
-bar
-1 1: 4a+; e+; f+; a+;
+1 1: 8e+; e+; e+; f+; a+; e+; f+; a+;
 1 2: 1a-;
 bar
-1 1: 4a; a; a; b; 
-1 2: 1a-~;
-bar
-1 1: 4c+; a; b; c+;
+1 1: 8a; a; a; b; c+; a; b; c+;
 1 2: 1a-;
 bar
-1 1: 4e+; e+; e+; f+;
-1 2: 1a-~;
-bar
-1 1: 4a+; e+; f+; a+;
+1 1: 8e+; e+; e+; f+; a+; e+; f+; a+;
 1 2: 1a-;
 bar
-1 1: 4a; a; a; b; 
-1 2: 1a-~;
-bar
-1 1: 4c+; a; b; c+;
+1 1: 8a; a; a; b; c+; a; b; c+;
 1 2: 1a-;
 bar
 score
         time = 3/4
 music
-1: 4a; b; c+;
+1: 8a; b; c+; g; a; b;
 bar
-1: 4g; a; b;
+1: 8f; g; a; e; f; g;
 bar
-1: 4f; g; a;
+1: 8d; e; f; g; a; g; 
 bar
-1: 4e; f; g;
-bar
-score
-	time = 4/4
-music
-1: 4d; e; f; g;
-bar
-1: 4a; g; f; e; 
-bar
-1: 4d; c; b-; a-;
+1: 8f; e; d; c; b-; a-;
 repeatend
-bar rehearsal mnum
-score
-        time = 3/4
-music
-1 1: 4a; b; c+;
-1 2: 4a-; 2r;
+bar rehearsal let
+1 1: 8a; b; c+; a; b; c+;
+1 2: 8a-; 4.r; 4r;
 bar
-1: 4a; b; c+;
-bar
-1: 4a; b; c+;
-bar
-1: 4a; b; c+;
+1: 8a; b; c+; a; b; c+;
 bar
 score
-	time = 4/4
+	time = 2/4
 music
-1: 4a; b; c+; 8d+; c+;
+1: 8a; b; c+; 16d+; c+;
 bar
 score
         time = 3/4
 music
-1 1: 4b; c+; d+;
+1: 8b; c+; d+; b; c+; d+;
 bar
-1: 4b; c+; d+;
-bar
-1: 4b; c+; d+;
-bar
-1: 4b; c+; d+;
+1: 8b; c+; d+; b; c+; d+;
 bar
 score
-	time = 4/4
+	time = 2/4
 music
-1: 4b; c+; d+; 8e+; d+;
+1: 8b; c+; d+; 16e+; d+;
 bar
 score
         time = 3/4
 music
-1 1: 4c+; d+; e+;
+1: 8c+; d+; e+; c+; d+; e+;
 bar
-1: 4c+; d+; e+;
-bar
-1: 4c+; d+; e+;
-bar
-1: 4c+; d+; e+;
+1: 8c+; d+; e+; c+; d+; e+;
 bar
 score
-	time = 4/4
+	time = 2/4
 music
-1: 4c+; d+; 4e+; 8f+; e+;
+1: 8c+; d+; e+; 16f+; e+;
 bar
 score
         time = 3/4
 music
-1 1: 4d+; e+; f+;
+1: 8d+; e+; f+; d+; e+; f+;
 bar
-1: 4d+; e+; f+;
-bar
-1: 4d+; e+; f+;
-bar
-1: 4d+; e+; f+;
+1: 8d+; e+; f+; d+; e+; f+;
 bar
 score
-	time = 4/4
+	time = 2/4
 music
-1: 4d+; e+; f+; 8g+; f+;
+1: 8d+; e+; f+; 16g+; f+;
 bar
 score
         time = 3/4
 music
-1 1: 4e+; f+; g+;
+1: 8e+; f+; g+; e+; f+; g+;
 bar
-1: 4e+; f+; g+;
-bar
-1: 4e+; f+; g+;
-bar
-1: 4e+; f+; g+;
+1: 8e+; f+; g+; e+; f+; g+;
 bar
 score
-	time = 4/4
+	time = 2/4
 music
-1: 4e+; f+; g+; 8g+; f+;
+1: 8e+; f+; g+; 16g+; f+;
 bar
 score
         time = 3/4
 music
-1: 4e+; f+; g+;
+1: 8e+; f+; g+; e+; f+; g+;
 bar
-1: 4e+; f+; g+;
+1: 8e+; f+; g+; e+; f+; g+;
 bar
-1: 4e+; f+; g+;
-bar
-1: 4e+; f+; g+;
+score
+	time = 2/4
+music
+1: 8e+; f+; 4g+;
 bar
 score
 	time = 4/4
 music
-1: 4e+; f+; 2g+;
+1 1: 4a+; r; c+a; e+c+;
+1 2: 4r; 8a-; a-; 2a-;
 bar
-1 1: 2a+; 2r;
-1 2: 2r; 4a-; a-;
+1 1: 4c+a; r; 4r; c+a;
+1 2: 4r; 8a-; a-; 2a-;
 bar
-1 1: 2c+a; 2e+c+;
-1 2: 1a-;
+1: 8d+b; c+; b; d+; c+a; b; a; c+;
 bar
-1 1: 2c+a; 2r;
-1 2: 2r; 4a-; a-~;
+1 1: 2bg; 8e-; r; e-; r;
+1 2: 4r; 8e-; e-; 2r;
 bar
-1 1: 2r; 2c+a;
-1 2: 1a-;
-bar
-1: 4bd+; c+; b; d+;
-bar
-1: 4c+a; b; a; c+;
-bar
-1 1: 1bg;
-1 2: 2r; 4e-; e-;
-bar
-1: 4e-; r; e-; r;
-bar
-1 1: 4e+; d+; c+; e+;
-1 2: 1e-~;
-bar
-1 1: 4d+; c+; 2b;
+1 1: 8e+; d+; c+; e+; d+; c+; 4b;
 1 2: 1e-;
 bar
-1 1: 2a; 2r;
-1 2: 2r; 4a-; a-;
+1 1: 4a; r; c+a; e+c+;
+1 2: 4r; 8a-; a-; 2a-;
 bar
-1 1: 2c+a; 2e+c+;
+1 1: 4c+a; r; r; c+a;
+1 2: 4r; 8a-; a-; 2a-;
+bar
+1: 4d+b; d+b; c+a; c+a;
+bar
+1: 2f+d+; e+c+;
+bar
+1: 4d+b; c+a; 2bg;
+bar rehearsal let
+1 1: 8a; r; a; b; 4c+; a;
+1 2: 8r; 4.a-~; 2a-~;
+bar
+1 1: 4b; c+; a; b;
 1 2: 1a-;
 bar
-1 1: 2c+a; 2r;
-1 2: 2r; 4a-; a-~;
+1 1: 4r; 8a; b; 4c+; a;
+1 2: 1a-~;
 bar
-1 1: 2r; 2c+a;
+1 1: 4b; e+; a; b;
 1 2: 1a-;
 bar
-1: 2d+b; d+b;
-bar
-1: 2c+a; c+a;
-bar
-1: 1f+d+;
-bar
-1: 1e+c+;
-bar
-1: 2d+b; 2c+a;
-bar
-1: 1bg;
-bar rehearsal mnum
-1 1: 4a; r; a; b;
-1 2: 4r; 2.a-~;
-bar
-1 1: 2c+; a;
+1 1: 4r; 8a; b; 4c+; a;
 1 2: 1a-~;
 bar
-1 1: 2b; c+;
-1 2: 1a-~;
-bar
-1 1: 2a; b;
+1 1: 4b; c+; a; b;
 1 2: 1a-;
 bar
-1 1: 2r; 4a; 4b;
+1: 8a; g; f; e; d; c; b-; a-;
+bar
+1: 8a; g; f; e; d; c; 4b-;
+bar
+1 1: 4r; 8a; b; 4c+; a;
 1 2: 1a-~;
 bar
-1 1: 2c+; a;
-1 2: 1a-~;
-bar
-1 1: 2b; e+;
-1 2: 1a-~;
-bar
-1 1: 2a; b;
+1 1: 4b; c+; a; b;
 1 2: 1a-;
 bar
-1 1: 2r; 4a; 4b;
+1 1: 4r; 8a; b; 4c+; a;
 1 2: 1a-~;
 bar
-1 1: 2c+; a;
-1 2: 1a-~;
-bar
-1 1: 2b; c+;
-1 2: 1a-~;
-bar
-1 1: 2a; b;
+1 1: 4b; e+; a; b;
 1 2: 1a-;
 bar
-1: 4a; g; f; e;
+1 1: 4r; 8a; b; 4c+; a;
+1 2: 1a-~;
 bar
-1: d; c; b-; a-;
-bar
-1: 4a; g; f; e;
-bar
-1: d; c; 2b-;
-bar
-1 1: 2r; 4a; b;
+1 1: 4b; c+; a; b;
 1 2: 1a-;
 bar
-1 1: 2c+; a;
+1: 8a; g; f; e; d; c; b-; a-;
+bar
+1: 8a; g; f; e; d; c; 4b-;
+bar
+1 1: 4r; 8a; b; 4c+; a;
 1 2: 1a-~;
 bar
-1 1: 2b; c+;
-1 2: 1a-~;
-bar
-1 1: 2a; b;
+1 1: 4b; c+; a; b;
 1 2: 1a-;
 bar
-1 1: 2r; 4a; 4b;
-1 2: 1a-~;
-bar
-1 1: 2c+; a;
-1 2: 1a-~;
-bar
-1 1: 2b; e+;
-1 2: 1a-~;
-bar
-1 1: 2a; b;
+1 1: 4r; 8a; b; 4c+; d+;
 1 2: 1a-;
 bar
-1 1: 2r; 4a; 4b;
-1 2: 1a-~;
+1: 8e+; d+; c+; e+; d+; c+; 4b;
 bar
-1 1: 2c+; a;
-1 2: 1a-~;
-bar
-1 1: 2b; c+;
-1 2: 1a-~;
-bar
-1 1: 2a; b;
+1 1: 4r; 8a; b; 4c+; d+;
 1 2: 1a-;
 bar
-1: 4a; g; f; e;
+1: 8e+; d+; c+; e+; d+; c+; b; a;
 bar
-1: d; c; b-; a-;
+1: 8f+; e+; d+; f+; e+; d+; c+; b;
 bar
-1: 4a; g; f; e;
-bar
-1: d; c; 2b-;
-bar
-
-
-
-
-1 1: 2r; 4a; 4b;
-1 2: 1a-~;
-bar
-1 1: 2c+; a;
-1 2: 1a-~;
-bar
-1 1: 2b; c+;
-1 2: 1a-~;
-bar
-1 1: 2a; b;
-1 2: 1a-;
-bar
-1 1: 2r; 4a; 4b;
-1 2: 1a-~;
-bar
-1 1: 2c+; d+;
-1 2: 1a-;
-bar
-1: 4e+; d+; c+; e+;
-bar
-1: 4d+; c+; 2b;
-bar
-1 1: 2r; 4a; 4b;
-1 2: 1a-~;
-bar
-1 1: 2c+; d+;
-1 2: 1a-;
-bar
-1: 4e+; d+; c+; e+;
-bar
-1: 4d+; c+; b; a;
-bar
-1: 4f+; e+; d+; f+;
-bar
-1: 4e+; d+; c+; b;
-bar
-1: 4g+; f+; e+; g+;
-bar
-1: 4f+; e+; d+; c+;
+1: 8g+; f+; e+; g+; f+; e+; d+; c+;
 bar
 score
         time = 3/4
 music
-1: 4a+; g+; f+;
+1: 8a+; g+; f+; a+; g+; f+;
 bar
-1: 4a+; g+; f+;
-bar
-1: 4a+; g+; f+;
-bar
-1: 4a+; g+; f+;
+1: 8a+; g+; f+; a+; g+; f+;
 bar
 score
-	time = 4/4
+	time = 2/4
 music
-1: 4a+; g+; 2f+;
+1: 8a+; g+; 4f+;
 repeatstart
 score
         time = 3/4
 music
-1: 4b+; a+; g+;
+1: 8b+; a+; g+; b+; a+; g+;
 bar
-1: 4b+; a+; g+;
-bar
-1: 4b+; a+; g+;
-bar
-1: 4b+; a+; g+;
+1: 8b+; a+; g+; b+; a+; g+;
 bar
 score
-	time = 4/4
+	time = 2/4
 music
-1: 4b+; a+; 2g+;
+1: 8b+; a+; 4g+;
 repeatend
 score
         time = 3/4
 music
-1: 4b+; a+; g+;
+1: 8b+; a+; g+; b+; a+; g+;
 ital above 1: 1 "rit. poco a poco";
 bar
-1: 4b+; a+; g+;
-bar
-1: 4b+; a+; g+;
-bar
-1: 4b+; a+; g+;
+1: 8b+; a+; g+; b+; a+; g+;
 bar
 score
 	time = 4/4
 music
-1: 4b+; a+; 2g+;
-bar
-1: 1a+;
-mussym above 1: 1 "ferm";
+1: 8b+; a+; 4g+; 2a+;
+mussym above 1: 3 "ferm";
 bar
 //
 // end of "To Be Over"
