@@ -9,7 +9,7 @@ header
 	title (18) "South Side of the Sky"
 	title (12) "Words and Music by"
 	title (12) "JON ANDERSON and CHRIS SQUIRE"
-	title (10) "" "Arranged for Bass by Peter Saint-Andre"
+	title (10) "Moderato" "Arranged for Bass by Peter Saint-Andre"
 footer
 	title (10) "Copyright 1971, 1972 Topographic Music Limited & Rondor Music (London) Ltd."
 header2
@@ -181,7 +181,7 @@ bar
 1: 8b-; d; f; g; b; g; f; d;
 bar
 1: 8b-; d; f; g; 2b~;
-bar rehearsal mnum
+bar rehearsal let
 score
 	time = 3/4
 music
@@ -202,7 +202,7 @@ bar
 1: 4fn; 8d; 4e; 8c;
 bar
 1: 4d; 8b-; 4c; 8a-;
-bar rehearsal mnum
+bar rehearsal let
 1: 8f#; e; b-; f; e; b-;
 bar
 1: 8f; e; b-; f; e; b-;
@@ -324,7 +324,7 @@ bar
 1: 4fn; 8d; 4e; 8c;
 bar
 1: 4d; 8b-; 4c; 8a-;
-bar rehearsal mnum
+bar rehearsal let
 1: 8f#; e; b-; f; e; b-;
 bar
 1: 8f; e; b-; f; e; b-;
@@ -449,7 +449,7 @@ score
 	time = 4/4
 music
 1: 4d; b-; 8c; b-; a-; g-;
-repeatstart rehearsal mnum
+repeatstart rehearsal let
 score
 	time = 3/4
 music
@@ -614,7 +614,7 @@ score
 	time = 2/4
 music
 1: 8e; e; 4b-;
-bar rehearsal mnum
+bar rehearsal let
 score
 	time = 3/4
 music

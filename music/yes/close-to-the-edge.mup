@@ -72,7 +72,7 @@ bar
 1: 8e; f; c+; r; e; f; 4d+~;
 bar
 1: 2.d+; 4g+;
-bar rehearsal mnum
+bar rehearsal let
 score
         key = 2#
 music
@@ -98,7 +98,7 @@ bar
 1: 4.g; 4.a; 
 bar
 1: 4.f+; 4e+; 8g+;
-bar rehearsal mnum
+bar rehearsal let
 score
         time = 4/4
 music
@@ -135,7 +135,7 @@ music
 1: 8e+; 4f+; 8d+; 4f+; 8a; a;
 bar
 1: 8r; a; 2a; 4g-;
-bar rehearsal mnum
+bar rehearsal let
 score
         time = 12/8
 music
@@ -148,7 +148,7 @@ bar
 bar
 1: 8a- = _b; a-; a-; a-; r; g-; a-; r; 4a-; f+a-; 
 wavy line (_a.e + 1, _a.y) to (_b.w - 1, _b.y + 1)
-bar rehearsal mnum
+bar rehearsal let
 1 1: 4g+; 8f+; 4g+; 8f+; 4g+; 8f+; 4g+; 8f+;
 1 2: 1.a-~;
 bar

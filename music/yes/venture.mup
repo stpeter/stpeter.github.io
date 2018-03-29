@@ -8,7 +8,7 @@ header
 	title (18) "A Venture"
 	title (12) "Words and Music by"
 	title (12) "JON ANDERSON"
-	title (10) "Tuning: DADG" "Arranged for Bass by Peter Saint-Andre"
+	title (10) "Moderato" "Arranged for Bass by Peter Saint-Andre"
 footer
 	title (10) "Copyright 1971, 1972 Topographic Music Limited"
 header2
@@ -84,7 +84,7 @@ score
         time = 4/8
 music
 1: 4d-; 4f-;
-repeatstart rehearsal mnum
+repeatstart rehearsal let
 score
         time = 6/8
 music
@@ -137,7 +137,7 @@ bar
 1: 4d; 8f; 4g; 8f;
 bar
 1: 8g; 8a; 8a-; 8r; 8a-; 8r;
-repeatend rehearsal mnum
+repeatend rehearsal let
 // chorus
 1: 8g; 8a; 8b; 8g; 8a; 8b;
 bar
@@ -170,7 +170,7 @@ bar
 1: 8a; 8g; 8f; 8e; 8d; 8c;
 bar
 1: 8b-; 8a-; 8g-; 8f-; 8d-; 8f-;
-bar rehearsal mnum
+bar rehearsal let
 // back to intro, part three
 1: 8b-; 8a-; 8r; 4c; 8b-;
 bar
@@ -187,7 +187,7 @@ bar
 1: 4f; 8d; 8c; 8b-; 8a-;
 bar
 1: 8f; 8g; 8f; 8d; 4c;
-bar rehearsal mnum
+bar rehearsal let
 1: 8g; 8a; 8b; 8g; 8a; 8b;
 bar
 1: 8g; 8a; 8b; 8g; 8a; 8b;
@@ -219,7 +219,7 @@ bar
 1: 8a; 8b; 8c+; 8a; 8b; 8c+;
 bar
 1: 8a; 8b; 8c+; 8a; 8b; 8c+;
-bar rehearsal mnum
+bar rehearsal let
 // down again
 1: 8d+; 8b; 8g; 8d+; 8b; 8g;
 bar
@@ -252,7 +252,7 @@ bar
 1: 8b; 8f#; 8d; 8a; 8f; 8d;
 bar
 1: 8g; 8f#; 8d; 8a; 8f; 8d;
-bar rehearsal mnum
+bar rehearsal let
 1: 8d; 4f#; 4a; 8c+;
 bar
 score
@@ -282,7 +282,7 @@ bar
 1: 8d+; 4c+; 4b; 8a;
 bar
 1: 8b; 4a; 4g; 8fn;
-bar rehearsal mnum
+bar rehearsal let
 1: 8d+; 8b; 8g; 8d+; 8b; 8g;
 bar
 1: 8d+; 8b; 8g; 8d+; 8b; 8g;
@@ -314,7 +314,7 @@ bar
 1: 8d+; c+; b; a; g; fn;
 bar
 1: 8g; a; g; f; e; d; 
-bar rehearsal mnum
+bar rehearsal let
 1: 8d; 4f#; 4a; 8c+;
 bar
 score
@@ -344,7 +344,7 @@ bar
 1: 8d+; 4c+; 4b; 8a;
 bar
 1: 8b; 4a; 4g; 8fn;
-bar rehearsal mnum
+bar rehearsal let
 1: 8g; 8a; 8b; 8g; 8a; 8b;
 bar
 1: 8g; 8a; 8b; 8g; 8a; 8b;
@@ -360,7 +360,7 @@ bar
 1: 8a; 8g; 8f; 8e; 8d; 8c;
 bar
 1: 8b-; 8a-; 8g-; 8f-; 8d-; 8f-;
-bar rehearsal mnum
+bar rehearsal let
 1: 8g-; 8c; 8r; 4d; 8e;
 bar
 1: 8d; 8c; 8b-; 8a-; 8g-; 8f-;

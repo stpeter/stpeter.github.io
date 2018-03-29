@@ -9,7 +9,7 @@ header
 	title (18) "Turn of the Century"
 	title (12) "Words and Music by"
 	title (12) "JON ANDERSON, STEVE HOWE and ALAN WHITE"
-	title (10) "Slowly" "Arranged for Bass by Peter Saint-Andre"
+	title (10) "Adagio" "Arranged for Bass by Peter Saint-Andre"
 footer
 	title (10) "Copyright 1977, 1978 Topographic Music Limited"
 header2
@@ -88,7 +88,7 @@ bar
 1: 16b+; c++; 8b+; a+; e+; c+; e+; b; e+;
 ital above 1: 2 "rit.";
 mussym above 1: 4.5 "ferm";
-bar rehearsal mnum
+bar rehearsal let
 1 1: 8r; a; c+; 4e+; 8a; c+; e+~;
 1 2: 1a-~;
 ital above 1: 1 "a tempo";
@@ -125,7 +125,7 @@ bar
 1: 8d; e; f; g; a; g; a; b; 
 bar
 1: 8c+; b; a; g; f; e; d; c;
-bar rehearsal mnum
+bar rehearsal let
 1 1: 8r; c+; d+; e+~; e+; c+; d+; e+~;
 1 2: 1a-~;
 bar
@@ -182,7 +182,7 @@ bar
 1: 8c++; b+; a+; g+; f+; e+; d+; c+;
 bar
 1: 8c++; b+; a+; g+; c++; b+; a+; g+;
-bar rehearsal mnum
+bar rehearsal let
 1 1: 8r; e+; f+; g+~; g+; e+; f+; g+~;
 1 2: 1c+~;
 bar
@@ -217,7 +217,7 @@ music
 bar
 1 1: 8a+~; a+; 8a+; g+; f+; e+; d+; b;
 1 2: 8r; 8c+; 2.r;
-bar rehearsal mnum
+bar rehearsal let
 score
 	time = 3/8
         beamstyle = 4.
@@ -290,7 +290,7 @@ bar
 1: 8d; e; f; g; a; g; a; b; 
 bar
 1: 8c+; b; a; g; f; e; d; c;
-bar rehearsal mnum
+bar rehearsal let
 1 1: 8r; c+; d+; e+~; e+; c+; d+; e+~;
 1 2: 1a-~;
 bar
@@ -343,7 +343,7 @@ bar
 1: 8e+; 4r; 8b+~g+~; 2b+g+; 
 bar
 1 1: 8c++a+; b+g+; a+e+; g+e+; 2e+c+;
-bar rehearsal mnum
+bar rehearsal let
 1 1: 4r; 8a+; e+; c+; g+; e+; c+;
 1 2: 1a-~;
 bar
@@ -388,7 +388,7 @@ bar
 ital above 1: 1 "rit. poco a poco";
 bar
 1: 8d+; b; 4.g; 4.f;
-bar rehearsal mnum
+bar rehearsal let
 1 1: 2e; 4.c+; 8e;
 1 2: 2.r; 4a-~;
 ital above 1: 1 "a tempo";
@@ -453,7 +453,7 @@ bar
 1: 16b+; c++; 8b+; a+; e+; c+; e+; b; e+;
 ital above 1: 2 "rit.";
 mussym above 1: 4.5 "ferm";
-bar rehearsal mnum
+bar rehearsal let
 1 1: 8r; a; c+; 4e+; 8a; c+; e+~;
 1 2: 1a-~;
 ital above 1: 1 "a tempo";
