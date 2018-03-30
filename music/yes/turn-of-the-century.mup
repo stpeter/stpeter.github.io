@@ -2,8 +2,8 @@
 // solo bass arrangement of the Yes song "Turn of the
 // Century".
 //
-// Version: 1.6
-// Last Updated: 2018-03-08
+// Version: 1.7
+// Last Updated: 2018-03-29
 //
 header
 	title (18) "Turn of the Century"
@@ -85,7 +85,7 @@ bar
 bar
 1: 8e+; f+; e+; d+; c+; a; 8b+; c++;
 bar
-1: 16b+; c++; 8b+; a+; e+; c+; e+; b; e+;
+1: {16b+; c++; b+; }3; 8a+; e+; a+; c+; e+; b; e+;
 ital above 1: 2 "rit.";
 mussym above 1: 4.5 "ferm";
 bar rehearsal let
@@ -450,7 +450,7 @@ bar
 bar
 1: 8e+; f+; e+; d+; c+; a; 8b+; c++;
 bar
-1: 16b+; c++; 8b+; a+; e+; c+; e+; b; e+;
+1: {16b+; c++; b+; }3; 8a+; e+; a+; c+; e+; b; e+;
 ital above 1: 2 "rit.";
 mussym above 1: 4.5 "ferm";
 bar rehearsal let

@@ -1,8 +1,8 @@
 // This is the Mup source file for Peter Saint-Andre's 
 // solo bass arrangement of the Yes song "A Venture".
 //
-// Version: 1.4
-// Last Updated: 2018-03-25
+// Version: 1.5
+// Last Updated: 2018-03-29
 //
 header
 	title (18) "A Venture"
@@ -58,8 +58,8 @@ bar
 score
         time = 6/8
 music
-1 1: 8g; 8g; 8r; 4g; 8r;
-1 2: 8g-; 8c; 8r; 4d; 8e;
+1 1: 8g; 8g; 8r; 4g; 8e;
+1 2: 8g-; 8c; 8r; 4d; 8r;
 bar
 1: 8d; 8c; 8b-; 8a-; 8g-; 8f-;
 bar
@@ -73,8 +73,8 @@ bar
 score
         time = 6/8
 music
-1 1: 8g; 8g; 8r; 4g; 8r;
-1 2: 8g-; 8c; 8r; 4d; 8e;
+1 1: 8g; 8g; 8r; 4g; 8e;
+1 2: 8g-; 8c; 8r; 4d; 8r;
 bar
 1: 8d; 8c; 8b-; 8a-; 8g-; 8f-;
 bar
@@ -258,7 +258,7 @@ bar
 score
         time = 4/4
 music
-1: 8d+; 8r; [grace] 8fn; 8g; 8fn; 8d; 8r; 8c; 8r;
+1: 8d+; 8r; 16fn; g; 8fn; 8d; 8r; 8c; 8r;
 bar
 score
         time = 6/8
@@ -272,7 +272,7 @@ bar
 score
         time = 4/4
 music
-1: 8d+; 8r; [grace] 8fn; 8g; 8fn; 8d; 8r; 8c; 8r;
+1: 8d+; 8r; 16fn; g; 8fn; 8d; 8r; 8c; 8r;
 bar
 score
         time = 6/8
@@ -320,7 +320,7 @@ bar
 score
         time = 4/4
 music
-1: 8d+; 8r; [grace] 8fn; 8g; 8fn; 8d; 8r; 8c; 8r;
+1: 8d+; 8r; 16fn; g; 8fn; 8d; 8r; 8c; 8r;
 bar
 score
         time = 6/8
@@ -334,7 +334,7 @@ bar
 score
         time = 4/4
 music
-1: 8d+; 8r; [grace] 8fn; 8g; 8fn; 8d; 8r; 8c; 8r;
+1: 8d+; 8r; 16fn; g; 8fn; 8d; 8r; 8c; 8r;
 bar
 score
         time = 6/8
@@ -371,7 +371,7 @@ score
         time = 4/8
 music
 1: 4d-; 4f-;
-repeatstart
+bar
 score
         time = 6/8
 music
@@ -393,7 +393,7 @@ score
         time = 4/8
 music
 1: 4d-; 4f-;
-repeatend
+bar
 score
         time = 6/8
 music
