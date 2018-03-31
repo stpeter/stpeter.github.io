@@ -1,8 +1,8 @@
 // This is the Mup source file for Peter Saint-Andre's 
 // solo bass arrangement of the Yes song "To Be Over".
 //
-// Version: 2.0
-// Last Updated: 2018-03-28
+// Version: 2.1
+// Last Updated: 2018-03-31
 //
 header
 	title (18) "To Be Over"
@@ -77,55 +77,60 @@ bar
 bar
 1: 1a;
 bar
-1: 1a;
+1: 2.a; 4e;
 bar
 1: 1a;
 ital above 1: 1 "end harmonics";
 bar rehearsal let
 // intro, part two
-1 1: 8r; 4.c+a; 8r; 4.bg;
-1 2: 2a-; 2a-;
+1 1: 2c+a; 2bg;
+1 2: 4.a-; 8a-~; 2a-;
 bar
-1 1: 8r; 4.d+b; 8r; 4.c+~a~;
-1 2: 2a-; 2a-~;
-bar
-1 1: 4c+a; 4r; 2r;
-1 2: 4a-; 8e-; e-; e-; r; 4e-;
-bar
-1 1: 8r; 4.c+a; 8r; 4.bg;
-1 2: 2a-; 2a-;
-bar
-1 1: 8r; 4.d+b; 8r; 4.c+~a~;
-1 2: 2a-; 2a-~;
+1 1: 2d+b; 2c+~a~;
+1 2: 4.a-; 8a-~; 2a-~;
 bar
 1 1: 4c+a; 4r; 2r;
 1 2: 4a-; 8e-; e-; e-; r; 4e-;
 bar
-1 1: 8r; 4.c+a; 8r; 4.bg;
-1 2: 2a-; 2a-;
+1 1: 2c+a; 2bg;
+1 2: 4.a-; 8a-~; 2a-;
 bar
-1 1: 8r; 4.d+b; 8r; 4.c+a;
-1 2: 2a-; 2a-;
+1 1: 2d+b; 2c+~a~;
+1 2: 4.a-; 8a-~; 2a-~;
 bar
-1 1: 8r; 4.e+c+; 8r; 4.d+b;
-1 2: 2a-; 2a-;
+1 1: 4c+a; 4r; 2r;
+1 2: 4a-; 8e-; e-; e-; r; 4e-;
 bar
-1 1: 8r; 4.f+d+; 8r; 4.e+c+;
-1 2: 2a-; 2a-;
+1 1: 2c+a; 2bg;
+1 2: 4.a-; 2a-; 8a-~;
 bar
-1 1: 8r; 4d+b; 8c+~a~; 8c+a; 4.b~g~;
+1 1: 2d+b; 2c+a;
+1 2: 4.a-; 2a-; 8a-~;
+bar
+1 1: 2e+c+; 2d+b;
+1 2: 4.a-; 2a-; 8a-~;
+bar
+1 1: 2f+d+; 2e+c+;
+1 2: 4.a-; 2a-; 8a-~;
+bar
+1 1: 4d+b; 4c+a; 2b~g~;
 1 2: 2a-~; 8a-; 4.r;
 bar
 1 1: 4bg; 4r; 2r;
 1 2: 4r; 8e-; e-; e-; r; e-; r;
 bar
-repeatstart
 1: 8c+; a; e; c+; b; g; e; b;
 bar
 1: 8d+; a; f; d+; 2c+~a~e~;
 bar
 1: 4c+ae; 8e-; e-; e-; r; e-; r;
-repeatend
+bar
+1: 8c+; a; e; c+; b; g; e; b;
+bar
+1: 8d+; a; f; d+; 2c+~a~e~;
+bar
+1: 4c+ae; 8e-; e-; e-; r; e-; r;
+bar
 1: 8c+; a; e; c+; b; g; e; b;
 bar
 1: 8d+; a; f; d+; c+; a; e; c+;
@@ -181,6 +186,7 @@ bar
 bar
 score
 	time = 3/4
+        beamstyle = 4., 4.
 music
 1: 4a; e; f; 
 bar
@@ -249,30 +255,15 @@ bar
 1: 8g+; f+; e+; g+; f+; e+; d+; c+;
 bar
 score
-        time = 3/4
-        beamstyle = 4., 4.
+        time = 8/4
+        beamstyle = 4., 4., 4., 4., 2
 music
-1: 8a+; g+; f+; a+; g+; f+;
+1: 8a+; g+; f+; a+; g+; f+; a+; g+; f+; a+; g+; f+; a+; g+; 4f+;
 bar
-1: 8a+; g+; f+; a+; g+; f+;
+1: 8b+; a+; g+; b+; a+; g+; b+; a+; g+; b+; a+; g+; b+; a+; 4g+;
 bar
-score
-	time = 2/4
-music
-1: 8a+; g+; 4f+;
-repeatstart
-score
-        time = 3/4
-music
-1: 8b+; a+; g+; b+; a+; g+;
+1: 8b+; a+; g+; b+; a+; g+; b+; a+; g+; b+; a+; g+; b+; a+; 4g+;
 bar
-1: 8b+; a+; g+; b+; a+; g+;
-bar
-score
-	time = 2/4
-music
-1: 8b+; a+; 4g+;
-repeatend rehearsal let
 score
 	time = 4/4
 music
@@ -313,8 +304,8 @@ bar
 bar
 1: 8d+b; c+; b; d+; c+a; b; a; c+;
 bar
-1 1: 2bg; 8e-; r; e-; r;
-1 2: 4r; 8e-; e-; 2r;
+1 1: 2bg; 2r;
+1 2: 4r; 8e-; e-; e-; r; e-; r;
 bar
 1 1: 8e+; d+; c+; e+; 8d+; c+; 4b;
 1 2: 1e-;
@@ -339,81 +330,25 @@ bar
 1 2: 1a-;
 bar rehearsal let
 score
-        time = 3/4
+        time = 8/4
 music
-1 1: 8a; b; c+; a; b; c+;
-1 2: 8a-; 4.r; 4r;
+1 1: 8a; b; c+; a; b; c+; a; b; c+; a; b; c+; a; b; 4c+;
+1 2: 8a-; 4.r; 2r; 2r; 2r;
 bar
-1: 8a; b; c+; a; b; c+;
+1 1: 8b; c+; d+; b; c+; d+; b; c+; d+; b; c+; d+; b; c+; 4d+;
+1 2: 8b-; 4.r; 2r; 2r; 2r;
 bar
-score
-	time = 2/4
-music
-1: 8a; b; 4c+;
+1 1: 8c+; d+; e+; c+; d+; e+; c+; d+; e+; c+; d+; e+; c+; d+; 4e+;
+1 2: 8c; 4.r; 2r; 2r; 2r;
 bar
-score
-        time = 3/4
-music
-1 1: 8b; c+; d+; b; c+; d+;
-1 2: 8b-; 4.r; 4r;
+1 1: 8d+; e+; f+; d+; e+; f+; d+; e+; f+; d+; e+; f+; d+; e+; 4f+;
+1 2: 8d; 4.r; 2r; 2r; 2r;
 bar
-1: 8b; c+; d+; b; c+; d+;
+1 1: 8e+; f+; g+; e+; f+; g+; e+; f+; g+; e+; f+; g+; e+; f+; 4g+;
+1 2: 8e-; 4.r; 2r; 2r; 2r;
 bar
-score
-	time = 2/4
-music
-1: 8b; c+; 4d+;
-bar
-score
-        time = 3/4
-music
-1 1: 8c+; d+; e+; c+; d+; e+;
-1 2: 8c; 4.r; 4r;
-bar
-1: 8c+; d+; e+; c+; d+; e+;
-bar
-score
-	time = 2/4
-music
-1: 8c+; d+; 4e+;
-bar
-score
-        time = 3/4
-music
-1 1: 8d+; e+; f+; d+; e+; f+;
-1 2: 8d; 4.r; 4r;
-bar
-1: 8d+; e+; f+; d+; e+; f+;
-bar
-score
-	time = 2/4
-music
-1: 8d+; e+; 4f+;
-bar
-score
-        time = 3/4
-music
-1 1: 8e+; f+; g+; e+; f+; g+;
-1 2: 8e-; 4.r; 4r;
-bar
-1: 8e+; f+; g+; e+; f+; g+;
-bar
-score
-	time = 2/4
-music
-1: 8e+; f+; 4g+;
-bar
-score
-        time = 3/4
-music
-1: 8e+; f+; g+; e+; f+; g+;
-bar
-1: 8e+; f+; g+; e+; f+; g+;
-bar
-score
-	time = 2/4
-music
-1: 8e+; f+; 4g+;
+1 1: 8e+; f+; g+; e+; f+; g+; e+; f+; g+; e+; f+; g+; e+; f+; 4g+;
+1 2: 8e-; 4.r; 2r; 2r; 2r;
 bar
 score
 	time = 4/4
@@ -454,75 +389,21 @@ bar
 1: 8f; e; d; c; b-; a-;
 repeatend
 bar rehearsal let
-1 1: 8a; b; c+; a; b; c+;
-1 2: 8a-; 4.r; 4r;
-bar
-1: 8a; b; c+; a; b; c+;
-bar
 score
-	time = 2/4
+        time = 8/4
 music
-1: 8a; b; c+; 16d+; c+;
+1 1: 8a; b; c+; a; b; c+; a; b; c+; a; b; c+; a; b; c+; 16d+; c+;
+1 2: 8a-; 4.r; 2r; 2r; 2r;
 bar
-score
-        time = 3/4
-music
-1: 8b; c+; d+; b; c+; d+;
+1: 8b; c+; d+; b; c+; d+; b; c+; d+; b; c+; d+; b; c+; d+; 16e+; d+;
 bar
-1: 8b; c+; d+; b; c+; d+;
+1: 8c+; d+; e+; c+; d+; e+; c+; d+; e+; c+; d+; e+; c+; d+; e+; 16f+; e+;
 bar
-score
-	time = 2/4
-music
-1: 8b; c+; d+; 16e+; d+;
+1: 8d+; e+; f+; d+; e+; f+; d+; e+; f+; d+; e+; f+; d+; e+; f+; 16g+; f+;
 bar
-score
-        time = 3/4
-music
-1: 8c+; d+; e+; c+; d+; e+;
+1: 8e+; f+; g+; e+; f+; g+; e+; f+; g+; e+; f+; g+; e+; f+; g+; 16g+; f+;
 bar
-1: 8c+; d+; e+; c+; d+; e+;
-bar
-score
-	time = 2/4
-music
-1: 8c+; d+; e+; 16f+; e+;
-bar
-score
-        time = 3/4
-music
-1: 8d+; e+; f+; d+; e+; f+;
-bar
-1: 8d+; e+; f+; d+; e+; f+;
-bar
-score
-	time = 2/4
-music
-1: 8d+; e+; f+; 16g+; f+;
-bar
-score
-        time = 3/4
-music
-1: 8e+; f+; g+; e+; f+; g+;
-bar
-1: 8e+; f+; g+; e+; f+; g+;
-bar
-score
-	time = 2/4
-music
-1: 8e+; f+; g+; 16g+; f+;
-bar
-score
-        time = 3/4
-music
-1: 8e+; f+; g+; e+; f+; g+;
-bar
-1: 8e+; f+; g+; e+; f+; g+;
-bar
-score
-	time = 2/4
-music
-1: 8e+; f+; 4g+;
+1: 8e+; f+; g+; e+; f+; g+; e+; f+; g+; e+; f+; g+; e+; f+; 4g+;
 bar
 score
 	time = 4/4
@@ -535,8 +416,8 @@ bar
 bar
 1: 8d+b; c+; b; d+; c+a; b; a; c+;
 bar
-1 1: 2bg; 8e-; r; e-; r;
-1 2: 4r; 8e-; e-; 2r;
+1 1: 2bg; 2r;
+1 2: 4r; 8e-; e-; e-; r; e-; r;
 bar
 1 1: 8e+; d+; c+; e+; d+; c+; 4b;
 1 2: 1e-;
@@ -618,42 +499,22 @@ bar
 1: 8g+; f+; e+; g+; f+; e+; d+; c+;
 bar
 score
-        time = 3/4
+        time = 8/4
 music
-1: 8a+; g+; f+; a+; g+; f+;
+1: 8a+; g+; f+; a+; g+; f+; a+; g+; f+; a+; g+; f+; a+; g+; 4f+;
 bar
-1: 8a+; g+; f+; a+; g+; f+;
+1: 8b+; a+; g+; b+; a+; g+; b+; a+; g+; b+; a+; g+; b+; a+; 4g+;
 bar
-score
-	time = 2/4
-music
-1: 8a+; g+; 4f+;
-repeatstart
-score
-        time = 3/4
-music
-1: 8b+; a+; g+; b+; a+; g+;
+1: 8b+; a+; g+; b+; a+; g+; b+; a+; g+; b+; a+; g+; b+; a+; 4g+;
 bar
-1: 8b+; a+; g+; b+; a+; g+;
-bar
-score
-	time = 2/4
-music
-1: 8b+; a+; 4g+;
-repeatend
-score
-        time = 3/4
-music
-1: 8b+; a+; g+; b+; a+; g+;
+1: 8b+; a+; g+; b+; a+; g+; b+; a+; g+; b+; a+; g+; b+; a+; 4g+;
 ital above 1: 1 "rit. poco a poco";
 bar
-1: 8b+; a+; g+; b+; a+; g+;
-bar
 score
-	time = 4/4
+        time = 4/4
 music
-1: 8b+; a+; 4g+; 2a+;
-mussym above 1: 3 "ferm";
+1: 1a+;
+mussym above 1: 1 "ferm";
 bar
 //
 // end of "To Be Over"
