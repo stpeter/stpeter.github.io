@@ -2,8 +2,8 @@
 // solo bass arrangement of the Yes song "South Side 
 // of the Sky".
 //
-// Version: 1.1
-// Last Updated: 2018-03-26
+// Version: 1.2
+// Last Updated: 2018-04-01
 //
 header
 	title (18) "South Side of the Sky"
@@ -17,61 +17,25 @@ header2
 footer2
 	title "- \% -"
 score
-	time = 3/4
 	key = 1#
 	staffs = 1
 	clef = bass
-        beamstyle = 4., 4.
         vscheme = 2f
         measnum = y
 music
+score
+	time = 8/4
+        beamstyle = 4., 4., 4., 4., 2
+music
 // intro
 repeatstart
-1: 8g; e; b-; a; f; d;
+1: 8g; e; b-; a; f; d; b; g; e; a; f; d; 4geb-; afd;
 bar
-1: 8b; g; e; a; f; d;
+1: 8g; e; b-; a; f; d; b; g; e; a; f; d; 4geb-; afd;
 bar
-score
-        time = 2/4
-        beamstyle = 4, 4
-music
-1: 4geb-; afd;
+1: 8c+; a; e; d+; b; g; e+; c+; a; d+; b; g; 4c+ae; d+bg;
 bar
-score
-	time = 3/4
-music
-1: 8g; e; b-; a; f; d;
-bar
-1: 8b; g; e; a; f; d;
-bar
-score
-        time = 2/4
-music
-1: 4geb-; afd;
-bar
-score
-	time = 3/4
-music
-1: 8c+; a; e; d+; b; g;
-bar
-1: 8e+; c+; a; d+; b; g;
-bar
-score
-        time = 2/4
-music
-1: 4c+ae; d+bg;
-bar
-score
-	time = 3/4
-music
-1: 8g; e; b-; a; f; d;
-bar
-1: 8b; g; e; a; f; d;
-bar
-score
-        time = 2/4
-music
-1: 4geb-; afd;
+1: 8g; e; b-; a; f; d; b; g; e; a; f; d; 4geb-; afd;
 bar
 score
         time = 4/4
@@ -90,16 +54,9 @@ bar
 1: 8b; g; e; b; g; e; b; g;
 bar
 score
-	time = 3/4
+	time = 8/4
 music
-1: 8a; f; d; a; f; d;
-bar
-1: 8a; f; d; a; f; d;
-bar
-score
-        time = 2/4
-music
-1: 8a; f; 4d;
+1: 8a; f; d; a; f; d; a; f; d; a; f; d; a; f; 4d;
 bar
 score
 	time = 4/4
@@ -131,28 +88,11 @@ bar
 1: 8e; c; a-; e; c; a-; e; c;
 bar
 score
-	time = 3/4
+	time = 8/4
 music
-1: 8d; b-; g-; d; b-; g-;
+1: 8d; b-; g-; d; b-; g-; d; b-; g-; d; b-; g-; d; b-; 4g-;
 bar
-1: 8d; b-; g-; d; b-; g-;
-bar
-score
-        time = 2/4
-music
-1: 8d; b-; 4g-;
-bar
-score
-	time = 3/4
-music
-1: 8d; b-; g-; d; b-; g-;
-bar
-1: 8d; b-; g-; d; b-; g-;
-bar
-score
-        time = 2/4
-music
-1: 8g-; g; f-; g;
+1: 8d; b-; g-; d; b-; g-; d; b-; g-; d; b-; g-; g-; g; f-; g;
 bar
 score
 	time = 4/4
@@ -184,6 +124,7 @@ bar
 bar rehearsal let
 score
 	time = 3/4
+        beamstyle = 4., 4.
 music
 1: 4.b; 8b; a; f; 
 bar
@@ -203,50 +144,16 @@ bar
 bar
 1: 4d; 8b-; 4c; 8a-;
 bar rehearsal let
-1: 8f#; e; b-; f; e; b-;
-bar
-1: 8f; e; b-; f; e; b-;
-bar
 score
-	time = 2/4
+	time = 8/4
 music
-1: 8f; e; 4b-;
+1: 8f#; e; b-; f; e; b-; f; e; b-; f; e; b-; f; e; 4b-;
 bar
-score
-	time = 3/4
-music
-1: 8g#; f; b-; g; f; b-;
+1: 8g#; f; b-; g; f; b-; g#; f; b-; g; f; b-; g#; f; 4b-;
 bar
-1: 8g#; f; b-; g; f; b-;
+1: 8f#; e; b-; f; e; b-; f; e; b-; f; e; b-; f; e; 4b-;
 bar
-score
-	time = 2/4
-music
-1: 8g#; f; 4b-;
-bar
-score
-	time = 3/4
-music
-1: 8f#; e; b-; f; e; b-;
-bar
-1: 8f; e; b-; f; e; b-;
-bar
-score
-	time = 2/4
-music
-1: 8f; e; 4b-;
-bar
-score
-	time = 3/4
-music
-1: 8g#; f; b-; g; f; b-;
-bar
-1: 8g#; f; b-; g; f; b-;
-bar
-score
-	time = 2/4
-music
-1: 8g#; f; 4b-;
+1: 8g#; f; b-; g; f; b-; g#; f; b-; g; f; b-; g#; f; 4b-;
 bar
 score
 	time = 4/4
@@ -254,31 +161,11 @@ music
 1: 8a; fn; c; a; f; c; a; f;
 bar
 score
-	time = 3/4
+	time = 8/4
 music
-1: 8a; g; d; a; g; d;
+1: 8a; g; d; a; g; d; a; g; d; a; g; d; a; g; 4d;
 bar
-1: 8a; g; d; a; g; d;
-bar
-score
-	time = 2/4
-music
-1: 8a; g; 4d;
-bar
-score
-	time = 4/4
-music
-1: 8a; fn; c; a; f; c; a; f;
-bar
-score
-	time = 3/4
-music
-1: 8a; g; d; a; g; d;
-bar
-score
-	time = 1/4
-music
-1: 8a; g;
+1: 8a; fn; c; a; f; c; a; f; a; g; d; a; g; d; a; g;
 bar
 score
 	time = 4/4
@@ -325,50 +212,16 @@ bar
 bar
 1: 4d; 8b-; 4c; 8a-;
 bar rehearsal let
-1: 8f#; e; b-; f; e; b-;
-bar
-1: 8f; e; b-; f; e; b-;
-bar
 score
-	time = 2/4
+	time = 8/4
 music
-1: 8f; e; 4b-;
+1: 8f#; e; b-; f; e; b-; f; e; b-; f; e; b-; f; e; 4b-;
 bar
-score
-	time = 3/4
-music
-1: 8g#; f; b-; g; f; b-;
+1: 8g#; f; b-; g; f; b-; g#; f; b-; g; f; b-; g#; f; 4b-;
 bar
-1: 8g#; f; b-; g; f; b-;
+1: 8f; e; b-; f; e; b-; f; e; b-; f; e; b-; f; e; 4b-;
 bar
-score
-	time = 2/4
-music
-1: 8g#; f; 4b-;
-bar
-score
-	time = 3/4
-music
-1: 8f; e; b-; f; e; b-;
-bar
-1: 8f; e; b-; f; e; b-;
-bar
-score
-	time = 2/4
-music
-1: 8f; e; 4b-;
-bar
-score
-	time = 3/4
-music
-1: 8g#; f; b-; g; f; b-;
-bar
-1: 8g#; f; b-; g; f; b-;
-bar
-score
-	time = 2/4
-music
-1: 8g#; f; 4b-;
+1: 8g#; f; b-; g; f; b-; g#; f; b-; g; f; b-; g#; f; 4b-;
 bar
 score
 	time = 4/4
@@ -376,31 +229,11 @@ music
 1: 8a; fn; c; a; f; c; a; f;
 bar
 score
-	time = 3/4
+	time = 8/4
 music
-1: 8a; g; d; a; g; d;
+1: 8a; g; d; a; g; d; a; g; d; a; g; d; a; g; 4d;
 bar
-1: 8a; g; d; a; g; d;
-bar
-score
-	time = 2/4
-music
-1: 8a; g; 4d;
-bar
-score
-	time = 4/4
-music
-1: 8a; fn; c; a; f; c; a; fn;
-bar
-score
-	time = 3/4
-music
-1: 8a; g; d; a; g; d;
-bar
-score
-	time = 1/4
-music
-1: 8a; g;
+1: 8a; fn; c; a; f; c; a; fn; a; g; d; a; g; d; a; g;
 bar
 score
 	time = 4/4
@@ -451,56 +284,19 @@ music
 1: 4d; b-; 8c; b-; a-; g-;
 repeatstart rehearsal let
 score
-	time = 3/4
+	time = 8/4
 music
-1 1: 8a; e; a-; b; g; a-;
-1 2: 8a-; 8r; 2r;
+1 1: 8a; e; a-; b; g; a-; c+; a; a-; b; g; a-; 4aea-; bga-; 
+1 2: 8a-; 8r; 4r; 2r; 2r; 2r;
 bar
-1: 8c+; a; a-; b; g; a-;
-bar 
-score
-	time = 2/4
-music
-1: 4aea-; bga-; 
+1 1: 8a; e; a-; b; g; a-; c+; a; a-; b; g; a-; 4aea-; bga-; 
+1 2: 8a-; 8r; 4r; 2r; 2r; 2r;
 bar
-score
-	time = 3/4
-music
-1 1: 8a; e; a-; b; g; a-;
-1 2: 8a-; 8r; 2r;
+1 1: 8d+; a; d; e+; c+; d; fn+; d+; d; e+; c+; d; 4d+ad; e+c+d;
+1 2: 8d; 8r; 4r; 2r; 2r; 2r;
 bar
-1: 8c+; a; a-; b; g; a-;
-bar 
-score
-	time = 2/4
-music
-1: 4aea-; bga-; 
-bar
-score
-	time = 3/4
-music
-1 1: 8d+; a; d; e+; c+; d;
-1 2: 8d; 8r; 2r;
-bar
-1: 8fn+; d+; d; e+; c+; d;
-bar
-score
-	time = 2/4
-music
-1: 4d+ad; e+c+d;
-bar
-score
-	time = 3/4
-music
-1 1: 8a; e; a-; b; g; a-;
-1 2: 8a-; 8r; 2r;
-bar
-1: 8c+; a; a-; b; g; a-;
-bar 
-score
-	time = 2/4
-music
-1: 4aea-; bga-; 
+1 1: 8a; e; a-; b; g; a-; c+; a; a-; b; g; a-; 4aea-; bga-; 
+1 2: 8a-; 8r; 4r; 2r; 2r; 2r;
 bar
 score
 	time = 4/4
@@ -518,16 +314,9 @@ bar
 1: 8e+; c+; a; e+; c+; a; e+; c+; 
 bar
 score
-	time = 3/4
+	time = 8/4
 music
-1: 8d+; b; g; d+; b; g;
-bar
-1: 8d+; b; g; d+; b; g;
-bar
-score
-	time = 2/4
-music
-1: 8d+; b; 4g;
+1: 8d+; b; g; d+; b; g; d+; b; g; d+; b; g; d+; b; 4g;
 bar
 score
 	time = 4/4
@@ -537,30 +326,13 @@ bar
 1: 8e+; d+; c+; b; c+; b; a; g;
 repeatend
 score
-	time = 3/4
+	time = 8/4
 music
-1 1: 8a; e; a-; b; g; a-;
-1 2: 8a-; 8r; 2r;
-bar
-1: 8c+; a; a-; b; g; a-;
+1 1: 8a; e; a-; b; g; a-; c+; a; a-; b; g; a-; 4aea-; bga-; 
+1 2: 8a-; 8r; 4r; 2r; 2r; 2r; 
 bar 
-score
-	time = 2/4
-music
-1: 4aea-; bga-; 
-bar
-score
-	time = 3/4
-music
-1 1: 8a; e; a-; b; g; a-;
-1 2: 8a-; 8r; 2r;
-bar
-1: 8c+; a; a-; b; g; a-;
-bar 
-score
-	time = 2/4
-music
-1: 4aea-; bga-; 
+1 1: 8a; e; a-; b; g; a-; c+; a; a-; b; g; a-; 4aea-; bga-; 
+1 2: 8a-; 8r; 4r; 2r; 2r; 2r; 
 bar
 score
 	time = 4/4
@@ -580,88 +352,21 @@ bar
 1: 8fn; c; fn-; f; c; f-; f; c;
 bar
 score
-	time = 3/4
+	time = 8/4
 music
-1: 8e; b-; e-; e; b-; e-;
+1: 8e; b-; e-; e; b-; e-; e; b-; e-; e; b-; e-; e; b-; 4e-;
 bar
-1: 8e; b-; e-; e; b-; e-;
+1: 8e; e; b-; e; e; b-; e; e; b-; e; e; b-; e; e; 4b-; 
 bar
-score
-	time = 2/4
-music
-1: 8e; b-; 4e-;
-bar
-score
-	time = 3/4
-music
-1: 8e; e; b-; e; e; b-;
-bar
-1: 8e; e; b-; e; e; b-;
-bar
-score
-	time = 2/4
-music
-1: 8e; e; 4b-; 
-bar
-score
-	time = 3/4
-music
-1: 8e; e; e; e; e; e;
-bar
-1: 8e; e; e; e; e; e;
-bar
-score
-	time = 2/4
-music
-1: 8e; e; 4b-;
+1: 8e; e; e; e; e; e; e; e; e; e; e; e; e; e; 4b-;
 bar rehearsal let
-score
-	time = 3/4
-music
-1: 8f#; e; b-; f; e; b-;
+1: 8f#; e; b-; f; e; b-; f; e; b-; f; e; b-; f; e; 4b-;
 bar
-1: 8f; e; b-; f; e; b-;
+1: 8g#; f; b-; g; f; b-; g#; f; b-; g; f; b-; g#; f; 4b-;
 bar
-score
-	time = 2/4
-music
-1: 8f; e; 4b-;
+1: 8f; e; b-; f; e; b-; f; e; b-; f; e; b-; f; e; 4b-;
 bar
-score
-	time = 3/4
-music
-1: 8g#; f; b-; g; f; b-;
-bar
-1: 8g#; f; b-; g; f; b-;
-bar
-score
-	time = 2/4
-music
-1: 8g#; f; 4b-;
-bar
-score
-	time = 3/4
-music
-1: 8f; e; b-; f; e; b-;
-bar
-1: 8f; e; b-; f; e; b-;
-bar
-score
-	time = 2/4
-music
-1: 8f; e; 4b-;
-bar
-score
-	time = 3/4
-music
-1: 8g#; f; b-; g; f; b-;
-bar
-1: 8g#; f; b-; g; f; b-;
-bar
-score
-	time = 2/4
-music
-1: 8g#; f; 4b-;
+1: 8g#; f; b-; g; f; b-; g#; f; b-; g; f; b-; g#; f; 4b-;
 bar
 score
 	time = 4/4
@@ -669,40 +374,17 @@ music
 1: 8a; fn; c; a; f; c; a; f;
 bar
 score
-	time = 3/4
+	time = 8/4
 music
-1: 8a; g; d; a; g; d;
+1: 8a; g; d; a; g; d; a; g; d; a; g; d; a; g; 4d;
 bar
-1: 8a; g; d; a; g; d;
-bar
-score
-	time = 2/4
-music
-1: 8a; g; 4d;
-bar
-score
-	time = 4/4
-music
-1: 8a; fn; c; a; f; c; a; f;
-bar
-score
-	time = 3/4
-music
-1: 8a; g; d; a; g; d;
-bar
-score
-	time = 1/4
-music
-1: 8a; g;
+1: 8a; fn; c; a; f; c; a; f; a; g; d; a; g; d; a; g;
 bar
 score
 	time = 4/4
 music
 1: 8a; g; fn; d; c; a-; g-; fn-;
 bar
-score
-	time = 4/4
-music
 1: 8f; e; c#; a-; r; a-; r; a-;
 bar
 1: 8b-; c#; e; f; b-; c; 4f-;
@@ -743,26 +425,12 @@ bar
 bar
 1: 4d; 8b-; 4c; 8a-;
 bar
-1: 8f#; e; b-; f; e; b-;
-bar
-1: 8f; e; b-; f; e; b-;
-bar
 score
-	time = 2/4
+	time = 8/4
 music
-1: 8f; e; 4b-;
+1: 8f#; e; b-; f; e; b-; f; e; b-; f; e; b-; f; e; 4b-;
 bar
-score
-	time = 3/4
-music
-1: 8g#; f; b-; g; f; b-;
-bar
-1: 8g#; f; b-; g; f; b-;
-bar
-score
-	time = 2/4
-music
-1: 8g#; f; 4b-;
+1: 8g#; f; b-; g; f; b-; g#; f; b-; g; f; b-; g#; f; 4b-;
 bar
 score
 	time = 4/4
