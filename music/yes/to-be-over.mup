@@ -1,8 +1,8 @@
 // This is the Mup source file for Peter Saint-Andre's 
 // solo bass arrangement of the Yes song "To Be Over".
 //
-// Version: 2.1
-// Last Updated: 2018-03-31
+// Version: 2.2
+// Last Updated: 2018-04-01
 //
 header
 	title (18) "To Be Over"
@@ -84,7 +84,7 @@ ital above 1: 1 "end harmonics";
 bar rehearsal let
 // intro, part two
 1 1: 2c+a; 2bg;
-1 2: 4.a-; 8a-~; 2a-;
+1 2: 4.a-; 8a-~; 4.a-; 8a-~;
 bar
 1 1: 2d+b; 2c+~a~;
 1 2: 4.a-; 8a-~; 2a-~;
@@ -93,7 +93,7 @@ bar
 1 2: 4a-; 8e-; e-; e-; r; 4e-;
 bar
 1 1: 2c+a; 2bg;
-1 2: 4.a-; 8a-~; 2a-;
+1 2: 4.a-; 8a-~; 4.a-; 8a-~;
 bar
 1 1: 2d+b; 2c+~a~;
 1 2: 4.a-; 8a-~; 2a-~;
@@ -102,16 +102,16 @@ bar
 1 2: 4a-; 8e-; e-; e-; r; 4e-;
 bar
 1 1: 2c+a; 2bg;
-1 2: 4.a-; 2a-; 8a-~;
+1 2: 4.a-; 8a-~; 4.a-; 8a-~;
 bar
 1 1: 2d+b; 2c+a;
-1 2: 4.a-; 2a-; 8a-~;
+1 2: 4.a-; 8a-~; 4.a-; 8a-~;
 bar
 1 1: 2e+c+; 2d+b;
-1 2: 4.a-; 2a-; 8a-~;
+1 2: 4.a-; 8a-~; 4.a-; 8a-~;
 bar
 1 1: 2f+d+; 2e+c+;
-1 2: 4.a-; 2a-; 8a-~;
+1 2: 4.a-; 8a-~; 4.a-; 8a-~;
 bar
 1 1: 4d+b; 4c+a; 2b~g~;
 1 2: 2a-~; 8a-; 4.r;
@@ -245,8 +245,9 @@ bar
 bar
 1: 8e+; d+; c+; e+; d+; c+; 4b;
 bar
-1 1: 4r; 8a; b; 4c+; d+;
-1 2: 1a-;
+1 1: 8a; r; a; b; 4c+; d+;
+1 2: 8r; 8a-~; 2.a-;
+bar
 bar
 1: 8e+; d+; c+; e+; d+; c+; b; a;
 bar
@@ -432,8 +433,40 @@ bar
 bar
 1: 2f+d+; e+c+;
 bar
+1: 4d+b; c+a; 2b~g~;
+bar
+1 1: 4bg; 4r; 2r;
+1 2: 4r; 8e-; e-; e-; r; 4e-;
+bar
+1 1: 2r; 4c+a; e+c+;
+1 2: 4.a-; 8a-~; 2a-;
+bar
+1 1: 4c+a; r; 4r; c+a;
+1 2: 4r; 8a-; a-; 2a-;
+bar
+1: 8d+b; c+; b; d+; c+a; b; a; c+;
+bar
+1 1: 2bg; 2r;
+1 2: 4r; 8e-; e-; e-; r; e-; r;
+bar
+1 1: 8e+; d+; c+; e+; d+; c+; 4b;
+1 2: 1e-;
+bar
+1 1: 4a; r; c+a; e+c+;
+1 2: 4r; 8a-; a-; 2a-;
+bar
+1 1: 4c+a; r; r; c+a;
+1 2: 4r; 8a-; a-; 2a-;
+bar
+1: 4d+b; d+b; c+a; c+a;
+bar
+1: 2f+d+; e+c+;
+bar
 1: 4d+b; c+a; 2bg;
 bar rehearsal let
+
+
+
 1 1: 8a; r; a; b; 4c+; a;
 1 2: 8r; 4.a-~; 2a-~;
 bar
@@ -489,8 +522,8 @@ bar
 bar
 1: 8e+; d+; c+; e+; d+; c+; 4b;
 bar
-1 1: 4r; 8a; b; 4c+; d+;
-1 2: 1a-;
+1 1: 8a; r; a; b; 4c+; d+;
+1 2: 8r; 8a-~; 2.a-;
 bar
 1: 8e+; d+; c+; e+; d+; c+; b; a;
 bar
