@@ -2,8 +2,8 @@
 // solo bass arrangement of the Yes song "South Side 
 // of the Sky".
 //
-// Version: 1.2
-// Last Updated: 2018-04-01
+// Version: 1.3
+// Last Updated: 2018-04-06
 //
 header
 	title (18) "South Side of the Sky"
@@ -121,7 +121,7 @@ bar
 1: 8b-; d; f; g; b; g; f; d;
 bar
 1: 8b-; d; f; g; 2b~;
-bar rehearsal let
+bar
 score
 	time = 3/4
         beamstyle = 4., 4.
@@ -355,10 +355,14 @@ score
 	time = 8/4
 music
 1: 8e; b-; e-; e; b-; e-; e; b-; e-; e; b-; e-; e; b-; 4e-;
+> below 1: 1 til 8;
 bar
 1: 8e; e; b-; e; e; b-; e; e; b-; e; e; b-; e; e; 4b-; 
+boldital (12) below 1: 1 "mp";
 bar
 1: 8e; e; e; e; e; e; e; e; e; e; e; e; e; e; 4b-;
+< below 1: 1 til 7.5;
+boldital (12) below 1: 8 "mf";
 bar rehearsal let
 1: 8f#; e; b-; f; e; b-; f; e; b-; f; e; b-; f; e; 4b-;
 bar
