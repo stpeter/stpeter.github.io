@@ -1,7 +1,7 @@
 // This is the Mup source file for Peter Saint-Andre's 
 // solo bass arrangement of the Yes song "To Be Over".
 //
-// Version: 2.3
+// Version: 2.4
 // Last Updated: 2018-04-04
 //
 header
@@ -23,11 +23,12 @@ score
         vscheme = 2f
         measnum = y
         beamstyle = 4, 4, 4, 4
+        noteheads = "diam"
 music
 // intro, part one
 // harmonics from the end of "Safe (Canon Song)" by Chris Squire
 1: 2.r; 8r; 8e+;
-ital above 1: 1 "harmonics";
+ital above 1: 1 "harmonics here to A";
 bar
 1: 2a+~; 4a+; 8g+; f+;
 bar
@@ -80,8 +81,10 @@ bar
 1: 2.a; 4e;
 bar
 1: 1a;
-ital above 1: 1 "end harmonics";
 bar rehearsal let
+score
+        noteheads = "norm"
+music
 // intro, part two
 1 1: 2c+a; 2bg;
 1 2: 4.a-; 8a-~; 4.a-; 8a-~;
