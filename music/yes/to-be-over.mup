@@ -1,8 +1,8 @@
 // This is the Mup source file for Peter Saint-Andre's 
 // solo bass arrangement of the Yes song "To Be Over".
 //
-// Version: 2.2
-// Last Updated: 2018-04-01
+// Version: 2.3
+// Last Updated: 2018-04-04
 //
 header
 	title (18) "To Be Over"
@@ -142,7 +142,7 @@ bar
 1: 4d+af; c+ae; 2b~g~e~;
 bar
 1: 4bge; 8e-; e-; e-; r; e-; r;
-repeatstart rehearsal let
+repeatstart
 // first verse
 1: 8c+; a; e; c+; b; g; e; b;
 bar
@@ -248,7 +248,6 @@ bar
 1 1: 8a; r; a; b; 4c+; d+;
 1 2: 8r; 8a-~; 2.a-;
 bar
-bar
 1: 8e+; d+; c+; e+; d+; c+; b; a;
 bar
 1: 8f+; e+; d+; f+; e+; d+; c+; b;
@@ -264,7 +263,7 @@ bar
 1: 8b+; a+; g+; b+; a+; g+; b+; a+; g+; b+; a+; g+; b+; a+; 4g+;
 bar
 1: 8b+; a+; g+; b+; a+; g+; b+; a+; g+; b+; a+; g+; b+; a+; 4g+;
-bar
+bar rehearsal let
 score
 	time = 4/4
 music
@@ -389,7 +388,6 @@ bar
 bar
 1: 8f; e; d; c; b-; a-;
 repeatend
-bar rehearsal let
 score
         time = 8/4
 music
@@ -405,7 +403,7 @@ bar
 1: 8e+; f+; g+; e+; f+; g+; e+; f+; g+; e+; f+; g+; e+; f+; g+; 16g+; f+;
 bar
 1: 8e+; f+; g+; e+; f+; g+; e+; f+; g+; e+; f+; g+; e+; f+; 4g+;
-bar
+bar rehearsal let
 score
 	time = 4/4
 music
@@ -464,9 +462,6 @@ bar
 bar
 1: 4d+b; c+a; 2bg;
 bar rehearsal let
-
-
-
 1 1: 8a; r; a; b; 4c+; a;
 1 2: 8r; 4.a-~; 2a-~;
 bar
