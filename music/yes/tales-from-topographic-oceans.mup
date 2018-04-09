@@ -2,8 +2,8 @@
 // solo bass arrangement of the Yes album "Tales From
 // Topographic Oceans".
 //
-// Version: 0.6
-// Last Updated: 2018-03-06
+// Version: 0.7
+// Last Updated: 2018-04-08
 //
 header
 	title (18) "Tales From Topographic Oceans"
@@ -11,7 +11,7 @@ header
 	title (12) "JON ANDERSON and STEVE HOWE"
 	title (12) "Music by"
 	title (12) "JON ANDERSON, STEVE HOWE, CHRIS SQUIRE, ALAN WHITE and RICK WAKEMAN"
-	title (10) "" "Arranged for Bass Guitar by Peter Saint-Andre"
+	title (10) "Adagio" "Arranged for Bass Guitar by Peter Saint-Andre"
 footer
 	title (10) "Copyright 1973, 1977 Topographic Music Limited"
 header2
@@ -20,7 +20,7 @@ footer2
 	title "- \% -"
 score
 	time = 4/4
-	key = 5#
+	key = 4#
 	staffs = 1
 	clef = bass
         beamstyle = 4, 4, 4, 4
@@ -40,17 +40,20 @@ bar
 bar
 1: 8a; 16b; b; 8b; 16e+; e+; 8e+; 16f+; f+; 8f+; 16b; b;
 bar
-1: 8b; b; 16b; b; 8b; f+; 16b; b; 8b; b; 
+1: 8b; b; 16b; b; 8b; e+; 16e+; e+; 8f+; 16b; b;
+bar
+1: 8b; b; 16b; b; 8b; b; 16b; b; 8f+; 16b; b;
 bar
 score
-	time = 2/4
-        beamstyle = 4, 4
+	time = 3/4
+        beamstyle = 4, 4, 4
 music
-1: 16b; b; 8b; b; 16b; b;
-bar rehearsal let
+1: 8b; b; 16b; b; 8b; b; 16b; b; 
+bar
 score
 	time = 4/4
 music
+bar rehearsal let
 1 1: 8b; 16b; b; 8b; 16b; b; 8b; 16b; b; 8b; 16b; b; 
 1 2: 8b; 16b; b; 8b; 16a; a; 8a; 16f; f; 8f; 16a; a; 
 bar
@@ -88,7 +91,7 @@ bar
 repeatend
 1 1: 8.e+b; 8.d+b; 8.bb-; 16b; d+; b; d+; c+; 8b;
 bar
-1 1: 8.dn+a; 8.c+a; 8aa-; 8.cn+g; 8.bg; 8gg-;
+1 1: 8.dn+a; 8.c+a; 8aa-; 8.cn+g; 8.bg; 8gngn-;
 bar rehearsal let
 1 1: 4ge = _g; 8e+ = _e; 16f+; 8.r; 8g+~; 8g+; r;
 1 2: 4e-~; 2e-~; 8e-; 16e-; e-; 
@@ -107,74 +110,30 @@ bar
 1 2: 8e-; 16e-; e-~; 8e-; 16e-; e-; 8e-; 8e-~; 8e-; 16e-; e-; 
 bar
 1 1: 4r; 4b+e+; 8a+e+; 8g+~e+~; 8g+e+; 8r;
-1 2: 8e-; 16e-; e-~; 8e-; 16e-; e-; 8e-; 16e-; e-~; 8e-; 16e-; e-; 
+1 2: 8e-; 16e-; e-~; 8e-; 16e-; e-; 8e-; 16e-; e-~; 8e-; e+;
 bar
-1: 1r;
+1 1: 8r; a#+; b+; 4.a+; 8g+; 16an+; g+;
+1 2: 16f+; r; 8f+~; 2.f+;
 bar
-//
-// the following measures need to be fixed
-//
-1 1: 8a+e+; 8g+~e+~; 8g+e+; 16e+; r; f+; r; a#+f+~; b+f+; 4a+f+; 
-1 2: 8e-; 8e-; 8e-; 8r; 2r;
+1: 8e+; 16g+; e+; b; g+; e+; b; a+; e+; b; g+; e+; b; 8f+;
 bar
-1 1: 8g+; 16an+; g+; 4a+f+; 8g+; 16an+; g+; 4g+e+;
+1 1: 4r; 4b+e+; 8a+e+; 8g+~e+~; 8g+e+; 8r;
+1 2: 8e-; 16e-; e-~; 8e-; 16e-; e-; 8e-; 8e-~; 8e-; 16e-; e-; 
 bar
-score
-	time = 3/4
-        beamstyle = 4., 4.
-music
-1 1: 16g+; e+; b; g+; e+; b; a+; e+; b; g+; e+; b;
+1 1: 4r; 4b+e+; 8a+e+; 8g+~e+~; 8g+e+; 8r;
+1 2: 8e-; 16e-; e-~; 8e-; 16e-; e-; 8e-; 16e-; e-~; 8e-; e+;
 bar
-1: 8f+; 16e+; e+; e+; e+;
+1 1: 8r; a#+; b+; 4.a+; 8g+; 16an+; g+;
+1 2: 16f+; r; 8f+~; 2.f+;
 bar
-score
-	time = 4/4
-music
-1 1: 2b+; 4a+; 4g+~;
-1 2: 4e+; 8e+; e+; 4e+; 4e+~;
+1: 8e+; 16g+; e+; b; g+; e+; b; a+; e+; b; g+; e+; b; 8f+;
 bar
-1 1: 4g+; 2.r;
-1 2: 4e+; 8e+; e+; 4e+; 8e+; e+~;
-bar
-1 1: 2b+; 4a+; 4g+~;
-1 2: 4e+; 8e+; e+; 4e+; 4e+~;
-bar
-1 1: 4g+; 8e+; r; f+; r; a#+f+~; b+f+;
-1 2: 4e+; 2.r;
-bar
-1 1: 2a+f+; 4g+; 8an+; g+~;
-bar
-score
-	time = 2/4
-music
-1 1: 2g+e+;
-bar
-score
-	time = 3/4
-music
-1 1: 8g+; e+; b; g+; e+; b;
-bar
-1 1: 8a+; e+; b; g+; e+; b;
-bar
-1: 4f+; 2e+; 
-bar
-score
-	time = 4/4
-music
-1 1: 4g+; g+; g+; 8g+; g+;
+1 1: 8g+; g+; g+; 16g+; g+; 8g+; g+; 4a+;
 1 2: 1e+~;
 bar
-1 1: 4g+; g+; 2a+~;
+1 1: 8g+; g+; 4.a+; 16g+; f+; g+; f+~; 8f+;
 1 2: 2e+; 2r;
 bar
-1 1: 4a+; 8g+; f+; g+; f+~; 4f+;
-bar
-//1 1: 4e+; 4f+; 
-//bar
-
-score
-	time = 4/4
-music
 1: 1r;
 ital above 1: 1 "Part II: The Remembering";
 bar
