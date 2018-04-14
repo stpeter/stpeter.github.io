@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>http://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2018-02-12</modified>
+  <modified>2018-04-13</modified>
+  <entry>
+    <title>Notes Toward an Aristotelian Philosophy of Music</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1606.html"/>
+    <id>tag:stpeter.im,1606</id>
+    <issued>2018-04-13</issued>
+    <modified>2018-04-13</modified>
+    <summary>In Book VIII of his Politics, Aristotle talks about music: its role in ancient Greek education, its differences from the other arts, and its philosophical significance. This is not an in-depth exploration of the philosophy of music (what I wouldn't give for his lost work Ρερὶ Μουσικῆς), but more of a cursory glance. Yet through extrapolation we can tease out some meaning from his discussion....</summary>
+  </entry>
   <entry>
     <title>Aristotle Research Report #4: ἀρετή</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1605.html"/>
@@ -49,13 +57,5 @@
     <issued>2018-01-27</issued>
     <modified>2018-01-27</modified>
     <summary>Tomorrow (January 28th) is Data Privacy Day. Why not join in the celebration? Here are some suggestions to prevent absolutely everything you do online from being tracked:...</summary>
-  </entry>
-  <entry>
-    <title>Scales and Modes and Tetrachords, Oh My!</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1600.html"/>
-    <id>tag:stpeter.im,1600</id>
-    <issued>2018-01-03</issued>
-    <modified>2018-01-03</modified>
-    <summary>In preparation for recording my arrangements of music by Yes for solo electric bass, I've started taking music lessons with Mark Stefaniw, a fine bassist in the Denver area. Under Mark's tutelage I've been digging into music theory, which is both fascinating and enlightening (especially given my many years of musical learning at the surface)....</summary>
   </entry>
 </feed>
