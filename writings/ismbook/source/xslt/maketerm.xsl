@@ -7,7 +7,7 @@
     <html>
       <head>
         <title><xsl:value-of select='/term/@name'/></title>
-        <link rel='stylesheet' type='text/css' href='style.css'/>
+        <link rel='stylesheet' type='text/css' href='/stpeter.css'/>
         <meta http-equiv='Content-Type' content='text/html; charset=utf-8'/>
         <meta name='DC.Creator' content='Peter Saint-Andre'/>
         <meta name='DC.Rights' content='http://creativecommons.org/publicdomain/zero/1.0/'/>
@@ -21,7 +21,7 @@
             <xsl:apply-templates select='/term/def'/>
           </ol>
         </blockquote>
-        <p><a href='/'>The Ism Book</a> by <a href='http://stpeter.im/'>Peter Saint-Andre</a></p>
+        <p><a href='/writings/ismbook/'>The Ism Book</a> by <a href='/'>Peter Saint-Andre</a></p>
         <p><a href='http://creativecommons.org/publicdomain/zero/1.0/'>No Rights Reserved</a></p>
       </body>
     </html>

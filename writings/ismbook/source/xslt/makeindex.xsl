@@ -7,7 +7,7 @@
     <html>
       <head>
         <title>The Ism Book: A Field Guide to Philosophy</title>
-        <link rel='stylesheet' type='text/css' href='style.css'/>
+        <link rel='stylesheet' type='text/css' href='/stpeter.css'/>
         <meta http-equiv='Content-Type' content='text/html; charset=utf-8'/>
         <meta name='DC.Creator' content='Peter Saint-Andre'/>
         <meta name='DC.Rights' content='http://creativecommons.org/publicdomain/zero/1.0/'/>
@@ -15,7 +15,7 @@
       </head>
       <body>
         <h1>The Ism Book: A Field Guide to Philosophy</h1>
-        <h2>by <a href='http://stpeter.im/'>Peter Saint-Andre</a></h2>
+        <h2>by <a href='/'>Peter Saint-Andre</a></h2>
         <p>The currently featured <a href="ism.html">ism</a> is:</p>
         <blockquote class='featured'>
           <p>
