@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='hedonism' name='hedonism'>
+  <source>From Greek hedone: pleasure.</source>
+  <def topic='ethics'>The principle that the fundamental standard of ethical judgment is or should be pleasure. Although the term has connotations of &sensualism; and &emotionalism;, philosophical hedonists (such as those in the tradition of &epicureanism;) advocate an enlightened hedonism that is often a kind of &naturalism;. Hedonism is usually a kind of &egoism; or &individualism;.</def>
+</term>

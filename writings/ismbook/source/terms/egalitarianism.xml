@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='egalitarianism' name='egalitarianism'>
+  <source>From French égalité: equality.</source>
+  <def topic='politics'>The view that equality is the most important societal (and even ethical) value. Egalitarians emphasize equality of results, rather than equality of opportunity or equality before the law (ideas usually associated with classical &liberalism; or political &libertarianism;). In practice, egalitarian policies attempt to bring about the equal distribution of wealth, sometimes verging on &socialism;.</def>
+</term>

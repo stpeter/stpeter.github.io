@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='communalism' name='communalism'>
+  <source>From French and Latin communal: of a commune or community.</source>
+  <def topic='politics'>Communalism is a kind of small-scale &utopianism; or voluntary &collectivism;. Political communalists sometimes posit that local communities should have virtual autonomy within the context of a larger state or society (similar to Robert Nozick's concept of meta-utopia). Nonpolitical communalists pursue such autonomy by building voluntary, ideal communes or communities (see &utopianism;).</def>
+</term>

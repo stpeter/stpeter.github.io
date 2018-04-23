@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='manicheism' name='Manicheism'>
+  <source>From the name of the Persian theologian Mani (3rd century CE).</source>
+  <def topic='metaphysics'>A religious sect (similar in its &dualism; to &gnosticism;) claiming to supersede &christianity;, &zoroastrianism;, and &buddhism;; Manicheism held that good and evil are co-eternal and equally powerful forces in the universe.</def>
+</term>

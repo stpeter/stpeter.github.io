@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='cynicism' name='cynicism'>
+  <source>From Greek kunikos: dog-like, churlish.</source>
+  <def topic='ethics'>The ancient Greek school of Cynic philosophers, founded by Antisthenes (a student of Socrates), held that pure virtue is the only good and cultivated an &asceticism; more rigorous than that of &epicureanism; or &stoicism;. Because of their disdain for worldly concerns, the Cynics were critical of conventional morality and the rest of society, almost to the point of misanthropy.</def>
+</term>

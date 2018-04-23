@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='reductionism' name='reductionism'>
+  <source>From English reduce: to resolve or analyze something into its constituent elements.</source>
+  <def topic='approach'>Reduction of complex phenomena into their constituent elements or into simpler or more fundamental phenomena. Both &physicalism; and &behaviorism; are examples of reductionism, and reductionism is often closely allied with &materialism; and &determinism;. (Sometimes also called reductivism.)</def>
+</term>

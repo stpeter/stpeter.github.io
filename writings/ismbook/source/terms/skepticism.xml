@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='skepticism' name='skepticism'>
+  <source>From Greek skepsis: inquiry, hesitation, doubt.</source>
+  <def topic='epistemology'>In Hellenistic Greece (cf. &pyrrhonism;) and perhaps also early &taoism; and &buddhism;, the view (similar to &fallibilism;) that the most careful approach in epistemology is to suspend assent to knowledge claims and value judgments beyond obvious perceptual truths. In more recent times, skepticism denotes a categorical assertion that certainty is unattainable and therefore that all value judgments and knowledge claims (even regarding perception) must be actively rejected, sometimes verging on extreme &relativism;, &solipsism; or &nihilism;.</def>
+</term>

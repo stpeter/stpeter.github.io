@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='eclecticism' name='eclecticism'>
+  <source>From Greek eklektikos: selective.</source>
+  <def topic='general'>An approach to philosophy (opposed to &dogmatism;) that does not respect the boundaries of existing schools or systems, but instead selects ideas from each. The term is often applied in a negative way, implying a lack of philosophical consistency or of any interest in systematic thinking. A related but more positive term is &syncretism;.</def>
+</term>
