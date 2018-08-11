@@ -27,7 +27,7 @@
             <xsl:apply-templates select='/term/def'/>
           </p>
         </blockquote>
-        <form method='get' id='search' action='https://duckduckgo.com/'>Interested in something other than <xsl:value-of select='/term/@name'/>?  <a href="ismlist.html">Surf the list</a> or search <a href="about.html">the site</a>: <input type='hidden' name='sites' value='ismbook.com'/><input type='text' name='q' maxlength='255'/><input type='submit' value='DuckDuckGo Search' style='visibility: hidden;'/></form>
+        <p>Interested in something other than <xsl:value-of select='/term/@name'/>? Check the <a href="ismlist.html">full list of terms</a>.</p>
         <p><a href='http://creativecommons.org/publicdomain/zero/1.0/'>No Rights Reserved</a></p>
       </body>
     </html>
