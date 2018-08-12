@@ -12,7 +12,7 @@
         <meta http-equiv='Content-Type' content='text/html; charset=utf-8'/>
         <meta name='viewport' content='width=device-width'/>
         <meta name='DC.Creator' content='Peter Saint-Andre'/>
-        <meta name='DC.Rights' content='http://creativecommons.org/publicdomain/zero/1.0/'/>
+        <meta name='DC.Rights' content='https://creativecommons.org/publicdomain/zero/1.0/'/>
         <!-- dynamic metadata elements -->
         <meta>
           <xsl:attribute name='name'><xsl:text>DC.Title</xsl:text></xsl:attribute>

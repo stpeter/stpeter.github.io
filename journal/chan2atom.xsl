@@ -21,7 +21,7 @@
       </author>
       <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
       <id>http://stpeter.im/journal/</id>
-      <copyright>http://creativecommons.org/publicdomain/zero/1.0/</copyright>
+      <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
       <modified><xsl:value-of select='/channel/journal[position()=1]/header/date'/></modified>
       <xsl:if test='/channel/journal[position()=1]'>
         <entry>
