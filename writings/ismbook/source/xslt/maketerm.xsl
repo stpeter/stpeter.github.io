@@ -10,7 +10,7 @@
         <link rel='stylesheet' type='text/css' href='/stpeter.css'/>
         <meta http-equiv='Content-Type' content='text/html; charset=utf-8'/>
         <meta name='DC.Creator' content='Peter Saint-Andre'/>
-        <meta name='DC.Rights' content='http://creativecommons.org/publicdomain/zero/1.0/'/>
+        <meta name='DC.Rights' content='https://creativecommons.org/publicdomain/zero/1.0/'/>
         <meta name='viewport' content='width=device-width'/>
       </head>
       <body>
@@ -22,7 +22,7 @@
           </ol>
         </blockquote>
         <p><a href='/writings/ismbook/'>The Ism Book</a> by <a href='/'>Peter Saint-Andre</a></p>
-        <p><a href='http://creativecommons.org/publicdomain/zero/1.0/'>No Rights Reserved</a></p>
+        <p><a href='https://creativecommons.org/publicdomain/zero/1.0/'>No Rights Reserved</a></p>
       </body>
     </html>
   </xsl:template>
