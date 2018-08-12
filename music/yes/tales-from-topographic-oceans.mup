@@ -128,11 +128,11 @@ bar
 bar
 1: 8e+; 16g+; e+; b; g+; e+; b; a+; e+; b; g+; e+; b; 8f+;
 bar
-1 1: 8g+; g+; g+; 16g+; g+; 8g+; g+; 4a+;
-1 2: 1e+~;
+1 1: 8r; g+; g+; g+; 16g+; g+; 8g+; g+; a+~;
+1 2: 2.e+; 8e+; r;
 bar
-1 1: 8g+; g+; 4.a+; 16g+; f+; g+; f+~; 8f+;
-1 2: 2e+; 2r;
+1 1: 8a+; 16g+; f+; g+; f+~; 8f+; e+; 
+1 2: 
 bar
 1: 1r;
 ital above 1: 1 "Part II: The Remembering";
