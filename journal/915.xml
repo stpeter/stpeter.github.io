@@ -1,7 +1,7 @@
 <journal>
 <header><title>Freenet</title><date>2006-04-04</date></header>
 <entry>
-    <p>The folks at <a href="http://freenetproject.org/">Freenet</a> have released 0.7 alpha. From their release we find out that:</p>
+    <p>The folks at <a href="https://freenetproject.org/">Freenet</a> have released 0.7 alpha. From their release we find out that:</p>
     <blockquote>
       <p>Freenet 0.7 represents a major new approach to peer-to-peer network design. To protect the network, and the user's anonymity, Freenet users will now have the ability to connect directly to other people that they know and trust, together forming a "global darknet" making it extremely difficult for any third party, whether a government or another powerful organisation, to determine that a user is participating in Freenet, let alone what they are doing with it.</p>
     </blockquote>
