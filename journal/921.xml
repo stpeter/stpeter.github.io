@@ -5,7 +5,7 @@
     <blockquote>
       <p>SIP's original mission was to move intelligence out of the servers and into the endpoints. For the vendors, it makes a lot of sense: Transform the phone into a single-purpose computing device, a nice fat client sitting on every desk, and sell it for at least as much as the corresponding TDM phone -- and maybe more.</p>
     </blockquote>
-    <p>Contrast that with our philosophy in the <a href="http://www.jabber.org/">Jabber</a> community, as captured in our <a href="http://www.jabber.org/jeps/jep-0134.html">protocol design guidelines</a>:</p> 
+    <p>Contrast that with our philosophy in the <a href="https://www.jabber.org/">Jabber</a> community, as captured in our <a href="https://www.xmpp.org/extensions/jep-0134.html">protocol design guidelines</a>:</p> 
     <blockquote>
       <p>Keep clients simple ... a client-server architecture has enabled the Jabber community to force most of the complexity onto servers and components, thus keeping clients relatively simple. This principle has served the Jabber community well since the very beginning, and forms an important basis for further innovation.</p>
     </blockquote>

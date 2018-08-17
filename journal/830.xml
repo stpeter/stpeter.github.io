@@ -1,7 +1,7 @@
 <journal>
 <header><title>Over Extended</title><date>2005-12-14</date></header>
 <entry>
-    <p>The other day I was trying to describe to someone why <a href="http://www.xmpp.org/">XMPP</a> is a better technology than <a href="http://www.ietf.org/html.charters/simple-charter.html">SIMPLE</a> not just for instant messaging but for a whole range of real-time collaboration applications. Here's the way I see it:</p>
+    <p>The other day I was trying to describe to someone why <a href="https://www.xmpp.org/">XMPP</a> is a better technology than <a href="https://www.ietf.org/html.charters/simple-charter.html">SIMPLE</a> not just for instant messaging but for a whole range of real-time collaboration applications. Here's the way I see it:</p>
     <ol>
       <li><p>SIP is a complicated technology.</p></li>
       <li><p>SIMPLE is a set of fairly complicated extensions to SIP for basic messaging and presence.</p></li>

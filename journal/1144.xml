@@ -1,11 +1,11 @@
 <journal>
 <header><title>Ψ</title><date>2007-10-22</date></header>
 <entry>
-<p>For the past six months or so my preferred IM client has been <a href="http://psi-im.org/">Psi</a> (that's pronounced "psee" if you honor the ancient Greeks). For a long time I resisted using Psi because I didn't like its ICQ-ish appearance in the old days, but in its more recent versions (such as the just-released <a href="http://forum.psi-im.org/thread/4659">0.11</a>) Psi has several significant virtues as far as I'm concerned:</p>
+<p>For the past six months or so my preferred IM client has been <a href="https://psi-im.org/">Psi</a> (that's pronounced "psee" if you honor the ancient Greeks). For a long time I resisted using Psi because I didn't like its ICQ-ish appearance in the old days, but in its more recent versions (such as the just-released <a href="http://forum.psi-im.org/thread/4659">0.11</a>) Psi has several significant virtues as far as I'm concerned:</p>
 <ul>
 <li>It handles my huge buddy list [tm], which as of today has 1619 people in it. (Special thanks to <a href="https://el-tramo.be/">Remko</a> for the optimizations!)</li>
 <li>It enables me to search for people in my roster -- when you have 1600+ people in your roster, this is critical.</li>
-<li>It performs all the advanced <a href="http://www.xmpp.org/extensions/xep-0045.html">multi-user chat</a> use cases such as room moderation, which I need because I'm a server admin at jabber.org.</li>
+<li>It performs all the advanced <a href="https://www.xmpp.org/extensions/xep-0045.html">multi-user chat</a> use cases such as room moderation, which I need because I'm a server admin at jabber.org.</li>
 </ul>
 <p>So here's to Psi 0.11 -- I'm looking forward to 0.12 (tabbed groupchats!) already. :)</p>
 </entry>

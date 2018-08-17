@@ -1,15 +1,15 @@
 <journal>
 <header><title>Wikipedia Redux</title><date>2007-06-14</date></header>
 <entry>
-<p>Following up on my <a href="1094.html">last post</a>, I just updated my <a href="http://en.wikipedia.org/wiki/User:Stpeter">Wikipedia user page</a> with the following screed:</p>
+<p>Following up on my <a href="1094.html">last post</a>, I just updated my <a href="https://en.wikipedia.org/wiki/User:Stpeter">Wikipedia user page</a> with the following screed:</p>
 <blockquote>
-<p>Name: <a href="http://www.xmpp.org/xsf/people/stpeter.shtml">Peter Saint-Andre</a></p>
+<p>Name: <a href="https://www.xmpp.org/xsf/people/stpeter.shtml">Peter Saint-Andre</a></p>
 <p>Homepage: <a href="http://www.saint-andre.com/">saint-andre.com</a></p>
-<p>Weblog: <a href="http://stpeter.im/">stpeter.im</a></p>
-<p>Role: <a href="http://www.xmpp.org/xsf/director.shtml">Executive Director</a> of the <a href="http://www.xmpp.org/">XMPP Standards Foundation</a></p>
+<p>Weblog: <a href="https://stpeter.im/">stpeter.im</a></p>
+<p>Role: <a href="https://www.xmpp.org/xsf/director.shtml">Executive Director</a> of the <a href="https://www.xmpp.org/">XMPP Standards Foundation</a></p>
 <p>Email: stpeter [at] jabber.org</p>
 <p>JabberID: stpeter [at] jabber.org</p>
-<p>Wikipedia <a href="http://stpeter.im/?p=1926">does not support</a> a concept of strong identity, so the foregoing information is a mere assertion as far as Wikipedia is concerned. In particular:</p>
+<p>Wikipedia <a href="1094.html">does not support</a> a concept of strong identity, so the foregoing information is a mere assertion as far as Wikipedia is concerned. In particular:</p>
 <ol>
 <li>I have no access to the META tags at this page, otherwise I would claim it using a <a href="http://microid.org">microid</a> generated and verified by <a href="http://claimid.com">ClaimID</a>.</li>
 <li>I have no access to the complete HTML for this page, otherwise I would sign it using my <a href="http://www.saint-andre.com/me/stpeter.cer">X.509 certificate</a> (SHA1 fingerprint CFFC A717 0EAC 8051 58C4 224F 3CD5 C970 E495 30ED) or my <a href="http://www.saint-andre.com/me/stpeter.asc">OpenPGP key</a> (SHA1 fingerprint 4781 0AEC D13E 7B9D 5A35 CCE6 FB34 F553 7BBD 0573).</li>

@@ -1,6 +1,6 @@
 <journal>
 <header><title>Bytestreaming</title><date>2009-04-23</date></header>
 <entry>
-<p>In a first small step toward the <a href="1322.html">vision</a> I outlined six weeks ago, today we deployed a <a href="http://xmpp.org/extensions/xep-0065.html">SOCKS5 Bytestreams</a> service at proxy.eu.jabber.org. Many thanks to <a href="http://www.flosoft.biz/">Flosoft</a> for hosting this service. I'll post more about this at <a href="http://www.jabber.org/">www.jabber.org</a> in the near future, because as I say this is only a first step (we plan to deploy a STUN/TURN server at eu.jabber.org before long, too).</p>
+<p>In a first small step toward the <a href="1322.html">vision</a> I outlined six weeks ago, today we deployed a <a href="http://xmpp.org/extensions/xep-0065.html">SOCKS5 Bytestreams</a> service at proxy.eu.jabber.org. Many thanks to <a href="http://www.flosoft.biz/">Flosoft</a> for hosting this service. I'll post more about this at <a href="https://www.jabber.org/">www.jabber.org</a> in the near future, because as I say this is only a first step (we plan to deploy a STUN/TURN server at eu.jabber.org before long, too).</p>
 </entry>
 </journal>

@@ -7,8 +7,8 @@
 <li>How long has the server been on the network?</li>
 <li>Does the server have an SSL certificate?</li>
 <li>If so, is the certificate self-signed or is it issued by a trusted root?</li>
-<li>Does the server support open registration (see <a href="http://www.xmpp.org/extensions/xep-0077.html">XEP-0077</a>)?</li>
-<li>If so, does it require CAPTCHAs or other hurdles for users to create accounts? (Yes we still need to define this more fully, see <a href="http://www.xmpp.org/extensions/xep-0158.html">XEP-0158</a>.)</li>
+<li>Does the server support open registration (see <a href="https://www.xmpp.org/extensions/xep-0077.html">XEP-0077</a>)?</li>
+<li>If so, does it require CAPTCHAs or other hurdles for users to create accounts? (Yes we still need to define this more fully, see <a href="https://www.xmpp.org/extensions/xep-0158.html">XEP-0158</a>.)</li>
 <li>Does the server misbehave at all (e.g., send bad XML or reconnect too often)?</li>
 </ul>
 <p>As a result of factors like this, we could define an automated reputation scoring system for Jabber servers. Your server starts at zero and gets closer to 100 if you do the right things.</p>

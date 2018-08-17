@@ -2,6 +2,6 @@
 <header><title>Two Great Tastes</title><date>2006-02-16</date></header>
 <entry>
     <p>I'd like to advertise my Jabber ID in the emails I send, and I'd like to do so in an automated way (so that, in the future, smart email clients could look up my presence, ping me via Jabber to verify that I sent a certain message, etc.). So I've started to work on defining a "Jabber-ID" email header (expect an Internet-Draft soon). I've also hacked my config for both <a href="http://www.mozilla.com/thunderbird/">Thunderbird</a> (my preferred email client) and <a href="http://www.mutt.org/">Mutt</a> (my fallback email client) to include "Jabber-ID: stpeter@jabber.org" in the headers of my outgoing mail. Documentation is <a href="http://wiki.jabber.org/index.php/Jabber_Email_Header">here</a>. Feel free to edit that page to document the config for your favorite email client.</p>
-    <p>Update: <a href="http://www.xmpp.org/internet-drafts/">Internet-Draft</a> submitted.</p>
+    <p>Update: <a href="https://www.xmpp.org/internet-drafts/">Internet-Draft</a> submitted.</p>
 </entry>
 </journal>

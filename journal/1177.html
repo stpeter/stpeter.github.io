@@ -13,7 +13,7 @@
 <body>
 <h2>Push and Pull in Application Architectures</h2>
 <h3>2007-12-14</h3>
-<p><em>Back in November, <a href="http://nih.blogspot.com/">Lisa Dusseault</a> put out a <a href="http://www1.ietf.org/mail-archive/web/discuss/current/msg00930.html">call for papers</a> regarding an Apps Area Architecture Workshop to be sponsored by the IETF in February 2008. Since my "paper" is on push and pull (not push vs. pull, mind you), I figured it would be appropriate for me to post it on my blog so that folks could receive updated versions in the <a href="http://www.ietf.org/rfc/rfc4287.txt">Atom format</a> using their preferred push or pull technologies. Comments are welcome. This is the first draft and I reserve the right to modify it as I think more about the topic.</em></p>
+<p><em>Back in November, <a href="http://nih.blogspot.com/">Lisa Dusseault</a> put out a <a href="http://www1.ietf.org/mail-archive/web/discuss/current/msg00930.html">call for papers</a> regarding an Apps Area Architecture Workshop to be sponsored by the IETF in February 2008. Since my "paper" is on push and pull (not push vs. pull, mind you), I figured it would be appropriate for me to post it on my blog so that folks could receive updated versions in the <a href="https://www.ietf.org/rfc/rfc4287.txt">Atom format</a> using their preferred push or pull technologies. Comments are welcome. This is the first draft and I reserve the right to modify it as I think more about the topic.</em></p>
 <p>The Internet contains a great deal of information. Some of it is even interesting.</p>
 <p>What is the best way for me to learn about or receive information that I might find of interest? There are two basic approaches:</p>
 <ol>
@@ -25,11 +25,11 @@
 <p>As with everything else, folks have a tendency to polarize the discussion. But there is no reason why an application architecture must be either push or pull. Why can't it be both? Indeed, when an application is widely used, what emerges naturally is that technologists typically combine the push and pull approaches to get the best of both worlds. Here are some examples I'm familiar with (I'm sure there are many others):</p>
 <ul>
 <li>
-<a href="http://tools.ietf.org/html/draft-ietf-sieve-notify-11">SIEVE notify</a> -- yes, you could poll for new mail, but why not have a notification sent to you when something appears in your inbox?</li>
+<a href="https://tools.ietf.org/html/draft-ietf-sieve-notify-11">SIEVE notify</a> -- yes, you could poll for new mail, but why not have a notification sent to you when something appears in your inbox?</li>
 <li>
 <a href="ftp://ftp.rfc-editor.org/in-notes/rfc3921.txt">XMPP rosters</a> -- your IM client retrieves the roster (contact list) when you log in, but then receives updates throughout your session</li>
 <li>
-<a href="http://www.xmpp.org/extensions/xep-0060.html">XMPP pubsub</a> -- notifications are sent whenever an event occurs at a pubsub "node" (which you can think of as a topic or channel), but you can also retrieve older events that are stored in the node history</li>
+<a href="https://www.xmpp.org/extensions/xep-0060.html">XMPP pubsub</a> -- notifications are sent whenever an event occurs at a pubsub "node" (which you can think of as a topic or channel), but you can also retrieve older events that are stored in the node history</li>
 </ul>
 <p>The challenge of finding the right balance between push and pull is, I think, an issue for a wide range of application protocols: email (POP or IMAP plus SIEVE notifications), contact lists (à la XMPP rosters), file repositories (WebDAV when used for both file retrieval and change monitoring), calendaring (free/busy notifications and meeting changes), data syndication (whether to subscribe to or poll for Atom updates), and so on.</p>
 <p>This mini-paper contains only my first thoughts on the subject. Further research and reflection are required...</p>
