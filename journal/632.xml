@@ -22,10 +22,10 @@
     <ul>
       <li>Core messaging and presence, including strong authentication (SASL), channel encryption (TLS), and full Unicode characters (<a href="https://www.ietf.org/rfc/rfc3920.txt">RFC 3920</a>) -- note that some of these involve improvements over older methods, which require developers to upgrade their software in sometimes non-trivial ways.</li>
       <li>Contact lists and selective whitelisting/blacklisting (<a href="https://www.ietf.org/rfc/rfc3921.txt">RFC 3921</a>) -- the latter needs to be added to most servers, though (another chance to contribute!).</li>
-      <li>Groupchat (<a href="https://www.xmpp.org/extensions/jep-0045.html">JEP-0045</a>).</li>
-      <li>File transfer (<a href="https://www.xmpp.org/extensions/jep-0096.html">JEP-0096</a>).</li>
-      <li>XHTML-formatted messages (<a href="https://www.xmpp.org/extensions/jep-0071.html">JEP-0071</a>).</li>
-      <li>Publish-subscribe (<a href="https://www.xmpp.org/extensions/jep-0060.html">JEP-0060</a>) and the various features built on top of it, such as geolocation (<a href="https://www.xmpp.org/extensions/jep-0080.html">JEP-0080</a>), mood (<a href="https://www.xmpp.org/extensions/jep-0107.html">JEP-0107</a>), weather alerts (<a href="https://www.xmpp.org/extensions/jep-0127.html">JEP-0127</a>), tunes (<a href="https://www.xmpp.org/extensions/jep-0118.html">JEP-0118</a>), and Atom notifications (<a href="https://www.xmpp.org/drafts/draft-saintandre-atompub-notify-01.html">draft-saintandre-atompub-notify</a>), with more on the way.</li>
+      <li>Groupchat (<a href="https://xmpp.org/extensions/xep-0045.html">JEP-0045</a>).</li>
+      <li>File transfer (<a href="https://xmpp.org/extensions/xep-0096.html">JEP-0096</a>).</li>
+      <li>XHTML-formatted messages (<a href="https://xmpp.org/extensions/xep-0071.html">JEP-0071</a>).</li>
+      <li>Publish-subscribe (<a href="https://xmpp.org/extensions/xep-0060.html">JEP-0060</a>) and the various features built on top of it, such as geolocation (<a href="https://xmpp.org/extensions/xep-0080.html">JEP-0080</a>), mood (<a href="https://xmpp.org/extensions/xep-0107.html">JEP-0107</a>), weather alerts (<a href="https://xmpp.org/extensions/xep-0127.html">JEP-0127</a>), tunes (<a href="https://xmpp.org/extensions/xep-0118.html">JEP-0118</a>), and Atom notifications (<a href="https://www.ietf.org/archive/id/draft-saintandre-atompub-notify-07.txt">draft-saintandre-atompub-notify</a>), with more on the way.</li>
     </ul>
     <p>Does <em>any</em> Jabber client do all of that today? Unfortunately, no. But that's why there are still plenty of opportunities to contribute. So let's get busy!</p>
 </entry>

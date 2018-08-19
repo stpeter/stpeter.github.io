@@ -11,7 +11,7 @@
 <li>It's another thing to write clean, logical code that implements the spec (not something I'm good at).</li>
 <li>It's yet another thing to operationalize that code in a significant deployment and service the users of that deployment (something I've gained experience with at the <a href="https://www.jabber.org/">jabber.org IM service</a>).</li>
 </ol>
-<p>Each of these stages is a gating process that separates an interesting experiment from a truly Internet-scale technology. Perhaps we should force spec writers to either write code or deploy services. (Example: shall every <a href="https://www.xmpp.org/council/">XMPP Council</a> member be required to help administer the jabber.org IM service?)</p>
+<p>Each of these stages is a gating process that separates an interesting experiment from a truly Internet-scale technology. Perhaps we should force spec writers to either write code or deploy services. (Example: shall every <a href="https://xmpp.org/about/xmpp-standards-foundation.html#council">XMPP Council</a> member be required to help administer the jabber.org IM service?)</p>
 <p>Just a thought. :-)</p>
 </entry>
 </journal>

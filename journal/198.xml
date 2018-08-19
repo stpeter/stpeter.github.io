@@ -6,8 +6,8 @@
 <li>Posted 11 messages to <a href="https://mail.jabber.org/listinfo/jadmin/">JADMIN</a></li>
 <li>Posted 7 messages to <a href="https://mail.jabber.org/listinfo/jdev/">JDEV</a></li>
 <li>Posted 2 updated revisions of the <a href="http://jabberd.jabberstudio.org/howto.html">jabberd howto</a> (more work required to bring it up to date -- not to mention my half-finished revisions to the Jabber User Guide)</li>
-<li>Processed and published 2 <a href="https://www.xmpp.org/extensions/">JEPs</a>, with 2 or 3 more in the queue</li>
-<li>Submitted 1 JEP to the Jabber Council -- my <a href="https://www.xmpp.org/extensions/jep-0019.html">proposal</a> for streamlining (well, disbanding) the Jabber Interest Groups</li>
+<li>Processed and published 2 <a href="https://xmpp.org/extensions/">JEPs</a>, with 2 or 3 more in the queue</li>
+<li>Submitted 1 JEP to the Jabber Council -- my <a href="https://xmpp.org/extensions/xep-0019.html">proposal</a> for streamlining (well, disbanding) the Jabber Interest Groups</li>
 <li>Ran 1 meeting of the Jabber Software Foundation (here's the <a href="https://www.jabber.org/chatbot/logs/conference.jabber.org/foundation/2002-03-06.html">log</a>)</li>
 <li>I also finished coding a voting bot and <a href="https://mail.jabber.org/pipermail/members/2002-March/000802.html">started</a> the voting process to accept new members into the Jabber Software Foundation</li>
 <li>Oh yeah, and I converted the <a href="https://www.jabber.org/news/">JSF news page</a> over to XML+XSLT (of course!), and added links to recent news items and JEPs on the <a href="https://www.jabber.org/">JSF homepage</a> (check out that JSF <a href="https://www.jabber.org/news/rss.xml">RSS feed</a>, too)</li>

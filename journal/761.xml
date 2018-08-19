@@ -1,11 +1,11 @@
 <journal>
 <header><title>Reconsidering Ajax?</title><date>2005-06-02</date></header>
 <entry>
-    <p>In <a href="http://www.adambosworth.net/archives/000044.html">reconsidering Ajax</a>, Adam Bosworth, seems to be considering <a href="https://www.xmpp.org/">XMPP</a>:</p>
+    <p>In <a href="http://www.adambosworth.net/archives/000044.html">reconsidering Ajax</a>, Adam Bosworth, seems to be considering <a href="https://xmpp.org/">XMPP</a>:</p>
     <blockquote>
       <p>The browser isn't a good listener to external events. If you want to build an application, for example, to show you instantly when someone bids or a price changes, it is hard. You can poll, but poll too frequently and the application starts to feel sluggish and it isn't easy to do this. What you really want is an event driven model where in addition to the events like typing the page can describe events like an XMPP message or a VOIP request or a data-changed post for an ATOM feed.</p>
     </blockquote>
-    <p>Polling bad. Sure, you can use <a href="http://www.xml.com/pub/a/2005/02/09/xml-http-request.html">XMLHttpRequest</a> to your heart's content, but isn't it better to push events to the browser than to continually check to see if something interesting has happened? The core <a href="https://www.xmpp.org/">XMPP</a> protocol might solve some of the difficulties with listening for events in Ajax, as might the <a href="https://www.xmpp.org/extensions/jep-0060.html">XMPP publish-subscribe extension</a>.</p>
+    <p>Polling bad. Sure, you can use <a href="http://www.xml.com/pub/a/2005/02/09/xml-http-request.html">XMLHttpRequest</a> to your heart's content, but isn't it better to push events to the browser than to continually check to see if something interesting has happened? The core <a href="https://xmpp.org/">XMPP</a> protocol might solve some of the difficulties with listening for events in Ajax, as might the <a href="https://xmpp.org/extensions/xep-0060.html">XMPP publish-subscribe extension</a>.</p>
     <p>Just a thought. ;-)</p>
 </entry>
 </journal>

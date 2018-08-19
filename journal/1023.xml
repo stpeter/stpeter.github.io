@@ -13,13 +13,13 @@
       <li>Pubsub (presence stanzas)</li>
     </ol>
     <p>It seems downright silly to say that it's a good thing to limit the use of other protocols to HTTP-like semantics, given that push semantics have launched not one but two killer apps -- email and IM.</p>
-    <p>And presence too opens up a whole world of new applications (it forms the bedrock for IM). Presence is one form of pubsub semantics, but not the only one, which is why in the XMPP community we abstracted from our more basic presence functionality to define a <a href="https://www.xmpp.org/extensions/xep-0060.html">generic pubsub protocol</a>. And pubsub semantics seem to be of interest even to folks in the HTTP community -- heck, there are even proposals to <a href="http://soundadvice.id.au/blog/draft-carlyle-sena-00.txt">do pubsub over HTTP</a> by defining some new HTTP verbs (if those are standardized, are they automatically included in the universe of "HTTP-like semantics"?).</p>
+    <p>And presence too opens up a whole world of new applications (it forms the bedrock for IM). Presence is one form of pubsub semantics, but not the only one, which is why in the XMPP community we abstracted from our more basic presence functionality to define a <a href="https://xmpp.org/extensions/xep-0060.html">generic pubsub protocol</a>. And pubsub semantics seem to be of interest even to folks in the HTTP community -- heck, there are even proposals to <a href="http://soundadvice.id.au/blog/draft-carlyle-sena-00.txt">do pubsub over HTTP</a> by defining some new HTTP verbs (if those are standardized, are they automatically included in the universe of "HTTP-like semantics"?).</p>
     <p>By "RESTful" some folks seem to mean "it's available at a URI". Well, that's nice, but is it everything? Sure, we too have an <a href="https://www.ietf.org/rfc/rfc4622.txt">XMPP URI scheme</a>, but we don't typically use it to express availability of all resources. Does that make XMPP unRESTful?</p>
     <p>AFAICS, Adam Bosworth's five questions are still apropos (especially since he explicitly mentions Jabber as a desirable transport protocol). I paraphrase them as follows:</p>
     <ol>
       <li>
         <p>How does REST enable the sender of the message to know reliably that the receiver has received it?</p>
-        <p>(In XMPP we do this via IQs if you're comfortable with receiving errors on failure but nothing on success, or via <a href="https://www.xmpp.org/extensions/xep-0079.html">advanced message processing</a> if you need greater reliability.)</p>
+        <p>(In XMPP we do this via IQs if you're comfortable with receiving errors on failure but nothing on success, or via <a href="https://xmpp.org/extensions/xep-0079.html">advanced message processing</a> if you need greater reliability.)</p>
       </li>
       <li>
         <p>How does REST correlate responses with sent messages in the absence of HTTP cookies?</p>
@@ -27,7 +27,7 @@
       </li>
       <li>
         <p>How does REST provide transparent service descriptions in the absence of WSDL?</p>
-        <p>(In XMPP we have <a href="https://www.xmpp.org/extensions/xep-0030.html">service discovery</a> and we endeavor to define our protocols clearly enough that the programmer's job is made easy.)</p>
+        <p>(In XMPP we have <a href="https://xmpp.org/extensions/xep-0030.html">service discovery</a> and we endeavor to define our protocols clearly enough that the programmer's job is made easy.)</p>
       </li>
       <li>
         <p>How does REST push out context-specific data in real time without requiring the client to maintain a large amount of state?</p>
@@ -38,7 +38,7 @@
         <p>(Here again in XMPP we do this with our pubsub extension.)</p>
       </li>
     </ol>
-    <p>It strikes me that XMPP satisfies quite a few of the REST principles. It's client-server and stateless (no cookies here) and layered (data is separated from presentation). It has a small number of well-defined operations (IQ get and set, message, presence, pubsub publish and subscribe, <a href="https://www.xmpp.org/extensions/xep-0004.html">data forms</a> of type form and submit) and content types (the various XMPP extension "payloads"). Etc. But we don't make "resources" the center of our universe (I guess you'd say that entities and messages are primary in XMPP), we don't use URIs to identify all "resources", and cacheability is not critically important in our world.</p>
+    <p>It strikes me that XMPP satisfies quite a few of the REST principles. It's client-server and stateless (no cookies here) and layered (data is separated from presentation). It has a small number of well-defined operations (IQ get and set, message, presence, pubsub publish and subscribe, <a href="https://xmpp.org/extensions/xep-0004.html">data forms</a> of type form and submit) and content types (the various XMPP extension "payloads"). Etc. But we don't make "resources" the center of our universe (I guess you'd say that entities and messages are primary in XMPP), we don't use URIs to identify all "resources", and cacheability is not critically important in our world.</p>
     <p>So I don't know that the Jabberites will ever be good RESTafarians. But given that REST seems to be something approaching a religion rather than a set of practical, helpful guidelines for building interesting services, I also don't know that it really matters all that much. :-)</p>
 </entry>
 </journal>

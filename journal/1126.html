@@ -13,11 +13,11 @@
 <body>
 <h2>XMPP Layering</h2>
 <h3>2007-08-09</h3>
-<p>This is a bit of a geeky post, but it captures something I've thought about as I've been working on <a href="https://www.xmpp.org/internet-drafts/draft-saintandre-rfc3920bis-03.html">rfc3920bis</a> and <a href="https://www.xmpp.org/internet-drafts/draft-saintandre-rfc3921bis-03.html">rfc3921bis</a> of late: namely, that there are several layers in <a href="https://www.xmpp.org/">XMPP</a> technologies. In particular:</p>
+<p>This is a bit of a geeky post, but it captures something I've thought about as I've been working on <a href="https://xmpp.org/internet-drafts/draft-saintandre-rfc3920bis-03.html">rfc3920bis</a> and <a href="https://xmpp.org/internet-drafts/draft-saintandre-rfc3921bis-03.html">rfc3921bis</a> of late: namely, that there are several layers in <a href="https://xmpp.org/">XMPP</a> technologies. In particular:</p>
 <ol>
 <li>XML streams</li>
 <li>The jabber:client (and jabber:server) namespaces, which define the core presence, messaging, and request-response services.</li>
-<li>Various XMPP extensions, some of which (e.g., <a href="https://www.xmpp.org/extensions/xep-0060.html">pubsub</a>) provide infrastructure for even further extensions.</li>
+<li>Various XMPP extensions, some of which (e.g., <a href="https://xmpp.org/extensions/xep-0060.html">pubsub</a>) provide infrastructure for even further extensions.</li>
 </ol>
 <p>In <a href="https://www.ietf.org/rfc/rfc3920.txt">RFC 3920</a> ("XMPP Core") we defined the presence, messaging, and request-response services, but the XML schemas for that functionality were specified in <a href="https://www.ietf.org/rfc3921.txt">RFC 3921</a> ("XMPP IM") because there are some IM-specific semantics defined in those schemas. Now I'm wondering whether it makes more sense to define only XML streams (and associated features like TLS for channel encryption and SASL for authentication) in rfc3920bis and to define everything related to the jabber:client and jabber:server namespaces in rfc3921bis.</p>
 <p>(One reason for doing so would be to make it clear that people could use XML streams with default namespaces other than jabber:client and jabber:server -- e.g., someone could define a specialized default namespace for synchronization of Atom feeds or SVG images or somesuch.)</p>

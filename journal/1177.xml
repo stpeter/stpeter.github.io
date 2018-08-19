@@ -14,7 +14,7 @@
 <ul>
 <li><a href="https://tools.ietf.org/html/draft-ietf-sieve-notify-11">SIEVE notify</a> -- yes, you could poll for new mail, but why not have a notification sent to you when something appears in your inbox?</li>
 <li><a href="ftp://ftp.rfc-editor.org/in-notes/rfc3921.txt">XMPP rosters</a> -- your IM client retrieves the roster (contact list) when you log in, but then receives updates throughout your session</li>
-<li><a href="https://www.xmpp.org/extensions/xep-0060.html">XMPP pubsub</a> -- notifications are sent whenever an event occurs at a pubsub "node" (which you can think of as a topic or channel), but you can also retrieve older events that are stored in the node history</li>
+<li><a href="https://xmpp.org/extensions/xep-0060.html">XMPP pubsub</a> -- notifications are sent whenever an event occurs at a pubsub "node" (which you can think of as a topic or channel), but you can also retrieve older events that are stored in the node history</li>
 </ul>
 <p>The challenge of finding the right balance between push and pull is, I think, an issue for a wide range of application protocols: email (POP or IMAP plus SIEVE notifications), contact lists (&#xE0; la XMPP rosters), file repositories (WebDAV when used for both file retrieval and change monitoring), calendaring (free/busy notifications and meeting changes), data syndication (whether to subscribe to or poll for Atom updates), and so on.</p>
 <p>This mini-paper contains only my first thoughts on the subject. Further research and reflection are required...</p>
