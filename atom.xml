@@ -8,8 +8,16 @@
   </author>
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
-  <copyright>http://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2018-07-23</modified>
+  <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
+  <modified>2018-09-05</modified>
+  <entry>
+    <title>Perspectives on the Path</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1608.html"/>
+    <id>tag:stpeter.im,1608</id>
+    <issued>2018-09-05</issued>
+    <modified>2018-09-05</modified>
+    <summary>An essential lesson of philosophy is the ancient Greek formula "know yourself". It sounds easy, but it's immensely difficult. One model of self-knowledge I'm exploring is to look at your path in life from six different perspectives: beginning, end, above, below, side, within....</summary>
+  </entry>
   <entry>
     <title>Intensive Reading</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1607.html"/>
@@ -49,13 +57,5 @@
     <issued>2018-02-04</issued>
     <modified>2018-02-04</modified>
     <summary>Aristotle's views on living well and doing well - what the ancient Greeks called εὐδαιμονία or eudaimonia - are some of the most enduring insights into ethics ever put into words. Yet the deepest meaning of those words is usually obscured by efforts to translate and interpret Aristotle's thoughts. In part the problem is linguistic, in part it is cultural, but ultimately it is philosophical: ancient Greek world views, Aristotle's among them, are very far from our modern ways of thinking and feeling....</summary>
-  </entry>
-  <entry>
-    <title>Songs of Zarathustra Now Published</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1602.html"/>
-    <id>tag:stpeter.im,1602</id>
-    <issued>2018-02-03</issued>
-    <modified>2018-02-03</modified>
-    <summary>My short book on Friedrich Nietzsche, Songs of Zarathustra, is now published in paperback and ebook formats, and of course also on my website. Once again both the form and the content are unorthodox: I construe Nietzsche in a more humanistic way than most interpreters, and I do so in a cycle of 73 brief poems (including translations of some of Nietzsche's own verse). Neither aspect is likely to endear me to academics, but then I don't write for a scholarly audience - even though my books are based on a deep reading of the original texts....</summary>
   </entry>
 </feed>
