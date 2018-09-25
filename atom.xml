@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2018-09-05</modified>
+  <modified>2018-09-24</modified>
+  <entry>
+    <title>Foundations for Philosophical Practice</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1609.html"/>
+    <id>tag:stpeter.im,1609</id>
+    <issued>2018-09-24</issued>
+    <modified>2018-09-24</modified>
+    <summary>Recently I've revisited a field that's intrigued me for some time: philosophical counselling, or more broadly philosophical practice. Most of those active in this field are almost anti-method, and what methods they do employ are derived from hermeneutics, phenomenology, existentialism, Stoicism, and Socratic questioning - some of which I find interesting but none of which I find deeply congenial. Philosophical practice emerged in Europe around 1980 among thinkers influenced by hermeneutics and existentialism, and even the American philosophers in this area are mostly existentialists (associated with the American Philosophical Practitioners Association) or Stoics (associated with the National Philosophical Counseling Association) - for instance, Elliot Cohen, the progenitor of logic-based therapy, was a disciple of Albert Ellis (inventor of Rational Emotive Behavior Therapy). By contrast, my philosophical orientation is toward eudaimonia (the ancient Greek term for happiness, flourishing, living well) and the focus of my writing and living is on solving problems that hinder the pursuit of happiness. Upon reflection, I'm starting to see the possibility of developing a more joyous approach to philosophical practice that takes its inspiration from positive thinkers - especially the six I'm writing books about: Rand, Nietzsche, Aristotle, Thoreau, Epicurus, and Lao Tzu....</summary>
+  </entry>
   <entry>
     <title>Perspectives on the Path</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1608.html"/>
@@ -49,13 +57,5 @@
     <issued>2018-02-12</issued>
     <modified>2018-02-12</modified>
     <summary>My intent in writing a book on Aristotelian ethics is not to present exactly what Aristotle said (I'll leave that to scholars such as J.O. Urmson in his excellent epitome Aristotle's Ethics), but hopefully what he meant and even more pointedly what he means for us 2300+ years later. The goal is to present my own direct encounter with Aristotle, unmediated by millennia of often misguided scholarship and mistranslation. (Ironically, we need some scholarship to do that, so separating the wheat from the chaff is necessary.) Here are some of the questions I'll be trying answer:...</summary>
-  </entry>
-  <entry>
-    <title>Aristotle: A First Encounter</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1603.html"/>
-    <id>tag:stpeter.im,1603</id>
-    <issued>2018-02-04</issued>
-    <modified>2018-02-04</modified>
-    <summary>Aristotle's views on living well and doing well - what the ancient Greeks called εὐδαιμονία or eudaimonia - are some of the most enduring insights into ethics ever put into words. Yet the deepest meaning of those words is usually obscured by efforts to translate and interpret Aristotle's thoughts. In part the problem is linguistic, in part it is cultural, but ultimately it is philosophical: ancient Greek world views, Aristotle's among them, are very far from our modern ways of thinking and feeling....</summary>
   </entry>
 </feed>
