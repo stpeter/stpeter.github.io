@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2018-09-24</modified>
+  <modified>2018-09-26</modified>
+  <entry>
+    <title>You're Majoring in What?!?</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1610.html"/>
+    <id>tag:stpeter.im,1610</id>
+    <issued>2018-09-26</issued>
+    <modified>2018-09-26</modified>
+    <summary>On October 10th I'll give a talk entitled "You're Majoring in What?!? Why Philosophy is a Foundation for Success" at the University of Colorado Boulder (Hellems Arts and Sciences building, room 199, 6 PM). Although I don't believe it will be recorded, at the least I'll post the slides afterward. And if you live in the vicinity, feel free to stop by - I'll use my typical "performance art" presentation style, so it might even be mildly entertaining. :-)...</summary>
+  </entry>
   <entry>
     <title>Foundations for Philosophical Practice</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1609.html"/>
@@ -49,13 +57,5 @@
     <issued>2018-02-12</issued>
     <modified>2018-02-12</modified>
     <summary>I'm starting to see that Aristotle's conception of ἀρετή (which I translate as thriving but which is more commonly translated as excellence or virtue) describes a deliberate practice of good judgment, reasoned choice, and planned activity resulting in a balance between extremes of action and emotional reaction in a particular domain of human life....</summary>
-  </entry>
-  <entry>
-    <title>Aristotelian Questions</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1604.html"/>
-    <id>tag:stpeter.im,1604</id>
-    <issued>2018-02-12</issued>
-    <modified>2018-02-12</modified>
-    <summary>My intent in writing a book on Aristotelian ethics is not to present exactly what Aristotle said (I'll leave that to scholars such as J.O. Urmson in his excellent epitome Aristotle's Ethics), but hopefully what he meant and even more pointedly what he means for us 2300+ years later. The goal is to present my own direct encounter with Aristotle, unmediated by millennia of often misguided scholarship and mistranslation. (Ironically, we need some scholarship to do that, so separating the wheat from the chaff is necessary.) Here are some of the questions I'll be trying answer:...</summary>
   </entry>
 </feed>
