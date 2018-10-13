@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2018-09-26</modified>
+  <modified>2018-10-12</modified>
+  <entry>
+    <title>Aristotle Research Report #5: Three Forms of the Good</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1611.html"/>
+    <id>tag:stpeter.im,1611</id>
+    <issued>2018-10-12</issued>
+    <modified>2018-10-12</modified>
+    <summary>In Book Two, Chapter Three of the Nicomachean Ethics, Aristotle distinguishes three forms of the good: what is pleasurable or enjoyable (τό ἡδύ), what is useful or advantageous (τό συμφέρων), and what is right or beautiful (τό καλόν). In other places in his writings on both ethics and biology, he distinguishes three forms of reaching or desire (ὄρεξις): craving or appetite (ἐπιθυμία), feeling or passion (θυμός), and decision or will (βούλησις). Various interpreters (such as John Cooper in his book Reason and Emotion) have attempted to align these two sets of three, whereas other interpreters (such as Giles Pearson in his book Aristotle on Desire) have criticized such attempts as forced, misguided, and not supported by the textual evidence. Although I tend to agree with the integrators because I believe Aristotle was a fairly systematic thinker, I think Cooper's connection of θυμός with τό καλόν isn't right. Instead, it seems to me that craving or appetite is for the pleasant or enjoyable, feeling or passion is for the useful or advantageous, and decision or will is for what's right or beautiful....</summary>
+  </entry>
   <entry>
     <title>You're Majoring in What?!?</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1610.html"/>
@@ -49,13 +57,5 @@
     <issued>2018-04-13</issued>
     <modified>2018-04-13</modified>
     <summary>In Book VIII of his Politics, Aristotle talks about music: its role in ancient Greek education, its differences from the other arts, and its philosophical significance. This is not an in-depth exploration of the philosophy of music (what I wouldn't give for his lost work Ρερὶ Μουσικῆς), but more of a cursory glance. Yet through extrapolation we can tease out some meaning from his discussion....</summary>
-  </entry>
-  <entry>
-    <title>Aristotle Research Report #4: ἀρετή</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1605.html"/>
-    <id>tag:stpeter.im,1605</id>
-    <issued>2018-02-12</issued>
-    <modified>2018-02-12</modified>
-    <summary>I'm starting to see that Aristotle's conception of ἀρετή (which I translate as thriving but which is more commonly translated as excellence or virtue) describes a deliberate practice of good judgment, reasoned choice, and planned activity resulting in a balance between extremes of action and emotional reaction in a particular domain of human life....</summary>
   </entry>
 </feed>
