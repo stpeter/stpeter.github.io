@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2018-10-19</modified>
+  <modified>2018-10-26</modified>
+  <entry>
+    <title>Understanding Others</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1613.html"/>
+    <id>tag:stpeter.im,1613</id>
+    <issued>2018-10-26</issued>
+    <modified>2018-10-26</modified>
+    <summary>In my recent philosophy talk, I mentioned that thinking philosophically has helped me better understand people. This might seem counterintuitive - after all, don't big thinkers believe they have all the answers? Yes, I used to have that kind of arrogance, too. Yet over time I started to wonder: why do people have so many different opinions about things? Why have these various philosophies of life persisted for so long (Stoicism, Platonism, Buddhism, Taoism, etc.)? Why do I think what I think? Is it really in my control? At some level can you really "blame" people for the contents of their minds?...</summary>
+  </entry>
   <entry>
     <title>Philosophy Video</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1612.html"/>
@@ -49,13 +57,5 @@
     <issued>2018-09-05</issued>
     <modified>2018-09-05</modified>
     <summary>An essential lesson of philosophy is the ancient Greek formula "know yourself". It sounds easy, but it's immensely difficult. One model of self-knowledge I'm exploring is to look at your path in life from six different perspectives: beginning, end, above, below, side, within....</summary>
-  </entry>
-  <entry>
-    <title>Intensive Reading</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1607.html"/>
-    <id>tag:stpeter.im,1607</id>
-    <issued>2018-07-23</issued>
-    <modified>2018-07-23</modified>
-    <summary>As previously mentioned, I have in mind to write a novel about the ancient Greek philosopher Pyrrho and his journey to central Asia and northwestern India with the army of Alexander the Great. As part of my research I'm reading a great deal of philosophy, history, and fiction. It's been fascinating to return to the reading of fiction after a lapse of many years - I feel like I have fresh eyes for everything. My readings in the genre of philosophical fiction have ranged all over the map - during a business trip last week I devoured The Name of the Rose by Umberto Eco, before that I re-read The Left Hand of Darkness by Ursula K. Le Guin, and I'm currently reading both The Picture of Dorian Gray by Oscar Wilde and The Awakening by Kate Chopin. Alongside these works of fiction I'm reading books of philosophical scholarship (the latest were a full-length study of Pyrrho and an exploration of epistemology after Protagoras) and I'm starting to explore the historical background to the massive cultural change from classical to hellenistic Greece. Umberto Eco's book in particular has given me a new ambition of combining the story of Pyrrho's intellectual development with a mystery novel about the still unexplained death of Alexander the Great! It turns out the Pyrrho was probably not quite the radical skeptic he's usually taken to be (although he did believe that the entities we encounter in reality are indefinite and thus hard to pin down in many ways). Combine this with political intrigue on an imperial scale and perhaps regicide (indeed, there's an ancient legend that Aristotle himself was somehow involved in the assassination of his former pupil Alexander, perhaps in revenge for Alexander's execution of Aristotle's nephew Kallisthenes), and we might have the makings of large-scale novel that hinges in part on the validity of the law of non-contradiction! This is all quite speculative at this point because I have over 200 more books to read during the research phase, and I would also need to intensively study how the better authors construct their novels (an art of which I am mostly ignorant). Although I'm not sure if I have a book this big in me, I'm enjoying the exploration of possibilities. And all this reading has kept me from blogging, thus my absence here. Hopefully the results will be worth waiting for......</summary>
   </entry>
 </feed>
