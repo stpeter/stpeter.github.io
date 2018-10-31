@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2018-10-26</modified>
+  <modified>2018-10-30</modified>
+  <entry>
+    <title>Goals</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1614.html"/>
+    <id>tag:stpeter.im,1614</id>
+    <issued>2018-10-30</issued>
+    <modified>2018-10-30</modified>
+    <summary>There are many ways to categorize and divide up the various areas and activities of life. Here is a six-fold scheme I'm exploring:...</summary>
+  </entry>
   <entry>
     <title>Understanding Others</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1613.html"/>
@@ -49,13 +57,5 @@
     <issued>2018-09-24</issued>
     <modified>2018-09-24</modified>
     <summary>Recently I've revisited a field that's intrigued me for some time: philosophical counselling, or more broadly philosophical practice. Most of those active in this field are almost anti-method, and what methods they do employ are derived from hermeneutics, phenomenology, existentialism, Stoicism, and Socratic questioning - some of which I find interesting but none of which I find deeply congenial. Philosophical practice emerged in Europe around 1980 among thinkers influenced by hermeneutics and existentialism, and even the American philosophers in this area are mostly existentialists (associated with the American Philosophical Practitioners Association) or Stoics (associated with the National Philosophical Counseling Association) - for instance, Elliot Cohen, the progenitor of logic-based therapy, was a disciple of Albert Ellis (inventor of Rational Emotive Behavior Therapy). By contrast, my philosophical orientation is toward eudaimonia (the ancient Greek term for happiness, flourishing, living well) and the focus of my writing and living is on solving problems that hinder the pursuit of happiness. Upon reflection, I'm starting to see the possibility of developing a more joyous approach to philosophical practice that takes its inspiration from positive thinkers - especially the six I'm writing books about: Rand, Nietzsche, Aristotle, Thoreau, Epicurus, and Lao Tzu....</summary>
-  </entry>
-  <entry>
-    <title>Perspectives on the Path</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1608.html"/>
-    <id>tag:stpeter.im,1608</id>
-    <issued>2018-09-05</issued>
-    <modified>2018-09-05</modified>
-    <summary>An essential lesson of philosophy is the ancient Greek formula "know yourself". It sounds easy, but it's immensely difficult. One model of self-knowledge I'm exploring is to look at your path in life from six different perspectives: beginning, end, above, below, side, within....</summary>
   </entry>
 </feed>
