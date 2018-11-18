@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2018-10-30</modified>
+  <modified>2018-11-17</modified>
+  <entry>
+    <title>Investing in Life</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1616.html"/>
+    <id>tag:stpeter.im,1616</id>
+    <issued>2018-11-17</issued>
+    <modified>2018-11-17</modified>
+    <summary>Recently I got to talking with my friend Dave Jilk about happiness, flourishing, and my future book The Art of Living. While relating my ideas about the goals of life (as captured in a recent blog post), I described the importance of taking a balanced approach and including all or most of these goals in one's life pursuits. He likened this to portfolio management in investing, which is a great analogy. This spurred me to thinking further about the value that each area of life brings to one's overall success in life. Consider a few somewhat fanciful extensions of this analogy:...</summary>
+  </entry>
   <entry>
     <title>Impasses</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1615.html"/>
@@ -19,7 +27,7 @@
     <summary>Impasses along the path toward the goals of life can occur in three dimensions:...</summary>
   </entry>
   <entry>
-    <title>Goals</title>
+    <title>Goals of Life</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1614.html"/>
     <id>tag:stpeter.im,1614</id>
     <issued>2018-10-30</issued>
@@ -49,13 +57,5 @@
     <issued>2018-10-12</issued>
     <modified>2018-10-12</modified>
     <summary>In Book Two, Chapter Three of the Nicomachean Ethics, Aristotle distinguishes three forms of the good: what is pleasurable or enjoyable (τό ἡδύ), what is useful or advantageous (τό συμφέρων), and what is right or beautiful (τό καλόν). In other places in his writings on both ethics and biology, he distinguishes three forms of reaching or desire (ὄρεξις): craving or appetite (ἐπιθυμία), feeling or passion (θυμός), and decision or will (βούλησις). Various interpreters (such as John Cooper in his book Reason and Emotion) have attempted to align these two sets of three, whereas other interpreters (such as Giles Pearson in his book Aristotle on Desire) have criticized such attempts as forced, misguided, and not supported by the textual evidence. Although I tend to agree with the integrators because I believe Aristotle was a fairly systematic thinker, I think Cooper's connection of θυμός with τό καλόν isn't right. Instead, it seems to me that craving or appetite is for the pleasant or enjoyable, feeling or passion is for the useful or advantageous, and decision or will is for what's right or beautiful....</summary>
-  </entry>
-  <entry>
-    <title>You're Majoring in What?!?</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1610.html"/>
-    <id>tag:stpeter.im,1610</id>
-    <issued>2018-09-26</issued>
-    <modified>2018-09-26</modified>
-    <summary>On October 10th I'll give a talk entitled "You're Majoring in What?!? Why Philosophy is a Foundation for Success" at the University of Colorado Boulder (Hellems Arts and Sciences building, room 199, 6 PM). Although I don't believe it will be recorded, at the least I'll post the slides afterward. And if you live in the vicinity, feel free to stop by - I'll use my typical "performance art" presentation style, so it might even be mildly entertaining. :-)...</summary>
   </entry>
 </feed>
