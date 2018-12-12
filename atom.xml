@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2018-11-17</modified>
+  <modified>2018-12-11</modified>
+  <entry>
+    <title>Aristotle Research Report #6: A Second Look at the Eudemian Ethics</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1617.html"/>
+    <id>tag:stpeter.im,1617</id>
+    <issued>2018-12-11</issued>
+    <modified>2018-12-11</modified>
+    <summary>Aristotle wrote two treatises on ethics, which have come down to us as the Nicomachean Ethics or NE (in ten books) and the Eudemian Ethics or EE (in eight books). Confusingly, for reasons lost in the mists of time three of the books appear in both treatises (NE 5-7 = EE 4-6). Although until the commentary of Aspasius in the second century AD the EE was apparently considered to be the definitive statement of Aristotle's views, since then the NE has taken priority (so much so that many scholarly treatments of Aristotelian ethics completely ignore the EE). Yet detailed stylometric and textual analyses conducted by Anthony Kenny from the 1960s to the 1990s indicate that the three "common books" go with the EE, not the NE. It also seems likely (though so far not yet proven) that the EE was written after the NE, during the last eight years of Aristotle's life....</summary>
+  </entry>
   <entry>
     <title>Investing in Life</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1616.html"/>
@@ -49,13 +57,5 @@
     <issued>2018-10-19</issued>
     <modified>2018-10-19</modified>
     <summary>Video of my talk on philosophy as a foundation for success is now available, in two parts: the talk itself and the question-and-answer session. Thanks to Prof. Mitzi Lee for making the recording and posting it to YouTube!...</summary>
-  </entry>
-  <entry>
-    <title>Aristotle Research Report #5: Three Forms of the Good</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1611.html"/>
-    <id>tag:stpeter.im,1611</id>
-    <issued>2018-10-12</issued>
-    <modified>2018-10-12</modified>
-    <summary>In Book Two, Chapter Three of the Nicomachean Ethics, Aristotle distinguishes three forms of the good: what is pleasurable or enjoyable (τό ἡδύ), what is useful or advantageous (τό συμφέρων), and what is right or beautiful (τό καλόν). In other places in his writings on both ethics and biology, he distinguishes three forms of reaching or desire (ὄρεξις): craving or appetite (ἐπιθυμία), feeling or passion (θυμός), and decision or will (βούλησις). Various interpreters (such as John Cooper in his book Reason and Emotion) have attempted to align these two sets of three, whereas other interpreters (such as Giles Pearson in his book Aristotle on Desire) have criticized such attempts as forced, misguided, and not supported by the textual evidence. Although I tend to agree with the integrators because I believe Aristotle was a fairly systematic thinker, I think Cooper's connection of θυμός with τό καλόν isn't right. Instead, it seems to me that craving or appetite is for the pleasant or enjoyable, feeling or passion is for the useful or advantageous, and decision or will is for what's right or beautiful....</summary>
   </entry>
 </feed>
