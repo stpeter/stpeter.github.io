@@ -104,7 +104,7 @@ a:visited {
 @media print {
   font-size: 10pt;
   font-family: Cardo, Bodoni, Bembo, Garamond, Georgia, Times, serif;
-  color: #00000;
+  color: #000000;
   background-color: #FFFFFF;
   h1, h2, h3, h4, h5, h6 {
     page-break-after: avoid;
