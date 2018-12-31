@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2018-12-11</modified>
+  <modified>2018-12-31</modified>
+  <entry>
+    <title>2018 Readings</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1618.html"/>
+    <id>tag:stpeter.im,1618</id>
+    <issued>2018-12-31</issued>
+    <modified>2018-12-31</modified>
+    <summary>Here's a list of the books I read in 2018 (including the complete works of Aristotle and a number of related scholarly books, along with a smattering of fiction):...</summary>
+  </entry>
   <entry>
     <title>Aristotle Research Report #6: A Second Look at the Eudemian Ethics</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1617.html"/>
@@ -49,13 +57,5 @@
     <issued>2018-10-26</issued>
     <modified>2018-10-26</modified>
     <summary>In my recent philosophy talk, I mentioned that thinking philosophically has helped me better understand people. This might seem counterintuitive - after all, don't big thinkers believe they have all the answers? Yes, I used to have that kind of arrogance, too. Yet over time I started to wonder: why do people have so many different opinions about things? Why have these various philosophies of life persisted for so long (Stoicism, Platonism, Buddhism, Taoism, etc.)? Why do I think what I think? Is it really in my control? At some level can you really "blame" people for the contents of their minds?...</summary>
-  </entry>
-  <entry>
-    <title>Philosophy Video</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1612.html"/>
-    <id>tag:stpeter.im,1612</id>
-    <issued>2018-10-19</issued>
-    <modified>2018-10-19</modified>
-    <summary>Video of my talk on philosophy as a foundation for success is now available, in two parts: the talk itself and the question-and-answer session. Thanks to Prof. Mitzi Lee for making the recording and posting it to YouTube!...</summary>
   </entry>
 </feed>
