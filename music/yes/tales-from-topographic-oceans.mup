@@ -2,8 +2,8 @@
 // solo bass arrangement of the Yes album "Tales From
 // Topographic Oceans".
 //
-// Version: 0.7
-// Last Updated: 2018-04-08
+// Version: 0.8
+// Last Updated: 2019-01-05
 //
 header
 	title (18) "Tales From Topographic Oceans"
@@ -27,6 +27,9 @@ score
         vscheme = 2f
         measnum = y
 music
+//
+// THE REVEALING SCIENCE OF GID
+//
 1: 8b; 16b; b; 8b; b; 16; b; 8b; b; 16b; b; 
 ital above 1: 1 "Part I: The Revealing Science of God";
 bar
@@ -85,11 +88,11 @@ score
 	time = 4/4
 music
 repeatstart
-1 1: 8.e+b; 8.d+b; 8.bb-; 16b; d+; b; d+; c+; 8b;
+1 1: 8.e+b; 8.d+b; 8.bb-; 16b; d+; c+; d+; c+; 8b;
 bar
-1 1: 8.dn+a; 8.c+a; 8.aa-; 16a; c+; a; c+; b; 8a;
+1 1: 8.dn+a; 8.c+a; 8.aa-; 16a; c+; b; c+; b; 8a;
 repeatend
-1 1: 8.e+b; 8.d+b; 8.bb-; 16b; d+; b; d+; c+; 8b;
+1 1: 8.e+b; 8.d+b; 8.bb-; 16b; d+; c+; d+; c+; 8b;
 bar
 1 1: 8.dn+a; 8.c+a; 8aa-; 8.cn+g; 8.bg; 8gngn-;
 bar rehearsal let
@@ -129,11 +132,25 @@ bar
 1: 8e+; 16g+; e+; b; g+; e+; b; a+; e+; b; g+; e+; b; 8f+;
 bar
 1 1: 8r; g+; g+; g+; 16g+; g+; 8g+; g+; a+~;
-1 2: 2.e+; 8e+; r;
+1 2: 8e+; 8e+~; 2.e+;
 bar
-1 1: 8a+; 16g+; f+; g+; f+~; 8f+; e+; 
-1 2: 
+1 1: 8a+; 16g+; f+; g+; f+~; 8f+; e+; 8f+; 16f+; f+; 8a#+;
 bar
+1 1: 16a#+; a#+; 8c++; c++; 16c++; c++; 8c++; c++; 16c++; c++; 8c++; 
+bar
+score
+	time = 9/8
+music
+1 1: 8c++; 16e+g+; r; e+g+; r; 8r; 8.e+g+; 16f+; 8e+; 16b-; c; e; f; 
+bar
+score
+	time = 4/4
+music
+1 1: 16e; c; r; b-; r; c; 8g-; 2r;
+bar
+//
+// THE REMEMBERING
+//
 1: 1r;
 ital above 1: 1 "Part II: The Remembering";
 bar
@@ -143,6 +160,9 @@ bar
 bar
 1: 1r;
 bar
+//
+// THE ANCIENT
+//
 1: 1r;
 ital above 1: 1 "Part III: The Ancient";
 bar
@@ -152,6 +172,9 @@ bar
 bar
 1: 1r;
 bar
+//
+// RITUAL
+//
 1: 1r;
 ital above 1: 1 "Part IV: Ritual";
 bar
