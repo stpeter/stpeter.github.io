@@ -2,8 +2,8 @@
 // solo bass arrangement of the Yes album "Tales From
 // Topographic Oceans".
 //
-// Version: 0.8
-// Last Updated: 2019-01-05
+// Version: 0.9
+// Last Updated: 2019-01-07
 //
 header
 	title (18) "Tales From Topographic Oceans"
@@ -124,7 +124,7 @@ bar
 1 2: 8e-; 16e-; e-~; 8e-; 16e-; e-; 8e-; 8e-~; 8e-; 16e-; e-; 
 bar
 1 1: 4r; 4b+e+; 8a+e+; 8g+~e+~; 8g+e+; 8r;
-1 2: 8e-; 16e-; e-~; 8e-; 16e-; e-; 8e-; 16e-; e-~; 8e-; e+;
+1 2: 8e-; 16e-; e-~; 8e-; 16e-; e-; 8e-; 16e-~; e-~; 8e-; e+;
 bar
 1 1: 8r; a#+; b+; 4.a+; 8g+; 16an+; g+;
 1 2: 16f+; r; 8f+~; 2.f+;
@@ -132,21 +132,107 @@ bar
 1: 8e+; 16g+; e+; b; g+; e+; b; a+; e+; b; g+; e+; b; 8f+;
 bar
 1 1: 8r; g+; g+; g+; 16g+; g+; 8g+; g+; a+~;
-1 2: 8e+; 8e+~; 2.e+;
+1 2: 8e+; 8e+~; 2e+; 4r;
 bar
 1 1: 8a+; 16g+; f+; g+; f+~; 8f+; e+; 8f+; 16f+; f+; 8a#+;
 bar
 1 1: 16a#+; a#+; 8c++; c++; 16c++; c++; 8c++; c++; 16c++; c++; 8c++; 
 bar
 score
-	time = 9/8
+	time = 7/8
 music
-1 1: 8c++; 16e+g+; r; e+g+; r; 8r; 8.e+g+; 16f+; 8e+; 16b-; c; e; f; 
+1 1: 8c++; 16e+g+; r; e+g+; r; 8r; 8.e+g+; 16f+; 8e+; 
 bar
 score
 	time = 4/4
 music
-1 1: 16e; c; r; b-; r; c; 8g-; 2r;
+1 1: 16b; c+; e+; f+; e+; c+; r; b; r; c+; g~; g; g; b; c+; e+;
+bar
+score
+	time = 5/4
+music
+1 1: 8.d+; 16d+; 32e+; f+; 16g+; e+; e+; 32e+; f+; 16a+; f+; f+; r; b+; r; a+; r; 8.b; 
+bar
+score
+	time = 4/4
+music
+1 1: 16b; c+; e+; b+~; 4b+; 16b; c+; e+; a+~; 4a+;
+bar;
+1 1: 16b; c+; e+; g+~; 4g+; 16b; c+; e+; f+~; 8f+; e+; 
+bar
+1 1: 8b; c+; 16b; c+; b; c+; b; r; c+; b; r; c+; 8b~;
+bar
+1 1: 16b; c+; 8b; 16b-; c; b-; c; b-; r; c; b-; r; c; 8b-; 
+bar
+score
+	time = 1/4
+music
+1 1: 16b-; a-; g-; f-; 
+bar
+score
+	time = 4/4
+music
+1 1: 4r; 4b+e+; 8a+e+; 8g+~e+~; 8g+e+; 8r;
+1 2: 8e-; 16e-; e-~; 8e-; 16e-; e-; 8e-; 8e-~; 8e-; 16e-; e-; 
+bar
+1 1: 4r; 4b+e+; 8a+e+; 8g+~e+~; 8g+e+; 8r;
+1 2: 8e-; 16e-; e-~; 8e-; 16e-; e-; 8e-; 16e-; e-~; 8e-; e+;
+bar
+1 1: 8r; a#+; b+; 4.a+; 8g+; 16an+; g+;
+1 2: 16f+; r; 8f+~; 2.f+;
+bar
+1: 8e+; 16g+; e+; b; g+; e+; b; a+; e+; b; g+; e+; b; 8f+;
+bar
+1 1: 4r; 4b+e+; 8a+e+; 8g+~e+~; 8g+e+; 8r;
+1 2: 8e-; 16e-; e-~; 8e-; 16e-; e-; 8e-; 8e-~; 8e-; 16e-; e-; 
+bar
+1 1: 4r; 4b+e+; 8a+e+; 8g+~e+~; 8g+e+; 8r;
+1 2: 8e-; 16e-; e-~; 8e-; 16e-; e-; 8e-; 16e-~; e-~; 8e-; e+;
+bar
+1 1: 8r; a#+; b+; 4.a+; 8g+; 16an+; g+;
+1 2: 16f+; r; 8f+~; 2.f+;
+bar
+1: 8e+; 16g+; e+; b; g+; e+; b; a+; e+; b; g+; e+; b; 8f+;
+bar
+1 1: 8r; g+; g+; g+; 16g+; g+; 8g+; g+; a+~;
+1 2: 8e+; 8e+~; 2e+; 4r;
+bar
+1 1: 8a+; 16g+; f+; g+; f+~; 8f+; e+; 8f+; 16f+; f+; 8a#+;
+bar
+score
+	time = 9/8
+music
+1 1: 16a#+; a#+; 8c++; c++; 16c++; c++; 8c++; c++; 16c++; c++; 8c++; c++; 
+bar
+score
+	time = 4/4
+music
+1 1: 8g+; 16g+; g+; 8g+; g+; 16g+; g+; 8g+; g+; g+;
+1 2: 4.e+; 4.e+~; 4e+;
+bar
+1 1: 8e+; 16e+; e+; 8e+; e+; 16e+; e+; 8e+; e+; e+;
+1 2: 4.b; 4.b~; 4b;
+bar
+1 1: 16e+; 8e+; e+; 16e+; 8d+~; 2d+;
+1 2: 4.b; 8.b; 16b; 8b; b; b;
+bar
+1 1: 16dn+; 8d+; d+; 16d+; 8c+~; 2c+;
+1 2: 4.an; 8.a; 16a; 8a; a; a;
+bar
+1 1: 16e+; 8e+; e+; 16e+; 8d#+~; 2d+;
+1 2: 4.b; 8.b; 16b; 8b; b; b;
+bar
+1 1: 16dn+; 8d+; d+; 16d+; 8c+~; 2c+;
+1 2: 4.an; 8.a; 16a; 8a; a; a;
+bar
+1 1: 16e+; 8e+; e+; 16f+; 8d#+~; 2d+;
+1 2: 4.b; 8.b; 16b; 8b; b; b;
+bar
+1 1: 16dn+; 8d+; d+; 16e+; 8c+~; 2c+;
+1 2: 4.an; 8.a; 16a; 8a; a; a;
+bar
+1 1: 16cn+; 8c+; c+; 16dn+; 8bn~; 2b;
+1 2: 4.gn; 8.g; 16g; 8g; g; g;
 bar
 //
 // THE REMEMBERING
