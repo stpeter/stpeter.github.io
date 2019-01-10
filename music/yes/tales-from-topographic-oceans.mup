@@ -2,8 +2,8 @@
 // solo bass arrangement of the Yes album "Tales From
 // Topographic Oceans".
 //
-// Version: 0.10
-// Last Updated: 2019-01-08
+// Version: 0.11
+// Last Updated: 2019-01-09
 //
 header
 	title (18) "Tales From Topographic Oceans"
@@ -442,31 +442,194 @@ bar
 1: 8b+; b; g; b+; b; g;
 mussym above 1: 3.5 "ferm";
 bar
-score
-	time = 4/4
-music
 //
 // THE ANCIENT
 //
 score
-	time = 2/4
-	key = 3#
-        beamstyle = 4, 4
+	time = 4/4
+	key = 2#
 music
-1: 4ac+c++; 8a; b;
+1: 4ac+c++; 8a; b; c+; 16d+; c+~; c+; b; 8a;
 ital above 1: 1 "Part III: The Ancient";
 bar
-1: 8c+; 16d+; c+; 8b; a;
+score
+	time = 9/8
+music
+1 1: 4.b; 4a; 4g; 4f;
+1 2: 4r; 4e; 4e; 4e; 8e;
+bar
+score
+	time = 3/4
+        beamstyle = 2, 4
+music
+1 1: 8g; e; b-; g; { e; f; g; }3;
+bar
+1 1: 8e; b-; g-; e; { e; f; g; }3;
 bar
 score
 	time = 4/4
 music
-1: 1r;
+1: 16a; a~; a; a; a~; a; 4e; 8b-; e; a; 
 bar
-1: 1r;
+1: { g#; f; e; }3; { d#; e; f; }3;
 bar
-1: 1r;
+1: 4eg#e+; 8e+; f+; g+; 16a+; g+~; g+; f+; 8e+;
 bar
+score
+	time = 9/8
+music
+1 1: 4.f+; 4e+; 4d+; 4c+;
+1 2: 4r; 4b; 4b; 4b; 8b;
+bar
+score
+	time = 3/4
+        beamstyle = 2, 4
+music
+1 1: 8d+; b; f; d+; { b; c+; d+; }3;
+bar
+1 1: 8b; e; d; b; { b; c+; d+; }3;
+bar
+score
+	time = 4/4
+music
+1: 16e+; e+~; e+; e+; e+~; e+; 4b; 8f; b; e+; 
+bar
+1: { d#+; c+; b; }3; { a#; g#; f; }3;
+bar
+1: 8e; fn; g#; a; b; c+; d#+; e+;
+bar
+score
+	time = 5/8
+music
+1: 8g; g#; b; c+; d#+;
+octave above 1: 1 "8va" til 6m + 1;
+bar
+score
+	time = 4/4
+music
+1 1: { e+; e+; e+; }3; 2b;
+1 2: 1f; 
+mussym above 1: 3 "ferm";
+bar
+1 1: { e+; e+; e+; }3; 2b;
+1 2: 1f; 
+mussym above 1: 3 "ferm";
+bar
+score
+	time = 3/4
+        beamstyle = 2, 4
+music
+1 1: 8a; e; c; a; { a; b; c+; }3;
+bar
+1 1: 8a; f; c; a; { a; b; c+; }3;
+bar
+1 1: 8d+; a; f; d+; { d+; e+; f+; }3;
+bar
+score
+	time = 4/4
+music
+1: [grace] 8e+; 4f+; [grace] 8e+; 4f+; [grace] 8e; 4f; [grace] 8e+; 4f+;
+bar
+score
+	time = 3/4
+        beamstyle = 2, 4
+music
+1 1: 8d+; a; f; d; { d+; e+; f+; }3;
+bar
+1 1: 8d+; a#; f; d; { d+; e+; f+; }3;
+bar
+score
+	time = 4/4
+music
+1: 16g+; g+~; g+; g+; g+~; g+; 4d+; 8a; d+; g+; 
+bar
+1: { f#+; e+; d+; }3; { c+; b; a; }3;
+bar
+1: 4ac+a+; 8a; b; c+; 16d+; c+~; c+; b; 8a;
+bar
+score
+	time = 9/8
+music
+1 1: 4.b; 4a; 4g; 4f;
+1 2: 4r; 4e; 4e; 4e; 8e;
+bar
+score
+	time = 3/4
+        beamstyle = 2, 4
+music
+1 1: 8g; e; b-; g; { e; f; g; }3;
+bar
+1 1: 8e; b-; g-; e; { e; f; g; }3;
+bar
+score
+	time = 4/4
+music
+1: 16a; a~; a; a; a~; a; 4e; 8b-; e; a; 
+bar
+1: { g#; f; e; }3; { d#; e; f; }3;
+bar
+1: 4eg#e+; 8e+; f+; g+; 16a+; g+~; g+; f+; 8e+;
+bar
+score
+	time = 9/8
+music
+1 1: 4.f+; 4e+; 4d+; 4c+;
+1 2: 4r; 4b; 4b; 4b; 8b;
+bar
+score
+	time = 3/4
+        beamstyle = 2, 4
+music
+1 1: 8d+; b; f; d+; { b; c+; d+; }3;
+bar
+1 1: 8b; e; d; b; { b; c+; d+; }3;
+bar
+score
+	time = 4/4
+music
+1: 16e+; e+~; e+; e+; e+~; e+; 4b; 8f; b; e+; 
+bar
+1: { d#+; c+; b; }3; { a#; g#; f; }3;
+bar
+1: 8e; fn; g#; a; b; c+; d#+; e+;
+bar
+score
+	time = 5/8
+music
+1: 8g; g#; b; c+; d#+;
+octave above 1: 1 "8va" til 2m;
+bar
+score
+	time = 4/4
+music
+1 1: { e+; e+; e+; }3; 2b;
+1 2: 1f; 
+mussym above 1: 3 "ferm";
+bar
+1 1: { e+; e+; e+; }3; 2b;
+1 2: 1f; 
+mussym above 1: 3 "ferm";
+bar
+score
+	time = 2/4
+music
+1 1: { 8b; b; b; }3; 4b;
+1 2: 2c;
+octave above 1: 1 "8va" til 2m;
+bar
+1 1: { 8fn; f; f; }3; 4f;
+1 2: 2g-;
+bar
+1 1: { 8b; b; b; }3; 4b;
+1 2: 2c;
+bar
+1 1: { 8fn; f; f; }3; 4f;
+1 2: 2g-;
+mussym above 1: 2 "ferm";
+bar
+score
+	time = 4/4
+music
 //
 // RITUAL
 //
