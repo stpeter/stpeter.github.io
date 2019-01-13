@@ -2,8 +2,8 @@
 // solo bass arrangement of the Yes album "Tales From
 // Topographic Oceans".
 //
-// Version: 0.12
-// Last Updated: 2019-01-10
+// Version: 0.13
+// Last Updated: 2019-01-12
 //
 header
 	title (18) "Tales From Topographic Oceans"
@@ -37,6 +37,8 @@ bar
 bar
 1: 8b; 16b; b; 8b; e+; 16e+; e+; 8e+; f+; 16b; b;
 bar
+1: 8b; b; 16b; b; 8b; b; 16b; b; 8f+; 16b; b; 
+bar
 1: 8b; b; 16b; b; 8b; b; 16b; b; 8b; 16b; b; 
 bar
 1: 8b; e+; 16b; b; 8b; e+; 16b; b; 8b; 16a; a; 
@@ -69,21 +71,21 @@ bar
 1 1: 8d+; 16e+; e+; 8e+; 16f+; f+; 8f+; f+; 16f+; f+; 8f+;
 1 2: 8b; 16c+; c+; 8c+; 16d+; d+; 8d+; d+; 16d+; d+; 8d+;
 bar
-1 1: 8f+; 16f+; f+; 8e+; 16e+; e+; 8e+; e+; 16e+; e+; 8e+;
-1 2: 8d+; 16d+; d+; 8c+; 16c+; c+; 8c+; c+; 16c+; c+; 8c+;
+1 1: 8f+; f+; 8e+; 16e+; e+; 8e+; e+; 16e+; e+; 8e+;
+1 2: 8d+; d+; 8c+; 16c+; c+; 8c+; c+; 16c+; c+; 8c+;
 bar
-1 1: 8e+; 16e+; e+; 8d+; 16d+; d+; 8d+; d+; 16d+; d+; 8d+; 
-1 2: 8c+; 16c+; c+; 8b; 16b; b; 8b; b; 16b; b; 8b;
+1 1: 8e+; e+; 8d+; 16d+; d+; 8d+; d+; 16d+; d+; 8d+; 
+1 2: 8c+; c+; 8b; 16b; b; 8b; b; 16b; b; 8b;
 bar
 1 1: 8d+; d+; 16b; b; 16b; 8.r; 16b; b; 16b; 8.r; 
 1 2: 8b; b; 16b-; b-; 16b-; 8.r; 16b-; b-; 16b-; 8.r; 
-bar rehearsal let
+bar
 score
 	time = 3/8
 music
 1 1: 16b; b; 8b; b;
 1 2: 16b-; b-; 8b-; b-;
-bar
+bar rehearsal let
 score
 	time = 4/4
 music
@@ -113,7 +115,7 @@ bar
 1 2: 8e-; 16e-; e-~; 8e-; 16e-; e-; 8e-; 8e-~; 8e-; 16e-; e-; 
 bar
 1 1: 4r; 4b+e+; 8a+e+; 8g+~e+~; 8g+e+; 8r;
-1 2: 8e-; 16e-; e-~; 8e-; 16e-; e-; 8e-; 16e-; e-~; 8e-; e+;
+1 2: 8e-; 16e-; e-~; 8e-; 16e-; e-; 8e-; 16e-~; e-~; 8e-; e+;
 bar
 1 1: 8r; a#+; b+; 4.a+; 8g+; 16an+; g+;
 1 2: 16f+; r; 8f+~; 2.f+;
@@ -171,17 +173,18 @@ bar
 bar
 score
 	time = 1/4
+        beamstyle = 4
 music
 1 1: 16b-; a-; g-; f-; 
-bar
+bar rehearsal let
 score
 	time = 4/4
 music
 1 1: 4r; 4b+e+; 8a+e+; 8g+~e+~; 8g+e+; 8r;
 1 2: 8e-; 16e-; e-~; 8e-; 16e-; e-; 8e-; 8e-~; 8e-; 16e-; e-; 
-bar rehearsal let
+bar
 1 1: 4r; 4b+e+; 8a+e+; 8g+~e+~; 8g+e+; 8r;
-1 2: 8e-; 16e-; e-~; 8e-; 16e-; e-; 8e-; 16e-; e-~; 8e-; e+;
+1 2: 8e-; 16e-; e-~; 8e-; 16e-; e-; 8e-; 16e-~; e-~; 8e-; e+;
 bar
 1 1: 8r; a#+; b+; 4.a+; 8g+; 16an+; g+;
 1 2: 16f+; r; 8f+~; 2.f+;
@@ -218,7 +221,7 @@ music
 bar
 1 1: 8e+; 16e+; e+; 8e+; e+; 16e+; e+; 8e+; e+; e+;
 1 2: 4.b; 4.b~; 4b;
-bar
+bar rehearsal let
 1 1: 16e+; 8e+; e+; 16e+; 8d+~; 2d+;
 1 2: 4.b; 8.b; 16b; 8b; b; b;
 bar
@@ -245,7 +248,6 @@ bar
 score
 	key = 0#
 music
-repeatstart
 1 1: 8.e-e; 8e-e; 16r; 4e-e; 8e; 16d; e; 8f;
 bar
 1 1: 8.e-e; 8e-e; 16r; 4e-e; 8e; 16e+; b; 8g;
@@ -254,7 +256,6 @@ bar
 bar
 1 1: 8.e-e; 8e-e; 16r; 4e-e; 8e; 16b; g; 8d;
 bar
-repeatend
 1 1: 8.e-e; 8e-e; 16r; 4e-e; 8e; 16d; e; 8f;
 ital above 1: 1 "rit. poco a poco";
 bar
@@ -264,7 +265,7 @@ bar
 bar
 1 1: 8.e-e; 8e-e; 16r; 8e-~e~; 4e-e; 8d; e;
 mussym above 1: 3 "ferm";
-bar
+bar rehearsal let
 //
 // THE REMEMBERING
 //
@@ -403,7 +404,7 @@ score
 	time = 2/4
 music
 1: 8c; e; g; c+; 
-bar
+bar rehearsal let
 score
 	time = 3/4
         beamstyle = 4., 4.
@@ -447,7 +448,7 @@ ital above 1: 1 "rit. poco a poco";
 bar
 1: 8b+; b; g; b+; b; g;
 mussym above 1: 3.5 "ferm";
-bar
+bar rehearsal let
 //
 // THE ANCIENT
 //
@@ -500,8 +501,8 @@ score
 	time = 5/8
 music
 1: 8gn; g#; b; cn+; d#+;
-octave above 1: 1 "8va" til 6m + 1;
-bar
+octave above 1: 1 "8va" til 6m + 1.5;
+bar rehearsal let
 score
 	time = 4/4
 music
@@ -519,7 +520,7 @@ bar
 bar
 1 1: 8d+; a; fn; d+; { 4d+; e+; fn+; }3;
 bar
-1: [grace] 8e+; 4fn+; [grace] 8e+; 4fn+; [grace] 8e; 4fn; [grace] 8e+; 4fn+;
+1: 8e+; fn+; e+; fn+; e; fn; e+; fn+;
 bar
 1 1: 8d+; a; fn; d+; { 4d+; e+; fn+; }3;
 bar
@@ -593,7 +594,7 @@ music
 1 2: 2cn;
 octave above 1: 1 "8va" til 2m;
 bar
-1 1: { 8f; f; f; }3; 4f;
+1 1: { 8f#; f; f; }3; 4f;
 1 2: 2g-;
 bar
 1 1: { 8b; b; b; }3; 4b;
