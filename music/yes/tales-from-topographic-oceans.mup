@@ -2,7 +2,7 @@
 // solo bass arrangement of the Yes album "Tales From
 // Topographic Oceans".
 //
-// Version: 0.13
+// Version: 0.14
 // Last Updated: 2019-01-12
 //
 header
@@ -600,9 +600,10 @@ bar
 1 1: { 8b; b; b; }3; 4b;
 1 2: 2cn;
 bar
-1 1: { 8f; f; f; }3; 4f;
+1 1: { 8f; f; f; }3; 4f~;
 1 2: 2g-;
-mussym above 1: 2 "ferm";
+bar
+1 1: 4f~; 8f; d;
 bar
 score
 	time = 4/4
@@ -610,19 +611,102 @@ music
 //
 // RITUAL
 //
-1: 1r;
+1: 2.f; 8e; d;
 ital above 1: 1 "Part IV: Ritual";
 bar
-1: 1r;
+1: 4e = _e; 2b- = _b; 8a-; b-;
+wavy line (_e.e + 2, _e.y) to (_b.w - 2, _b.y)
 bar
-1: 1r;
+1: {4d; e; f; }3; e; d; 
 bar
-1: 1r;
+1: 4e = _e; 2b- = _b; 8a-; b-;
+wavy line (_e.e + 2, _e.y) to (_b.w - 2, _b.y)
 bar
-
-//
-// work in progress, more to come
-//
+1: {4d; e; f; }3; e; d; 
+bar
+1: {4g; f; e; }3; {a; g; f; }3; 
+bar
+1: 2.b; 8a; g;
+bar
+1: {4f; g; e; }3; {f; g; e; }3; 
+bar
+1: 2.f; 8e; d;
+bar
+1: {4g; f; e; }3; {a; g; f; }3; 
+bar
+1: 2.b; 8c+; d+;
+bar
+1: {4c+; b; a; }3; b; d;
+bar
+score
+	key = 1&
+music
+1: 4.d; 8e; 4f; c;
+bar
+1: 4.d; 8e; 4f; c;
+bar
+1: 4.b; 8a; 4g; b-;
+bar
+1: 4.b; 8a; 4g; b-;
+bar
+1: 4.d; 8e; 4f; c;
+bar
+1: 4.d; 8e; 4f; c;
+bar
+1: 4.b; 8a; 4g; b-;
+bar
+1: 4.b; 8a; 4g; b-;
+bar
+score
+        time = 1/4
+	key = 2#
+music
+1: 4d;
+bar
+score
+	time = 4/4
+music
+1: 8a-; b-; d; e; 4f; 8e; d;
+bar
+score
+	time = 3/4
+music
+1: 8f; e; d; 4.a-;
+bar
+score
+	time = 4/4
+music
+1: 8a-; b-; d; e; 4f; 8e; d;
+bar
+1: 8f; e; 4d; 8e; e; r; b-;
+bar
+1: 8r; a-; a-; r; b-; r; e; r;
+bar
+score
+        time = 1/4
+	key = 2#
+music
+1: 4d;
+bar
+score
+	time = 4/4
+music
+1: 8a-; b-; d; e; 4f; 8e; d;
+bar
+1: {4g; f; e; }3; {a; g; f; }3; 
+bar
+1: 2.b; 8a; g;
+bar
+1: {4f; g; e; }3; {f; g; e; }3; 
+bar
+1: 2.f; 8e; d;
+bar
+1: {4g; f; e; }3; {a; g; f; }3; 
+bar
+1: 2.b; 8c+; d+;
+bar
+1: {4c+; b; a; }3; b; d;
+bar
 
 //
 // end of "Tales From Topographic Oceans"
