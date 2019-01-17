@@ -2,8 +2,8 @@
 // solo bass arrangement of the Yes album "Tales From
 // Topographic Oceans".
 //
-// Version: 0.15
-// Last Updated: 2019-01-15
+// Version: 0.16
+// Last Updated: 2019-01-16
 //
 header
 	title (18) "Tales From Topographic Oceans"
@@ -713,6 +713,7 @@ bar rehearsal let
 score
 	time = 5/4
         beamstyle = 4., 4, 4, 4.
+	key = 0#
 music
 1: 8a-; a-; r; 16a-; b-; 8c; 16d; e; 8f; 16f; g; 4a;
 bar
@@ -785,6 +786,7 @@ bar
 score
 	time = 5/4
         beamstyle = 4., 4, 4, 4.
+	key = 0#
 music
 1: 8a-; a-; r; 16a-; b-; 8c; 16d; e; 8f; 16f; g; 4a;
 bar
@@ -799,6 +801,7 @@ music
 bar
 score
 	time = 4/4
+	key = 2#
 music
 1: 4d+ = _a; 8a = _b; 4.a = _c; 4e = _d; 
 wavy line (_a.e + 2, _a.y) to (_b.w - 2, _b.y)
@@ -815,7 +818,7 @@ bar
 bar rehearsal let
 1 1: 8f; 16f; f; 8f; f; 16f; f; 8f; f; f;
 1 2: 1d hs "diam";
-octave above 1: 1 "8va" til 4m;
+octave above 1: 1 "8va" til 32m;
 bar
 1 1: 8g; 16g; g; 8g; g; 16g; g; 8g; g; g;
 1 2: 1d hs "diam";
@@ -825,6 +828,129 @@ bar
 bar
 1 1: 8a; 16a; a; 8a; a; 16a; a; 8a; a; g;
 1 2: 1d hs "diam";
+bar
+1 1: 8f; 16f; f; 8f; f; 16f; f; 8f; f; f;
+1 2: 1d hs "diam";
+bar
+1 1: 8g; 16g; g; 8g; g; 16g; g; 8g; g; g;
+1 2: 1d hs "diam";
+bar
+1 1: 8f; 16f; f; 8f; f; 16f; f; 8f; g; a;
+1 2: 1d hs "diam";
+bar
+1 1: 8a; 16a; a; 8a; a; 16a; a; 8a; a; g;
+1 2: 1d hs "diam";
+bar
+1 1: 4.f; 8r; 2r;
+1 2: 8d; c; d; 4b-; 8a-; 4b-~;
+bar
+1 2: 8b-; 16f; d; a-; f; d; a-; g; d; a-; f; d; a-; 8e; 
+bar
+1 2: 8d; c; d; 4b-; 8a-; 16b-; a-; 8g-;
+bar
+1 2: 16f-; e-; 8d-; 4a--; 8f; g; f; e;
+bar
+1 2: 16a-; d; 8d; d; 16a-; d; 8d; d; 16a-; d; 8d~;
+bar
+1 2: 8d; 16f; d; a-; f; d; a-; g; d; a-; f; d; a-; 8e; 
+bar
+1 2: 16a-; d; 8d; d; 16a-; d; 8d; d; 16a-; d; 8d~;
+bar
+1 2: 8d; 16f; d; a-; f; d; a-; g; d; a-; f; d; a-; 8e; 
+bar
+1 2: 4d; 8f; 16f; f; 8f; d; f; 16a; f~;
+bar
+1 2: 4.f; 8a; 8.b; a; 8g;
+bar
+1 1: 4.f; 8r; 2r;
+1 2: 8d; c; d; 4b-; 8a-; 4b-~;
+bar
+1 2: 8b-; 16f; d; a-; f; d; a-; g; d; a-; f; d; a-; 8e; 
+bar
+1 2: 8d; c; d; 4b-; 8a-; 16b-; a-; 8g-;
+bar
+1 2: 16f-; e-; 8d-; 4a--; 8f; g; f; e;
+bar
+1 1: 8f; 16f; f; 8f; f; 16f; f; 8f; f; f;
+1 2: 2d; 2d;
+bar
+1 1: 8g; 16g; g; 8g; g; 16g; g; 8g; g; g;
+1 2: 2e; 2e;
+bar
+1 1: 8f; 16f; f; 8f; f; 16f; f; 8f; g; a;
+1 2: 2d; 4d; 8e; f;
+bar
+1 1: 8a; 16a; a; 8a; a; 16a; a; 8a; a; g;
+1 2: 2f; 4.f; 8e;
+bar
+1 1: 8f; 16f; f; 8f; f; 16f; f; 8f; f; f;
+1 2: 2d; 2d;
+bar
+1 1: 8g; 16g; g; 8g; g; 16g; g; 8g; g; g;
+1 2: 2e; 2e;
+bar
+1 1: 8f; 16f; f; 8f; f; 16f; f; 8f; g; a;
+1 2: 2d; 4d; 8e; f;
+bar
+1 1: 8a; 16a; a; 8a; a; 16a; a; 8a; a; a;
+1 2: 2f; 2f;
+bar
+1 1: 8b; 16b; b; 8b; b; 16b; b; 8b; b; b;
+1 2: 2g; 2g;
+bar
+1 1: 8c+; 16c+; c+; 8c+; c+; 16c+; c+; 8c+; c+; c+;
+1 2: 2a; 2a;
+bar
+score
+        staffs = 2
+	time = 4/4
+music
+1: 8d; c; d; 4b-; 8a-; 4b-~;
+octave above 1: 1 "15va" til 15m;
+2: 1d-~;
+bar
+1: 1b-;
+2: 2d-~; 8d-; 16a-; a-; 8a-; a-;
+bar
+1: 8d; c; d; 4b-; 8a-; 4b-~;
+2: 1d-~;
+bar
+1: 1b-;
+2: 2d-~; 8d-; 16a-; a-; 8a-; a-;
+bar
+1 1: 8d hs "diam"; 16d hs "diam"; d hs "diam"; 8d hs "diam"; d hs "diam"; 16d hs "diam"; d hs "diam"; 8d hs "diam"; d hs "diam"; d hs "diam";
+2: 1d-;
+bar
+1 1: 8e hs "diam"; 16e hs "diam"; e hs "diam"; 8e hs "diam"; e hs "diam"; 16e hs "diam"; e hs "diam"; 8e hs "diam"; e hs "diam"; e hs "diam";
+2: 1d-;
+bar
+1 1: 8f hs "diam"; 16f hs "diam"; f hs "diam"; 8f hs "diam"; f hs "diam"; 16f hs "diam"; f hs "diam"; 8f hs "diam"; f hs "diam"; f hs "diam";
+2: 1d-;
+bar
+1 1: 8g hs "diam"; 16g hs "diam"; g hs "diam"; 8g hs "diam"; g hs "diam"; 16g hs "diam"; g hs "diam"; 8g hs "diam"; g hs "diam"; g hs "diam";
+2: 1d-;
+bar
+1 1: 8a hs "diam"; 16a hs "diam"; a hs "diam"; 8a hs "diam"; a hs "diam"; 16a hs "diam"; a hs "diam"; 8a hs "diam"; a hs "diam"; a hs "diam";
+2: 1d-;
+bar
+1 1: 8b hs "diam"; 16b hs "diam"; b hs "diam"; 8b hs "diam"; b hs "diam"; 16b hs "diam"; b hs "diam"; 8b hs "diam"; b hs "diam"; b hs "diam";
+2: 1d-;
+bar
+1 1: 8c+ hs "diam"; 16c+ hs "diam"; c+ hs "diam"; 8c+ hs "diam"; c+ hs "diam"; 16c+ hs "diam"; c+ hs "diam"; 8c+ hs "diam"; c+ hs "diam"; c+ hs "diam";
+2: 1d-;
+bar
+1 1: 8d+ hs "diam"; 16d+ hs "diam"; d+ hs "diam"; 8d+ hs "diam"; d+ hs "diam"; 16d+ hs "diam"; d+ hs "diam"; 8d+ hs "diam"; d+ hs "diam"; d+ hs "diam";
+2: 1d-;
+bar
+1 1: 8d+ hs "diam"; 16d+ hs "diam"; d+ hs "diam"; 8d+ hs "diam"; d+ hs "diam"; 16d+ hs "diam"; d+ hs "diam"; 8d+ hs "diam"; d+ hs "diam"; d+ hs "diam";
+2: 1d-;
+bar
+1 1: 8d+ hs "diam"; 16d+ hs "diam"; d+ hs "diam"; 8d+ hs "diam"; d+ hs "diam"; 16d+ hs "diam"; d+ hs "diam"; 8d+ hs "diam"; d+ hs "diam"; 16d+ hs "diam"; 16d+ hs "diam";
+ital above 1: 1 "rit. poco a poco";
+2: 1d-;
+bar
+1: 1d+;
+2: 1d-;
 bar
 
 //
