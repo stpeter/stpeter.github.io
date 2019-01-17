@@ -846,9 +846,9 @@ bar
 bar
 1 2: 8b-; 16f; d; a-; f; d; a-; g; d; a-; f; d; a-; 8e; 
 bar
-1 2: 8d; c; d; 4b-; 8a-; 16b-; a-; 8g-;
+1 2: 8d; c; d; 4b-; 8a-; {b-; a-; g-;}3;
 bar
-1 2: 16f-; e-; 8d-; 4a--; 8f; g; f; e;
+1 2: {8f-; e-; d-;}3; 4a--; 8f; g; f; e;
 bar
 1 2: 16a-; d; 8d; d; 16a-; d; 8d; d; 16a-; d; 8d~;
 bar
@@ -867,9 +867,9 @@ bar
 bar
 1 2: 8b-; 16f; d; a-; f; d; a-; g; d; a-; f; d; a-; 8e; 
 bar
-1 2: 8d; c; d; 4b-; 8a-; 16b-; a-; 8g-;
+1 2: 8d; c; d; 4b-; 8a-; {b-; a-; g-;}3;
 bar
-1 2: 16f-; e-; 8d-; 4a--; 8f; g; f; e;
+1 2: {8f-; e-; d-;}3; 4a--; 8f; g; f; e;
 bar
 1 1: 8f; 16f; f; 8f; f; 16f; f; 8f; f; f;
 1 2: 2d; 2d;
