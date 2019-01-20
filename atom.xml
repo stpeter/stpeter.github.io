@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2018-12-31</modified>
+  <modified>2019-01-19</modified>
+  <entry>
+    <title>Personalism</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1619.html"/>
+    <id>tag:stpeter.im,1619</id>
+    <issued>2019-01-19</issued>
+    <modified>2019-01-19</modified>
+    <summary>In my philosophy department talk last October, I said something that might turn out to be more true than I had realized: it's a worthy ambition to become an accomplished person. Recalling that there used to be a philosophical journal called The Personalist, I've started to wonder if "personalism" might be an appropriate name for my approach to philosophy. A quick Internet search revealed that there has been a loose tradition of personalism over the last 200 years, encompassing thinkers as diverse as William James, Karol Wotyla (Pope John Paul II), and, appropriately enough for this weekend, Martin Luther King, Jr. (who studied with personalist theologian Edgar Sheffield Brightman at Boston University)....</summary>
+  </entry>
   <entry>
     <title>2018 Readings</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1618.html"/>
@@ -49,13 +57,5 @@
     <issued>2018-10-30</issued>
     <modified>2018-10-30</modified>
     <summary>There are many ways to categorize and divide up the various areas and activities of life. Here is a six-fold scheme I'm exploring:...</summary>
-  </entry>
-  <entry>
-    <title>Understanding Others</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1613.html"/>
-    <id>tag:stpeter.im,1613</id>
-    <issued>2018-10-26</issued>
-    <modified>2018-10-26</modified>
-    <summary>In my recent philosophy talk, I mentioned that thinking philosophically has helped me better understand people. This might seem counterintuitive - after all, don't big thinkers believe they have all the answers? Yes, I used to have that kind of arrogance, too. Yet over time I started to wonder: why do people have so many different opinions about things? Why have these various philosophies of life persisted for so long (Stoicism, Platonism, Buddhism, Taoism, etc.)? Why do I think what I think? Is it really in my control? At some level can you really "blame" people for the contents of their minds?...</summary>
   </entry>
 </feed>
