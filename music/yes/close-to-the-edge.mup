@@ -1,8 +1,8 @@
 // This is the Mup source file for Peter Saint-Andre's 
 // solo bass arrangement of the Yes song "Close to the Edge".
 //
-// Version: 0.3
-// Last Updated: 2019-01-19
+// Version: 0.4
+// Last Updated: 2019-01-21
 //
 header
 	title (18) "Close to the Edge"
@@ -155,6 +155,7 @@ bar rehearsal let
 bar
 score
         time = 16/8
+        beamstyle = 4, 4, 4, 4, 4, 4, 4, 4 
 music
 1 1: 4g+; 8f+; 4g+; 8a+; 4e+; 2r; 4r; f+;
 1 2: 1a-; 8e-; e-; 4e-; 2e-;
@@ -256,22 +257,31 @@ score
         time = 12/8
 music
 1: 8g; e; b-; g; f; d; b-; f; g; e; b-; g;
-octave above 1: 1 "8va" til 8m;
+octave above 1: 1 "8va" til 12m;
+bar
+1: 4a; 2f; 4b; 2b; 
+bar
+1: 8a; g; 2f; 8b-; b-; 4b-; b-; 
+bar
+1: 4b; 2b; 8a; g; 2f; 
 bar
 score
-	time = 16/8
+	time = 10/8
+        beamstyle = 4, 4, 4, 4, 4
 music
-1: 4a; 2f; 8b-; b-; 4b-; 2b-; 4b-;
+1: 8b-; b-; 4b-; 2b-; 4b-;
 bar
 score
         time = 12/8
 music
 1: 8g; e; b-; g; f; d; b-; f; g; e; b-; g;
 bar
+1: 4a; 2f; 8b-; b-; 4b-; b-;
+bar
 score
-	time = 16/8
+        time = 14/8
 music
-1: 4a; 2f; 8b-; b-; 4b-; 2b-; 4b-;
+1: 4a; 2f; 8b-; b-; 2b-; 4b-;
 bar
 score
         time = 12/8
@@ -286,6 +296,35 @@ music
 1: 2.d+; 2c+; 4.b; 8a; 4b;
 bar
 1: 2d+; 4d+; d+; c+; f; g; f; 
+bar
+score
+        key = 3#
+music
+1: 1d+~; 2d+; 8a; b; c+; a;
+bar
+1: 4d+; c+; b; a; {8g; a; g;}3; 4e; 8e; f; g; e;
+bar
+1: 4a; g; f; e; {8e; f; e;}3; 2.d; 
+bar
+1: 4d+; c+; b; a; {8g; a; g;}3; 4e; 8e; f; g; e;
+bar
+score
+        time = 12/8
+music
+1: 4a; g; f; e; {8e; f; e;}3; 4d; 
+bar
+score
+        time = 12/8
+        beamstyle = 4., 4., 4., 4.
+music
+1: 8f+; e+; d+; c+; b; a; a; g; f; e; d; c;
+ital above 1: 7 "rit.";
+bar
+score
+        time = 4/4
+music
+1: 1b-;
+ital above 1: 1 "ferm.";
 bar
 
 //
