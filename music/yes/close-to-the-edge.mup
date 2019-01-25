@@ -1,8 +1,8 @@
 // This is the Mup source file for Peter Saint-Andre's 
 // solo bass arrangement of the Yes song "Close to the Edge".
 //
-// Version: 0.5
-// Last Updated: 2019-01-22
+// Version: 0.6
+// Last Updated: 2019-01-24
 //
 header
 	title (18) "Close to the Edge"
@@ -329,7 +329,7 @@ music
 1: 1e-;
 ital above 1: 1 "ferm.";
 bar rehearsal let
-1: 4r; 8g; b; c+; 4.g;
+1: 4r; 8g; b; c+; 8.g; 16e; 8g;
 bar
 1: 4.gn; 16b; c+; 8e+; d+; 8.c+; 16b;
 bar
@@ -347,7 +347,110 @@ bar
 bar
 1: 8d#+; b; 8.g; 16e-; 8e-; 8.e-; 16f; g; f; 
 bar
-1: 1e;
+1: 8.e; 16g; 8b; 16g; 8.b; 16g; 8.b; 8g;
+bar
+1: 8d+; e+; e+; 2d+; 16c+; d+;
+bar
+score
+	time = 5/8
+music
+1: 8e+; d+; c+; 16b; 8.g;
+bar
+score
+        time = 4/4
+music
+1: 8.f; 16f; 8a; 16f; 8.a; 16f; 8.a; 8f;
+bar
+1: 8cn+; d+; d+; 2c+; 16c; c+;
+bar
+1: 4b; 8.b-; 16b-; 8b-; 8.b-; 16f; g; f; 
+bar
+1: 8.e; 16g; 8b; 16g; 8.b; 16g; 8.b; 8g;
+bar
+1: 8d+; e+; e+; 2d+; 16c+; d+;
+bar
+score
+	time = 5/8
+music
+1: 8e+; d+; c+; 16b; 8.g;
+bar
+score
+        time = 4/4
+music
+1: 8.f; 16f; 8a; 16f; 8.a; 16f; 8.a; 8f;
+bar
+1: 8cn+; d+; d+; 2c+; 16c; c+;
+bar
+1: 4b; 8.b-; 16b-; 8b-; 8.b-; 16b; 8c#+;
+bar
+1: 4e+; 8.e; 16e; 8e; 8.e; 16c+; 8e+;
+bar
+1: 8d#+; b; 8.g; 16e-; 8e-; 8.e-; 16b; 8c+;
+bar
+1: 4e+; 8.e; 16e; 8e; 8.e; 16c+; 8e+;
+bar
+1: 4f+; 8.b; 16b; 8b; 4.b~;
+bar
+1: 8b; 16a+; g+; a+; g+; a+; g+; a+; g+~; 4.g+;
+bar rehearsal let
+1: 4e; 8e+; 4d#+; 4e+; 16e; e;
+bar
+1: 4e; 8e+; 4d#+; 4e+; 16cn; c;
+bar
+1: 4cn; 8e+; 4d#+; 4e+; 16cn; c;
+bar
+1: 4cn; 8e+; 4d#+; 4e+; 16fn; f;
+bar
+1: 4fn; 8fn+; 4e+; 4f+; 16fn; f;
+bar
+1: 4fn; 8fn+; 4e+; 4f+; 16c#; c;
+bar
+1: 4c#; 8fn+; 4e+; 4f+; 16c#; c;
+bar
+1: 4c#; 8fn+; 4e+; 4f+; 16f#; f;
+bar
+1: 4f#; 8f#+; 4fn+; 4f#+; 16f; f;
+bar
+1: 4f; 8f#+; 4fn+; 4f#+; 16d; d;
+bar
+1: 4d; 8f#+; 4fn+; 4f#+; 16d; d;
+bar
+1: 4d; 8f#+; 4fn+; 4f#+; 16gn; g;
+bar
+score
+        key = 2#
+music
+1: 4g; 8g+; 4f+; 4g+; 16g; g;
+bar
+1: 4g; 8g+; 4f+; 4g+; 16g; g;
+bar
+1: 4g; 8g+; 4f+; 4g+; 16g; g;
+bar
+1: 8g; 16g; g; 4.g; 8g+; g+; g+;
+mussym above 1: 2 "ferm";
+bar rehearsal let
+1: 4f+; 8d+; 4e+; 8f+; 4d+;
+bar
+1: 8e+; 4f+; 8d+; 4e+; 8a; a;
+bar
+1: 8r; a; 2a; 4g+;
+bar
+1: 4f+; 8d+; 4e+; 8f+; 4d+;
+bar
+1: 8e+; 4f+; 8d+; 4e+; 8a; a;
+bar
+1: 8r; a; 2a; 4a;
+bar
+score
+        time = 3/4
+music
+1: 4.g; 4.a; 
+bar
+1: 4.d+; 4c+; 8a;
+bar
+1: 4.g; 4.a; 
+bar
+1: 4.f+; 4e+; 8g+;
 bar
 
 //
