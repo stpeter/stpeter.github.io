@@ -1,8 +1,8 @@
 // This is the Mup source file for Peter Saint-Andre's 
 // solo bass arrangement of the Yes song "Close to the Edge".
 //
-// Version: 0.6
-// Last Updated: 2019-01-24
+// Version: 0.7
+// Last Updated: 2019-01-26
 //
 header
 	title (18) "Close to the Edge"
@@ -24,13 +24,14 @@ score
         beamstyle = 4., 4.
 music
 repeatstart
-1: 8a+; f+; d+; c+; d+; f+;
+1: 8a; f; d; c; d; f;
+octave above 1: 1 "8va" til 4m;
 bar
-1: 8a+; f+; d+; c+; d+; f+;
+1: 8a; f; d; c; d; f;
 bar
-1: 8a+; f+; d+; c+; d+; f+;
+1: 8a; f; d; c; d; f;
 bar
-1: 8a+; f+; d+; c+; d+; f+;
+1: 8a; f; d; c; d; f;
 repeatend
 1: 8a+; f+; d+; c+; a; g;
 bar
@@ -90,6 +91,7 @@ bar
 bar
 score
         time = 3/4
+        beamstyle = 4, 4, 4
 music
 1: 4.g; 4.a; 
 bar
@@ -451,6 +453,185 @@ bar
 1: 4.g; 4.a; 
 bar
 1: 4.f+; 4e+; 8g+;
+bar
+score
+	time = 4/4
+music
+1: 4f+; 8d+; 4e+; 8f+; 4d+;
+bar
+score
+	time = 2/4
+music
+1: 8e+; 4f+; 8d+; 
+bar
+score
+	time = 3/4
+music
+1 1: 8e+; e+; e+; e+; g+; f+;
+1 2: 2e; 4r;
+bar
+1 1: 8d+; d+; d+; d+; fn+; e+;
+1 2: 2d; 4r;
+bar
+1 1: 8cn+; c+; c+; c+; d#+; dn+;
+1 2: 2cn; 4r;
+bar
+1 1: 8b&; b; b; b; d&+; cn+;
+1 2: 2b&-; 4r;
+bar
+1 1: 8a; 16a; 8a; 16a; 8a; a; g;
+1 2: 2a-; 4r;
+bar rehearsal let
+score
+	time = 4/4
+music
+1: 1r;
+ital above 1: 1 "Wakeman solo";
+bar
+1: 1r;
+bar
+1: 1r;
+bar
+1: 1r;
+bar
+score
+	time = 3/4
+music
+1 1: 8e+; e+; e+; e+; g+; f+;
+1 2: 2e; 4r;
+bar
+1 1: 8d+; d+; d+; d+; fn+; 16e+; f#+;
+1 2: 2d; 4r;
+bar rehearsal let
+score
+        time = 12/8
+music
+1 1: 4g+; 8f+; 4g+; 8f+; 4g+; 8f+; 4g+; 8f+;
+1 2: 1.a-~;
+bar
+score
+        time = 16/8
+        beamstyle = 4, 4, 4, 4, 4, 4, 4, 4 
+music
+1 1: 4g+; 8f+; 4g+; 8a+; 4e+; 2r; 4r; f+;
+1 2: 1a-; 8e-; e-; 4e-; 2e-;
+bar
+score
+        time = 12/8
+music
+1 1: 4g+; 8f+; 4g+; 8f+; 4g+; 8f+; 4g+; 8f+;
+1 2: 1.a-~;
+bar
+score
+        time = 16/8
+music
+1 1: 4g+; 8f+; 4g+; 8a+; 4e+; 2r; 4r; f+;
+1 2: 1a-; 8e-; e-; 4e-; 2e-;
+bar
+score
+        time = 12/8
+music
+1 1: 4g+; 8f+; 4g+; 8f+; 4g+; 8f+; 4g+; 8f+;
+1 2: 1.a-~;
+bar
+score
+        time = 16/8
+music
+1 1: 4g+; 8f+; 4g+; 8a+; 4e+; 2r; 4r; f+;
+1 2: 1a-; 8e-; e-; 4e-; 2e-;
+bar
+score
+        time = 12/8
+music
+1 1: 4g+; 8f+; 4g+; 8f+; 4g+; 8f+; 4g+; 8f+;
+1 2: 1.a-~;
+bar
+1 1: 4g+; 8f+; 4g+; 8f+; 4a+; 8g+; 4f+; 8d+;
+1 2: 1.a-; 
+bar
+1: 8g; e; b-; g; f; d; b-; f; g; e; b-; g;
+octave above 1: 1 "8va" til 8m;
+bar
+score
+	time = 16/8
+music
+1: 8a; f; d; a; f; d; a; f; d; a; f; d; a; f; 4d;
+bar
+score
+        time = 12/8
+music
+1: 8g; e; b-; g; f; d; b-; f; g; e; b-; g;
+bar
+score
+	time = 16/8
+music
+1: 8a; f; d; a; f; d; a; f; d; a; f; d; a; f; 4d;
+bar
+score
+        time = 12/8
+music
+1 1: 2b; 4a; g; c+; 8b; a~;
+1 2: 2b-; 2r; 4c; 4r; 
+bar
+1 1: 1a~; 8a; 8a; 4b;
+1 2: 4r; 8a-; a-; 4a-; 4.a-; 4.r;
+bar
+score
+	time = 16/8
+music
+1 1: 2.d+; 2c+; 4.b; 8a; 4b;
+1 2: 2.d; 2r; 2r; 4r;
+bar
+1 1: 2d+; 4d+; d+; c+; f; g; f; 
+1 2: 2d; 2r; 2r; 2r;
+bar
+score
+        time = 4/4
+	key = 0#
+music
+1: 8d+; 16d+; d+; 8d+; 8d+; 16d+; d+; 8d+; d+; 16a; c+;
+bar
+1: 8d; 16d; d; 8d; 8d; 16d; d; 8d; d; 16a-; c;
+bar
+score
+	time = 6/8
+music
+1: 8d; c; a-; e; c; a-;
+bar
+1: 8f; d; a-; g; e; c;
+bar
+1: 8a; f; d; a#; g; e;
+bar
+1: 8c#+; a; f; d+; a; f;
+bar
+1: 8d; c; a-; e; c; a-;
+octave above 1: 1 "8va" til 9m;
+bar
+1: 8f; d; a-; g; e; c;
+bar
+1: 8a; f; d; a#; g; e;
+bar
+1: 8c#+; a; f; d+; a; f;
+bar
+1: 8a; f; d; c; d; f;
+bar
+1: 8a; f; d; c; d; f;
+bar
+1: 8a; f; d; c; d; f;
+bar
+1: 8a; f; d; c; d; f;
+bar
+1: 8a; f; d; c; a-; g-;
+bar
+1: 8f; d; c; d; a-; c;
+bar
+1: 8d; a-; c; d; a-; c;
+ital above 1: 1 "rit. poco a poco";
+bar
+1: 8d; a-; c; d; a-; c;
+bar
+1: 8d; a-; c; d; 4d-; 
+mussym above 1: 5 "ferm";
 bar
 
 //
