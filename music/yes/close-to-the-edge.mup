@@ -485,7 +485,8 @@ bar rehearsal let
 score
 	time = 4/4
 music
-1: 1r;
+1 1: 16a; a; 4a+; 32g+; a+; 16g+; e+; d+; c+; a; 8g; 16a; a;
+1 2: 16a-; a-; 4a; 8r; 2r;
 ital above 1: 1 "Wakeman solo";
 bar
 1: 1r;
@@ -605,13 +606,15 @@ bar
 1: 8c#+; a; f; d+; a; f;
 bar
 1: 8d; c; a-; e; c; a-;
-octave above 1: 1 "8va" til 9m;
+octave above 1: 1 "8va" til 10m;
 bar
 1: 8f; d; a-; g; e; c;
 bar
 1: 8a; f; d; a#; g; e;
 bar
 1: 8c#+; a; f; d+; a; f;
+bar
+1: 8a; f; d; a; f; d;
 bar
 1: 8a; f; d; c; d; f;
 bar
