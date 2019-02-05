@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2019-01-19</modified>
+  <modified>2019-02-05</modified>
+  <entry>
+    <title>Aristotle Research Report #7: φρόνησις</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1620.html"/>
+    <id>tag:stpeter.im,1620</id>
+    <issued>2019-02-05</issued>
+    <modified>2019-02-05</modified>
+    <summary>For Aristotle, the various excellences of character (courage, moderation, justice, and the like) are all instances of tending to find a balance between overdoing and underdoing a particular kind of action or feeling, either generally or in a particular respect (e.g., becoming angry in the wrong situations, toward the wrong kinds of people, too quickly, too strongly, etc.). Borrowing terminology from archery, he speaks of balance as a matter of hitting the target (σκοπός) and of imbalance as a matter of missing the mark (ἁμαρτία)....</summary>
+  </entry>
   <entry>
     <title>Personalism</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1619.html"/>
@@ -49,13 +57,5 @@
     <issued>2018-10-30</issued>
     <modified>2018-10-30</modified>
     <summary>Impasses along the path toward the goals of life can occur in three dimensions:...</summary>
-  </entry>
-  <entry>
-    <title>Goals of Life</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1614.html"/>
-    <id>tag:stpeter.im,1614</id>
-    <issued>2018-10-30</issued>
-    <modified>2018-10-30</modified>
-    <summary>There are many ways to categorize and divide up the various areas and activities of life. Here is a six-fold scheme I'm exploring:...</summary>
   </entry>
 </feed>
