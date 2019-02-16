@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2019-02-07</modified>
+  <modified>2019-02-16</modified>
+  <entry>
+    <title>Randian Confusion</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1622.html"/>
+    <id>tag:stpeter.im,1622</id>
+    <issued>2019-02-16</issued>
+    <modified>2019-02-16</modified>
+    <summary>After many months of reading Aristotle's philosophy and commentary thereon, recently I decided to re-read Ayn Rand's essay "The Objectivist Ethics", wherein Rand criticizes Aristotle for not considering ethics to be an exact science. I have no idea what that would mean. Consider, for instance, the relevant Wikipedia page (not necessarily reliable, but often a good start), which states:...</summary>
+  </entry>
   <entry>
     <title>Virtues Ancient and Modern</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1621.html"/>
@@ -49,13 +57,5 @@
     <issued>2018-12-11</issued>
     <modified>2018-12-11</modified>
     <summary>Aristotle wrote two treatises on ethics, which have come down to us as the Nicomachean Ethics or NE (in ten books) and the Eudemian Ethics or EE (in eight books). Confusingly, for reasons lost in the mists of time three of the books appear in both treatises (NE 5-7 = EE 4-6). Although until the commentary of Aspasius in the second century AD the EE was apparently considered to be the definitive statement of Aristotle's views, since then the NE has taken priority (so much so that many scholarly treatments of Aristotelian ethics completely ignore the EE). Yet detailed stylometric and textual analyses conducted by Anthony Kenny from the 1960s to the 1990s indicate that the three "common books" go with the EE, not the NE. It also seems likely (though so far not yet proven) that the EE was written after the NE, during the last eight years of Aristotle's life....</summary>
-  </entry>
-  <entry>
-    <title>Investing in Life</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1616.html"/>
-    <id>tag:stpeter.im,1616</id>
-    <issued>2018-11-17</issued>
-    <modified>2018-11-17</modified>
-    <summary>Recently I got to talking with my friend Dave Jilk about happiness, flourishing, and my future book The Art of Living. While relating my ideas about the goals of life (as captured in a recent blog post), I described the importance of taking a balanced approach and including all or most of these goals in one's life pursuits. He likened this to portfolio management in investing, which is a great analogy. This spurred me to thinking further about the value that each area of life brings to one's overall success in life. Consider a few somewhat fanciful extensions of this analogy:...</summary>
   </entry>
 </feed>
