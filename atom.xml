@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2019-02-16</modified>
+  <modified>2019-02-18</modified>
+  <entry>
+    <title>Aristotle Research Report #8: σοφία</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1623.html"/>
+    <id>tag:stpeter.im,1623</id>
+    <issued>2019-02-18</issued>
+    <modified>2019-02-18</modified>
+    <summary>In Book V of the Eudemian Ethics [1], Aristotle discusses the excellences of thinking things through (ἀρεταί διανοετικαί, usually translated as "the intellectual virtues"), in contrast to the excellences of character or ἀρεταί ἠθικαί. Recently I wrote about the more practical of the two primary excellences of thought: φρόνησις (which I translate as "wisdom"). Here I take a first glance at the more theoretical of the two: σοφία....</summary>
+  </entry>
   <entry>
     <title>Randian Confusion</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1622.html"/>
@@ -49,13 +57,5 @@
     <issued>2018-12-31</issued>
     <modified>2018-12-31</modified>
     <summary>Here's a list of the books I read in 2018 (including the complete works of Aristotle and a number of related scholarly books, along with a smattering of fiction):...</summary>
-  </entry>
-  <entry>
-    <title>Aristotle Research Report #6: A Second Look at the Eudemian Ethics</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1617.html"/>
-    <id>tag:stpeter.im,1617</id>
-    <issued>2018-12-11</issued>
-    <modified>2018-12-11</modified>
-    <summary>Aristotle wrote two treatises on ethics, which have come down to us as the Nicomachean Ethics or NE (in ten books) and the Eudemian Ethics or EE (in eight books). Confusingly, for reasons lost in the mists of time three of the books appear in both treatises (NE 5-7 = EE 4-6). Although until the commentary of Aspasius in the second century AD the EE was apparently considered to be the definitive statement of Aristotle's views, since then the NE has taken priority (so much so that many scholarly treatments of Aristotelian ethics completely ignore the EE). Yet detailed stylometric and textual analyses conducted by Anthony Kenny from the 1960s to the 1990s indicate that the three "common books" go with the EE, not the NE. It also seems likely (though so far not yet proven) that the EE was written after the NE, during the last eight years of Aristotle's life....</summary>
   </entry>
 </feed>
