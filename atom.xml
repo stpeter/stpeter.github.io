@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2019-02-18</modified>
+  <modified>2019-03-07</modified>
+  <entry>
+    <title>Aristotle Research Report #8: τέλος</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1624.html"/>
+    <id>tag:stpeter.im,1624</id>
+    <issued>2019-03-07</issued>
+    <modified>2019-03-07</modified>
+    <summary>Part of my goal in writing an epitome of Aristotle's writings on personal excellence is to get closer to their original meaning, which I do by reflecting deeply on how to render crucial Greek words into English. Consider this cluster: τέλος, τελεία, τελειώτατον. In his book Aristotle on the Human Good, Richard Kraut translates them with variations on the English word "perfection". In present-day English, "perfect" has connotations of being absolutely without blemish; thus something perfect seems static and cold and unchanging, not dynamic and warm and living. I get a distinctly unworldly (dare I say Platonic?) feeling from Kraut's translation. Yet in Greek τέλος is something much simpler: the end-marker or finish-line of a racecourse. A τέλος is a goal; you can achieve a goal or complete a race, but you don't perfect a goal or perfect a race. Similarly with τελεία: Aristotle speaks of τελεία ἀρετή, which I would render as complete excellence (not "perfect virtue"). So also with τελειώτατον: in his analysis of εὐδαιμονία or living well Aristotle mentions that the highest goal of human action needs to be the most complete (not "most perfect") because if you could add anything more to it then there would be a more valuable goal. In all of these instances, I am tempted to find the idea of "completing" or "most completing" behind the scenes; in Aristotle's philosophy, the concept of ἐντελέχεια (becoming complete, achieving a goal, completing a task) is always central. And note that the task (ἔργον) you're working at (ἐνέργεια) is not imposed from outside but grows organically from within; Aristotle's teleology (that's that τέλος again) is not universal but particular, individual, personal. Thus my working title: Complete Yourself....</summary>
+  </entry>
   <entry>
     <title>Aristotle Research Report #8: σοφία</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1623.html"/>
@@ -49,13 +57,5 @@
     <issued>2019-01-19</issued>
     <modified>2019-01-19</modified>
     <summary>In my philosophy department talk last October, I said something that might turn out to be more true than I had realized: it's a worthy ambition to become an accomplished person. Recalling that there used to be a philosophical journal called The Personalist, I've started to wonder if "personalism" might be an appropriate name for my approach to philosophy. A quick Internet search revealed that there has been a loose tradition of personalism over the last 200 years, encompassing thinkers as diverse as William James, Karol Wotyla (Pope John Paul II), and, appropriately enough for this weekend, Martin Luther King, Jr. (who studied with personalist theologian Edgar Sheffield Brightman at Boston University)....</summary>
-  </entry>
-  <entry>
-    <title>2018 Readings</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1618.html"/>
-    <id>tag:stpeter.im,1618</id>
-    <issued>2018-12-31</issued>
-    <modified>2018-12-31</modified>
-    <summary>Here's a list of the books I read in 2018 (including the complete works of Aristotle and a number of related scholarly books, along with a smattering of fiction):...</summary>
   </entry>
 </feed>
