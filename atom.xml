@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2019-03-07</modified>
+  <modified>2019-04-28</modified>
+  <entry>
+    <title>Aristotle's Way</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1626.html"/>
+    <id>tag:stpeter.im,1626</id>
+    <issued>2019-04-28</issued>
+    <modified>2019-04-28</modified>
+    <summary>There is much to like about Aristotle's Way, a new book by Edith Hall subtitled "How Ancient Wisdom Can Change Your Life". Hall does an excellent job of showing how Aristotle is still relevant today, which she does by drawing a sympathetic picture of ancient ways of life, by describing how she has applied Aristotelian insights in her own life, and by using examples drawn from contemporary fiction and film. Her explanations of Aristotle's views on human action and character are engaging and, for the most part, accurate. She even gives due consideration to Aristotle's biological works and to the Eudemian Ethics, the often-ignored little brother of Aristotle's Nicomachean Ethics....</summary>
+  </entry>
   <entry>
     <title>Never Finished</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1625.html"/>
@@ -24,7 +32,7 @@
     <id>tag:stpeter.im,1624</id>
     <issued>2019-03-07</issued>
     <modified>2019-03-07</modified>
-    <summary>Part of my goal in writing an epitome of Aristotle's writings on personal excellence is to get closer to their original meaning, which I do by reflecting deeply on how to render crucial Greek words into English. Consider this cluster: τέλος, τελεία, τελειώτατον. In his book Aristotle on the Human Good, Richard Kraut translates them with variations on the English word "perfection". In present-day English, "perfect" has connotations of being absolutely without blemish; thus something perfect seems static and cold and unchanging, not dynamic and warm and living. I get a distinctly unworldly (dare I say Platonic?) feeling from Kraut's translation. Yet in Greek τέλος is something much simpler: the end-marker or finish-line of a racecourse. A τέλος is a goal; you can achieve a goal or complete a race, but you don't perfect a goal or perfect a race. Similarly with τελεία: Aristotle speaks of τελεία ἀρετή, which I would render as complete excellence (not "perfect virtue"). So also with τελειώτατον: in his analysis of εὐδαιμονία or living well Aristotle mentions that the highest goal of human action needs to be the most complete (not "most perfect") because if you could add anything more to it then there would be a more valuable goal. In all of these instances, I am tempted to find the idea of "completing" or "most completing" behind the scenes; in Aristotle's philosophy, the concept of ἐντελέχεια (becoming complete, achieving a goal, completing a task) is always central. And note that the task (ἔργον) you're working at (ἐνέργεια) is not imposed from outside but grows organically from within; Aristotle's teleology (that's that τέλος again) is not universal but particular, individual, personal. Thus my working title: Complete Yourself....</summary>
+    <summary>Part of my goal in writing an epitome of Aristotle's writings on personal excellence is to get closer to their original meaning, which I do by reflecting deeply on how to render crucial Greek words into English. Consider this cluster: τέλος, τελεία, τελειώτατον. In his book Aristotle on the Human Good, Richard Kraut translates them with variations on the English word "perfection". In present-day English, "perfect" has connotations of being absolutely without blemish; thus something perfect seems static and cold and unchanging, not dynamic and warm and living. I get a distinctly unworldly (dare I say Platonic?) feeling from Kraut's translation. Yet in Greek τέλος is something much simpler: the end-marker or finish-line of a racecourse. A τέλος is a goal; you can achieve a goal or complete a race, but you don't perfect a goal or perfect a race. Similarly with τελεία: Aristotle speaks of τελεία ἀρετή, which I would render as complete excellence (not "perfect virtue"). So also with τελειώτατον: in his analysis of εὐδαιμονία or living well Aristotle mentions that the highest goal of human action needs to be the most complete (not "most perfect") because if you could add anything more to it then there would be a more valuable goal. In all of these instances, I am tempted to find the idea of "completing" or "most completing" behind the scenes; in Aristotle's philosophy, the concept of ἐντελέχεια (becoming complete, achieving a goal, completing a task) is always central. And note that the task (ἔργον) you're working at (ἐνέργεια) is not imposed from outside but grows organically from within; Aristotle's teleology (there's that τέλος again) is not universal but particular, individual, personal. Thus my working title: Complete Yourself....</summary>
   </entry>
   <entry>
     <title>Aristotle Research Report #8: σοφία</title>
@@ -49,13 +57,5 @@
     <issued>2019-02-07</issued>
     <modified>2019-02-07</modified>
     <summary>In his book Confronting Aristotle's Ethics, Eugene Garver explores how, for Aristotle, personal excellence is also interpersonal excellence: because of the intensely social nature of ancient communities, virtues like courage and moderation had value because they protected and preserved the balance of the community as a whole. Thus courage was really valor in battle against another community that would have enslaved your own people, not the courage of principled resistance (e.g., Rosa Parks) or intellectual integrity (e.g., Galileo). Thus moderation was about controlling your urges (adultery upsets social harmony) and keeping in good physical condition (it's hard to be valorous if you're grossly overweight). And so on....</summary>
-  </entry>
-  <entry>
-    <title>Aristotle Research Report #7: φρόνησις</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1620.html"/>
-    <id>tag:stpeter.im,1620</id>
-    <issued>2019-02-05</issued>
-    <modified>2019-02-05</modified>
-    <summary>For Aristotle, the various excellences of character (courage, moderation, justice, and the like) are all instances of tending to find a balance between overdoing and underdoing a particular kind of action or feeling, either generally or in a particular respect (e.g., becoming angry in the wrong situations, toward the wrong kinds of people, too quickly, too strongly, etc.). Borrowing terminology from archery, he speaks of balance as a matter of hitting the target (σκοπός) and of imbalance as a matter of missing the mark (ἁμαρτία)....</summary>
   </entry>
 </feed>
