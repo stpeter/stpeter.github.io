@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2019-04-28</modified>
+  <modified>2019-05-15</modified>
+  <entry>
+    <title>Aristotle Research Report #10: σχολή</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1628.html"/>
+    <id>tag:stpeter.im,1628</id>
+    <issued>2019-05-15</issued>
+    <modified>2019-05-15</modified>
+    <summary>In Nicomachean Ethics X.7, Aristotle mentions almost in passing that "we engage in unleisured pursuits so that we may be at leisure" (1177b5). In Politics Book VIII, where he discusses the role of music in human life, he expands on this idea:...</summary>
+  </entry>
   <entry>
     <title>Tales of Slow Time</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1627.html"/>
@@ -49,13 +57,5 @@
     <issued>2019-02-18</issued>
     <modified>2019-02-18</modified>
     <summary>In Book V of the Eudemian Ethics [1], Aristotle discusses the excellences of thinking things through (ἀρεταί διανοετικαί, usually translated as "the intellectual virtues"), in contrast to the excellences of character or ἀρεταί ἠθικαί. Recently I wrote about the more practical of the two primary excellences of thought: φρόνησις (which I translate as "wisdom"). Here I take a first glance at the more theoretical of the two: σοφία....</summary>
-  </entry>
-  <entry>
-    <title>Randian Confusion</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1622.html"/>
-    <id>tag:stpeter.im,1622</id>
-    <issued>2019-02-16</issued>
-    <modified>2019-02-16</modified>
-    <summary>After many months of reading Aristotle's philosophy and commentary thereon, recently I decided to re-read Ayn Rand's essay "The Objectivist Ethics", wherein Rand criticizes Aristotle for not considering ethics to be an exact science. I have no idea what that would mean. Consider, for instance, the relevant Wikipedia page (not necessarily reliable, but often a good start), which states:...</summary>
   </entry>
 </feed>
