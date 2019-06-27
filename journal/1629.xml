@@ -1,0 +1,10 @@
+<journal>
+<header><title>RFC 8600: XMPP Grid</title><date>2019-06-26</date></header>
+<entry>
+<p>Sometimes you provide so much feedback on an Internet-Draft that the authors ask you to become a co-author. Such was the case with draft-ietf-mile-xmpp-grid, which defines a method for using XMPP to exchange information about security incidents (e.g., via the IODEF format) on a controlled-access network. The resulting standard (RFC 8600) is a rare example of what the IETF standards process document defines as an "Applicability Statement" (another recent example is RFC 8036). This is the 45th RFC I've authored or co-authored, which shockingly enough is one more than Vint Cerf - not that my contributions to the Internet are nearly as important as his!</p>
+<p><em>FOR FURTHER EXPLORATION</em></p>
+<ul>
+<li><a href='https://www.rfc-editor.org/rfc/rfc8600.txt'>RFC 8600</a></li>
+</ul>
+</entry>
+</journal>

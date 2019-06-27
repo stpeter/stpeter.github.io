@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2019-05-15</modified>
+  <modified>2019-06-26</modified>
+  <entry>
+    <title>RFC 8600: XMPP Grid</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1629.html"/>
+    <id>tag:stpeter.im,1629</id>
+    <issued>2019-06-26</issued>
+    <modified>2019-06-26</modified>
+    <summary>Sometimes you provide so much feedback on an Internet-Draft that the authors ask you to become a co-author. Such was the case with draft-ietf-mile-xmpp-grid, which defines a method for using XMPP to exchange information about security incidents (e.g., via the IODEF format) on a controlled-access network. The resulting standard (RFC 8600) is a rare example of what the IETF standards process document defines as an "Applicability Statement" (another recent example is RFC 8036). This is the 45th RFC I've authored or co-authored, which shockingly enough is one more than Vint Cerf - not that my contributions to the Internet are nearly as important as his!...</summary>
+  </entry>
   <entry>
     <title>Aristotle Research Report #10: σχολή</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1628.html"/>
@@ -49,13 +57,5 @@
     <issued>2019-03-07</issued>
     <modified>2019-03-07</modified>
     <summary>Part of my goal in writing an epitome of Aristotle's writings on personal excellence is to get closer to their original meaning, which I do by reflecting deeply on how to render crucial Greek words into English. Consider this cluster: τέλος, τελεία, τελειώτατον. In his book Aristotle on the Human Good, Richard Kraut translates them with variations on the English word "perfection". In present-day English, "perfect" has connotations of being absolutely without blemish; thus something perfect seems static and cold and unchanging, not dynamic and warm and living. I get a distinctly unworldly (dare I say Platonic?) feeling from Kraut's translation. Yet in Greek τέλος is something much simpler: the end-marker or finish-line of a racecourse. A τέλος is a goal; you can achieve a goal or complete a race, but you don't perfect a goal or perfect a race. Similarly with τελεία: Aristotle speaks of τελεία ἀρετή, which I would render as complete excellence (not "perfect virtue"). So also with τελειώτατον: in his analysis of εὐδαιμονία or living well Aristotle mentions that the highest goal of human action needs to be the most complete (not "most perfect") because if you could add anything more to it then there would be a more valuable goal. In all of these instances, I am tempted to find the idea of "completing" or "most completing" behind the scenes; in Aristotle's philosophy, the concept of ἐντελέχεια (becoming complete, achieving a goal, completing a task) is always central. And note that the task (ἔργον) you're working at (ἐνέργεια) is not imposed from outside but grows organically from within; Aristotle's teleology (there's that τέλος again) is not universal but particular, individual, personal. Thus my working title: Complete Yourself....</summary>
-  </entry>
-  <entry>
-    <title>Aristotle Research Report #8: σοφία</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1623.html"/>
-    <id>tag:stpeter.im,1623</id>
-    <issued>2019-02-18</issued>
-    <modified>2019-02-18</modified>
-    <summary>In Book V of the Eudemian Ethics [1], Aristotle discusses the excellences of thinking things through (ἀρεταί διανοετικαί, usually translated as "the intellectual virtues"), in contrast to the excellences of character or ἀρεταί ἠθικαί. Recently I wrote about the more practical of the two primary excellences of thought: φρόνησις (which I translate as "wisdom"). Here I take a first glance at the more theoretical of the two: σοφία....</summary>
   </entry>
 </feed>
