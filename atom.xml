@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2019-06-26</modified>
+  <modified>2019-07-07</modified>
+  <entry>
+    <title>Aristotle Research Report #11: εὐπραξία</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1630.html"/>
+    <id>tag:stpeter.im,1630</id>
+    <issued>2019-07-07</issued>
+    <modified>2019-07-07</modified>
+    <summary>One of the lesser-known terms in Aristotle's ethical treatises is εὐπραξία (eupraxia) along with its sister εὐπραγία (eupragia). Both terms mean doing well, faring well, having success. Aristotle's use is connected to εὐδαιμονία, which he defines as "living well and doing well" (τὸ εὖ ζῆν καὶ τὸ εὖ πράττειν). But what are the metrics for "success" here? He leaves us several clues. First is the verb πράττειν, which for Aristotle means not merely engaging in activity but taking action, typically as the outcome of making a decision (this is why he thinks that, strictly speaking, animals and children do not "take action" even though they are clearly active physically and biologically). Second is that Aristotle contrasts εὐπραξία with εὐτυχία or good fortune; success is a matter of achievement, not luck....</summary>
+  </entry>
   <entry>
     <title>RFC 8600: XMPP Grid</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1629.html"/>
@@ -49,13 +57,5 @@
     <issued>2019-03-07</issued>
     <modified>2019-03-07</modified>
     <summary>Last weekend I went to an exhibit related to Leonardo da Vinci at the Denver Museum of Nature and Science. Amidst the reconstructions of his inventions and at the entrance to a whole room about the Mona Lisa I came across this quote: "Art is never finished, only abandoned." Although it's not clear to me if Leonardo actually said that (Vasari mentions something similar in his Life of Leonardo), I like the sentiment....</summary>
-  </entry>
-  <entry>
-    <title>Aristotle Research Report #9: τέλος</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1624.html"/>
-    <id>tag:stpeter.im,1624</id>
-    <issued>2019-03-07</issued>
-    <modified>2019-03-07</modified>
-    <summary>Part of my goal in writing an epitome of Aristotle's writings on personal excellence is to get closer to their original meaning, which I do by reflecting deeply on how to render crucial Greek words into English. Consider this cluster: τέλος, τελεία, τελειώτατον. In his book Aristotle on the Human Good, Richard Kraut translates them with variations on the English word "perfection". In present-day English, "perfect" has connotations of being absolutely without blemish; thus something perfect seems static and cold and unchanging, not dynamic and warm and living. I get a distinctly unworldly (dare I say Platonic?) feeling from Kraut's translation. Yet in Greek τέλος is something much simpler: the end-marker or finish-line of a racecourse. A τέλος is a goal; you can achieve a goal or complete a race, but you don't perfect a goal or perfect a race. Similarly with τελεία: Aristotle speaks of τελεία ἀρετή, which I would render as complete excellence (not "perfect virtue"). So also with τελειώτατον: in his analysis of εὐδαιμονία or living well Aristotle mentions that the highest goal of human action needs to be the most complete (not "most perfect") because if you could add anything more to it then there would be a more valuable goal. In all of these instances, I am tempted to find the idea of "completing" or "most completing" behind the scenes; in Aristotle's philosophy, the concept of ἐντελέχεια (becoming complete, achieving a goal, completing a task) is always central. And note that the task (ἔργον) you're working at (ἐνέργεια) is not imposed from outside but grows organically from within; Aristotle's teleology (there's that τέλος again) is not universal but particular, individual, personal. Thus my working title: Complete Yourself....</summary>
   </entry>
 </feed>
