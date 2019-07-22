@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2019-07-07</modified>
+  <modified>2019-07-21</modified>
+  <entry>
+    <title>Hummus Recipe</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1631.html"/>
+    <id>tag:stpeter.im,1631</id>
+    <issued>2019-07-21</issued>
+    <modified>2019-07-21</modified>
+    <summary>One of my favorite things to eat in the summer (and in truth all year round) is hummus. Because multiple people have requested my recipe over the years, I figured I'd share it here....</summary>
+  </entry>
   <entry>
     <title>Aristotle Research Report #11: εὐπραξία</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1630.html"/>
@@ -49,13 +57,5 @@
     <issued>2019-04-28</issued>
     <modified>2019-04-28</modified>
     <summary>There is much to like about Aristotle's Way, a new book by Edith Hall subtitled "How Ancient Wisdom Can Change Your Life". Hall does an excellent job of showing how Aristotle is still relevant today, which she does by drawing a sympathetic picture of ancient ways of life, by describing how she has applied Aristotelian insights in her own life, and by using examples drawn from contemporary fiction and film. Her explanations of Aristotle's views on human action and character are engaging and, for the most part, accurate. She even gives due consideration to Aristotle's biological works and to the Eudemian Ethics, the often-ignored little brother of Aristotle's Nicomachean Ethics....</summary>
-  </entry>
-  <entry>
-    <title>Never Finished</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1625.html"/>
-    <id>tag:stpeter.im,1625</id>
-    <issued>2019-03-07</issued>
-    <modified>2019-03-07</modified>
-    <summary>Last weekend I went to an exhibit related to Leonardo da Vinci at the Denver Museum of Nature and Science. Amidst the reconstructions of his inventions and at the entrance to a whole room about the Mona Lisa I came across this quote: "Art is never finished, only abandoned." Although it's not clear to me if Leonardo actually said that (Vasari mentions something similar in his Life of Leonardo), I like the sentiment....</summary>
   </entry>
 </feed>
