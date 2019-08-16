@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2019-07-21</modified>
+  <modified>2019-08-16</modified>
+  <entry>
+    <title>Cooperative Thinking</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1632.html"/>
+    <id>tag:stpeter.im,1632</id>
+    <issued>2019-08-16</issued>
+    <modified>2019-08-16</modified>
+    <summary>A few years ago I did a bunch of research and thinking about alternative forms of organizational structure, focused especially on cooperatives (at the time I was thinking about setting up a co-op to run the Jabber.org messaging service). The approach I found most interesting was funding a co-op through something called a direct public offering. This can be done for much less money and with much greater control than VC funding or angel investing or whatever - it's basically a kind of more advanced crowdfunding. Companies that have done this include MyTrail (an outdoor clothing company in Boulder, Colorado), Real Pickles (a food co-op in Massachusetts), and Equal Exchange (the original fair trade coffee company, also located in Massachusetts). Other co-ops I investigated are self-funded and haven't pursued the DPO route (e.g., Namaste Solar, Plausible Labs, and Isthmus Engineering)...</summary>
+  </entry>
   <entry>
     <title>Hummus Recipe</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1631.html"/>
@@ -49,13 +57,5 @@
     <issued>2019-04-28</issued>
     <modified>2019-04-28</modified>
     <summary>I've been thinking about writing a set of linked short stories entitled Tales of Slow Time, set in the early 22nd century. As I see it, this will be a time of extremely rapid change and constant flux. Because humans won't be able to absorb change at that rate, they will be even further dumbed down and domesticated compared to today, living as they will in a culture of convenience, pleasure, entertainment, and post-literacy. The influence of raw intelligence will be even more keenly felt (cf. the seven tribes), resulting in extreme inequality. Governments everywhere will have implemented a universal basic income to placate the great mass of people who would otherwise have no livelihood. However, most people will therefore have too much free time: some will use that time to cause trouble, meddle, protest; others will play immersive video games or plug into virtual worlds; others will engage in simulacra of productivity (incubators of nothing). The human population will be both smaller and older. Information technology will be pervasive: robots will perform many routine and non-routine tasks; algorithms will rule the day; people will be subject to ubiquitous tracking, profiling, surveillance, and manipulation through advertising, marketing, nudging, and helpthink; we will experience the gamification of all activities and human/machine interactions; news, information, audio, video, AR/VR, holography - anything presented or represented through networks or computers - will be essentially made up (fiat everything); people will have little certainty about what is real. Everything and everyone will be mapped, tracked, annotated, recorded via the hypermap and the ledger. Robots will be our friends and teachers; machines will perceive our moods; all of our choices will be "suggested" by algorithms. Corporations and governments will engage in lifelong observation and manipulation of each and every individual. There will be no privacy, no autonomy, no serenity, no humanity. We will live in a materially abundant spiritual wasteland ruled by impersonal forces of government, science, technology, corporations, insurers, medicine, politics, even the arts....</summary>
-  </entry>
-  <entry>
-    <title>Aristotle's Way: A Review</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1626.html"/>
-    <id>tag:stpeter.im,1626</id>
-    <issued>2019-04-28</issued>
-    <modified>2019-04-28</modified>
-    <summary>There is much to like about Aristotle's Way, a new book by Edith Hall subtitled "How Ancient Wisdom Can Change Your Life". Hall does an excellent job of showing how Aristotle is still relevant today, which she does by drawing a sympathetic picture of ancient ways of life, by describing how she has applied Aristotelian insights in her own life, and by using examples drawn from contemporary fiction and film. Her explanations of Aristotle's views on human action and character are engaging and, for the most part, accurate. She even gives due consideration to Aristotle's biological works and to the Eudemian Ethics, the often-ignored little brother of Aristotle's Nicomachean Ethics....</summary>
   </entry>
 </feed>
