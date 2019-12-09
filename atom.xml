@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2019-08-16</modified>
+  <modified>2019-12-08</modified>
+  <entry>
+    <title>Aristotle Research Report #12: A Eudemian Thread</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1633.html"/>
+    <id>tag:stpeter.im,1633</id>
+    <issued>2019-12-08</issued>
+    <modified>2019-12-08</modified>
+    <summary>At the very end of Aristotle's Eudemian Ethics there is a puzzling passage about the standard (ὅρος) according to which the "good and beautifully right" person (καλοκαγαθός) makes choices with regard to natural goods such as wealth, health, strength, honor, power, good fortune, and personal relationships. Surprisingly, he says that whatever conduces to the cultivation (θεραπεία) and awareness (θεωρία) of god is best and is the most beautifully right standard, whereas anything that hinders such cultivation and awareness is unworthy, trifling, and bad (φαῦλος - the opposite of what is σπουδαῖος, i.e. worthy, serious, and good). Until these last few paragraphs, nothing in the Eudemian Ethics had obviously pointed in this startlingly "theological" direction or had advocated a godlike, superhuman existence; yet if we pay careful attention to the text, we can patiently unravel a thread of inquiry that elucidates Aristotle's last word on the topic of the best human life....</summary>
+  </entry>
   <entry>
     <title>Cooperative Thinking</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1632.html"/>
@@ -49,13 +57,5 @@
     <issued>2019-05-15</issued>
     <modified>2019-05-15</modified>
     <summary>In Nicomachean Ethics X.7, Aristotle mentions almost in passing that "we engage in unleisured pursuits so that we may be at leisure" (1177b5). In Politics Book VIII, where he discusses the role of music in human life, he expands on this idea:...</summary>
-  </entry>
-  <entry>
-    <title>Tales of Slow Time</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1627.html"/>
-    <id>tag:stpeter.im,1627</id>
-    <issued>2019-04-28</issued>
-    <modified>2019-04-28</modified>
-    <summary>I've been thinking about writing a set of linked short stories entitled Tales of Slow Time, set in the early 22nd century. As I see it, this will be a time of extremely rapid change and constant flux. Because humans won't be able to absorb change at that rate, they will be even further dumbed down and domesticated compared to today, living as they will in a culture of convenience, pleasure, entertainment, and post-literacy. The influence of raw intelligence will be even more keenly felt (cf. the seven tribes), resulting in extreme inequality. Governments everywhere will have implemented a universal basic income to placate the great mass of people who would otherwise have no livelihood. However, most people will therefore have too much free time: some will use that time to cause trouble, meddle, protest; others will play immersive video games or plug into virtual worlds; others will engage in simulacra of productivity (incubators of nothing). The human population will be both smaller and older. Information technology will be pervasive: robots will perform many routine and non-routine tasks; algorithms will rule the day; people will be subject to ubiquitous tracking, profiling, surveillance, and manipulation through advertising, marketing, nudging, and helpthink; we will experience the gamification of all activities and human/machine interactions; news, information, audio, video, AR/VR, holography - anything presented or represented through networks or computers - will be essentially made up (fiat everything); people will have little certainty about what is real. Everything and everyone will be mapped, tracked, annotated, recorded via the hypermap and the ledger. Robots will be our friends and teachers; machines will perceive our moods; all of our choices will be "suggested" by algorithms. Corporations and governments will engage in lifelong observation and manipulation of each and every individual. There will be no privacy, no autonomy, no serenity, no humanity. We will live in a materially abundant spiritual wasteland ruled by impersonal forces of government, science, technology, corporations, insurers, medicine, politics, even the arts....</summary>
   </entry>
 </feed>
