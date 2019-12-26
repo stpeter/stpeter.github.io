@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2019-12-08</modified>
+  <modified>2019-12-26</modified>
+  <entry>
+    <title>Aristotle Research Report #13: Phase One Complete</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1634.html"/>
+    <id>tag:stpeter.im,1634</id>
+    <issued>2019-12-26</issued>
+    <modified>2019-12-26</modified>
+    <summary>Yesterday I finished phase one of my research into Aristotle's ethics, in preparation for writing Complete Yourself: Aristotle on Personal Excellence. As I described in a blog post over five years ago, for me the process of "working through" a thinker initially involves absorbing all of his or her writings, supplemented by some of the secondary literature. Since I started this project about two years ago, I've read everything by Aristotle and Plato, as well as numerous scholarly books on Aristotle, totalling about 120 distinct works. To give you a sense of the magnitude, here's a photo of the relevant books in my own collection (not counting all the ones I've checked out of libraries througout Colorado and Wyoming, thanks to the wonders of Prospector, our regional inter-library loan system):...</summary>
+  </entry>
   <entry>
     <title>Aristotle Research Report #12: A Eudemian Thread</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1633.html"/>
@@ -49,13 +57,5 @@
     <issued>2019-06-26</issued>
     <modified>2019-06-26</modified>
     <summary>Sometimes you provide so much feedback on an Internet-Draft that the authors ask you to become a co-author. Such was the case with draft-ietf-mile-xmpp-grid, which defines a method for using XMPP to exchange information about security incidents (e.g., via the IODEF format) on a controlled-access network. The resulting standard (RFC 8600) is a rare example of what the IETF standards process document defines as an "Applicability Statement" (another recent example is RFC 8036). This is the 45th RFC I've authored or co-authored, which shockingly enough is one more than Vint Cerf - not that my contributions to the Internet are nearly as important as his!...</summary>
-  </entry>
-  <entry>
-    <title>Aristotle Research Report #10: σχολή</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1628.html"/>
-    <id>tag:stpeter.im,1628</id>
-    <issued>2019-05-15</issued>
-    <modified>2019-05-15</modified>
-    <summary>In Nicomachean Ethics X.7, Aristotle mentions almost in passing that "we engage in unleisured pursuits so that we may be at leisure" (1177b5). In Politics Book VIII, where he discusses the role of music in human life, he expands on this idea:...</summary>
   </entry>
 </feed>
