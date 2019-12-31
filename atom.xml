@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2019-12-26</modified>
+  <modified>2019-12-31</modified>
+  <entry>
+    <title>2019 Readings</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1635.html"/>
+    <id>tag:stpeter.im,1635</id>
+    <issued>2019-12-31</issued>
+    <modified>2019-12-31</modified>
+    <summary>Here are the books I had a chance to read in 2019, divided into a few categories. Most of these are related to my project of writing an epitome of Aristotle's ethics (and most of the rest are related to my project of writing a novel about Pyrrho, the founder of ancient Greek skepticism)....</summary>
+  </entry>
   <entry>
     <title>Aristotle Research Report #13: Phase One Complete</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1634.html"/>
@@ -49,13 +57,5 @@
     <issued>2019-07-07</issued>
     <modified>2019-07-07</modified>
     <summary>One of the lesser-known terms in Aristotle's ethical treatises is εὐπραξία (eupraxia) along with its sister εὐπραγία (eupragia). Both terms mean doing well, faring well, having success. Aristotle's use is connected to εὐδαιμονία, which he defines as "living well and doing well" (τὸ εὖ ζῆν καὶ τὸ εὖ πράττειν). But what are the metrics for "success" here? He leaves us several clues. First is the verb πράττειν, which for Aristotle means not merely engaging in activity but taking action, typically as the outcome of making a decision (this is why he thinks that, strictly speaking, animals and children do not "take action" even though they are clearly active physically and biologically). Second is that Aristotle contrasts εὐπραξία with εὐτυχία or good fortune; success is a matter of achievement, not luck....</summary>
-  </entry>
-  <entry>
-    <title>RFC 8600: XMPP Grid</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1629.html"/>
-    <id>tag:stpeter.im,1629</id>
-    <issued>2019-06-26</issued>
-    <modified>2019-06-26</modified>
-    <summary>Sometimes you provide so much feedback on an Internet-Draft that the authors ask you to become a co-author. Such was the case with draft-ietf-mile-xmpp-grid, which defines a method for using XMPP to exchange information about security incidents (e.g., via the IODEF format) on a controlled-access network. The resulting standard (RFC 8600) is a rare example of what the IETF standards process document defines as an "Applicability Statement" (another recent example is RFC 8036). This is the 45th RFC I've authored or co-authored, which shockingly enough is one more than Vint Cerf - not that my contributions to the Internet are nearly as important as his!...</summary>
   </entry>
 </feed>
