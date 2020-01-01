@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2019-12-31</modified>
+  <modified>2020-01-01</modified>
+  <entry>
+    <title>Jo Walton's Thessaly Trilogy</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1636.html"/>
+    <id>tag:stpeter.im,1636</id>
+    <issued>2020-01-01</issued>
+    <modified>2020-01-01</modified>
+    <summary>Fresh from a re-reading of Plato's dialogues, recently I dove into Jo Walton's Thessaly trilogy (The Just City, The Philosopher Kings, and Necessity), a speculative epic set in a society consistent with Plato's Republic. It's an enjoyable, thought-provoking blend of science fiction, ancient Greek myth, and Platonic philosophy. Although I recommended Walton's trilogy if you like philosophical novels, I do take issue with several aspects of her story....</summary>
+  </entry>
   <entry>
     <title>2019 Readings</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1635.html"/>
@@ -49,13 +57,5 @@
     <issued>2019-07-21</issued>
     <modified>2019-07-21</modified>
     <summary>One of my favorite things to eat in the summer (and in truth all year round) is hummus. Because multiple people have requested my recipe over the years, I figured I'd share it here....</summary>
-  </entry>
-  <entry>
-    <title>Aristotle Research Report #11: εὐπραξία</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1630.html"/>
-    <id>tag:stpeter.im,1630</id>
-    <issued>2019-07-07</issued>
-    <modified>2019-07-07</modified>
-    <summary>One of the lesser-known terms in Aristotle's ethical treatises is εὐπραξία (eupraxia) along with its sister εὐπραγία (eupragia). Both terms mean doing well, faring well, having success. Aristotle's use is connected to εὐδαιμονία, which he defines as "living well and doing well" (τὸ εὖ ζῆν καὶ τὸ εὖ πράττειν). But what are the metrics for "success" here? He leaves us several clues. First is the verb πράττειν, which for Aristotle means not merely engaging in activity but taking action, typically as the outcome of making a decision (this is why he thinks that, strictly speaking, animals and children do not "take action" even though they are clearly active physically and biologically). Second is that Aristotle contrasts εὐπραξία with εὐτυχία or good fortune; success is a matter of achievement, not luck....</summary>
   </entry>
 </feed>
