@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2020-01-01</modified>
+  <modified>2020-01-14</modified>
+  <entry>
+    <title>Zamyatin's WE</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1637.html"/>
+    <id>tag:stpeter.im,1637</id>
+    <issued>2020-01-14</issued>
+    <modified>2020-01-14</modified>
+    <summary>In 1921, Yevgeny Zamyatin finished writing WE, the Ur-text for most dystopian novels since then (Anthem, 1984, Brave New World, etc.). In 1924, Zamyatin's novel, not yet (in fact never) published in the Soviet Union, was first brought to the world by E.P. Dutton and Company of New York in an English translation by Gregory Zilboorg. Because 95 years have passed since then, Dr. Zilboorg's translation is finally in the public domain - and I have just republished it online at my website for public-domain books, the Monadnock Valley Press....</summary>
+  </entry>
   <entry>
     <title>Jo Walton's Thessaly Trilogy</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1636.html"/>
@@ -24,7 +32,7 @@
     <id>tag:stpeter.im,1635</id>
     <issued>2019-12-31</issued>
     <modified>2019-12-31</modified>
-    <summary>Here are the books I had a chance to read in 2019, divided into a few categories. Most of these are related to my project of writing an epitome of Aristotle's ethics (and most of the rest are related to my project of writing a novel about Pyrrho, the founder of ancient Greek skepticism)....</summary>
+    <summary>Here are the ~110 books I had a chance to read in 2019, divided into a few categories. Most of these are related to my project of writing an epitome of Aristotle's ethics (and most of the rest are related to my project of writing a novel about Pyrrho, the founder of ancient Greek skepticism)....</summary>
   </entry>
   <entry>
     <title>Aristotle Research Report #13: Phase One Complete</title>
@@ -49,13 +57,5 @@
     <issued>2019-08-16</issued>
     <modified>2019-08-16</modified>
     <summary>A few years ago I did a bunch of research and thinking about alternative forms of organizational structure, focused especially on cooperatives (at the time I was thinking about setting up a co-op to run the Jabber.org messaging service). The approach I found most interesting was funding a co-op through something called a direct public offering. This can be done for much less money and with much greater control than VC funding or angel investing or whatever - it's basically a kind of more advanced crowdfunding. Companies that have done this include My Trail (an outdoor clothing company in Boulder, Colorado), Real Pickles (a food co-op in Massachusetts), and Equal Exchange (the original fair trade coffee company, also located in Massachusetts). Other co-ops I investigated are self-funded and haven't pursued the DPO route (e.g., Namasté Solar, Plausible Labs, and Isthmus Engineering)...</summary>
-  </entry>
-  <entry>
-    <title>Hummus Recipe</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1631.html"/>
-    <id>tag:stpeter.im,1631</id>
-    <issued>2019-07-21</issued>
-    <modified>2019-07-21</modified>
-    <summary>One of my favorite things to eat in the summer (and in truth all year round) is hummus. Because multiple people have requested my recipe over the years, I figured I'd share it here....</summary>
   </entry>
 </feed>
