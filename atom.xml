@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2020-02-09</modified>
+  <modified>2020-05-28</modified>
+  <entry>
+    <title>Crisis Investing</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1639.html"/>
+    <id>tag:stpeter.im,1639</id>
+    <issued>2020-05-28</issued>
+    <modified>2020-05-28</modified>
+    <summary>Exactly four years ago I wrote a post entitled "Investing for the Rest of Us", in which I discussed the permanent portfolio investing method, invented by Harry Browne. The permaent portfolio has two additional benefits that I've come to fully appreciate only this year: uncorrelated assets and forced rebalancing....</summary>
+  </entry>
   <entry>
     <title>Serenity</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1638.html"/>
@@ -49,13 +57,5 @@
     <issued>2019-12-26</issued>
     <modified>2019-12-26</modified>
     <summary>Yesterday I finished phase one of my research into Aristotle's ethics, in preparation for writing Complete Yourself: Aristotle on Personal Excellence. As I described in a blog post over five years ago, for me the process of "working through" a thinker initially involves absorbing all of his or her writings, supplemented by some of the secondary literature. Since I started this project about two years ago, I've read everything by Aristotle and Plato, as well as numerous scholarly books on Aristotle, totalling around 120 distinct works. To give you a sense of the magnitude, here's a photo of the relevant books in my own collection (not counting all the ones I've checked out of libraries throughout Colorado and Wyoming, thanks to the wonders of Prospector, our regional inter-library loan system):...</summary>
-  </entry>
-  <entry>
-    <title>Aristotle Research Report #12: A Eudemian Thread</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1633.html"/>
-    <id>tag:stpeter.im,1633</id>
-    <issued>2019-12-08</issued>
-    <modified>2019-12-08</modified>
-    <summary>At the very end of Aristotle's Eudemian Ethics there is a puzzling passage about the standard (ὅρος) according to which the "good and beautifully right" person (καλοκαγαθός) makes choices with regard to natural goods such as wealth, health, strength, honor, power, good fortune, and personal relationships. Surprisingly, he says that whatever conduces to the cultivation (θεραπεία) and awareness (θεωρία) of god is best and is the most beautifully right standard, whereas anything that hinders such cultivation and awareness is unworthy, trifling, and bad (φαῦλος - the opposite of what is σπουδαῖος, i.e. worthy, serious, and good). Until these last few paragraphs, nothing in the Eudemian Ethics had obviously pointed in this startlingly "theological" direction or had advocated a godlike, superhuman existence; yet if we pay careful attention to the text, we can patiently unravel a thread of inquiry that elucidates Aristotle's last word on the topic of the best human life....</summary>
   </entry>
 </feed>
