@@ -9,14 +9,22 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2020-05-28</modified>
+  <modified>2020-06-19</modified>
+  <entry>
+    <title>Dialogue and Deliberation</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1640.html"/>
+    <id>tag:stpeter.im,1640</id>
+    <issued>2020-06-19</issued>
+    <modified>2020-06-19</modified>
+    <summary>One of Aristotle’s characteristic methods for solving philosophical problems is dialectic: upon (i) reaching an impasse (aporia), he (ii) surveys existing explanations (logoi) and reputable opinions (endoxa), (iii) engages in analysis to remove paradoxes and draw distinctions, then (iv) formulates a synthesis that harmonizes the explanations and saves the appearances (phainomena)....</summary>
+  </entry>
   <entry>
     <title>Crisis Investing</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1639.html"/>
     <id>tag:stpeter.im,1639</id>
     <issued>2020-05-28</issued>
     <modified>2020-05-28</modified>
-    <summary>Exactly four years ago I wrote a post entitled "Investing for the Rest of Us", in which I discussed the permanent portfolio investing method, invented by Harry Browne. The permaent portfolio has two additional benefits that I've come to fully appreciate only this year: uncorrelated assets and forced rebalancing....</summary>
+    <summary>Exactly four years ago I wrote a post entitled "Investing for the Rest of Us", in which I discussed the permanent portfolio investing method, invented by Harry Browne. The permanent portfolio has two additional benefits that I've come to fully appreciate only this year: uncorrelated assets and forced rebalancing....</summary>
   </entry>
   <entry>
     <title>Serenity</title>
@@ -49,13 +57,5 @@
     <issued>2019-12-31</issued>
     <modified>2019-12-31</modified>
     <summary>Here are the ~110 books I had a chance to read in 2019, divided into a few categories. Most of these are related to my project of writing an epitome of Aristotle's ethics (and most of the rest are related to my project of writing a novel about Pyrrho, the founder of ancient Greek skepticism)....</summary>
-  </entry>
-  <entry>
-    <title>Aristotle Research Report #13: Phase One Complete</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1634.html"/>
-    <id>tag:stpeter.im,1634</id>
-    <issued>2019-12-26</issued>
-    <modified>2019-12-26</modified>
-    <summary>Yesterday I finished phase one of my research into Aristotle's ethics, in preparation for writing Complete Yourself: Aristotle on Personal Excellence. As I described in a blog post over five years ago, for me the process of "working through" a thinker initially involves absorbing all of his or her writings, supplemented by some of the secondary literature. Since I started this project about two years ago, I've read everything by Aristotle and Plato, as well as numerous scholarly books on Aristotle, totalling around 120 distinct works. To give you a sense of the magnitude, here's a photo of the relevant books in my own collection (not counting all the ones I've checked out of libraries throughout Colorado and Wyoming, thanks to the wonders of Prospector, our regional inter-library loan system):...</summary>
   </entry>
 </feed>
