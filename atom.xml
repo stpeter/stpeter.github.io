@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2020-06-19</modified>
+  <modified>2020-07-08</modified>
+  <entry>
+    <title>Justifying Anger</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1642.html"/>
+    <id>tag:stpeter.im,1642</id>
+    <issued>2020-07-08</issued>
+    <modified>2020-07-08</modified>
+    <summary>In my last post, I extrapolated from the philosophy of Epicurus to indicate how to avoid unjustified anger and its less virulent siblings (annoyance, frustration, disappointment, etc.). Indeed, Epicurus seems to have been the first person to identity what centuries later became the seven deadly sins - one of which was anger....</summary>
+  </entry>
   <entry>
     <title>Philosophy and Anger</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1641.html"/>
@@ -49,13 +57,5 @@
     <issued>2020-01-14</issued>
     <modified>2020-01-14</modified>
     <summary>In 1921, Yevgeny Zamyatin finished writing WE, the Ur-text for most dystopian novels since then (Anthem, 1984, Brave New World, etc.). In 1924, Zamyatin's novel, not yet (in fact never) published in the Soviet Union, was first brought to the world by E.P. Dutton and Company of New York in an English translation by Gregory Zilboorg. Because 95 years have passed since then, Dr. Zilboorg's translation is finally in the public domain - and I have just republished it online at my website for public-domain books, the Monadnock Valley Press....</summary>
-  </entry>
-  <entry>
-    <title>Jo Walton's Thessaly Trilogy</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1636.html"/>
-    <id>tag:stpeter.im,1636</id>
-    <issued>2020-01-01</issued>
-    <modified>2020-01-01</modified>
-    <summary>Fresh from a re-reading of Plato's dialogues, recently I dove into Jo Walton's Thessaly trilogy (The Just City, The Philosopher Kings, and Necessity), a speculative epic set in a society consistent with Plato's Republic. It's an enjoyable, thought-provoking blend of science fiction, ancient Greek myth, and Platonic philosophy. Although I recommended Walton's trilogy if you like philosophical novels, I do take issue with several aspects of her story....</summary>
   </entry>
 </feed>
