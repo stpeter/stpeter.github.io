@@ -9,14 +9,22 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2020-07-08</modified>
+  <modified>2020-07-13</modified>
+  <entry>
+    <title>The Power of Reflection</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1643.html"/>
+    <id>tag:stpeter.im,1643</id>
+    <issued>2020-07-13</issued>
+    <modified>2020-07-13</modified>
+    <summary>In a journal entry composed a few years ago on philosophy as a way of life, I observed:...</summary>
+  </entry>
   <entry>
     <title>Justifying Anger</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1642.html"/>
     <id>tag:stpeter.im,1642</id>
     <issued>2020-07-08</issued>
     <modified>2020-07-08</modified>
-    <summary>In my last post, I extrapolated from the philosophy of Epicurus to indicate how to avoid unjustified anger and its less virulent siblings (annoyance, frustration, disappointment, etc.). Indeed, Epicurus seems to have been the first person to identity what centuries later became the seven deadly sins - one of which was anger....</summary>
+    <summary>In my last post, I extrapolated from the philosophy of Epicurus to indicate how to avoid unjustified anger and its less virulent siblings (annoyance, frustration, disappointment, etc.). Indeed, Epicurus seems to have been the first person to identify what centuries later became the seven deadly sins - one of which was anger....</summary>
   </entry>
   <entry>
     <title>Philosophy and Anger</title>
@@ -49,13 +57,5 @@
     <issued>2020-02-09</issued>
     <modified>2020-02-09</modified>
     <summary>Just as people used to ask me how I accomplish so much, recently a few people have asked me how I stay so serene. Although this question is harder to answer, I'll give it a try....</summary>
-  </entry>
-  <entry>
-    <title>Zamyatin's WE</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1637.html"/>
-    <id>tag:stpeter.im,1637</id>
-    <issued>2020-01-14</issued>
-    <modified>2020-01-14</modified>
-    <summary>In 1921, Yevgeny Zamyatin finished writing WE, the Ur-text for most dystopian novels since then (Anthem, 1984, Brave New World, etc.). In 1924, Zamyatin's novel, not yet (in fact never) published in the Soviet Union, was first brought to the world by E.P. Dutton and Company of New York in an English translation by Gregory Zilboorg. Because 95 years have passed since then, Dr. Zilboorg's translation is finally in the public domain - and I have just republished it online at my website for public-domain books, the Monadnock Valley Press....</summary>
   </entry>
 </feed>
