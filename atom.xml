@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2020-07-13</modified>
+  <modified>2020-07-25</modified>
+  <entry>
+    <title>The High Freedom of Great Conversation</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1644.html"/>
+    <id>tag:stpeter.im,1644</id>
+    <issued>2020-07-25</issued>
+    <modified>2020-07-25</modified>
+    <summary>Aside from Montaigne and perhaps Plato, few philosophers have reflected deeply on conversation, especially the one-to-one, heart-to-heart exchange of thoughts between friend and friend. A shining exception is Ralph Waldo Emerson, who wrote as follows in his essay on friendship:...</summary>
+  </entry>
   <entry>
     <title>The Power of Reflection</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1643.html"/>
@@ -49,13 +57,5 @@
     <issued>2020-05-28</issued>
     <modified>2020-05-28</modified>
     <summary>Exactly four years ago I wrote a post entitled "Investing for the Rest of Us", in which I discussed the permanent portfolio investing method, invented by Harry Browne. The permanent portfolio has two additional benefits that I've come to fully appreciate only this year: uncorrelated assets and forced rebalancing....</summary>
-  </entry>
-  <entry>
-    <title>Serenity</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1638.html"/>
-    <id>tag:stpeter.im,1638</id>
-    <issued>2020-02-09</issued>
-    <modified>2020-02-09</modified>
-    <summary>Just as people used to ask me how I accomplish so much, recently a few people have asked me how I stay so serene. Although this question is harder to answer, I'll give it a try....</summary>
   </entry>
 </feed>
