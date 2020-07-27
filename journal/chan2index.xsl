@@ -35,6 +35,8 @@
         <h1>One Small Voice</h1>
         <h2>The Journal of Peter Saint-Andre</h2>
         <hr/>
+        <p><a href='archive.html'>Archive</a> | <a href='blogroll.html'>Blogroll</a> | <a href='/atom.xml'>Feed</a></p>
+        <hr/>
         <xsl:if test='/channel/journal[position()=1]'>
           <h2>
             <a>
@@ -100,9 +102,6 @@
           <h3><xsl:value-of select='/channel/journal[position()=6]/header/date'/></h3>
           <xsl:apply-templates select='/channel/journal[position()=6]/entry'/>
         </xsl:if>
-        <hr/>
-        <p>For older entries, check the <a href='archive.html'>archive</a>. To track changes, follow the <a href='/atom.xml'>feed</a>.</p>
-        <hr/>
         <p><a href='/'>Peter Saint-Andre</a> &gt; Journal</p>
       </body>
     </html>
