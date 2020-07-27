@@ -35,7 +35,7 @@
         <h1>One Small Voice</h1>
         <h2>The Journal of Peter Saint-Andre</h2>
         <hr/>
-        <p><a href='archive.html'>Archive</a> | <a href='blogroll.html'>Blogroll</a> | <a href='/atom.xml'>Feed</a></p>
+        <p><a href='/'>About</a> | <a href='archive.html'>Archive</a> | <a href='blogroll.html'>Blogroll</a> | <a href='/atom.xml'>Feed</a></p>
         <hr/>
         <xsl:if test='/channel/journal[position()=1]'>
           <h2>
