@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2020-07-25</modified>
+  <modified>2020-08-03</modified>
+  <entry>
+    <title>How Useful Is Philosophy, Really?</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1645.html"/>
+    <id>tag:stpeter.im,1645</id>
+    <issued>2020-08-03</issued>
+    <modified>2020-08-03</modified>
+    <summary>It's a commonplace of research into human behavior that most of what you do is caused by your inborn personality traits, your underlying biology, the society and location and class and family into which you're born and in which you're raised, and so on - plus a smattering of luck and chance events. It can seem that all these causes conspire to leave little room for your ideals and aspirations and worldview and conscious choices to have much of an impact....</summary>
+  </entry>
   <entry>
     <title>The High Freedom of Great Conversation</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1644.html"/>
@@ -49,13 +57,5 @@
     <issued>2020-06-19</issued>
     <modified>2020-06-19</modified>
     <summary>One of Aristotle’s characteristic methods for solving philosophical problems is dialectic: upon (i) reaching an impasse (aporia), he (ii) surveys existing explanations (logoi) and reputable opinions (endoxa), (iii) engages in analysis to remove paradoxes and draw distinctions, then (iv) formulates a synthesis that harmonizes the explanations and saves the appearances (phainomena)....</summary>
-  </entry>
-  <entry>
-    <title>Crisis Investing</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1639.html"/>
-    <id>tag:stpeter.im,1639</id>
-    <issued>2020-05-28</issued>
-    <modified>2020-05-28</modified>
-    <summary>Exactly four years ago I wrote a post entitled "Investing for the Rest of Us", in which I discussed the permanent portfolio investing method, invented by Harry Browne. The permanent portfolio has two additional benefits that I've come to fully appreciate only this year: uncorrelated assets and forced rebalancing....</summary>
   </entry>
 </feed>
