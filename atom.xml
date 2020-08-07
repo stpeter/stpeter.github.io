@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2020-08-03</modified>
+  <modified>2020-08-06</modified>
+  <entry>
+    <title>Philosophy and Money</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1646.html"/>
+    <id>tag:stpeter.im,1646</id>
+    <issued>2020-08-06</issued>
+    <modified>2020-08-06</modified>
+    <summary>Some great thinkers - Plato, Aristotle, Gautama Siddhartha, Epicurus, Thoreau, Rand, and many more - have reflected deeply on the place of money and wealth in human life. The reasons are not hard to find:...</summary>
+  </entry>
   <entry>
     <title>How Useful Is Philosophy, Really?</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1645.html"/>
@@ -49,13 +57,5 @@
     <issued>2020-06-19</issued>
     <modified>2020-06-19</modified>
     <summary>The world is full of anger, both well-founded and ill-founded. In a future post I'll talk about well-founded anger, but this time I'll provide some reflections on ill-founded anger....</summary>
-  </entry>
-  <entry>
-    <title>Dialogue and Deliberation</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1640.html"/>
-    <id>tag:stpeter.im,1640</id>
-    <issued>2020-06-19</issued>
-    <modified>2020-06-19</modified>
-    <summary>One of Aristotle’s characteristic methods for solving philosophical problems is dialectic: upon (i) reaching an impasse (aporia), he (ii) surveys existing explanations (logoi) and reputable opinions (endoxa), (iii) engages in analysis to remove paradoxes and draw distinctions, then (iv) formulates a synthesis that harmonizes the explanations and saves the appearances (phainomena)....</summary>
   </entry>
 </feed>
