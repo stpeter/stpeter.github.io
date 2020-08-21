@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2020-08-06</modified>
+  <modified>2020-08-21</modified>
+  <entry>
+    <title>Fascinated with Conversation</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1647.html"/>
+    <id>tag:stpeter.im,1647</id>
+    <issued>2020-08-21</issued>
+    <modified>2020-08-21</modified>
+    <summary>Since posting about Emerson's thoughts on friendship and conversation a few weeks ago, I've continued to reflect on the actual practices involved (spurred by an email exchange with my friend Adrian Lory). Beyond just good listening, what can we do to cultivate the high freedom of conversation?...</summary>
+  </entry>
   <entry>
     <title>Philosophy and Money</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1646.html"/>
@@ -49,13 +57,5 @@
     <issued>2020-07-08</issued>
     <modified>2020-07-08</modified>
     <summary>In my last post, I extrapolated from the philosophy of Epicurus to indicate how to avoid unjustified anger and its less virulent siblings (annoyance, frustration, disappointment, etc.). Indeed, Epicurus seems to have been the first person to identify what centuries later became the seven deadly sins - one of which was anger....</summary>
-  </entry>
-  <entry>
-    <title>Philosophy and Anger</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1641.html"/>
-    <id>tag:stpeter.im,1641</id>
-    <issued>2020-06-19</issued>
-    <modified>2020-06-19</modified>
-    <summary>The world is full of anger, both well-founded and ill-founded. In a future post I'll talk about well-founded anger, but this time I'll provide some reflections on ill-founded anger....</summary>
   </entry>
 </feed>
