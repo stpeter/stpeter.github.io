@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2020-08-21</modified>
+  <modified>2020-08-26</modified>
+  <entry>
+    <title>Speaking Freely</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1648.html"/>
+    <id>tag:stpeter.im,1648</id>
+    <issued>2020-08-26</issued>
+    <modified>2020-08-26</modified>
+    <summary>Emerson was really onto something when he spoke about the high freedom of great conversation. I've been thinking about two more aspects of such freedom....</summary>
+  </entry>
   <entry>
     <title>Fascinated with Conversation</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1647.html"/>
@@ -49,13 +57,5 @@
     <issued>2020-07-13</issued>
     <modified>2020-07-13</modified>
     <summary>In a journal entry composed a few years ago on philosophy as a way of life, I observed:...</summary>
-  </entry>
-  <entry>
-    <title>Justifying Anger</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1642.html"/>
-    <id>tag:stpeter.im,1642</id>
-    <issued>2020-07-08</issued>
-    <modified>2020-07-08</modified>
-    <summary>In my last post, I extrapolated from the philosophy of Epicurus to indicate how to avoid unjustified anger and its less virulent siblings (annoyance, frustration, disappointment, etc.). Indeed, Epicurus seems to have been the first person to identify what centuries later became the seven deadly sins - one of which was anger....</summary>
   </entry>
 </feed>
