@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2020-08-26</modified>
+  <modified>2020-08-28</modified>
+  <entry>
+    <title>Compounding Wisdom</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1649.html"/>
+    <id>tag:stpeter.im,1649</id>
+    <issued>2020-08-28</issued>
+    <modified>2020-08-28</modified>
+    <summary>This weekend, in honor of Warren Buffett's 90th birthday, I'd like to consider the phenomenon of compounding. It's a little-known fact that Buffett earned almost 90% of his $82 billion fortune after the age of 65. Yet supposedly he has been fascinated by compounding since the age of 10, when he had an epiphany about how wealth could grow over time through the steady effects of return on investment....</summary>
+  </entry>
   <entry>
     <title>Speaking Freely</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1648.html"/>
@@ -49,13 +57,5 @@
     <issued>2020-07-25</issued>
     <modified>2020-07-25</modified>
     <summary>Aside from Montaigne and perhaps Plato, few philosophers have reflected deeply on conversation, especially the one-to-one, heart-to-heart exchange of thoughts between friend and friend. A shining exception is Ralph Waldo Emerson, who wrote as follows in his essay on friendship:...</summary>
-  </entry>
-  <entry>
-    <title>The Power of Reflection</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1643.html"/>
-    <id>tag:stpeter.im,1643</id>
-    <issued>2020-07-13</issued>
-    <modified>2020-07-13</modified>
-    <summary>In a journal entry composed a few years ago on philosophy as a way of life, I observed:...</summary>
   </entry>
 </feed>
