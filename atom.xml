@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2020-08-28</modified>
+  <modified>2020-09-05</modified>
+  <entry>
+    <title>Aristotle Research Report #14: The Faults of Aristotle</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1650.html"/>
+    <id>tag:stpeter.im,1650</id>
+    <issued>2020-09-05</issued>
+    <modified>2020-09-05</modified>
+    <summary>Although I think Aristotle was the greatest mind who ever lived, he did have his faults. In modern times, he is especially criticized for supposedly being anti-science, anti-democracy, pro-slavery, and anti-women. Let us briefly consider these charges....</summary>
+  </entry>
   <entry>
     <title>Compounding Wisdom</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1649.html"/>
@@ -49,13 +57,5 @@
     <issued>2020-08-03</issued>
     <modified>2020-08-03</modified>
     <summary>It's a commonplace of research into human behavior that most of what you do is caused by your inborn personality traits, your underlying biology, the society and location and class and family into which you're born and in which you're raised, and so on - plus a smattering of luck and chance events. It can seem that all these causes conspire to leave little room for your ideals and aspirations and worldview and conscious choices to have much of an impact....</summary>
-  </entry>
-  <entry>
-    <title>The High Freedom of Great Conversation</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1644.html"/>
-    <id>tag:stpeter.im,1644</id>
-    <issued>2020-07-25</issued>
-    <modified>2020-07-25</modified>
-    <summary>Aside from Montaigne and perhaps Plato, few philosophers have reflected deeply on conversation, especially the one-to-one, heart-to-heart exchange of thoughts between friend and friend. A shining exception is Ralph Waldo Emerson, who wrote as follows in his essay on friendship:...</summary>
   </entry>
 </feed>
