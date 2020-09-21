@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2020-09-05</modified>
+  <modified>2020-09-20</modified>
+  <entry>
+    <title>Beyond Binary</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1651.html"/>
+    <id>tag:stpeter.im,1651</id>
+    <issued>2020-09-20</issued>
+    <modified>2020-09-20</modified>
+    <summary>As political polarization proliferates, it's beneficial to explore realms of thought that are not limited to left vs. right and us vs. them. Personally, I'm partial to philosophy: it's impossible to reduce all of philosophical thinking to, say, Epicureans vs. Stoics without ignoring the deep and unique contributions of Platonists, Aristotelians, Taoists, Buddhists, Confucians, Hindus, Christians, humanists, skeptics, existentialists, and many more....</summary>
+  </entry>
   <entry>
     <title>Aristotle Research Report #14: The Faults of Aristotle</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1650.html"/>
@@ -49,13 +57,5 @@
     <issued>2020-08-06</issued>
     <modified>2020-08-06</modified>
     <summary>Some great thinkers - Plato, Aristotle, Gautama Siddhartha, Epicurus, Thoreau, Rand, and many more - have reflected deeply on the place of money and wealth in human life. The reasons are not hard to find:...</summary>
-  </entry>
-  <entry>
-    <title>How Useful Is Philosophy, Really?</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1645.html"/>
-    <id>tag:stpeter.im,1645</id>
-    <issued>2020-08-03</issued>
-    <modified>2020-08-03</modified>
-    <summary>It's a commonplace of research into human behavior that most of what you do is caused by your inborn personality traits, your underlying biology, the society and location and class and family into which you're born and in which you're raised, and so on - plus a smattering of luck and chance events. It can seem that all these causes conspire to leave little room for your ideals and aspirations and worldview and conscious choices to have much of an impact....</summary>
   </entry>
 </feed>
