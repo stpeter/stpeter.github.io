@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2020-09-20</modified>
+  <modified>2020-10-30</modified>
+  <entry>
+    <title>A Wider Palette</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1652.html"/>
+    <id>tag:stpeter.im,1652</id>
+    <issued>2020-10-30</issued>
+    <modified>2020-10-30</modified>
+    <summary>In my most recent post ("Beyond Binary"), I talked about the need to transcend dichotomies and false alternatives. One aspect of doing so is recognizing what I called a wider palette of viewpoints, which is easy to do in philosophy and psychology but not in politics (at least not in American politics with its two-party system)....</summary>
+  </entry>
   <entry>
     <title>Beyond Binary</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1651.html"/>
@@ -49,13 +57,5 @@
     <issued>2020-08-21</issued>
     <modified>2020-08-21</modified>
     <summary>Since posting about Emerson's thoughts on friendship and conversation a few weeks ago, I've continued to reflect on the actual practices involved (spurred by an email exchange with my friend Adrian Lory). Beyond just good listening, what can we do to cultivate the high freedom of conversation?...</summary>
-  </entry>
-  <entry>
-    <title>Philosophy and Money</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1646.html"/>
-    <id>tag:stpeter.im,1646</id>
-    <issued>2020-08-06</issued>
-    <modified>2020-08-06</modified>
-    <summary>Some great thinkers - Plato, Aristotle, Gautama Siddhartha, Epicurus, Thoreau, Rand, and many more - have reflected deeply on the place of money and wealth in human life. The reasons are not hard to find:...</summary>
   </entry>
 </feed>
