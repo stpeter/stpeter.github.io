@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2020-10-30</modified>
+  <modified>2020-11-01</modified>
+  <entry>
+    <title>Election Survival Guide</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1653.html"/>
+    <id>tag:stpeter.im,1653</id>
+    <issued>2020-11-01</issued>
+    <modified>2020-11-01</modified>
+    <summary>Every four years I dread the prospect of yet another election for president of the United States. What a depressing, anxiety-ridden spectacle! It's almost enough to make me a monarchist (if only we could find the right sort of monarch, of course)....</summary>
+  </entry>
   <entry>
     <title>A Wider Palette</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1652.html"/>
@@ -49,13 +57,5 @@
     <issued>2020-08-26</issued>
     <modified>2020-08-26</modified>
     <summary>Emerson was really onto something when he spoke about the high freedom of great conversation. I've been thinking about two more aspects of such freedom....</summary>
-  </entry>
-  <entry>
-    <title>Fascinated with Conversation</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1647.html"/>
-    <id>tag:stpeter.im,1647</id>
-    <issued>2020-08-21</issued>
-    <modified>2020-08-21</modified>
-    <summary>Since posting about Emerson's thoughts on friendship and conversation a few weeks ago, I've continued to reflect on the actual practices involved (spurred by an email exchange with my friend Adrian Lory). Beyond just good listening, what can we do to cultivate the high freedom of conversation?...</summary>
   </entry>
 </feed>
