@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2020-11-01</modified>
+  <modified>2020-11-12</modified>
+  <entry>
+    <title>Aristotle's Dialectical Pedagogy: A Review of Revaluing Ethics by Thomas W. Smith</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1654.html"/>
+    <id>tag:stpeter.im,1654</id>
+    <issued>2020-11-12</issued>
+    <modified>2020-11-12</modified>
+    <summary>In my research toward writing Complete Yourself: Aristotle on Human Fulfillment, I have read dozens and dozens of books about Aristotle's ethics and his philosophy in general. A small number of those books stand out in the crowded field of Aristotelian studies, but only one of them has been a revelation to me: Revaluing Ethics: Aristotle's Dialectical Pedagogy by Thomas W. Smith....</summary>
+  </entry>
   <entry>
     <title>Election Survival Guide</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1653.html"/>
@@ -49,13 +57,5 @@
     <issued>2020-08-28</issued>
     <modified>2020-08-28</modified>
     <summary>This weekend, in honor of Warren Buffett's 90th birthday, I'd like to consider the phenomenon of compounding. It's a little-known fact that Buffett earned almost 90% of his $82 billion fortune after the age of 65. Yet supposedly he has been fascinated by compounding since the age of 10, when he had an epiphany about how wealth could grow over time through the steady effects of return on investment....</summary>
-  </entry>
-  <entry>
-    <title>Speaking Freely</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1648.html"/>
-    <id>tag:stpeter.im,1648</id>
-    <issued>2020-08-26</issued>
-    <modified>2020-08-26</modified>
-    <summary>Emerson was really onto something when he spoke about the high freedom of great conversation. I've been thinking about two more aspects of such freedom....</summary>
   </entry>
 </feed>
