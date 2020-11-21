@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2020-11-12</modified>
+  <modified>2020-11-21</modified>
+  <entry>
+    <title>It Was Twenty Years Ago Today</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1655.html"/>
+    <id>tag:stpeter.im,1655</id>
+    <issued>2020-11-21</issued>
+    <modified>2020-11-21</modified>
+    <summary>On November 21st, 2000, I posted the first entry in this online journal. Although I had tried my hand at writing a weblog even before then (e.g., using a tool for posting entries through a Jabber messaging app), writing at my own website was more appealing. Given that I'm still posting here twenty years later, I declare my original experiment a success. Here's how I characterized this space in that first entry:...</summary>
+  </entry>
   <entry>
     <title>Aristotle's Dialectical Pedagogy: A Review of Revaluing Ethics by Thomas W. Smith</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1654.html"/>
@@ -49,13 +57,5 @@
     <issued>2020-09-05</issued>
     <modified>2020-09-05</modified>
     <summary>Although I think Aristotle was the greatest mind who ever lived, he did have his faults. In modern times, he is especially criticized for supposedly being anti-science, anti-democracy, pro-slavery, and anti-women. Let us briefly consider these charges....</summary>
-  </entry>
-  <entry>
-    <title>Compounding Wisdom</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1649.html"/>
-    <id>tag:stpeter.im,1649</id>
-    <issued>2020-08-28</issued>
-    <modified>2020-08-28</modified>
-    <summary>This weekend, in honor of Warren Buffett's 90th birthday, I'd like to consider the phenomenon of compounding. It's a little-known fact that Buffett earned almost 90% of his $82 billion fortune after the age of 65. Yet supposedly he has been fascinated by compounding since the age of 10, when he had an epiphany about how wealth could grow over time through the steady effects of return on investment....</summary>
   </entry>
 </feed>
