@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2020-11-21</modified>
+  <modified>2020-11-24</modified>
+  <entry>
+    <title>Who Was Aristotle?</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1656.html"/>
+    <id>tag:stpeter.im,1656</id>
+    <issued>2020-11-24</issued>
+    <modified>2020-11-24</modified>
+    <summary>Greatness is out of fashion these days -- even suspect because of its seeming elitism. Yet it is an inconvenient truth that talents, opportunities, efforts, and achievements vary greatly. In every field of human endeavor there are only a few people who are remembered even 50 years after their passing; multiply 50 by 50 and we reach 2500 years, nearly the upper limit of recorded history, whose rolls are inhabited by a minuscule percentage of those who have ever lived. Even fewer of those remembered are anything but a name, whose works and deeds are still widely studied to this day. At the very pinnacle of these is Aristotle, whose concepts and insights form the foundation of much of human knowledge, science, art, culture, and society....</summary>
+  </entry>
   <entry>
     <title>It Was Twenty Years Ago Today</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1655.html"/>
@@ -49,13 +57,5 @@
     <issued>2020-09-20</issued>
     <modified>2020-09-20</modified>
     <summary>As political polarization proliferates, it's beneficial to explore realms of thought that are not limited to left vs. right and us vs. them. Personally, I'm partial to philosophy: it's impossible to reduce all of philosophical thinking to, say, Epicureans vs. Stoics without ignoring the deep and unique contributions of Platonists, Aristotelians, Taoists, Buddhists, Confucians, Hindus, Christians, humanists, skeptics, existentialists, and many more....</summary>
-  </entry>
-  <entry>
-    <title>Aristotle Research Report #14: The Faults of Aristotle</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1650.html"/>
-    <id>tag:stpeter.im,1650</id>
-    <issued>2020-09-05</issued>
-    <modified>2020-09-05</modified>
-    <summary>Although I think Aristotle was the greatest mind who ever lived, he did have his faults. In modern times, he is especially criticized for supposedly being anti-science, anti-democracy, pro-slavery, and anti-women. Let us briefly consider these charges....</summary>
   </entry>
 </feed>
