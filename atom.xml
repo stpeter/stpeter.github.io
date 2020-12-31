@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2020-11-24</modified>
+  <modified>2020-12-31</modified>
+  <entry>
+    <title>2020 Readings</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1657.html"/>
+    <id>tag:stpeter.im,1657</id>
+    <issued>2020-12-31</issued>
+    <modified>2020-12-31</modified>
+    <summary>Despite pandemic lockdowns and such, I read only ~75 books this year (granted, a third of them were dense works of philosophical scholarship on Aristotle). In 2021 I hope to finish the remaining dozen or so books I need to read in preparation for writing an epitome of Aristotle's ethics; I also hope to include a more generous helping of literature, modern science, and history. Several of the following books are available online at monadnock.net (the site where I post books that are in the public domain); see the end of this post for links....</summary>
+  </entry>
   <entry>
     <title>Who Was Aristotle?</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1656.html"/>
@@ -49,13 +57,5 @@
     <issued>2020-10-30</issued>
     <modified>2020-10-30</modified>
     <summary>In my most recent post ("Beyond Binary"), I talked about the need to transcend dichotomies and false alternatives. One aspect of doing so is recognizing what I called a wider palette of viewpoints, which is easy to do in philosophy and psychology but not in politics (at least not in American politics with its two-party system)....</summary>
-  </entry>
-  <entry>
-    <title>Beyond Binary</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1651.html"/>
-    <id>tag:stpeter.im,1651</id>
-    <issued>2020-09-20</issued>
-    <modified>2020-09-20</modified>
-    <summary>As political polarization proliferates, it's beneficial to explore realms of thought that are not limited to left vs. right and us vs. them. Personally, I'm partial to philosophy: it's impossible to reduce all of philosophical thinking to, say, Epicureans vs. Stoics without ignoring the deep and unique contributions of Platonists, Aristotelians, Taoists, Buddhists, Confucians, Hindus, Christians, humanists, skeptics, existentialists, and many more....</summary>
   </entry>
 </feed>
