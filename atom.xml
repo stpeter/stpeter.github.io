@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2020-12-31</modified>
+  <modified>2021-01-01</modified>
+  <entry>
+    <title>Monadnock Valley Press Annual Report 2020</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1658.html"/>
+    <id>tag:stpeter.im,1658</id>
+    <issued>2021-01-01</issued>
+    <modified>2021-01-01</modified>
+    <summary>Apparently I got out of the habit of writing a brief "annual report" for the Monadnock Valley Press, under whose auspices I both post public-domain texts (at monadnock.net) and publish the philosophy books I write on the side. So it's about time to remedy the oversight, since the last report was for 2016....</summary>
+  </entry>
   <entry>
     <title>2020 Readings</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1657.html"/>
@@ -49,13 +57,5 @@
     <issued>2020-11-01</issued>
     <modified>2020-11-01</modified>
     <summary>Every four years I dread the prospect of yet another election for president of the United States. What a depressing, anxiety-ridden spectacle! It's almost enough to make me a monarchist (if only we could find the right sort of monarch, of course)....</summary>
-  </entry>
-  <entry>
-    <title>A Wider Palette</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1652.html"/>
-    <id>tag:stpeter.im,1652</id>
-    <issued>2020-10-30</issued>
-    <modified>2020-10-30</modified>
-    <summary>In my most recent post ("Beyond Binary"), I talked about the need to transcend dichotomies and false alternatives. One aspect of doing so is recognizing what I called a wider palette of viewpoints, which is easy to do in philosophy and psychology but not in politics (at least not in American politics with its two-party system)....</summary>
   </entry>
 </feed>
