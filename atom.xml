@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2021-01-05</modified>
+  <modified>2021-01-06</modified>
+  <entry>
+    <title>Bach on Bass #2: Keys and Tunings</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1660.html"/>
+    <id>tag:stpeter.im,1660</id>
+    <issued>2021-01-06</issued>
+    <modified>2021-01-06</modified>
+    <summary>Many questions arise when considering how to climb the mountain of playing Bach's Cello Suites on electric bass. One of the key questions is the question of keys. The original keys for the six suites are G major, D minor, C major, E♭ major, C minor, and D major respectively. Other than the fourth suite, these keys lie naturally on the cello, which is tuned in fifths and whose open strings (from lowest to highest) are tuned C-G-D-A. Thus five of the six suites can benefit from the harmonic resonance of open strings, which is especially important when playing the suites on a Baroque cello. (Those who play in a more Romantic style don't like the notes of the open strings because you can't play with the requisite vibrato.)...</summary>
+  </entry>
   <entry>
     <title>Bach on Bass #1: Fascination</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1659.html"/>
@@ -49,13 +57,5 @@
     <issued>2020-11-21</issued>
     <modified>2020-11-21</modified>
     <summary>On November 21st, 2000, I posted the first entry in this online journal. Although I had tried my hand at writing a weblog even before then (e.g., using a tool for posting entries through a Jabber messaging app), writing at my own website was more appealing. Given that I'm still posting here twenty years later, I declare my original experiment a success. Here's how I characterized this space in that first entry:...</summary>
-  </entry>
-  <entry>
-    <title>Aristotle's Dialectical Pedagogy: A Review of Revaluing Ethics by Thomas W. Smith</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1654.html"/>
-    <id>tag:stpeter.im,1654</id>
-    <issued>2020-11-12</issued>
-    <modified>2020-11-12</modified>
-    <summary>In my research toward writing Complete Yourself: Aristotle on Human Fulfillment, I have read dozens and dozens of books about Aristotle's ethics and his philosophy in general. A small number of those books stand out in the crowded field of Aristotelian studies, but only one of them has been a revelation to me: Revaluing Ethics: Aristotle's Dialectical Pedagogy by Thomas W. Smith....</summary>
   </entry>
 </feed>
