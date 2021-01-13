@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2021-01-06</modified>
+  <modified>2021-01-12</modified>
+  <entry>
+    <title>Bach on Bass #3: Instrumental Challenges</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1661.html"/>
+    <id>tag:stpeter.im,1661</id>
+    <issued>2021-01-12</issued>
+    <modified>2021-01-12</modified>
+    <summary>As mentioned last time, there are instrumental challenges involved with tuning an electric bass in fifths, as I plan to do in order to learn the Bach Cello Suites. Classical double bassists often solve the problem of the low C by installing a special extension. On electric bass, you can tune the E string down to C but that results in a low-tension string on the bottom and therefore a flabby tone. You could also play a 5-string bass (for which the lowest string sounds a B), I suppose, but to me that defeats the purpose and I have a strong preference for 4-string basses. You could swap out the low E string for the same low B string that that 5-string bassists use, but then the action (distance between string and fingerboard) isn't quite right. A further challenge for me is that the Minotaur bass I currently play (made by luthier Joe Veillette of Woodstock, NY) is a short-scale bass, and I haven't found anyone who makes that low B string in a short-scale version (I prefer D'Addario tapewound strings on the Minotaur)....</summary>
+  </entry>
   <entry>
     <title>Bach on Bass #2: Keys and Tunings</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1660.html"/>
@@ -49,13 +57,5 @@
     <issued>2020-11-24</issued>
     <modified>2020-11-24</modified>
     <summary>Greatness is out of fashion these days -- even suspect because of its seeming elitism. Yet it is an inconvenient truth that talents, opportunities, efforts, and achievements vary greatly. In every field of human endeavor there are only a few people who are remembered even 50 years after their passing; multiply 50 by 50 and we reach 2500 years, nearly the upper limit of recorded history, whose rolls are inhabited by a minuscule percentage of those who have ever lived. Even fewer of those remembered are anything but a name, whose works and deeds are still widely studied to this day. At the very pinnacle of these is Aristotle, whose concepts and insights form the foundation of much of human knowledge, science, art, culture, and society....</summary>
-  </entry>
-  <entry>
-    <title>It Was Twenty Years Ago Today</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1655.html"/>
-    <id>tag:stpeter.im,1655</id>
-    <issued>2020-11-21</issued>
-    <modified>2020-11-21</modified>
-    <summary>On November 21st, 2000, I posted the first entry in this online journal. Although I had tried my hand at writing a weblog even before then (e.g., using a tool for posting entries through a Jabber messaging app), writing at my own website was more appealing. Given that I'm still posting here twenty years later, I declare my original experiment a success. Here's how I characterized this space in that first entry:...</summary>
   </entry>
 </feed>
