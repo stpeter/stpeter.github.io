@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2021-01-12</modified>
+  <modified>2021-01-21</modified>
+  <entry>
+    <title>RFC 8838: Trickle ICE</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1662.html"/>
+    <id>tag:stpeter.im,1662</id>
+    <issued>2021-01-21</issued>
+    <modified>2021-01-21</modified>
+    <summary>Way back in 2005 some folks at Google and other parts of the Jabber community started to define a technology for setting up voice and video calls over XMPP, which we called Jingle. Unlike similar methods used in relation to SIP, Jingle enabled endpoints to dynamically gather and exchange potential connection paths for NAT traversal within context of the Interactive Connectivity Establishment (ICE). The original name for this was "dribbling" to differentiate it from the offer/answer method defined in RFC 3264 (wherein an endpoint needs to gather all of its candidate IP addresses up front before sending the offer). Over time the IETF defined a similar method for SIP, too, which we generalized under the name Trickle ICE. This week the IETF published a document cluster containing dozens of RFCs related to WebRTC, including RFC 8838 for Trickle ICE (which I co-authored with Emil Ivov of Jitsi and Justin Uberti of Google). Enjoy!...</summary>
+  </entry>
   <entry>
     <title>Bach on Bass #3: Instrumental Challenges</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1661.html"/>
@@ -49,13 +57,5 @@
     <issued>2020-12-31</issued>
     <modified>2020-12-31</modified>
     <summary>Despite pandemic lockdowns and such, I read only ~75 books this year (granted, a third of them were dense works of philosophical scholarship on Aristotle). In 2021 I hope to finish the remaining dozen or so books I need to read in preparation for writing an epitome of Aristotle's ethics; I also hope to include a more generous helping of literature, modern science, and history. Several of the following books are available online at monadnock.net (the site where I post books that are in the public domain); see the end of this post for links....</summary>
-  </entry>
-  <entry>
-    <title>Who Was Aristotle?</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1656.html"/>
-    <id>tag:stpeter.im,1656</id>
-    <issued>2020-11-24</issued>
-    <modified>2020-11-24</modified>
-    <summary>Greatness is out of fashion these days -- even suspect because of its seeming elitism. Yet it is an inconvenient truth that talents, opportunities, efforts, and achievements vary greatly. In every field of human endeavor there are only a few people who are remembered even 50 years after their passing; multiply 50 by 50 and we reach 2500 years, nearly the upper limit of recorded history, whose rolls are inhabited by a minuscule percentage of those who have ever lived. Even fewer of those remembered are anything but a name, whose works and deeds are still widely studied to this day. At the very pinnacle of these is Aristotle, whose concepts and insights form the foundation of much of human knowledge, science, art, culture, and society....</summary>
   </entry>
 </feed>
