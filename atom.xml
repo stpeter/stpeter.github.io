@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2021-04-06</modified>
+  <modified>2021-04-10</modified>
+  <entry>
+    <title>Bach on Bass #4: Instrumental Solution</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1665.html"/>
+    <id>tag:stpeter.im,1665</id>
+    <issued>2021-04-10</issued>
+    <modified>2021-04-10</modified>
+    <summary>After much research and some helpful input from double bassist Mark Stefaniw, the unofficial artistic advisor for my "Bach on Bass" project, I've chosen to buy a Stradi bass made by Marek Dąbek of Juliszew, Poland. Not only does Marek make absolutely gorgeous instruments, but he was excited to work with me on a design that met all my criteri: a four-string fretless bass with tapewound strings tuned in fifths, a very long fingerboard with a deep cutaway so that I can play intricate passages high up on the neck, a combination of piezo and magnetic pickups (the latter is important to enable experimentation with an eBow on certain pieces), and a chocolately tone that balances the best of electric and upright bass sounds. A long email thread with Marek led to a bass that is all oak, a wood we both love: roasted European oak for the body (chambered to enhance its acoustic properties), a hybrid through-body neck also in roasted oak, and both the fingerboard and top in 2000-year-old bog oak. Since Marek likes to name his basses, we're calling this one the "Mocha 4". The only bad part is that Marek is a true artisan who makes only 20 instruments a year and has a large backlog of orders, so I won't get my hands on the Mocha until early next year. But it's going to be worth the wait!...</summary>
+  </entry>
   <entry>
     <title>Holding Fewer Opinions</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1664.html"/>
@@ -49,13 +57,5 @@
     <issued>2021-01-06</issued>
     <modified>2021-01-06</modified>
     <summary>Many questions arise when considering how to climb the mountain of playing Bach's Cello Suites on electric bass. One of the key questions is the question of keys. The original keys for the six suites are G major, D minor, C major, E♭ major, C minor, and D major respectively. Other than the fourth suite, these keys lie naturally on the cello, which is tuned in fifths and whose open strings (from lowest to highest) are C-G-D-A. Thus five of the six suites can benefit from the harmonic resonance of open strings, which is especially important when playing the suites on a Baroque cello. (Those who play in a more Romantic style don't like the notes of the open strings because you can't generate the requisite vibrato.)...</summary>
-  </entry>
-  <entry>
-    <title>Bach on Bass #1: Wonder</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1659.html"/>
-    <id>tag:stpeter.im,1659</id>
-    <issued>2021-01-05</issued>
-    <modified>2021-01-05</modified>
-    <summary>Wonder is what I've long felt about Bach's Suites for Unaccompanied Cello. I'm not sure when I first heard them, but over time they have become ever more meaningful to me. I regularly listen to various recorded renditions; some of my favorites are by Stephen Isserlis (cello), Patricia McCarty (viola), Edgar Meyer (double bass), Michael Nicolella (guitar), Jean-Guihen Queyras (cello), Hopkinson Smith (lute), Janos Starker (cello), and Pieter Wispelwey (cello). So far, that is - I'm actively adding more recordings to my collection as I explore these works ever more deeply....</summary>
   </entry>
 </feed>
