@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2021-04-10</modified>
+  <modified>2021-05-04</modified>
+  <entry>
+    <title>Opinions about Opinions</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1666.html"/>
+    <id>tag:stpeter.im,1666</id>
+    <issued>2021-05-04</issued>
+    <modified>2021-05-04</modified>
+    <summary>My friend Paul sent me a few thoughts about my recent post on holding fewer opinions. He's formulated an approach that involves holding fewer opinions about other people's opinions. This seems valuable, and related to a post I wrote four years ago entitled "Why Do You Think What You Think?" My introspective conclusion then was that I can't always assign praise or blame for the contents of my thoughts; extending this to other people is a good example of what Arnold Kling calls cognitive empathy: instead of demonizing people who disagree with you, suspend judgment or at least try to understand where they might be coming from. (It's probably best to build up such a practice first in matters that aren't very consequential - and we all have our limits regarding the opinions we find acceptable!) The flip side is not deifying your own thoughts, which we could express in the following aphorism: "if you think well of your own opinions just because they're yours, then you're not thinking well."...</summary>
+  </entry>
   <entry>
     <title>Bach on Bass #4: Instrumental Solution</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1665.html"/>
@@ -49,13 +57,5 @@
     <issued>2021-01-12</issued>
     <modified>2021-01-12</modified>
     <summary>As mentioned last time, there are instrumental challenges involved with tuning an electric bass in fifths, as I plan to do in order to learn the Bach Cello Suites. Classical double bassists often solve the problem of the low C by installing a special extension. On electric bass, you can tune the E string down to C but that results in a low-tension string on the bottom and therefore a flabby tone. You could also play a 5-string bass (for which the lowest string sounds a B), I suppose, but to me that defeats the purpose and I have a strong preference for 4-string basses. You could swap out the low E string for the same low B string that that 5-string bassists use, but then the action (distance between string and fingerboard) isn't quite right. A further challenge for me is that the Minotaur bass I currently play (made by luthier Joe Veillette of Woodstock, NY) is a short-scale bass, and I haven't found anyone who makes that low B string in a short-scale version (I prefer D'Addario tapewound strings on the Minotaur)....</summary>
-  </entry>
-  <entry>
-    <title>Bach on Bass #2: Keys and Tunings</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1660.html"/>
-    <id>tag:stpeter.im,1660</id>
-    <issued>2021-01-06</issued>
-    <modified>2021-01-06</modified>
-    <summary>Many questions arise when considering how to climb the mountain of playing Bach's Cello Suites on electric bass. One of the key questions is the question of keys. The original keys for the six suites are G major, D minor, C major, E♭ major, C minor, and D major respectively. Other than the fourth suite, these keys lie naturally on the cello, which is tuned in fifths and whose open strings (from lowest to highest) are C-G-D-A. Thus five of the six suites can benefit from the harmonic resonance of open strings, which is especially important when playing the suites on a Baroque cello. (Those who play in a more Romantic style don't like the notes of the open strings because you can't generate the requisite vibrato.)...</summary>
   </entry>
 </feed>
