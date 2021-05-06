@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2021-05-04</modified>
+  <modified>2021-05-06</modified>
+  <entry>
+    <title>What Is a Concept Album?</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1667.html"/>
+    <id>tag:stpeter.im,1667</id>
+    <issued>2021-05-06</issued>
+    <modified>2021-05-06</modified>
+    <summary>And now for something completely different: a rollicking discussion on the Big Yellow Praxis podcast about some underappreciated musical recordings, in which Jacob and I explore the age-old question: what exactly makes a concept album? Check it out on YouTube!...</summary>
+  </entry>
   <entry>
     <title>Opinions about Opinions</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1666.html"/>
@@ -49,13 +57,5 @@
     <issued>2021-01-21</issued>
     <modified>2021-01-21</modified>
     <summary>Way back in 2005 some folks at Google and other parts of the Jabber community started to define a technology for setting up voice and video calls over XMPP, which we called Jingle. Unlike similar methods used in relation to SIP, Jingle enabled endpoints to dynamically gather and exchange potential connection paths for NAT traversal within context of the Interactive Connectivity Establishment (ICE). The original name for this was "dribbling" to differentiate it from the offer/answer method defined in RFC 3264 (wherein an endpoint needs to gather all of its candidate IP addresses up front before sending the offer). Over time the IETF defined a similar method for SIP, too, which we generalized under the name Trickle ICE. This week the IETF published a document cluster containing dozens of RFCs related to WebRTC, including RFC 8838 for Trickle ICE (which I co-authored with Emil Ivov of Jitsi and Justin Uberti of Google). Enjoy!...</summary>
-  </entry>
-  <entry>
-    <title>Bach on Bass #3: Instrumental Challenges</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1661.html"/>
-    <id>tag:stpeter.im,1661</id>
-    <issued>2021-01-12</issued>
-    <modified>2021-01-12</modified>
-    <summary>As mentioned last time, there are instrumental challenges involved with tuning an electric bass in fifths, as I plan to do in order to learn the Bach Cello Suites. Classical double bassists often solve the problem of the low C by installing a special extension. On electric bass, you can tune the E string down to C but that results in a low-tension string on the bottom and therefore a flabby tone. You could also play a 5-string bass (for which the lowest string sounds a B), I suppose, but to me that defeats the purpose and I have a strong preference for 4-string basses. You could swap out the low E string for the same low B string that that 5-string bassists use, but then the action (distance between string and fingerboard) isn't quite right. A further challenge for me is that the Minotaur bass I currently play (made by luthier Joe Veillette of Woodstock, NY) is a short-scale bass, and I haven't found anyone who makes that low B string in a short-scale version (I prefer D'Addario tapewound strings on the Minotaur)....</summary>
   </entry>
 </feed>
