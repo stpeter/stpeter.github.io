@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2021-05-06</modified>
+  <modified>2021-05-31</modified>
+  <entry>
+    <title>Holding Multiple Opinions</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1668.html"/>
+    <id>tag:stpeter.im,1668</id>
+    <issued>2021-05-31</issued>
+    <modified>2021-05-31</modified>
+    <summary>Sometimes it's difficult to hold fewer opinions in your own mind or to engage in cognitive empathy toward others; that's when it can help to hold multiple opinions at the same time. This might sound like the mental equivalent of juggling plates, but it's a skill worth cultivating (and one with an ancient pedigree, as evidenced for example by the Letter to Pythocles by the ancient Greek philosopher Epicurus)....</summary>
+  </entry>
   <entry>
     <title>What Is a Concept Album?</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1667.html"/>
@@ -49,13 +57,5 @@
     <issued>2021-03-27</issued>
     <modified>2021-03-27</modified>
     <summary>Longtime readers of this weblog know that politically speaking I've always been more or less libertarian. (Little-known fact: many years ago I started a run for the House of Representatives on the Libertarian Party ticket, but my wife and I moved that year so I never got on the ballot.) Back in 2012 I thought that participating in the Republican Liberty Caucus might be effective because the county I live is solidly Republican, but once Trump was nominated for president in 2016 I switched my voter registration to Libertarian. After the recent election I decided to switch again, this time to Independent. Here's why....</summary>
-  </entry>
-  <entry>
-    <title>RFC 8838: Trickle ICE</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1662.html"/>
-    <id>tag:stpeter.im,1662</id>
-    <issued>2021-01-21</issued>
-    <modified>2021-01-21</modified>
-    <summary>Way back in 2005 some folks at Google and other parts of the Jabber community started to define a technology for setting up voice and video calls over XMPP, which we called Jingle. Unlike similar methods used in relation to SIP, Jingle enabled endpoints to dynamically gather and exchange potential connection paths for NAT traversal within context of the Interactive Connectivity Establishment (ICE). The original name for this was "dribbling" to differentiate it from the offer/answer method defined in RFC 3264 (wherein an endpoint needs to gather all of its candidate IP addresses up front before sending the offer). Over time the IETF defined a similar method for SIP, too, which we generalized under the name Trickle ICE. This week the IETF published a document cluster containing dozens of RFCs related to WebRTC, including RFC 8838 for Trickle ICE (which I co-authored with Emil Ivov of Jitsi and Justin Uberti of Google). Enjoy!...</summary>
   </entry>
 </feed>
