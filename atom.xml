@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2021-05-31</modified>
+  <modified>2021-06-06</modified>
+  <entry>
+    <title>The Number Six</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1669.html"/>
+    <id>tag:stpeter.im,1669</id>
+    <issued>2021-06-06</issued>
+    <modified>2021-06-06</modified>
+    <summary>Everyone has their idiosyncrasies. One of mine is a particular fascination with the number six....</summary>
+  </entry>
   <entry>
     <title>Holding Multiple Opinions</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1668.html"/>
@@ -49,13 +57,5 @@
     <issued>2021-04-06</issued>
     <modified>2021-04-06</modified>
     <summary>A few months ago I read the transcript of a discussion between Brian Beck and Robin Hanson, in which Hanson advised the listener to hold fewer opinions:...</summary>
-  </entry>
-  <entry>
-    <title>Politically Independent</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1663.html"/>
-    <id>tag:stpeter.im,1663</id>
-    <issued>2021-03-27</issued>
-    <modified>2021-03-27</modified>
-    <summary>Longtime readers of this weblog know that politically speaking I've always been more or less libertarian. (Little-known fact: many years ago I started a run for the House of Representatives on the Libertarian Party ticket, but my wife and I moved that year so I never got on the ballot.) Back in 2012 I thought that participating in the Republican Liberty Caucus might be effective because the county I live is solidly Republican, but once Trump was nominated for president in 2016 I switched my voter registration to Libertarian. After the recent election I decided to switch again, this time to Independent. Here's why....</summary>
   </entry>
 </feed>
