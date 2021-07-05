@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2021-06-18</modified>
+  <modified>2021-07-05</modified>
+  <entry>
+    <title>Blended Vision</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1671.html"/>
+    <id>tag:stpeter.im,1671</id>
+    <issued>2021-07-05</issued>
+    <modified>2021-07-05</modified>
+    <summary>The other day I went to see the eye doctor, who told me I have blended vision: one of my eyes is farsighted and the other is nearsighted, but they function well together. Quite a fitting analogy for what Pierre Hadot called philosophy as the love and practice of wisdom. We tend to think of philosophy as hopelessly abstract, but if it is in part a practice then it focuses not only on what is far but also on what is near. One of the poems in my book Songs of Zarathustra tries to capture this insight:...</summary>
+  </entry>
   <entry>
     <title>Opinions vs. Truths</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1670.html"/>
@@ -49,13 +57,5 @@
     <issued>2021-05-04</issued>
     <modified>2021-05-04</modified>
     <summary>My friend Paul sent me a few thoughts about my recent post on holding fewer opinions. He's formulated an approach that involves holding fewer opinions about other people's opinions. This seems valuable, and related to a post I wrote four years ago entitled "Why Do You Think What You Think?" My introspective conclusion then was that I can't always assign praise or blame for the contents of my thoughts; extending this to other people is a good example of what Arnold Kling calls cognitive empathy: instead of demonizing people who disagree with you, suspend judgment or at least try to understand where they might be coming from. (It's probably best to build up such a practice first in matters that aren't very consequential - and we all have our limits regarding the opinions we find acceptable!) The flip side is not deifying your own thoughts, which we could express in the following aphorism: "if you think well of your own opinions just because they're yours, then you're not thinking well."...</summary>
-  </entry>
-  <entry>
-    <title>Bach on Bass #4: Instrumental Solution</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1665.html"/>
-    <id>tag:stpeter.im,1665</id>
-    <issued>2021-04-10</issued>
-    <modified>2021-04-10</modified>
-    <summary>After much research and some helpful input from double bassist Mark Stefaniw, the unofficial artistic advisor for my "Bach on Bass" project, I've chosen to buy a Stradi bass made by Marek Dąbek of Juliszew, Poland. Not only does Marek make absolutely gorgeous instruments, but he was excited to work with me on a design that met all my criteria: a four-string fretless bass with tapewound strings tuned in fifths, a very long fingerboard with a deep cutaway so that I can play intricate passages high up on the neck, a combination of piezo and magnetic pickups (the latter is important to enable experimentation with an eBow on certain pieces), and a chocolately tone that balances the best of electric and upright bass sounds. A long email thread with Marek led to a bass that is all oak, a wood we both love: roasted European oak for the body (chambered to enhance its acoustic properties), a hybrid through-body neck also in roasted oak, and both the fingerboard and top in 2000-year-old bog oak. Since Marek likes to name his basses, we're calling this one the "Mocha 4". The only bad part is that Marek is a true artisan who makes only 20 instruments a year and has a large backlog of orders, so I won't get my hands on the Mocha until early next year. But it's going to be worth the wait!...</summary>
   </entry>
 </feed>
