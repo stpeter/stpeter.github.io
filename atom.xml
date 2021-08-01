@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2021-07-05</modified>
+  <modified>2021-08-01</modified>
+  <entry>
+    <title>Meditations on Bach #5: Transcription</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1672.html"/>
+    <id>tag:stpeter.im,1672</id>
+    <issued>2021-08-01</issued>
+    <modified>2021-08-01</modified>
+    <summary>As I delve further into Bach's Cello Suites, I also stray further from anything like the received wisdom about how to play them (whether traditionally "classical" or "historically informed"). Take, for instance, the famous prelude from suite #1 in G major. Where I've settled for now is playing the first half at an extremely slow speed, with many sustained single and double notes (thus taking advantage of a capability of the electric bass). As I was practicing this piece at the instrument and then in my head the other day, I realized that I'm playing it at a speed that is appropriate for the breathing characteristic of meditation - half a bar inhaling, half a bar exhaling. That's slow, and perhaps the exact opposite of what Glenn Gould (one of my favorite pianists) did with Bach's keyboard works. However, after the half cadence in measure 22, I start to vary the pace somewhat, speeding up quite a bit in the bariolage of the crescendo before coming back to earth for the ending (which I've modified, too). Reading History, Imagination, and the Performance of Music by Peter Walls over the last few days has helped me to realize that, for better or worse, what I'm doing with the Cello Suites is not performance but transcription - more along the lines of, say, Ferruccio Busoni than Pablo Casals. (Indeed, this is not all that dissimilar from what I've done with my "eudaimonia suite" of books on living well: philosophy as the experience of wisdom, not as discursive argument.) I'll make a rough demo of the G major prelude soon to create a record of my current thinking, no matter how wayward it might be....</summary>
+  </entry>
   <entry>
     <title>Blended Vision</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1671.html"/>
@@ -49,13 +57,5 @@
     <issued>2021-05-06</issued>
     <modified>2021-05-06</modified>
     <summary>And now for something completely different: a rollicking discussion on the Big Yellow Praxis podcast about some underappreciated musical recordings, in which Jacob and I explore the age-old question: what exactly makes a concept album? Check it out on YouTube!...</summary>
-  </entry>
-  <entry>
-    <title>Opinions about Opinions</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1666.html"/>
-    <id>tag:stpeter.im,1666</id>
-    <issued>2021-05-04</issued>
-    <modified>2021-05-04</modified>
-    <summary>My friend Paul sent me a few thoughts about my recent post on holding fewer opinions. He's formulated an approach that involves holding fewer opinions about other people's opinions. This seems valuable, and related to a post I wrote four years ago entitled "Why Do You Think What You Think?" My introspective conclusion then was that I can't always assign praise or blame for the contents of my thoughts; extending this to other people is a good example of what Arnold Kling calls cognitive empathy: instead of demonizing people who disagree with you, suspend judgment or at least try to understand where they might be coming from. (It's probably best to build up such a practice first in matters that aren't very consequential - and we all have our limits regarding the opinions we find acceptable!) The flip side is not deifying your own thoughts, which we could express in the following aphorism: "if you think well of your own opinions just because they're yours, then you're not thinking well."...</summary>
   </entry>
 </feed>
