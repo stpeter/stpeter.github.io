@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2021-08-01</modified>
+  <modified>2021-08-07</modified>
+  <entry>
+    <title>Doggerel</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1674.html"/>
+    <id>tag:stpeter.im,1674</id>
+    <issued>2021-08-07</issued>
+    <modified>2021-08-07</modified>
+    <summary>This piece of light verse popped into my head the other day....</summary>
+  </entry>
   <entry>
     <title>Aristotle Research Report #15: Taking up Aristotle's Causes</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1673.html"/>
@@ -49,13 +57,5 @@
     <issued>2021-06-06</issued>
     <modified>2021-06-06</modified>
     <summary>Everyone has their idiosyncrasies. One of mine is a particular fascination with the number six....</summary>
-  </entry>
-  <entry>
-    <title>Holding Multiple Opinions</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1668.html"/>
-    <id>tag:stpeter.im,1668</id>
-    <issued>2021-05-31</issued>
-    <modified>2021-05-31</modified>
-    <summary>Sometimes it's difficult to hold fewer opinions in your own mind or to engage in cognitive empathy toward others; that's when it can help to hold multiple opinions at the same time. This might sound like the mental equivalent of juggling plates, but it's a skill worth cultivating (and one with an ancient pedigree, as evidenced for example by the Letter to Pythocles by the ancient Greek philosopher Epicurus)....</summary>
   </entry>
 </feed>
