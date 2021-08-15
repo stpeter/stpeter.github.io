@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2021-08-14</modified>
+  <modified>2021-08-15</modified>
+  <entry>
+    <title>Aristotle Research Report #16: The Sources of Beauty</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1676.html"/>
+    <id>tag:stpeter.im,1676</id>
+    <issued>2021-08-15</issued>
+    <modified>2021-08-15</modified>
+    <summary>Aristotle uses the word καλός in both an aesthtic sense and an ethical sense. This has caused confusion among translators and commenters alike. Should the word be translated as "beautiful" when talking about art but as "right" or "fine" or "noble" when talking about character, intention, and action? Did Aristotle think that works of art were inextricably tied up with morality or that traits of character were aesthetic in some way? Let's look into the matter....</summary>
+  </entry>
   <entry>
     <title>Meditations on Bach #6: Five Strings?</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1675.html"/>
@@ -49,13 +57,5 @@
     <issued>2021-07-05</issued>
     <modified>2021-07-05</modified>
     <summary>The other day I went to see the eye doctor, who told me I have blended vision: one of my eyes is farsighted and the other is nearsighted, but they function well together. Quite a fitting analogy for what Pierre Hadot called philosophy as the love and practice of wisdom. We tend to think of philosophy as hopelessly abstract, but if it is in part a practice then it focuses not only on what is far but also on what is near. One of the poems in my book Songs of Zarathustra tries to capture this insight:...</summary>
-  </entry>
-  <entry>
-    <title>Opinions vs. Truths</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1670.html"/>
-    <id>tag:stpeter.im,1670</id>
-    <issued>2021-06-18</issued>
-    <modified>2021-06-18</modified>
-    <summary>In recent posts we've looked into holding opinions about fewer topics, holding multiple opinions about the same topic, and changing our opinions about the opinions that other people hold. But what exactly is an opinion? Let's take a closer look....</summary>
   </entry>
 </feed>
