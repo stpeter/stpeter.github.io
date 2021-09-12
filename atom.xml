@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2021-08-15</modified>
+  <modified>2020-09-12</modified>
+  <entry>
+    <title>What I've Learned from Aristotle</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1678.html"/>
+    <id>tag:stpeter.im,1678</id>
+    <issued>2020-09-12</issued>
+    <modified>2020-09-12</modified>
+    <summary>My friend Adrian Lory asked me recently to describe the essence of what I've learned from all of my Aristotle readings over the last few years. Here's a brief summary....</summary>
+  </entry>
   <entry>
     <title>Meditations on Bach #7: Aristotle and Bach</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1677.html"/>
@@ -32,7 +40,7 @@
     <id>tag:stpeter.im,1675</id>
     <issued>2021-08-14</issued>
     <modified>2021-08-14</modified>
-    <summary>Although the first five of Bach's suites for unaccompanied cello lie quite naturally on the bass (when tuned in fifths, that is!), the sixth suite in D major (BWV 1012) is a slightly different story because it was originally written for an instrument with five strings, not four. The exact identity of this instrument remains a mystery - some think it was written for a viola de spalla, others for a violoncello piccolo. Whatever the truth of the matter, playing music written for a five-string instrument on a four-string instrument introduces additional challenges: in particular, it requires intricate playing high up on the fingerboard. Modern cellists try to overcome this challenge through heavy use of thumb position, an innovation that post-dates Bach's lifetime; however, that doesn't make the task much easier. While working on the prelude to the sixth suite, I've realized that playing it on a five-string electric bass would make a lot of sense. Ideally such a bass would be tuned in fifths with a high E string, C-G-D-A-E. This seems achievable by using strings for a six-string bass and discarding one of the strings; for example, La Bella makes a six-string set normally tuned B-E-A-D-G-C and I would tune B up to C, discard the E string, tune A down a step to G, keep D as-is, tune G up a step to A, and tune C up two steps to E. That last adjustment is a bit of a stretch so I'm conferring with Marek Dąbek of Stradi Basses on whether we can transform the "Mocha 4" into a "Mocha 5"......</summary>
+    <summary>Although the first five of Bach's suites for unaccompanied cello lie quite naturally on the bass (when tuned in fifths, that is!), the sixth suite in D major (BWV 1012) is a slightly different story because it was originally written for an instrument with an added string above the usual four. The exact identity of this instrument remains a mystery - some think it was written for a viola pomposa or viola de spalla, others for a violoncello piccolo (not that any of those instruments are well-understood). Whatever the truth of the matter, playing music written for a five-string instrument on a four-string instrument introduces new challenges: in particular, it requires intricate playing high up on the fingerboard. Modern cellists try to overcome this challenge through heavy use of thumb position, an innovation that post-dates Bach's lifetime; however, that doesn't make the task much easier. While working on the prelude to the sixth suite, I've realized that playing it on a five-string electric bass would make a lot of sense. Ideally such a bass would be tuned in fifths with a high E string, C-G-D-A-E. This seems achievable by using strings for a six-string bass and discarding one of the strings; for example, La Bella makes a six-string set normally tuned B-E-A-D-G-C and I would tune B up to C, discard the E string, tune A down a step to G, keep D as-is, tune G up a step to A, and tune C up two steps to E. After conferring with Marek Dąbek of Stradi Basses on whether the high E string will work, I'm happy to report that we're transforming the "Mocha 4" into a "Mocha 5"....</summary>
   </entry>
   <entry>
     <title>Doggerel</title>
@@ -49,13 +57,5 @@
     <issued>2021-08-01</issued>
     <modified>2021-08-01</modified>
     <summary>In recent times, Aristotle is often criticized for holding back the progress of science for two thousand years. (As Armand Leroi argues in his book The Lagoon based on the research of scholars like David Balme, Allan Gotthelf, and James Lennox, this is rather wrongheaded, given that Aristotle founded the science of biology!) One of the ways Aristotle is alleged to have gone astray is in his "doctrine of the four causes" (especially, we're told, the so-called "final cause" which involves impossibilities like backward causation); although I'm always suspicious when someone attributes a "doctrine" to Aristotle, it's worth looking carefully at what Aristotle actually said instead of relying on shallow or antagonistic summaries....</summary>
-  </entry>
-  <entry>
-    <title>Meditations on Bach #5: Transcription</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1672.html"/>
-    <id>tag:stpeter.im,1672</id>
-    <issued>2021-08-01</issued>
-    <modified>2021-08-01</modified>
-    <summary>As I delve further into Bach's Cello Suites, I also stray further from anything like the received wisdom about how to play them (whether traditionally "classical" or "historically informed"). Take, for instance, the famous prelude from suite #1 in G major. Where I've settled for now is playing the first half at an extremely slow speed, with many sustained single and double notes (thus taking advantage of a capability of the electric bass). As I was practicing this piece at the instrument and then in my head the other day, I realized that I'm playing it at a speed that is appropriate for the breathing characteristic of meditation - half a bar inhaling, half a bar exhaling. That's slow, and perhaps the exact opposite of what Glenn Gould (one of my favorite pianists) did with Bach's keyboard works. However, after the half cadence in measure 22, I start to vary the pace somewhat, speeding up quite a bit in the bariolage of the crescendo before coming back to earth for the ending (which I've modified, too). Reading History, Imagination, and the Performance of Music by Peter Walls over the last few days has helped me to realize that, for better or worse, what I'm doing with the Cello Suites is not performance but transcription - more along the lines of, say, Ferruccio Busoni than Pablo Casals. (Indeed, this is not all that dissimilar from what I've done with my "eudaimonia suite" of books on living well: philosophy as the experience of wisdom, not as discursive argument.) I'll make a rough demo of the G major prelude soon to create a record of my current thinking, no matter how wayward it might be....</summary>
   </entry>
 </feed>
