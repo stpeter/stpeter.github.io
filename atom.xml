@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2020-09-12</modified>
+  <modified>2021-09-24</modified>
+  <entry>
+    <title>Opinions Weak and Strong</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1679.html"/>
+    <id>tag:stpeter.im,1679</id>
+    <issued>2021-09-24</issued>
+    <modified>2021-09-24</modified>
+    <summary>Continuing a thread that I started to explore earlier this year, I'd like to take a closer look at the intensity of opinions. Here as almost everywhere, there is a continuum: we all have opinions we hold strongly and opinions we hold weakly. Not only do the specific contents of these buckets change over time, but in general the intensity of one's opinions can change over time, too. We're all familiar with the sophomoric young adult who has strong opinions about everything (yes, I resembled that remark). Such an individual can be contrasted with the more mature person, who understands what truly matters in life and doesn't hold strong opinions about matters that are less important or positively unimportant....</summary>
+  </entry>
   <entry>
     <title>What I've Learned from Aristotle</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1678.html"/>
@@ -32,7 +40,7 @@
     <id>tag:stpeter.im,1676</id>
     <issued>2021-08-15</issued>
     <modified>2021-08-15</modified>
-    <summary>Aristotle uses the word καλός in both an aesthtic sense and an ethical sense. This has caused confusion among translators and commenters alike. Should the word be translated as "beautiful" when talking about art but as "right" or "fine" or "noble" when talking about character, intention, and action? Did Aristotle think that works of art were inextricably tied up with morality or that traits of character were aesthetic in some way? Let's look into the matter....</summary>
+    <summary>Aristotle uses the word καλός in both an aesthetic sense and an ethical sense. This has caused confusion among translators and commenters alike. Should the word be translated as "beautiful" when talking about art but as "right" or "fine" or "noble" when talking about character, intention, and action? Did Aristotle think that works of art were inextricably tied up with morality or that traits of character were aesthetic in some way? Let's look into the matter....</summary>
   </entry>
   <entry>
     <title>Meditations on Bach #6: Five Strings?</title>
@@ -49,13 +57,5 @@
     <issued>2021-08-07</issued>
     <modified>2021-08-07</modified>
     <summary>This piece of light verse popped into my head the other day....</summary>
-  </entry>
-  <entry>
-    <title>Aristotle Research Report #15: Taking up Aristotle's Causes</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1673.html"/>
-    <id>tag:stpeter.im,1673</id>
-    <issued>2021-08-01</issued>
-    <modified>2021-08-01</modified>
-    <summary>In recent times, Aristotle is often criticized for holding back the progress of science for two thousand years. (As Armand Leroi argues in his book The Lagoon based on the research of scholars like David Balme, Allan Gotthelf, and James Lennox, this is rather wrongheaded, given that Aristotle founded the science of biology!) One of the ways Aristotle is alleged to have gone astray is in his "doctrine of the four causes" (especially, we're told, the so-called "final cause" which involves impossibilities like backward causation); although I'm always suspicious when someone attributes a "doctrine" to Aristotle, it's worth looking carefully at what Aristotle actually said instead of relying on shallow or antagonistic summaries....</summary>
   </entry>
 </feed>
