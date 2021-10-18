@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2021-09-24</modified>
+  <modified>2021-10-17</modified>
+  <entry>
+    <title>There's No Such Thing as a Kudo</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1680.html"/>
+    <id>tag:stpeter.im,1680</id>
+    <issued>2021-10-17</issued>
+    <modified>2021-10-17</modified>
+    <summary>It always warms my heart when we import a word directly from ancient Greek into English. Often they are are philosophical locutions, such eudaimonia and ataraxia. Yet at times more mundane terms make the leap; perhaps the most common one these days is kudos (e.g., "kudos to you on aceing that algebra test!"). Consistent with modern English usage, people tend to pronounce it "koo-doze" and think of it as a plural ("that algebra test was really hard so you deserve many kudos for aceing it"). However, in ancient Greek κῦδος was pronounced "koo-doss" and was a singular noun (meaning fame, honor, renown, praise). Just as we give praise (not "a praise") to a friend or colleague, so an ancient Greek might have given κῦδος. I'm sorry to disappoint you, but as a result there is no such thing as a kudo....</summary>
+  </entry>
   <entry>
     <title>Opinions Weak and Strong</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1679.html"/>
@@ -49,13 +57,5 @@
     <issued>2021-08-14</issued>
     <modified>2021-08-14</modified>
     <summary>Although the first five of Bach's suites for unaccompanied cello lie quite naturally on the bass (when tuned in fifths, that is!), the sixth suite in D major (BWV 1012) is a slightly different story because it was originally written for an instrument with an added string above the usual four. The exact identity of this instrument remains a mystery - some think it was written for a viola pomposa or viola de spalla, others for a violoncello piccolo (not that any of those instruments are well-understood). Whatever the truth of the matter, playing music written for a five-string instrument on a four-string instrument introduces new challenges: in particular, it requires intricate playing high up on the fingerboard. Modern cellists try to overcome this challenge through heavy use of thumb position, an innovation that post-dates Bach's lifetime; however, that doesn't make the task much easier. While working on the prelude to the sixth suite, I've realized that playing it on a five-string electric bass would make a lot of sense. Ideally such a bass would be tuned in fifths with a high E string, C-G-D-A-E. This seems achievable by using strings for a six-string bass and discarding one of the strings; for example, La Bella makes a six-string set normally tuned B-E-A-D-G-C and I would tune B up to C, discard the E string, tune A down a step to G, keep D as-is, tune G up a step to A, and tune C up two steps to E. After conferring with Marek Dąbek of Stradi Basses on whether the high E string will work, I'm happy to report that we're transforming the "Mocha 4" into a "Mocha 5"....</summary>
-  </entry>
-  <entry>
-    <title>Doggerel</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1674.html"/>
-    <id>tag:stpeter.im,1674</id>
-    <issued>2021-08-07</issued>
-    <modified>2021-08-07</modified>
-    <summary>This piece of light verse popped into my head the other day....</summary>
   </entry>
 </feed>
