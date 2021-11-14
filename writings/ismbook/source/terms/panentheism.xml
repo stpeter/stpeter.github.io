@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='panentheism' name='panentheism'>
+  <source>From Greek pan: all, Greek: in, and Greek theos: god.</source>
+  <def topic='metaphysics'>The doctrine that everything is in God or that everything is a mode or attribute of God. This idea is subtly different from &pantheism;, since it doesn't assert that God and Nature are identical. Panentheism is often associated with exponents of &rationalism; such as Leibniz (1646-1716) and especially Spinoza (1632-1677).</def>
+</term>
