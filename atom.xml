@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2021-11-04</modified>
+  <modified>2021-11-28</modified>
+  <entry>
+    <title>Aristotle Research Report #17: Let the Re-Reading Begin</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1683.html"/>
+    <id>tag:stpeter.im,1683</id>
+    <issued>2021-11-28</issued>
+    <modified>2021-11-28</modified>
+    <summary>Just under two years ago, I thought I was done with phase one of my research into Aristotle's views o human flourishing, having at that point read around 120 distinct works by or related to Aristotle (including all of Plato's dialogues). Well, I was wrong: since then I've read an additional 150 works, almost exclusively in the scholarly literature on Aristotle. Now I have three whole shelves of books about Aristotle in my office....</summary>
+  </entry>
   <entry>
     <title>Philosophy vs. Ideology</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1682.html"/>
@@ -49,13 +57,5 @@
     <issued>2020-09-12</issued>
     <modified>2020-09-12</modified>
     <summary>My friend Adrian Lory asked me recently to describe the essence of what I've learned from all of my Aristotle readings over the last few years as I prepare to write a book about his views on human flourishing. Here's a brief summary....</summary>
-  </entry>
-  <entry>
-    <title>Meditations on Bach #7: Aristotle and Bach</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1677.html"/>
-    <id>tag:stpeter.im,1677</id>
-    <issued>2021-08-15</issued>
-    <modified>2021-08-15</modified>
-    <summary>On pp. 169-174 of his book Bach: The Learned Musician, Christoph Wolff describes the genesis of Bach's musical thinking. Of particular interest to me is his recounting of some insights from Johann Nikolaus Forkel, who founded the field of musicology and wrote the first biography of Bach in 1802. Wolff writes as follows....</summary>
   </entry>
 </feed>
