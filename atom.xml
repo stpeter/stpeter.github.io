@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2021-11-28</modified>
+  <modified>2021-12-19</modified>
+  <entry>
+    <title>A Friend by Any Other Name</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1684.html"/>
+    <id>tag:stpeter.im,1684</id>
+    <issued>2021-12-19</issued>
+    <modified>2021-12-19</modified>
+    <summary>It is said that when the ancient Greek philosopher Epicurus died, he left behind thousands of friends. This was 2300 years before Facebook, so how could he have befriended so many people?...</summary>
+  </entry>
   <entry>
     <title>Aristotle Research Report #17: Let the Re-Reading Begin</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1683.html"/>
@@ -49,13 +57,5 @@
     <issued>2021-09-24</issued>
     <modified>2021-09-24</modified>
     <summary>Continuing a thread that I started to explore earlier this year, I'd like to take a closer look at the intensity of opinions. Here as almost everywhere, there is a continuum: we all have opinions we hold strongly and opinions we hold weakly. Not only do the specific contents of these buckets change over time, but in general the intensity of one's opinions can change over time, too. We're all familiar with the sophomoric young adult who has strong opinions about everything (yes, I resembled that remark). Such an individual can be contrasted with the more mature person, who understands what truly matters in life and doesn't hold strong opinions about matters that are less important or positively unimportant....</summary>
-  </entry>
-  <entry>
-    <title>What I've Learned from Aristotle</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1678.html"/>
-    <id>tag:stpeter.im,1678</id>
-    <issued>2020-09-12</issued>
-    <modified>2020-09-12</modified>
-    <summary>My friend Adrian Lory asked me recently to describe the essence of what I've learned from all of my Aristotle readings over the last few years as I prepare to write a book about his views on human flourishing. Here's a brief summary....</summary>
   </entry>
 </feed>
