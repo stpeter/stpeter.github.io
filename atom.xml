@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2021-12-19</modified>
+  <modified>2021-12-26</modified>
+  <entry>
+    <title>Meditations on Bach #9: Musical Monadology</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1685.html"/>
+    <id>tag:stpeter.im,1685</id>
+    <issued>2021-12-26</issued>
+    <modified>2021-12-26</modified>
+    <summary>In meditation #7 of this series, I took note of some similarities between the aesthetics of Aristotle and the music of Bach. Another intriguing influence might be the monadology of Gottfried Wilhelm Leibniz (1646-1716), who directly influenced philosophers and musical theorists in the Bach's orbit: for instance, Bach's student Lorenz Mizler (1711-1778) was a follower of the Leibniz scholar Christian Wolff (1679-1754). In chapter 5 of his book Music in the Culture of the Renassiance and Other Essays, Edward Lowinsky makes the following observations:...</summary>
+  </entry>
   <entry>
     <title>A Friend by Any Other Name</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1684.html"/>
@@ -49,13 +57,5 @@
     <issued>2021-10-17</issued>
     <modified>2021-10-17</modified>
     <summary>It always warms my heart when we import a word directly from ancient Greek into English. Often they are philosophical locutions, such as eudaimonia and ataraxia. Yet at times more mundane terms make the leap; these days perhaps the most common one is kudos (e.g., "kudos to you on aceing that algebra test!"). Consistent with modern English usage, people tend to pronounce it "koo-doze" and think of it as a plural ("that algebra test was really hard so you deserve many kudos for aceing it"). However, in ancient Greek κῦδος was pronounced "koo-doss" and was a singular noun (meaning fame, honor, renown). Just as we give praise (not "a praise") to a friend or colleague, so an ancient Greek might have given κῦδος. I'm sorry to disappoint you, but as a result there is no such thing as a kudo....</summary>
-  </entry>
-  <entry>
-    <title>Opinions Weak and Strong</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1679.html"/>
-    <id>tag:stpeter.im,1679</id>
-    <issued>2021-09-24</issued>
-    <modified>2021-09-24</modified>
-    <summary>Continuing a thread that I started to explore earlier this year, I'd like to take a closer look at the intensity of opinions. Here as almost everywhere, there is a continuum: we all have opinions we hold strongly and opinions we hold weakly. Not only do the specific contents of these buckets change over time, but in general the intensity of one's opinions can change over time, too. We're all familiar with the sophomoric young adult who has strong opinions about everything (yes, I resembled that remark). Such an individual can be contrasted with the more mature person, who understands what truly matters in life and doesn't hold strong opinions about matters that are less important or positively unimportant....</summary>
   </entry>
 </feed>
