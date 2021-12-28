@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2021-12-26</modified>
+  <modified>2021-12-27</modified>
+  <entry>
+    <title>Weekly Wisdom</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1686.html"/>
+    <id>tag:stpeter.im,1686</id>
+    <issued>2021-12-27</issued>
+    <modified>2021-12-27</modified>
+    <summary>Although I don't make New Year's resolutions, at this time of year I do tend to reconsider some of my goals and practices. One thing I'd like to improve on is the frequency of entries in my online journal, because writing them pushes me to think about how I'm living and what I'm learning. Thus going forward I'll strive to post such reflections at least once a week - most likely on Friday evenings or over the weekend, when it's easier to find time for reflection. You can receive these missives in your inbox by visiting my philosopher.coach website and typing your email address in the subscription form at the bottom of the page....</summary>
+  </entry>
   <entry>
     <title>Meditations on Bach #9: Musical Monadology</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1685.html"/>
@@ -32,7 +40,7 @@
     <id>tag:stpeter.im,1683</id>
     <issued>2021-11-28</issued>
     <modified>2021-11-28</modified>
-    <summary>Just under two years ago, I thought I was done with phase one of my research into Aristotle's views o human flourishing, having at that point read around 120 distinct works by or related to Aristotle (including all of Plato's dialogues). Well, I was wrong: since then I've read an additional 150 works, almost exclusively in the scholarly literature on Aristotle. Now I have three whole shelves of books about Aristotle in my office....</summary>
+    <summary>Just under two years ago, I thought I was done with phase one of my research into Aristotle's views on human flourishing, having at that point read around 120 distinct works by or related to Aristotle (including all of Plato's dialogues). Well, I was wrong: since then I've read an additional 150 works, almost exclusively in the scholarly literature on Aristotle. Now I have three whole shelves of books about Aristotle in my office....</summary>
   </entry>
   <entry>
     <title>Philosophy vs. Ideology</title>
@@ -49,13 +57,5 @@
     <issued>2021-10-26</issued>
     <modified>2021-10-26</modified>
     <summary>Here are two quotes from the great cellist Pablo Casals, who re-introduced the Bach Cello Suites to the world in the early twentieth century......</summary>
-  </entry>
-  <entry>
-    <title>There's No Such Thing as a Kudo</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1680.html"/>
-    <id>tag:stpeter.im,1680</id>
-    <issued>2021-10-17</issued>
-    <modified>2021-10-17</modified>
-    <summary>It always warms my heart when we import a word directly from ancient Greek into English. Often they are philosophical locutions, such as eudaimonia and ataraxia. Yet at times more mundane terms make the leap; these days perhaps the most common one is kudos (e.g., "kudos to you on aceing that algebra test!"). Consistent with modern English usage, people tend to pronounce it "koo-doze" and think of it as a plural ("that algebra test was really hard so you deserve many kudos for aceing it"). However, in ancient Greek κῦδος was pronounced "koo-doss" and was a singular noun (meaning fame, honor, renown). Just as we give praise (not "a praise") to a friend or colleague, so an ancient Greek might have given κῦδος. I'm sorry to disappoint you, but as a result there is no such thing as a kudo....</summary>
   </entry>
 </feed>
