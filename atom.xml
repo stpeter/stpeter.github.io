@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2021-12-27</modified>
+  <modified>2021-12-29</modified>
+  <entry>
+    <title>2021 Readings</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1687.html"/>
+    <id>tag:stpeter.im,1687</id>
+    <issued>2021-12-29</issued>
+    <modified>2021-12-29</modified>
+    <summary>As best I can reconstruct it, here are the books I read in 2021. Not included are scholarly papers, essays, and other short works. I've provided links to books that are available online at my monadnock.net website for works in the public domain....</summary>
+  </entry>
   <entry>
     <title>Weekly Wisdom</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1686.html"/>
@@ -49,13 +57,5 @@
     <issued>2021-11-04</issued>
     <modified>2021-11-04</modified>
     <summary>Today I'd like to explore some implications of my recent series of posts about the nature of opinion; specifically, the dangers of ideology. (As a reminder, so far I've discussed holding fewer opinions, opinions about opinions, holding multiple opinions, opinions vs. truths, and opinions weak and strong.)...</summary>
-  </entry>
-  <entry>
-    <title>Meditations on Bach #8: Two Quotes from Pablo Casals</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1681.html"/>
-    <id>tag:stpeter.im,1681</id>
-    <issued>2021-10-26</issued>
-    <modified>2021-10-26</modified>
-    <summary>Here are two quotes from the great cellist Pablo Casals, who re-introduced the Bach Cello Suites to the world in the early twentieth century......</summary>
   </entry>
 </feed>
