@@ -102,6 +102,7 @@
           <h3><xsl:value-of select='/channel/journal[position()=6]/header/date'/></h3>
           <xsl:apply-templates select='/channel/journal[position()=6]/entry'/>
         </xsl:if>
+        <hr/>
         <p><a href='/'>Peter Saint-Andre</a> &gt; Journal</p>
       </body>
     </html>
