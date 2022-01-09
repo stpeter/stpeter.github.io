@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-01-01</modified>
+  <modified>2022-01-08</modified>
+  <entry>
+    <title>Cultivating Curiosity</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1691.html"/>
+    <id>tag:stpeter.im,1691</id>
+    <issued>2022-01-08</issued>
+    <modified>2022-01-08</modified>
+    <summary>In my drive to hold fewer opinions (or at least hold them less strongly), for a while I tried to cultivate a healthy skepticism about things I believe - for instance, by attempting to question one opinion every week. This didn't work, at least for me, because it felt too negative. Instead, now I'm working to cultivate curiosity. Here are a few thoughts on the process....</summary>
+  </entry>
   <entry>
     <title>Cultivating Empathy</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1690.html"/>
@@ -49,13 +57,5 @@
     <issued>2021-12-27</issued>
     <modified>2021-12-27</modified>
     <summary>Although I don't make New Year's resolutions, at this time of year I do tend to reconsider some of my goals and practices. One thing I'd like to improve on is the frequency of entries in my online journal, because writing them pushes me to think about how I'm living and what I'm learning. Thus going forward I'll strive to post such reflections at least once a week - most likely on Friday evenings or over the weekend, when it's easier to find time for reflection. You can receive these missives in your inbox by visiting my philosopher.coach website and typing your email address in the subscription form at the bottom of the page....</summary>
-  </entry>
-  <entry>
-    <title>Meditations on Bach #9: Musical Monadology</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1685.html"/>
-    <id>tag:stpeter.im,1685</id>
-    <issued>2021-12-26</issued>
-    <modified>2021-12-26</modified>
-    <summary>In meditation #7 of this series, I took note of some similarities between the aesthetics of Aristotle and the music of Bach. Another intriguing influence might be the monadology of Gottfried Wilhelm Leibniz (1646-1716), who directly influenced philosophers and musical theorists in the Bach's orbit: for instance, Bach's student Lorenz Mizler (1711-1778) was a follower of the Leibniz scholar Christian Wolff (1679-1754). In chapter 5 of his book Music in the Culture of the Renassiance and Other Essays, Edward Lowinsky makes the following observations:...</summary>
   </entry>
 </feed>
