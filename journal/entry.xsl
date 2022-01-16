@@ -25,6 +25,7 @@
       </head>
       <body>
         <h2><xsl:value-of select='/journal/header/title' /></h2>
+        <h3>by <a href='/'>Peter Saint-Andre</a></h3>
         <h3><xsl:value-of select='/journal/header/date' /></h3>
         <xsl:apply-templates select='/journal/entry'/>
         <hr/>
