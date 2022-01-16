@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-01-08</modified>
+  <modified>2022-01-15</modified>
+  <entry>
+    <title>Idealism and Identity</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1692.html"/>
+    <id>tag:stpeter.im,1692</id>
+    <issued>2022-01-15</issued>
+    <modified>2022-01-15</modified>
+    <summary>Personal identity is a deep, and deeply meaningful, subject: at some level, what's more important than what makes you you? Paradoxically, throughout history and across cultures, often personal identity has been a social construct, tied closely to tribe, clan, family, ethnic group, race, caste, class, societal role, and so on - usually in opposition to some Other ("I'm a Capulet, not a Montague", "I'm a proletarian, not a bourgeois", etc.)....</summary>
+  </entry>
   <entry>
     <title>Cultivating Curiosity</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1691.html"/>
@@ -49,13 +57,5 @@
     <issued>2021-12-29</issued>
     <modified>2021-12-29</modified>
     <summary>As best I can reconstruct it, here are the books I read in 2021. Not included are scholarly papers, essays, and other short works. I've provided links to books that are available online at my monadnock.net website for works in the public domain....</summary>
-  </entry>
-  <entry>
-    <title>Weekly Wisdom</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1686.html"/>
-    <id>tag:stpeter.im,1686</id>
-    <issued>2021-12-27</issued>
-    <modified>2021-12-27</modified>
-    <summary>Although I don't make New Year's resolutions, at this time of year I do tend to reconsider some of my goals and practices. One thing I'd like to improve on is the frequency of entries in my online journal, because writing them pushes me to think about how I'm living and what I'm learning. Thus going forward I'll strive to post such reflections at least once a week - most likely on Friday evenings or over the weekend, when it's easier to find time for reflection. You can receive these missives in your inbox by visiting my philosopher.coach website and typing your email address in the subscription form at the bottom of the page....</summary>
   </entry>
 </feed>
