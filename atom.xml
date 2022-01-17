@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-01-15</modified>
+  <modified>2022-01-17</modified>
+  <entry>
+    <title>MLK and Personalism</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1693.html"/>
+    <id>tag:stpeter.im,1693</id>
+    <issued>2022-01-17</issued>
+    <modified>2022-01-17</modified>
+    <summary>In my recent post on idealism and identity, I mentioned my attraction to the philosophy of personalism, with its emphasis on human dignity. It is perhaps a little-known fact that Martin Luther King, Jr., was greatly influenced by that very philosophy. Early in life he ventured north to study at Boston University, then the center of personalist thought in America, where he completed his doctorate under theologian Edgar Sheffield Brightman. We can see the deep influence of personalism on King's views in two quotes from his famous "I Have a Dream" speech:...</summary>
+  </entry>
   <entry>
     <title>Idealism and Identity</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1692.html"/>
@@ -49,13 +57,5 @@
     <issued>2021-12-29</issued>
     <modified>2021-12-29</modified>
     <summary>Consider the following statements... "There are no answers, only questions." "Life is all about the journey, not the destination." "A teacher or a counselor should encourage dialogue, not provide direction." All true as far as they go. And yet....</summary>
-  </entry>
-  <entry>
-    <title>2021 Readings</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1687.html"/>
-    <id>tag:stpeter.im,1687</id>
-    <issued>2021-12-29</issued>
-    <modified>2021-12-29</modified>
-    <summary>As best I can reconstruct it, here are the books I read in 2021. Not included are scholarly papers, essays, and other short works. I've provided links to books that are available online at my monadnock.net website for works in the public domain....</summary>
   </entry>
 </feed>
