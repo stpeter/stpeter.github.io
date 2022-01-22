@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-01-17</modified>
+  <modified>2022-01-21</modified>
+  <entry>
+    <title>Philosophies and Ways of Life</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1694.html"/>
+    <id>tag:stpeter.im,1694</id>
+    <issued>2022-01-21</issued>
+    <modified>2022-01-21</modified>
+    <summary>In his book What Is Ancient Philosophy?, Pierre Hadot almost singlehandedly resurrected the ancient conception of philosophy as a way of life. Consider this observation about the philosophical schools of Greece and Rome: "For us moderns, the notion of a philosophical school evokes only the idea of a doctrinal tendency or theoretical position. Things were very different in antiquity. No university obligations oriented the future philosopher toward a specific school; instead, the future philosopher came to attend classes in the school of his choice as a function of the way of life practiced there."...</summary>
+  </entry>
   <entry>
     <title>MLK and Personalism</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1693.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-01-01</issued>
     <modified>2022-01-01</modified>
     <summary>Happy Public Domain Day!...</summary>
-  </entry>
-  <entry>
-    <title>Questions and Answers</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1688.html"/>
-    <id>tag:stpeter.im,1688</id>
-    <issued>2021-12-29</issued>
-    <modified>2021-12-29</modified>
-    <summary>Consider the following statements... "There are no answers, only questions." "Life is all about the journey, not the destination." "A teacher or a counselor should encourage dialogue, not provide direction." All true as far as they go. And yet....</summary>
   </entry>
 </feed>
