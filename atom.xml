@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-01-21</modified>
+  <modified>2022-01-24</modified>
+  <entry>
+    <title>Aristotle on Ways of Life</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1695.html"/>
+    <id>tag:stpeter.im,1695</id>
+    <issued>2022-01-24</issued>
+    <modified>2022-01-24</modified>
+    <summary>While I'm reflecting on philosophies and ways of life, I thought it would be interesting to look at what Aristotle says about ways of life in his writings on ethics....</summary>
+  </entry>
   <entry>
     <title>Philosophies and Ways of Life</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1694.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-01-01</issued>
     <modified>2022-01-01</modified>
     <summary>If you ask those I work with or mentor what my distinctive personal qualities are, I suspect that on the short list you might find empathy. For instance, I often reach out to work colleagues if I know that they face significant challenges, if their skills aren't being fully utilized, if they're not appreciated as much as they should be, if someone on their team has resigned, or on the positive side if they've been doing great work....</summary>
-  </entry>
-  <entry>
-    <title>Monadnock Valley Press Annual Report 2021</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1689.html"/>
-    <id>tag:stpeter.im,1689</id>
-    <issued>2022-01-01</issued>
-    <modified>2022-01-01</modified>
-    <summary>Happy Public Domain Day!...</summary>
   </entry>
 </feed>
