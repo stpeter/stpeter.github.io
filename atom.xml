@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-01-24</modified>
+  <modified>2022-01-27</modified>
+  <entry>
+    <title>The Underlying Theme</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1696.html"/>
+    <id>tag:stpeter.im,1696</id>
+    <issued>2022-01-27</issued>
+    <modified>2022-01-27</modified>
+    <summary>In a comment on my recent post about Aristotle on ways of life, my friend Kurt wondered if, according to Aristotle, the best life must have a single purpose (in Greek, a telos). I would say so: at the very beginning of the Eudemian Ethics, he says that it is a sign of great folly to not organize your life around some telos. Yet I think this can be interpreted in several different ways....</summary>
+  </entry>
   <entry>
     <title>Aristotle on Ways of Life</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1695.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-01-08</issued>
     <modified>2022-01-08</modified>
     <summary>In my drive to hold fewer opinions (or at least hold them less strongly), for a while I tried to cultivate a healthy skepticism about things I believe - for instance, by attempting to question one opinion every week. This didn't work, at least for me, because it felt too negative. Instead, now I'm working to cultivate curiosity. Here are a few thoughts on the process....</summary>
-  </entry>
-  <entry>
-    <title>Cultivating Empathy</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1690.html"/>
-    <id>tag:stpeter.im,1690</id>
-    <issued>2022-01-01</issued>
-    <modified>2022-01-01</modified>
-    <summary>If you ask those I work with or mentor what my distinctive personal qualities are, I suspect that on the short list you might find empathy. For instance, I often reach out to work colleagues if I know that they face significant challenges, if their skills aren't being fully utilized, if they're not appreciated as much as they should be, if someone on their team has resigned, or on the positive side if they've been doing great work....</summary>
   </entry>
 </feed>
