@@ -12,6 +12,8 @@
 </head>
 <body>
 <h2>c14n</h2>
+<h3>by <a href="/">Peter Saint-Andre</a>
+</h3>
 <h3>2006-05-17</h3>
     <p>Following up on my <a href="941.html">prior post</a> about end-to-end encryption, I chatted with <a href="https://blog.dizzyd.com/blog/">DizzyD</a> about the <a href="http://www.w3.org/TR/xml-c14n">XML canonicalization</a> requirement imposed by XML signatures and XML encryption. He reports (based on his interop experience with <a href="http://xml.coverpages.org/saml.html">SAML</a>) that canonicalization (a.k.a. "c14n") doesn't get along well with <a href="http://www.w3.org/TR/REC-xml-names/">XML namespaces</a>. This is important because we use a lot of XML namespaces in the Jabber/XMPP world. It seems that the XML community has worked on two solutions to the namespaces issue:</p>
     <ul>

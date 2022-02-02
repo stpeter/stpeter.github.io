@@ -12,6 +12,8 @@
 </head>
 <body>
 <h2>IDN-O-Matic</h2>
+<h3>by <a href="/">Peter Saint-Andre</a>
+</h3>
 <h3>2005-02-07</h3>
     <p>In <a href="http://arch.jabber.com/archives/2005/02/000132.html">commenting</a> on the <a href="http://www.shmoo.com/idn/">IDN phishing exploit</a>, Joe Hildebrand says that the substitution of Cyrillic а for Latin a violates one of his fundamental assumptions about stringprep, namely "that two codepoints that look alike will normalize to the same bytes". <a href="http://www.pgmillard.com/blog/">Peter Millard</a> and I were chatting about it over lunch, and I think Peter's right that the browsers are doing the right thing in rendering the Cyrllic а character (all except Internet Explorer, which doesn't support internationalized domain names at all), but that they should probably warn the user if a domain name contains one or more glyphs that are outside the user's default character set. Consider the following domain name:</p>
     <blockquote><p>ᎫᎪᏴᏴᎬᏒ.org</p></blockquote>

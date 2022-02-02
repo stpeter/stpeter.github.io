@@ -12,6 +12,8 @@
 </head>
 <body>
 <h2>Relaunching xmpp.net as a Server Directory</h2>
+<h3>by <a href="/">Peter Saint-Andre</a>
+</h3>
 <h3>2012-01-24</h3>
 <p>This evening I coverted the information from the xmpp.org web page at <a href="http://xmpp.org/resources/public-services/">http://xmpp.org/resources/public-services/</a> into a format that will enable us to use <a href="http://xmpp.org/extensions/xep-0309.html">XEP-0309</a> when server software starts to support that protocol. Instead of using WordPress tables at xmpp.org, I now store information about each server in a <a href="https://tools.ietf.org/html/rfc6351">vCard4 XML</a> file, which is converted into an old-style services.xml file (<a href="http://xmpp.org/extensions/xep-0030.html">disco#info</a> format) and into an index.html file using shell scripts and XSLT. You can see the results at <a href="http://xmpp.net/">http://xmpp.net/</a>.</p>
 <p>Once we are running a suitable XMPP server at xmpp.net, the server software will gather vCards directly from other servers over the network (no need for admins to send the information on the <a href="https://mail.jabber.org/mailman/listinfo/operators">operators@xmpp.org</a> email list), those vCards will be stored in the right directory by the XMPP server software, and we'll have a cron job to automatically update the website. Yes, this is a bit out in the future right now, but I'm looking forward to automating a lot of this process because I'm always woefully behind on processing server registrations. Besides, interdomain federation is one of the best things we have going for us, so it's important to take good care of the network. I'll be posting more about that topic in the months ahead.</p>

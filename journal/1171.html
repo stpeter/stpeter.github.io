@@ -12,6 +12,8 @@
 </head>
 <body>
 <h2>AMQP and XMPP</h2>
+<h3>by <a href="/">Peter Saint-Andre</a>
+</h3>
 <h3>2007-12-07</h3>
 <p>A while back the geek blogosphere was briefly atwitter about comparisons between the <a href="https://xmpp.org/">Extensible Messaging and Presence Protocol</a> (XMPP) and the <a href="https://jira.amqp.org/confluence/display/AMQP/Advanced+Message+Queuing+Protocol">Advanced Message Queuing Protocol</a> (AMQP). Now that the dust has settled a bit I figured I'd provide my two cents, as a far-from-unbiased observer.</p>
 <p>First, AMQP was specifically designed to replace technologies like MQSeries and Tibco (the investment banks don't like paying large yearly fees to middleware vendors, so they decided to roll their own). It is a special-purpose technology that may get used in the financial space, but I doubt that it will ever break out of that niche. It has not received widespread review from technologists (especially regarding security and internationalization), as XMPP did when we formalized the core Jabber protocols at the IETF (though to be fair, neither did the core Jabber technologies back in the early days). And as Bill de Hóra notes:</p>

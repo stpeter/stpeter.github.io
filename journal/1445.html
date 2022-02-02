@@ -12,6 +12,8 @@
 </head>
 <body>
 <h2>XMPP Federation Clearinghouses</h2>
+<h3>by <a href="/">Peter Saint-Andre</a>
+</h3>
 <h3>2012-01-06</h3>
 <p>Here's the problem: the traditional model for secure federation of XMPP servers assumes that the only policy decision required is checking of the certificate chain for a peer server. However, in some specialized communities (e.g., military networks, industry-specific networks or supply chains), additional policy concerns come into play (e.g., trust based on clearance levels or authentication methods used at remote domains, verified membership in a particular industry such as finance). Currently, server administrators might need to establish a connection policy and then whitelist peer servers that are within policy. Unfortunately, that approach is time-consuming and potentially error-prone.</p>
 <p>One solution would be to establish a trusted "clearinghouse" that would make policy decisions with regard to XMPP federation within a specialized community. Although the details of the policy framework used by such a clearinghouse would be specific to the deployment and security requirements of the organizations involved, in essence there are two possible approaches: (1) the clearinghouse could define policies and push them out to the various server nodes on the network, with each node enforcing the policy on its own, or (2) the clearinghouse could act as a centralized lookup service for server federation, redirecting each server to its desired peer based on a policy engine internal to the clearinghouse.</p>
