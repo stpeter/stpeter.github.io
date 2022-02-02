@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-01-27</modified>
+  <modified>2022-02-01</modified>
+  <entry>
+    <title>Philosophical Professionalism</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1697.html"/>
+    <id>tag:stpeter.im,1697</id>
+    <issued>2022-02-01</issued>
+    <modified>2022-02-01</modified>
+    <summary>Robin Hanson recently suggested that we need more generalist thinkers, and that they can be found among the ranks of polymaths, public intellectuals, and professional philosophers. Although I might post again on the topic of generalists vs. specialists, today I'd like to focus instead on the concept of philosophical professionalism....</summary>
+  </entry>
   <entry>
     <title>The Underlying Theme</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1696.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-01-15</issued>
     <modified>2022-01-15</modified>
     <summary>Personal identity is a deep, and deeply meaningful, subject: at some level, what's more important than what makes you you? Paradoxically, throughout history and across cultures, often personal identity has been a social construct, tied closely to tribe, clan, family, ethnic group, race, caste, class, societal role, and so on - usually in opposition to some Other ("I'm a Capulet, not a Montague", "I'm a proletarian, not a bourgeois", etc.)....</summary>
-  </entry>
-  <entry>
-    <title>Cultivating Curiosity</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1691.html"/>
-    <id>tag:stpeter.im,1691</id>
-    <issued>2022-01-08</issued>
-    <modified>2022-01-08</modified>
-    <summary>In my drive to hold fewer opinions (or at least hold them less strongly), for a while I tried to cultivate a healthy skepticism about things I believe - for instance, by attempting to question one opinion every week. This didn't work, at least for me, because it felt too negative. Instead, now I'm working to cultivate curiosity. Here are a few thoughts on the process....</summary>
   </entry>
 </feed>
