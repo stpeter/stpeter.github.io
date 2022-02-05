@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-02-01</modified>
+  <modified>2022-02-06</modified>
+  <entry>
+    <title>Delphic Wisdom and Modern Science</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1698.html"/>
+    <id>tag:stpeter.im,1698</id>
+    <issued>2022-02-06</issued>
+    <modified>2022-02-06</modified>
+    <summary>Carved into the walls of the ancient Greek temple at Delphi were two proverbs: γνῶθι σεαυτόν ("know thyself") and μηδὲν ἄγαν ("nothing too much"). Plato mentions them in his dialogue Protagoras, set around 434 BCE, but most likely they were common among the Greeks as far back as 600 BCE or even earlier. Although they are so very old, recently I've been pondering their connection to the latest research in the modern science of psychology....</summary>
+  </entry>
   <entry>
     <title>Philosophical Professionalism</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1697.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-01-17</issued>
     <modified>2022-01-17</modified>
     <summary>In my recent post on idealism and identity, I mentioned my attraction to the philosophy of personalism, with its emphasis on human dignity. It is perhaps a little-known fact that Martin Luther King, Jr., was greatly influenced by that very philosophy. Early in life he ventured north to study at Boston University, then the center of personalist thought in America, where he completed his doctorate under theologian Edgar Sheffield Brightman. We can see the deep influence of personalism on King's views in two quotes from his famous "I Have a Dream" speech:...</summary>
-  </entry>
-  <entry>
-    <title>Idealism and Identity</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1692.html"/>
-    <id>tag:stpeter.im,1692</id>
-    <issued>2022-01-15</issued>
-    <modified>2022-01-15</modified>
-    <summary>Personal identity is a deep, and deeply meaningful, subject: at some level, what's more important than what makes you you? Paradoxically, throughout history and across cultures, often personal identity has been a social construct, tied closely to tribe, clan, family, ethnic group, race, caste, class, societal role, and so on - usually in opposition to some Other ("I'm a Capulet, not a Montague", "I'm a proletarian, not a bourgeois", etc.)....</summary>
   </entry>
 </feed>
