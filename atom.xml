@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-02-04</modified>
+  <modified>2022-02-10</modified>
+  <entry>
+    <title>Jealousy and Envy</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1699.html"/>
+    <id>tag:stpeter.im,1699</id>
+    <issued>2022-02-10</issued>
+    <modified>2022-02-10</modified>
+    <summary>A friend recently asked me how I would characterize the difference between jealousy and envy. Here's how I see it: jealousy is when I want to gain something you have, and envy is when I want you to lose something you have. If I'm jealous of your new Tesla, I want a Tesla too. If I'm jealous of the superyacht that Jeff Bezos is building, I don't want him to have that yacht even if I'll never be able to have such a thing....</summary>
+  </entry>
   <entry>
     <title>Delphic Wisdom and Modern Science</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1698.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-01-21</issued>
     <modified>2022-01-21</modified>
     <summary>In his book What Is Ancient Philosophy?, Pierre Hadot almost singlehandedly resurrected the ancient conception of philosophy as a way of life. Consider this observation about the philosophical schools of Greece and Rome: "For us moderns, the notion of a philosophical school evokes only the idea of a doctrinal tendency or theoretical position. Things were very different in antiquity. No university obligations oriented the future philosopher toward a specific school; instead, the future philosopher came to attend classes in the school of his choice as a function of the way of life practiced there."...</summary>
-  </entry>
-  <entry>
-    <title>MLK and Personalism</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1693.html"/>
-    <id>tag:stpeter.im,1693</id>
-    <issued>2022-01-17</issued>
-    <modified>2022-01-17</modified>
-    <summary>In my recent post on idealism and identity, I mentioned my attraction to the philosophy of personalism, with its emphasis on human dignity. It is perhaps a little-known fact that Martin Luther King, Jr., was greatly influenced by that very philosophy. Early in life he ventured north to study at Boston University, then the center of personalist thought in America, where he completed his doctorate under theologian Edgar Sheffield Brightman. We can see the deep influence of personalism on King's views in two quotes from his famous "I Have a Dream" speech:...</summary>
   </entry>
 </feed>
