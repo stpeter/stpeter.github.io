@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-02-10</modified>
+  <modified>2022-02-15</modified>
+  <entry>
+    <title>Opinions, Expectations, and Emotions</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1701.html"/>
+    <id>tag:stpeter.im,1701</id>
+    <issued>2022-02-15</issued>
+    <modified>2022-02-15</modified>
+    <summary>Following up on my series of posts about the phenomenon of opinion, I've been pondering the relationship between opinions, expectations, and emotions....</summary>
+  </entry>
   <entry>
     <title>Meditations on Bach #10: Philosophy in Music</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1700.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-01-27</issued>
     <modified>2022-01-27</modified>
     <summary>In a comment on my recent post about Aristotle on ways of life, my friend Kurt wondered if, according to Aristotle, the best life must have a single purpose (in Greek, a telos). I would say so: at the very beginning of the Eudemian Ethics, he says that it is a sign of great folly to not organize your life around some telos. Yet I think this can be interpreted in several different ways....</summary>
-  </entry>
-  <entry>
-    <title>Aristotle on Ways of Life</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1695.html"/>
-    <id>tag:stpeter.im,1695</id>
-    <issued>2022-01-24</issued>
-    <modified>2022-01-24</modified>
-    <summary>While I'm reflecting on philosophies and ways of life, I thought it would be interesting to look at what Aristotle says about ways of life in his writings on ethics....</summary>
   </entry>
 </feed>
