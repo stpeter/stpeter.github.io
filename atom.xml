@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-02-15</modified>
+  <modified>2022-02-17</modified>
+  <entry>
+    <title>A New Focus</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1702.html"/>
+    <id>tag:stpeter.im,1702</id>
+    <issued>2022-02-17</issued>
+    <modified>2022-02-17</modified>
+    <summary>After 25 years in the tech industry, I've decided it's time for a new focus in life. Last Friday was my last day at Mozilla, and my wife Elisa and I are already hard at work on a non-tech venture: a training program that we hope will help people develop professionally by applying the insights of psychological research and the great wisdom traditions to the challenges and opportunities of work and career....</summary>
+  </entry>
   <entry>
     <title>Opinions, Expectations, and Emotions</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1701.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-02-01</issued>
     <modified>2022-02-01</modified>
     <summary>Robin Hanson recently suggested that we need more generalist thinkers, and that they can be found among the ranks of polymaths, public intellectuals, and professional philosophers. Although I might post again on the topic of generalists vs. specialists, today I'd like to focus instead on the concept of philosophical professionalism....</summary>
-  </entry>
-  <entry>
-    <title>The Underlying Theme</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1696.html"/>
-    <id>tag:stpeter.im,1696</id>
-    <issued>2022-01-27</issued>
-    <modified>2022-01-27</modified>
-    <summary>In a comment on my recent post about Aristotle on ways of life, my friend Kurt wondered if, according to Aristotle, the best life must have a single purpose (in Greek, a telos). I would say so: at the very beginning of the Eudemian Ethics, he says that it is a sign of great folly to not organize your life around some telos. Yet I think this can be interpreted in several different ways....</summary>
   </entry>
 </feed>
