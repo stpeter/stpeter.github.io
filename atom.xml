@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-02-17</modified>
+  <modified>2022-02-27</modified>
+  <entry>
+    <title>Read the Eternities</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1703.html"/>
+    <id>tag:stpeter.im,1703</id>
+    <issued>2022-02-27</issued>
+    <modified>2022-02-27</modified>
+    <summary>One of my favorite Thoreau aphorisms goes like this: "Read not the Times; read the Eternities." Yet in times of turmoil - war, revolution, depression, pandemic, and the like - it can be difficult to focus on the timeless questions of how to live well because merely living take precedence. On the other hand, there's invariably something bad happening somewhere, and it's difficult to draw the line between what requires urgent attention and what is an ephemeral distraction or news-industry sensation....</summary>
+  </entry>
   <entry>
     <title>A New Focus</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1702.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-02-04</issued>
     <modified>2022-02-04</modified>
     <summary>Carved into the walls of the ancient Greek temple at Delphi were two proverbs: γνῶθι σεαυτόν ("know thyself") and μηδὲν ἄγαν ("nothing too much"). Plato mentions them in his dialogue Protagoras, set around 434 BCE, but most likely they were common among the Greeks as far back as 600 BCE or even earlier. Although they are so very old, recently I've been pondering their connection to the latest research in the modern science of psychology....</summary>
-  </entry>
-  <entry>
-    <title>Philosophical Professionalism</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1697.html"/>
-    <id>tag:stpeter.im,1697</id>
-    <issued>2022-02-01</issued>
-    <modified>2022-02-01</modified>
-    <summary>Robin Hanson recently suggested that we need more generalist thinkers, and that they can be found among the ranks of polymaths, public intellectuals, and professional philosophers. Although I might post again on the topic of generalists vs. specialists, today I'd like to focus instead on the concept of philosophical professionalism....</summary>
   </entry>
 </feed>
