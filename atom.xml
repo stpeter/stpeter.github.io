@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-02-27</modified>
+  <modified>2022-03-06</modified>
+  <entry>
+    <title>How Much Is Enough?</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1704.html"/>
+    <id>tag:stpeter.im,1704</id>
+    <issued>2022-03-06</issued>
+    <modified>2022-03-06</modified>
+    <summary>As mentioned in my post "Delphic Wisdom and Modern Science", on the walls of the ancient Greek temple at Delphi could be found the inscription μηδὲν ἄγαν, meaning "nothing too much". Yet how can one know how much is enough? Naturally it's hard to say precisely - after all, if it were easy, life wouldn't be so messy and complicated, now would it?...</summary>
+  </entry>
   <entry>
     <title>Read the Eternities</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1703.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-02-10</issued>
     <modified>2022-02-10</modified>
     <summary>A friend recently asked me how I would characterize the difference between jealousy and envy. Here's how I see it: jealousy is when I want to gain something you have, and envy is when I want you to lose something you have. If I'm jealous of your new Tesla, I want a Tesla too. If I'm envious of the superyacht that Jeff Bezos is building, I don't want him to have that yacht even if I'll never be able to have such a thing....</summary>
-  </entry>
-  <entry>
-    <title>Delphic Wisdom and Modern Science</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1698.html"/>
-    <id>tag:stpeter.im,1698</id>
-    <issued>2022-02-04</issued>
-    <modified>2022-02-04</modified>
-    <summary>Carved into the walls of the ancient Greek temple at Delphi were two proverbs: γνῶθι σεαυτόν ("know thyself") and μηδὲν ἄγαν ("nothing too much"). Plato mentions them in his dialogue Protagoras, set around 434 BCE, but most likely they were common among the Greeks as far back as 600 BCE or even earlier. Although they are so very old, recently I've been pondering their connection to the latest research in the modern science of psychology....</summary>
   </entry>
 </feed>
