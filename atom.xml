@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-03-06</modified>
+  <modified>2022-03-16</modified>
+  <entry>
+    <title>The Self as an Achievement</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1705.html"/>
+    <id>tag:stpeter.im,1705</id>
+    <issued>2022-03-16</issued>
+    <modified>2022-03-16</modified>
+    <summary>What is the self? Naturally this question invokes vast reflections spanning philosophy, psychology, cognitive science, sociology, biology, and many other fields. Although I claim no special insight, in my Aristotle readings over the last few years I chanced upon a fascinating perspective that I thought I'd share....</summary>
+  </entry>
   <entry>
     <title>How Much Is Enough?</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1704.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-02-10</issued>
     <modified>2022-02-10</modified>
     <summary>In the second edition of his extremely intriguing book Bach: The Fencing Master, cellist Anner Bylsma writes as follows:...</summary>
-  </entry>
-  <entry>
-    <title>Jealousy and Envy</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1699.html"/>
-    <id>tag:stpeter.im,1699</id>
-    <issued>2022-02-10</issued>
-    <modified>2022-02-10</modified>
-    <summary>A friend recently asked me how I would characterize the difference between jealousy and envy. Here's how I see it: jealousy is when I want to gain something you have, and envy is when I want you to lose something you have. If I'm jealous of your new Tesla, I want a Tesla too. If I'm envious of the superyacht that Jeff Bezos is building, I don't want him to have that yacht even if I'll never be able to have such a thing....</summary>
   </entry>
 </feed>
