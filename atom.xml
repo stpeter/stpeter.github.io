@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-03-16</modified>
+  <modified>2022-03-22</modified>
+  <entry>
+    <title>The Rules of Friendship</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1706.html"/>
+    <id>tag:stpeter.im,1706</id>
+    <issued>2022-03-22</issued>
+    <modified>2022-03-22</modified>
+    <summary>While doing some research recently on relationships, I came across an old but classic scholarly paper entitled "The Rules of Friendship" by Michael Argyle and Monika Henderson (Journal of Social and Personal Relationships, Vol. 1 (1984), pp. 211-237). Using populations from Britain, Italy, Hong Kong, and Japan, the authors studied several related topics:...</summary>
+  </entry>
   <entry>
     <title>The Self as an Achievement</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1705.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-02-15</issued>
     <modified>2022-02-15</modified>
     <summary>Following up on my series of posts about the phenomenon of opinion, I've been pondering the relationship between opinions, expectations, and emotions....</summary>
-  </entry>
-  <entry>
-    <title>Meditations on Bach #10: Philosophy in Music</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1700.html"/>
-    <id>tag:stpeter.im,1700</id>
-    <issued>2022-02-10</issued>
-    <modified>2022-02-10</modified>
-    <summary>In the second edition of his extremely intriguing book Bach: The Fencing Master, cellist Anner Bylsma writes as follows:...</summary>
   </entry>
 </feed>
