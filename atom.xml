@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-03-22</modified>
+  <modified>2022-03-28</modified>
+  <entry>
+    <title>The Meanings of Meaning</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1707.html"/>
+    <id>tag:stpeter.im,1707</id>
+    <issued>2022-03-28</issued>
+    <modified>2022-03-28</modified>
+    <summary>If you tell people that you're interested in philosophy, inevitably someone will ask you about the meaning of life. Although the question might predate The Hitchhiker's Guide to the Galaxy, ancient philosophers in the Greek, Indian, and Chinese traditions didn't raise it. Personally I adhere to the aphorism that think it's best not to puzzle over the meaning of life, but instead work to create a life of meaning....</summary>
+  </entry>
   <entry>
     <title>The Rules of Friendship</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1706.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-02-17</issued>
     <modified>2022-02-17</modified>
     <summary>After 25 years in the tech industry, I've decided it's time for a new focus in life. Last Friday was my last day at Mozilla, and my wife Elisa and I are already hard at work on a non-tech venture: a training program that we hope will help people develop professionally by applying the insights of psychological research and the great wisdom traditions to the challenges and opportunities of work and career....</summary>
-  </entry>
-  <entry>
-    <title>Opinions, Expectations, and Emotions</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1701.html"/>
-    <id>tag:stpeter.im,1701</id>
-    <issued>2022-02-15</issued>
-    <modified>2022-02-15</modified>
-    <summary>Following up on my series of posts about the phenomenon of opinion, I've been pondering the relationship between opinions, expectations, and emotions....</summary>
   </entry>
 </feed>
