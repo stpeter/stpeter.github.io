@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-03-28</modified>
+  <modified>2022-04-06</modified>
+  <entry>
+    <title>Egoism, Altruism, and Oxygen Masks</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1708.html"/>
+    <id>tag:stpeter.im,1708</id>
+    <issued>2022-04-06</issued>
+    <modified>2022-04-06</modified>
+    <summary>A friend asked me recently if I think that self-improvement is selfish. My short answer was that building up your character is a matter of cultivating your higher self rather than gratifying your lower self, so this activity might exist beyond the dichotomy of egoism vs. altruism....</summary>
+  </entry>
   <entry>
     <title>The Meanings of Meaning</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1707.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-02-27</issued>
     <modified>2022-02-27</modified>
     <summary>One of my favorite Thoreau aphorisms goes like this: "Read not the Times; read the Eternities." Yet in times of turmoil - war, revolution, depression, pandemic, and the like - it can be difficult to focus on the timeless questions of how to live well because merely living take precedence. On the other hand, there's invariably something bad happening somewhere, and it's difficult to draw the line between what requires urgent attention and what is an ephemeral distraction or news-industry sensation....</summary>
-  </entry>
-  <entry>
-    <title>A New Focus</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1702.html"/>
-    <id>tag:stpeter.im,1702</id>
-    <issued>2022-02-17</issued>
-    <modified>2022-02-17</modified>
-    <summary>After 25 years in the tech industry, I've decided it's time for a new focus in life. Last Friday was my last day at Mozilla, and my wife Elisa and I are already hard at work on a non-tech venture: a training program that we hope will help people develop professionally by applying the insights of psychological research and the great wisdom traditions to the challenges and opportunities of work and career....</summary>
   </entry>
 </feed>
