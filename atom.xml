@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-04-06</modified>
+  <modified>2022-04-14</modified>
+  <entry>
+    <title>Social Affordances and Self-Conceptions</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1709.html"/>
+    <id>tag:stpeter.im,1709</id>
+    <issued>2022-04-14</issued>
+    <modified>2022-04-14</modified>
+    <summary>As I mentioned a few months ago in my post "Idealism and Identity", personal identity is, paradoxically, often a social construct. Here I'd like to dig more deeply into why that's the case, but without straying too far into theoretical matters because I like to provide practical insights in my blog posts....</summary>
+  </entry>
   <entry>
     <title>Egoism, Altruism, and Oxygen Masks</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1708.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-03-06</issued>
     <modified>2022-03-06</modified>
     <summary>As mentioned in my post "Delphic Wisdom and Modern Science", on the walls of the ancient Greek temple at Delphi could be found the inscription μηδὲν ἄγαν, meaning "nothing too much". Yet how can one know how much is enough? Naturally it's hard to say precisely - after all, if it were easy, life wouldn't be so messy and complicated, now would it?...</summary>
-  </entry>
-  <entry>
-    <title>Read the Eternities</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1703.html"/>
-    <id>tag:stpeter.im,1703</id>
-    <issued>2022-02-27</issued>
-    <modified>2022-02-27</modified>
-    <summary>One of my favorite Thoreau aphorisms goes like this: "Read not the Times; read the Eternities." Yet in times of turmoil - war, revolution, depression, pandemic, and the like - it can be difficult to focus on the timeless questions of how to live well because merely living take precedence. On the other hand, there's invariably something bad happening somewhere, and it's difficult to draw the line between what requires urgent attention and what is an ephemeral distraction or news-industry sensation....</summary>
   </entry>
 </feed>
