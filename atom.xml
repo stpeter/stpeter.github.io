@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-04-14</modified>
+  <modified>2022-04-21</modified>
+  <entry>
+    <title>Likeability</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1710.html"/>
+    <id>tag:stpeter.im,1710</id>
+    <issued>2022-04-21</issued>
+    <modified>2022-04-21</modified>
+    <summary>I seem to be getting into a rhythm of posting new thoughts on Thursdays - given my usual subject matter, we could think of this as "Thriving Thursday"......</summary>
+  </entry>
   <entry>
     <title>Social Affordances and Self-Conceptions</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1709.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-03-16</issued>
     <modified>2022-03-16</modified>
     <summary>What is the self? Naturally this question invokes vast reflections spanning philosophy, psychology, cognitive science, sociology, biology, and many other fields. Although I claim no special insight, in my Aristotle readings over the last few years I chanced upon a fascinating perspective that I thought I'd share....</summary>
-  </entry>
-  <entry>
-    <title>How Much Is Enough?</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1704.html"/>
-    <id>tag:stpeter.im,1704</id>
-    <issued>2022-03-06</issued>
-    <modified>2022-03-06</modified>
-    <summary>As mentioned in my post "Delphic Wisdom and Modern Science", on the walls of the ancient Greek temple at Delphi could be found the inscription μηδὲν ἄγαν, meaning "nothing too much". Yet how can one know how much is enough? Naturally it's hard to say precisely - after all, if it were easy, life wouldn't be so messy and complicated, now would it?...</summary>
   </entry>
 </feed>
