@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-04-21</modified>
+  <modified>2022-04-24</modified>
+  <entry>
+    <title>Exploring Social Space</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1711.html"/>
+    <id>tag:stpeter.im,1711</id>
+    <issued>2022-04-24</issued>
+    <modified>2022-04-24</modified>
+    <summary>One of the insights I find so intriguing from ecological psychology as developed by James and Eleanor Gibson is the concept of exploring visual space. Animals (including we humans) aren't simplistic sensory processing machines that are fixed to a point in space; instead, we are free to move around in order to see things from multiple perspectives....</summary>
+  </entry>
   <entry>
     <title>Likeability</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1710.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-03-22</issued>
     <modified>2022-03-22</modified>
     <summary>While doing some research recently on relationships, I came across an old but classic scholarly paper entitled "The Rules of Friendship" by Michael Argyle and Monika Henderson (Journal of Social and Personal Relationships, Vol. 1 (1984), pp. 211-237). Using populations from Britain, Italy, Hong Kong, and Japan, the authors studied several related topics:...</summary>
-  </entry>
-  <entry>
-    <title>The Self as an Achievement</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1705.html"/>
-    <id>tag:stpeter.im,1705</id>
-    <issued>2022-03-16</issued>
-    <modified>2022-03-16</modified>
-    <summary>What is the self? Naturally this question invokes vast reflections spanning philosophy, psychology, cognitive science, sociology, biology, and many other fields. Although I claim no special insight, in my Aristotle readings over the last few years I chanced upon a fascinating perspective that I thought I'd share....</summary>
   </entry>
 </feed>
