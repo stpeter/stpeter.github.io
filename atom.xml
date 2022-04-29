@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-04-24</modified>
+  <modified>2022-04-28</modified>
+  <entry>
+    <title>Wisdom and Freedom</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1712.html"/>
+    <id>tag:stpeter.im,1712</id>
+    <issued>2022-04-28</issued>
+    <modified>2022-04-28</modified>
+    <summary>Why do we continue to find such value in the life wisdom of ancient philosophers like Socrates, Aristotle, Confucius, Lao Tzu, Siddhartha Gautama, Epicurus, and Epictetus? It's not as if we're still reading Ptolemy on astronomy or even Euclid on geometry, so why have these philosophical insights endured?...</summary>
+  </entry>
   <entry>
     <title>Exploring Social Space</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1711.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-03-28</issued>
     <modified>2022-03-28</modified>
     <summary>If you tell people that you're interested in philosophy, inevitably someone will ask you about the meaning of life. Although the question might predate The Hitchhiker's Guide to the Galaxy, ancient philosophers in the Greek, Indian, and Chinese traditions didn't raise it. Personally I adhere to the aphorism that it's best not to puzzle over the meaning of life, but instead work to create a life of meaning....</summary>
-  </entry>
-  <entry>
-    <title>The Rules of Friendship</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1706.html"/>
-    <id>tag:stpeter.im,1706</id>
-    <issued>2022-03-22</issued>
-    <modified>2022-03-22</modified>
-    <summary>While doing some research recently on relationships, I came across an old but classic scholarly paper entitled "The Rules of Friendship" by Michael Argyle and Monika Henderson (Journal of Social and Personal Relationships, Vol. 1 (1984), pp. 211-237). Using populations from Britain, Italy, Hong Kong, and Japan, the authors studied several related topics:...</summary>
   </entry>
 </feed>
