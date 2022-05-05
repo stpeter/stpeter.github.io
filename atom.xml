@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-05-03</modified>
+  <modified>2022-05-05</modified>
+  <entry>
+    <title>Live Long and Prosper</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1714.html"/>
+    <id>tag:stpeter.im,1714</id>
+    <issued>2022-05-05</issued>
+    <modified>2022-05-05</modified>
+    <summary>Recently I came across a study entitled "Longevity increased by positive self-perceptions of aging" (Levy et al. 2002 - apparently Becca Levy has a new book out entitled Breaking the Age Code, which I have not read yet). The abstract states: "This research found that older individuals with more positive self-perceptions of aging, measured up to 23 years earlier, lived 7.5 years longer than those with less positive self-perceptions of aging. This advantage remained after age, gender, socioeconomic status, loneliness, and functional health were included as covariates." As Spock would say: fascinating!...</summary>
+  </entry>
   <entry>
     <title>Philosophical Forms and Functions</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1713.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-04-14</issued>
     <modified>2022-04-14</modified>
     <summary>As I mentioned a few months ago in my post "Idealism and Identity", personal identity is, paradoxically, often a social construct. Here I'd like to dig more deeply into why that's the case, but without straying too far into theoretical matters because I like to provide practical insights in my blog posts....</summary>
-  </entry>
-  <entry>
-    <title>Egoism, Altruism, and Oxygen Masks</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1708.html"/>
-    <id>tag:stpeter.im,1708</id>
-    <issued>2022-04-06</issued>
-    <modified>2022-04-06</modified>
-    <summary>A friend asked me recently if I think that self-improvement is selfish. My short answer was that building up your character is a matter of cultivating your higher self rather than gratifying your lower self, so this activity might exist beyond the dichotomy of egoism vs. altruism....</summary>
   </entry>
 </feed>
