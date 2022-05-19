@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-05-12</modified>
+  <modified>2022-05-19</modified>
+  <entry>
+    <title>Isms and Wisdom</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1716.html"/>
+    <id>tag:stpeter.im,1716</id>
+    <issued>2022-05-19</issued>
+    <modified>2022-05-19</modified>
+    <summary>Which came first, the ism or the wisdom?...</summary>
+  </entry>
   <entry>
     <title>Big Idea People</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1715.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-04-24</issued>
     <modified>2022-04-24</modified>
     <summary>One of the insights I find so intriguing from ecological psychology as developed by James and Eleanor Gibson is the concept of exploring visual space. Animals (including we humans) aren't simplistic sensory processing machines that are fixed to a point in space; instead, we are free to move around in order to see things from multiple perspectives....</summary>
-  </entry>
-  <entry>
-    <title>Likeability</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1710.html"/>
-    <id>tag:stpeter.im,1710</id>
-    <issued>2022-04-21</issued>
-    <modified>2022-04-21</modified>
-    <summary>I seem to be getting into a rhythm of posting new thoughts on Thursdays - given my usual subject matter, we could think of this as "Thriving Thursday"......</summary>
   </entry>
 </feed>
