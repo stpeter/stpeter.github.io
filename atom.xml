@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-05-27</modified>
+  <modified>2022-06-09</modified>
+  <entry>
+    <title>The Soul of Stoicism</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1718.html"/>
+    <id>tag:stpeter.im,1718</id>
+    <issued>2022-06-09</issued>
+    <modified>2022-06-09</modified>
+    <summary>People sometimes ask me what I think about Stoicism (not the phenomenon of physical and emotional fortitude, which I would call stoicism with a small "s", but the Greco-Roman philosophical school that has undergone a recent revival). At the risk of alienating those of my readers who lean in the direction of Stoicism, I've decided to write a few blog posts on the topic, starting with this one....</summary>
+  </entry>
   <entry>
     <title>Being an Integrity</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1717.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-05-03</issued>
     <modified>2022-05-03</modified>
     <summary>Following up on my post a few months ago about philosophical professionalism, I've been thinking about the many forms of philosophical writing and their functions in our intellectual and practical life. Throughout history, philosophical questions and answers have been presented in so many written forms: aphorisms, dialogues, essays, letters, allegories, parables, stories, novels, plays, poems, lectures, sermons, manifestos, journals, memoirs, biographies, autobiographies, epitomes, proofs, puzzles, thought experiments, dissertations, treatises, and scholarly papers. Yet it's only the last few of these that are acceptable these days in academic philosophy. Even a widely-cited essay like Thomas Nagel's "What Is it Like to Be a Bat?" probably wouldn't get published in an academic journal these days, and that's a shame....</summary>
-  </entry>
-  <entry>
-    <title>Wisdom and Freedom</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1712.html"/>
-    <id>tag:stpeter.im,1712</id>
-    <issued>2022-04-28</issued>
-    <modified>2022-04-28</modified>
-    <summary>Why do we continue to find such value in the life wisdom of ancient philosophers like Socrates, Aristotle, Confucius, Lao Tzu, Siddhartha Gautama, Epicurus, and Epictetus? It's not as if we're still reading Ptolemy on astronomy or even Euclid on geometry, so why have these philosophical insights endured?...</summary>
   </entry>
 </feed>
