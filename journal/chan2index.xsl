@@ -157,6 +157,12 @@
     </strong>
   </xsl:template>
 
+  <xsl:template match='u'>
+    <u>
+    <xsl:apply-templates/>
+    </u>
+  </xsl:template>
+
   <xsl:template match='br'>
     <br />
   </xsl:template>
