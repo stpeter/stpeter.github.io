@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-06-09</modified>
+  <modified>2022-06-16</modified>
+  <entry>
+    <title>That Flourishing Feeling</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1719.html"/>
+    <id>tag:stpeter.im,1719</id>
+    <issued>2022-06-16</issued>
+    <modified>2022-06-16</modified>
+    <summary>Positive psychology is sometimes perceived as putting a premium on pleasant experiences - what critics call "happiology". Yet just because pleasure is a positive experience doesn't mean it's the only positive experience!...</summary>
+  </entry>
   <entry>
     <title>The Soul of Stoicism</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1718.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-05-05</issued>
     <modified>2022-05-05</modified>
     <summary>Recently I came across a study entitled "Longevity increased by positive self-perceptions of aging" (Levy et al. 2002 - apparently Becca Levy has a new book out entitled Breaking the Age Code, which I have not read yet). The abstract states: "This research found that older individuals with more positive self-perceptions of aging, measured up to 23 years earlier, lived 7.5 years longer than those with less positive self-perceptions of aging. This advantage remained after age, gender, socioeconomic status, loneliness, and functional health were included as covariates." As Spock would say: fascinating!...</summary>
-  </entry>
-  <entry>
-    <title>Philosophical Forms and Functions</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1713.html"/>
-    <id>tag:stpeter.im,1713</id>
-    <issued>2022-05-03</issued>
-    <modified>2022-05-03</modified>
-    <summary>Following up on my post a few months ago about philosophical professionalism, I've been thinking about the many forms of philosophical writing and their functions in our intellectual and practical life. Throughout history, philosophical questions and answers have been presented in so many written forms: aphorisms, dialogues, essays, letters, allegories, parables, stories, novels, plays, poems, lectures, sermons, manifestos, journals, memoirs, biographies, autobiographies, epitomes, proofs, puzzles, thought experiments, dissertations, treatises, and scholarly papers. Yet it's only the last few of these that are acceptable these days in academic philosophy. Even a widely-cited essay like Thomas Nagel's "What Is it Like to Be a Bat?" probably wouldn't get published in an academic journal these days, and that's a shame....</summary>
   </entry>
 </feed>
