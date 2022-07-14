@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-07-07</modified>
+  <modified>2022-07-14</modified>
+  <entry>
+    <title>Have a Beautiful Life</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1724.html"/>
+    <id>tag:stpeter.im,1724</id>
+    <issued>2022-07-14</issued>
+    <modified>2022-07-14</modified>
+    <summary>Last week I explored how we might apply Aristotle's ideas about ethical beauty to the "micro level" of specific virtues and particular situations. This week I'd like to see how we might apply the same basic insights to the "macro level" of living a beautiful life....</summary>
+  </entry>
   <entry>
     <title>Beautifully Right</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1723.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-06-16</issued>
     <modified>2022-06-16</modified>
     <summary>Positive psychology is sometimes perceived as putting a premium on pleasant experiences - what critics call "happiology". Yet just because pleasure is a positive experience doesn't mean it's the only positive experience!...</summary>
-  </entry>
-  <entry>
-    <title>The Soul of Stoicism</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1718.html"/>
-    <id>tag:stpeter.im,1718</id>
-    <issued>2022-06-09</issued>
-    <modified>2022-06-09</modified>
-    <summary>People sometimes ask me what I think about Stoicism (not the phenomenon of physical and emotional fortitude, which I would call stoicism with a small "s", but the Greco-Roman philosophical school that has undergone a recent revival). At the risk of alienating those of my readers who lean in the direction of Stoicism, I've decided to write a few blog posts on the topic, starting with this one....</summary>
   </entry>
 </feed>
