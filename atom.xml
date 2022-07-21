@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-07-14</modified>
+  <modified>2022-07-21</modified>
+  <entry>
+    <title>Both Sides, Now</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1725.html"/>
+    <id>tag:stpeter.im,1725</id>
+    <issued>2022-07-21</issued>
+    <modified>2022-07-21</modified>
+    <summary>You hear it all the time: "this is a topic that both sides can agree on" ... "both sides are to blame for this mess" ... "she is one of those rare people who appeals to both sides" ... and so on....</summary>
+  </entry>
   <entry>
     <title>Have a Beautiful Life</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1724.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-06-23</issued>
     <modified>2022-06-23</modified>
     <summary>My favorite quote from Henry David Thoreau runs as follows:...</summary>
-  </entry>
-  <entry>
-    <title>That Flourishing Feeling</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1719.html"/>
-    <id>tag:stpeter.im,1719</id>
-    <issued>2022-06-16</issued>
-    <modified>2022-06-16</modified>
-    <summary>Positive psychology is sometimes perceived as putting a premium on pleasant experiences - what critics call "happiology". Yet just because pleasure is a positive experience doesn't mean it's the only positive experience!...</summary>
   </entry>
 </feed>
