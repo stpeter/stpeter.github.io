@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-07-21</modified>
+  <modified>2022-07-28</modified>
+  <entry>
+    <title>Constraints</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1726.html"/>
+    <id>tag:stpeter.im,1726</id>
+    <issued>2022-07-28</issued>
+    <modified>2022-07-28</modified>
+    <summary>Recently I read two interesting quotes about the presence of constraints in life. The first was in a book of interviews on poetic structure entitled Fourteen on Form, in which one of the poets observed that students of his accustomed to writing free verse often didn't like writing in meter or rhyme because they couldn't say exactly what they wanted to say. The second was in an interview with the late, great jazz pianist and composer Lyle Mays, who said that you need to face some restrictions in order to stimulate creativity and have interesting problems to solve (you can hear the results in his final work, entitled Eberhard)....</summary>
+  </entry>
   <entry>
     <title>Both Sides, Now</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1725.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-06-30</issued>
     <modified>2022-06-30</modified>
     <summary>Almost ten years ago I wrote a blog post about my "to-don't list": the things that I deliberately don't do, such as watch TV, follow the news, go shopping for fun, or spend time on social media. In my experience sometimes it's relatively easy to cease such activities, but other times I need to substitute one activity for another....</summary>
-  </entry>
-  <entry>
-    <title>Socrates and Thoreau</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1720.html"/>
-    <id>tag:stpeter.im,1720</id>
-    <issued>2022-06-23</issued>
-    <modified>2022-06-23</modified>
-    <summary>My favorite quote from Henry David Thoreau runs as follows:...</summary>
   </entry>
 </feed>
