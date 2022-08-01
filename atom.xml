@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-07-28</modified>
+  <modified>2022-08-01</modified>
+  <entry>
+    <title>Mental Junk Food</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1727.html"/>
+    <id>tag:stpeter.im,1727</id>
+    <issued>2022-08-01</issued>
+    <modified>2022-08-01</modified>
+    <summary>These days every article, video, podcast, or tweet needs to scream for your attention. Even worse, much of what you're shown online is determined by algorithms that put a premium on popularity, which is itself driven by the all-too-human feelings of greed for sensation and fear of disaster. In this brave new world of ours, news is literally a form of mental junk food....</summary>
+  </entry>
   <entry>
     <title>Constraints</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1726.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-06-30</issued>
     <modified>2022-06-30</modified>
     <summary>Every year the RFC Editor publishes hundreds of technical specifications in the Request for Comments (RFC) Series. But who or what is the RFC Editor? Originally it was one person: Jon Postel. Over the years the editing and publishing role has expanded to include a team of people at the RFC Publishing Center (RPC). In addition, the policy aspects, along with day-to-day troubleshooting of contentious issues that arise during publication, have been handled by a person with the title of RFC Series Editor (RSE). These various roles and responsibilities have been looked after (at a high level, anyway) by the RFC Series Oversight Committee (RSOC), which reports to the Internet Architecture Board (IAB), which has had ultimate authority over the evolution of this model. If it sounds confusing and perhaps a little opaque, that's because it is. Therefore, over the last few years the IAB decided to revisit the underlying structure to improve transparency, clarify roles and responsibilities, and provide for greater community involvement. This work was completed through an open discussion process under the auspices of the IAB in the form of the RFC Editor Future Development Program. Because I'm a nice guy and because I'm good at helping to forge consensus, I volunteered to edit the Internet-Draft produced by this Program. The resulting document (of course it's an RFC, too!) has just been published as RFC 9280: RFC Editor Model (Version 3) - see my post at the IETF blog for more details....</summary>
-  </entry>
-  <entry>
-    <title>Substitutions</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1721.html"/>
-    <id>tag:stpeter.im,1721</id>
-    <issued>2022-06-30</issued>
-    <modified>2022-06-30</modified>
-    <summary>Almost ten years ago I wrote a blog post about my "to-don't list": the things that I deliberately don't do, such as watch TV, follow the news, go shopping for fun, or spend time on social media. In my experience sometimes it's relatively easy to cease such activities, but other times I need to substitute one activity for another....</summary>
   </entry>
 </feed>
