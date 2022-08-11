@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-08-04</modified>
+  <modified>2022-08-11</modified>
+  <entry>
+    <title>There's No Such Thing as the Mind</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1729.html"/>
+    <id>tag:stpeter.im,1729</id>
+    <issued>2022-08-11</issued>
+    <modified>2022-08-11</modified>
+    <summary>Not long ago, a friend recommended that I check out the work of Italian philosopher Maurizio Ferraris, so I promptly ordered his book Manifesto of New Realism via interlibrary loan. Overall it is a valiant attempt to dig out of the hole of postmodernism - valuable, at the very least, for those who have fallen into that particular hole in the first place. Ferraris identifies one aspect of the constraints I talked about recently, in the form of what he calls "unamendability" (i.e., the fact that some aspects of reality cannot be changed by human wishes and ideas). On page 35 of the English translation, he writes:...</summary>
+  </entry>
   <entry>
     <title>Controversies</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1728.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-07-14</issued>
     <modified>2022-07-14</modified>
     <summary>Last week I explored how we might apply Aristotle's ideas about ethical beauty to the "micro level" of specific virtues and particular situations. This week I'd like to see how we might apply the same basic insights to the "macro level" of living a beautiful life....</summary>
-  </entry>
-  <entry>
-    <title>Beautifully Right</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1723.html"/>
-    <id>tag:stpeter.im,1723</id>
-    <issued>2022-07-07</issued>
-    <modified>2022-07-07</modified>
-    <summary>I seem to have fallen into a natural rhythm of alternating my posts between lighter and heavier topics; last week I talked about substitutions, so this week I figured I'd delve into something I touched on last year: what Aristotle means by acting for the sake of what is beautifully right....</summary>
   </entry>
 </feed>
