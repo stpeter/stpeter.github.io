@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-08-11</modified>
+  <modified>2022-08-18</modified>
+  <entry>
+    <title>It's Values All the Way Down</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1730.html"/>
+    <id>tag:stpeter.im,1730</id>
+    <issued>2022-08-18</issued>
+    <modified>2022-08-18</modified>
+    <summary>One often hears the claim that science must be value-neutral, especially in social sciences like economics, psychology, and sociology. This claim is one instance of fact-value dualism: the doctrine that facts are facts, values are values, and never the twain shall meet. Another instance of this dualism is the assertion (traceable to British empiricist David Hume) that you can't derive an "ought" from an "is"....</summary>
+  </entry>
   <entry>
     <title>There's No Such Thing as the Mind</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1729.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-07-21</issued>
     <modified>2022-07-21</modified>
     <summary>You hear it all the time: "this is a topic that both sides can agree on" ... "both sides are to blame for this mess" ... "she is one of those rare people who appeals to both sides" ... and so on....</summary>
-  </entry>
-  <entry>
-    <title>Have a Beautiful Life</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1724.html"/>
-    <id>tag:stpeter.im,1724</id>
-    <issued>2022-07-14</issued>
-    <modified>2022-07-14</modified>
-    <summary>Last week I explored how we might apply Aristotle's ideas about ethical beauty to the "micro level" of specific virtues and particular situations. This week I'd like to see how we might apply the same basic insights to the "macro level" of living a beautiful life....</summary>
   </entry>
 </feed>
