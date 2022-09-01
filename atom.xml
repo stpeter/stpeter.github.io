@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-08-25</modified>
+  <modified>2022-09-01</modified>
+  <entry>
+    <title>Good Things Come in Threes</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1733.html"/>
+    <id>tag:stpeter.im,1733</id>
+    <issued>2022-09-01</issued>
+    <modified>2022-09-01</modified>
+    <summary>In my recent post "There's No Such Thing as the Mind", I expressed astonishment at a statement by Italian philosopher Maurizio Ferraris to the effect that one's body is part of the external world. This raises the question of what exactly is internal vs. external, and how to categorize the various good things we value in life....</summary>
+  </entry>
   <entry>
     <title>Thoughts, Actions, Values</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1732.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-08-04</issued>
     <modified>2022-08-04</modified>
     <summary>While reading the autobiography of Charles Darwin a few weeks ago, I came across the following passage:...</summary>
-  </entry>
-  <entry>
-    <title>Mental Junk Food</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1727.html"/>
-    <id>tag:stpeter.im,1727</id>
-    <issued>2022-08-01</issued>
-    <modified>2022-08-01</modified>
-    <summary>These days every article, video, podcast, or tweet needs to scream for your attention. Even worse, much of what you're shown online is determined by algorithms that put a premium on popularity, which is itself driven by the all-too-human feelings of greed for sensation and fear of disaster. In this brave new world of ours, news is literally a form of mental junk food....</summary>
   </entry>
 </feed>
