@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-09-01</modified>
+  <modified>2022-09-08</modified>
+  <entry>
+    <title>Means and Ends</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1734.html"/>
+    <id>tag:stpeter.im,1734</id>
+    <issued>2022-09-08</issued>
+    <modified>2022-09-08</modified>
+    <summary>Last week we looked at the distinction between internal goods, external goods, and shared goods. At that time I touched on a further distinction between means and ends in life. Here again Aristotle can be of assistance, because he discusses these matters in his two major books about character and action, which have come down to us as the Nicomachean Ethics and the Eudemian Ethics....</summary>
+  </entry>
   <entry>
     <title>Good Things Come in Threes</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1733.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-08-11</issued>
     <modified>2022-08-11</modified>
     <summary>Not long ago, a friend recommended that I check out the work of Italian philosopher Maurizio Ferraris, so I promptly ordered his book Manifesto of New Realism via interlibrary loan. Overall it is a valiant attempt to dig out of the hole of postmodernism - valuable, at the very least, for those who have fallen into that particular hole in the first place. Ferraris identifies one aspect of the constraints I talked about recently, in the form of what he calls "unamendability" (i.e., the fact that some aspects of reality cannot be changed by human wishes and ideas). On page 35 of the English translation, he writes:...</summary>
-  </entry>
-  <entry>
-    <title>Controversies</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1728.html"/>
-    <id>tag:stpeter.im,1728</id>
-    <issued>2022-08-04</issued>
-    <modified>2022-08-04</modified>
-    <summary>While reading the autobiography of Charles Darwin a few weeks ago, I came across the following passage:...</summary>
   </entry>
 </feed>
