@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-09-08</modified>
+  <modified>2022-09-15</modified>
+  <entry>
+    <title>Decisions Accumulate</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1735.html"/>
+    <id>tag:stpeter.im,1735</id>
+    <issued>2022-09-15</issued>
+    <modified>2022-09-15</modified>
+    <summary>In a recent post entitled "How a Business Wins", Arnold Kling made the following observation:...</summary>
+  </entry>
   <entry>
     <title>Means and Ends</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1734.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-08-18</issued>
     <modified>2022-08-18</modified>
     <summary>One often hears the claim that science must be value-neutral, especially in social sciences like economics, psychology, and sociology. This claim is one instance of fact-value dualism: the doctrine that facts are facts, values are values, and never the twain shall meet. Another instance of this dualism is the assertion (traceable to British empiricist David Hume) that you can't derive an "ought" from an "is"....</summary>
-  </entry>
-  <entry>
-    <title>There's No Such Thing as the Mind</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1729.html"/>
-    <id>tag:stpeter.im,1729</id>
-    <issued>2022-08-11</issued>
-    <modified>2022-08-11</modified>
-    <summary>Not long ago, a friend recommended that I check out the work of Italian philosopher Maurizio Ferraris, so I promptly ordered his book Manifesto of New Realism via interlibrary loan. Overall it is a valiant attempt to dig out of the hole of postmodernism - valuable, at the very least, for those who have fallen into that particular hole in the first place. Ferraris identifies one aspect of the constraints I talked about recently, in the form of what he calls "unamendability" (i.e., the fact that some aspects of reality cannot be changed by human wishes and ideas). On page 35 of the English translation, he writes:...</summary>
   </entry>
 </feed>
