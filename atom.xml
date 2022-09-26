@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-09-22</modified>
+  <modified>2022-09-25</modified>
+  <entry>
+    <title>What Is Philosophy For?</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1737.html"/>
+    <id>tag:stpeter.im,1737</id>
+    <issued>2022-09-25</issued>
+    <modified>2022-09-25</modified>
+    <summary>Occasionally one reads something so singularly misguided that it puts into stark relief a vital concern of human existence. In the case at hand, the vital concern is the place of philosophy in the best life for human beings and the piece of writing is a scholarly paper published just last week by philosopher Hanno Sauer, entitled "The End of History."...</summary>
+  </entry>
   <entry>
     <title>Exploring Philosophies</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1736.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-08-25</issued>
     <modified>2022-08-25</modified>
     <summary>Aristotle's Nicomachean Ethics famously begins with the following sentence (as translated by W.D. Ross):...</summary>
-  </entry>
-  <entry>
-    <title>Meditations on Bach #11: Mocha 5 Bass</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1731.html"/>
-    <id>tag:stpeter.im,1731</id>
-    <issued>2022-08-23</issued>
-    <modified>2022-08-23</modified>
-    <summary>I'm delighted to report that today I took delivery of a custom-made Symphony electric bass from Stradi Basses in Poland. It is absolutely gorgeous, sounds wonderful, and plays beautifully! Luthier Marek Dąbek was a dream to work with and he met all of my requirements with true craftsmanship and creativity, building with the expert assistance of his wife Agnieska an instrument we're calling the "Mocha 5". I now have a magnificent five-string bass, natively tuned in fifths using custom strings by Italian string maker Galli, that will provide a strong foundation for my transcriptions of the Bach Cello Suites (as well as some original solo bass pieces I'm composing). Wow! Thank you, Marek and Agnieska!...</summary>
   </entry>
 </feed>
