@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-09-25</modified>
+  <modified>2022-09-29</modified>
+  <entry>
+    <title>Virtues: One or Many?</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1738.html"/>
+    <id>tag:stpeter.im,1738</id>
+    <issued>2022-09-29</issued>
+    <modified>2022-09-29</modified>
+    <summary>In a post last week about the value of studying multiple philosophies, I observed that I have not read much Christian theology. As if on queue, I decided to read Augustine's Of the Morals of the Catholic Church, written in 388 CE. The impetus was a footnote on page 179 of Daniel C. Russell's book Practical Intelligence and the Virtues, where he said that he would not consider non-secular arguments for the unity of the virtues, such as Augustine's argument that there really is only one virtue, which is the love of God....</summary>
+  </entry>
   <entry>
     <title>What Is Philosophy For?</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1737.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-09-01</issued>
     <modified>2022-09-01</modified>
     <summary>In my recent post "There's No Such Thing as the Mind", I expressed astonishment at a statement by Italian philosopher Maurizio Ferraris to the effect that one's body is part of the external world. This raises the question of what exactly is internal vs. external, and how to categorize the various good things we value in life....</summary>
-  </entry>
-  <entry>
-    <title>Thoughts, Actions, Values</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1732.html"/>
-    <id>tag:stpeter.im,1732</id>
-    <issued>2022-08-25</issued>
-    <modified>2022-08-25</modified>
-    <summary>Aristotle's Nicomachean Ethics famously begins with the following sentence (as translated by W.D. Ross):...</summary>
   </entry>
 </feed>
