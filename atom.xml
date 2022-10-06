@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-09-29</modified>
+  <modified>2022-10-06</modified>
+  <entry>
+    <title>Thinking Forward</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1739.html"/>
+    <id>tag:stpeter.im,1739</id>
+    <issued>2022-10-06</issued>
+    <modified>2022-10-06</modified>
+    <summary>Much of what makes human beings distinctive is what Jacob Bronowski called "a sense of the future" (in addition to his old book by that name, see also more recently Homo Prospectus by Seligman, Railton, Baumeister, and Sripada). Certainly most animals can think at least a few minutes or maybe hours in advance, but they're not actively planning months or years ahead of time as humans can. Yet, perhaps under the influence of modern science, our conception of our intellectual capacities is often retrospective: reason is thought to be a faculty that formulates accurate conclusions and stable laws from the evidence we have painfully gathered in the past through induction, experiment, and the like....</summary>
+  </entry>
   <entry>
     <title>Virtues: One or Many?</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1738.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-09-08</issued>
     <modified>2022-09-08</modified>
     <summary>Last week we looked at the distinction between internal goods, external goods, and shared goods. At that time I touched on a further distinction between means and ends in life. Here again Aristotle can be of assistance, because he discusses these matters in his two major books about character and action, which have come down to us as the Nicomachean Ethics and the Eudemian Ethics....</summary>
-  </entry>
-  <entry>
-    <title>Good Things Come in Threes</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1733.html"/>
-    <id>tag:stpeter.im,1733</id>
-    <issued>2022-09-01</issued>
-    <modified>2022-09-01</modified>
-    <summary>In my recent post "There's No Such Thing as the Mind", I expressed astonishment at a statement by Italian philosopher Maurizio Ferraris to the effect that one's body is part of the external world. This raises the question of what exactly is internal vs. external, and how to categorize the various good things we value in life....</summary>
   </entry>
 </feed>
