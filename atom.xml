@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-10-13</modified>
+  <modified>2022-10-20</modified>
+  <entry>
+    <title>Know Thyself</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1741.html"/>
+    <id>tag:stpeter.im,1741</id>
+    <issued>2022-10-20</issued>
+    <modified>2022-10-20</modified>
+    <summary>The saying γνῶθι σαυτόν ("know thyself") was prominently displayed at the temple of Delphi, where ancient Greeks, Romans, Persians, and others sought answers to their most pressing questions. Yet what is it exactly to know thyself? Essential clues can be found in an obscure little book published in 1916: "Know Thyself" in Greek and Latin Literature, in which Eliza Gregory Wilkins collected almost all mentions of the maxim up until the fall of Rome....</summary>
+  </entry>
   <entry>
     <title>Agreement Is Overrated</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1740.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-09-22</issued>
     <modified>2022-09-22</modified>
     <summary>In his magisterial cultural history of the last 500 years (From Dawn to Decadence), the late Jacques Barzun wrote as follows about the study of history (pp. 568-569):...</summary>
-  </entry>
-  <entry>
-    <title>Decisions Accumulate</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1735.html"/>
-    <id>tag:stpeter.im,1735</id>
-    <issued>2022-09-15</issued>
-    <modified>2022-09-15</modified>
-    <summary>In a recent post entitled "How a Business Wins", Arnold Kling made the following observation:...</summary>
   </entry>
 </feed>
