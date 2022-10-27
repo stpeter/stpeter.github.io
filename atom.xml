@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-10-20</modified>
+  <modified>2022-10-27</modified>
+  <entry>
+    <title>Become What You Are</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1742.html"/>
+    <id>tag:stpeter.im,1742</id>
+    <issued>2022-10-27</issued>
+    <modified>2022-10-27</modified>
+    <summary>Following on our investigation last week of the ancient Greek maxim "Know Thyself", I thought it might be interesting to explain another Greek phrase that has gained currency in recent times: "Become What You Are"....</summary>
+  </entry>
   <entry>
     <title>Know Thyself</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1741.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-09-25</issued>
     <modified>2022-09-25</modified>
     <summary>Occasionally one reads something so singularly misguided that it puts into stark relief a vital concern of human existence. In the case at hand, the vital concern is the place of philosophy in the best life for human beings and the piece of writing is a scholarly paper published just last week by philosopher Hanno Sauer, entitled "The End of History."...</summary>
-  </entry>
-  <entry>
-    <title>Exploring Philosophies</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1736.html"/>
-    <id>tag:stpeter.im,1736</id>
-    <issued>2022-09-22</issued>
-    <modified>2022-09-22</modified>
-    <summary>In his magisterial cultural history of the last 500 years (From Dawn to Decadence), the late Jacques Barzun wrote as follows about the study of history (pp. 568-569):...</summary>
   </entry>
 </feed>
