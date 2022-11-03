@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-10-27</modified>
+  <modified>2022-11-03</modified>
+  <entry>
+    <title>The True Self</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1743.html"/>
+    <id>tag:stpeter.im,1743</id>
+    <issued>2022-11-03</issued>
+    <modified>2022-11-03</modified>
+    <summary>When we delved into the ancient Greek maxim "Know Thyself" recently, I promised to look more closely at the recent notion of the true self, so here we go....</summary>
+  </entry>
   <entry>
     <title>Become What You Are</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1742.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-09-29</issued>
     <modified>2022-09-29</modified>
     <summary>In a post last week about the value of studying multiple philosophies, I observed that I have not read much Christian theology. As if on queue, I decided to read Augustine's Of the Morals of the Catholic Church, written in 388 CE. The impetus was a footnote on page 179 of Daniel C. Russell's book Practical Intelligence and the Virtues, where he said that he would not consider non-secular arguments for the unity of the virtues, such as Augustine's argument that there really is only one virtue, which is the love of God....</summary>
-  </entry>
-  <entry>
-    <title>What Is Philosophy For?</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1737.html"/>
-    <id>tag:stpeter.im,1737</id>
-    <issued>2022-09-25</issued>
-    <modified>2022-09-25</modified>
-    <summary>Occasionally one reads something so singularly misguided that it puts into stark relief a vital concern of human existence. In the case at hand, the vital concern is the place of philosophy in the best life for human beings and the piece of writing is a scholarly paper published just last week by philosopher Hanno Sauer, entitled "The End of History."...</summary>
   </entry>
 </feed>
