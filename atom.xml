@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-11-03</modified>
+  <modified>2022-11-10</modified>
+  <entry>
+    <title>How Wise Was Socrates?</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1744.html"/>
+    <id>tag:stpeter.im,1744</id>
+    <issued>2022-11-10</issued>
+    <modified>2022-11-10</modified>
+    <summary>Did you know that Socrates' 2500th birthday will occur in 2032? Lately I've been pondering the possibility of writing by then an intellectual biography of Socrates....</summary>
+  </entry>
   <entry>
     <title>The True Self</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1743.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-10-06</issued>
     <modified>2022-10-06</modified>
     <summary>Much of what makes human beings distinctive is what Jacob Bronowski called "a sense of the future" (in addition to his old book by that name, see also more recently Homo Prospectus by Seligman, Railton, Baumeister, and Sripada). Certainly most animals can think at least a few minutes or maybe hours in advance, but they're not actively planning months or years ahead of time as humans can. Yet, perhaps under the influence of modern science, our conception of our intellectual capacities is often retrospective: reason is thought to be a faculty that formulates accurate conclusions and stable laws from the evidence we have painfully gathered in the past through induction, experiment, and the like....</summary>
-  </entry>
-  <entry>
-    <title>Virtues: One or Many?</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1738.html"/>
-    <id>tag:stpeter.im,1738</id>
-    <issued>2022-09-29</issued>
-    <modified>2022-09-29</modified>
-    <summary>In a post last week about the value of studying multiple philosophies, I observed that I have not read much Christian theology. As if on queue, I decided to read Augustine's Of the Morals of the Catholic Church, written in 388 CE. The impetus was a footnote on page 179 of Daniel C. Russell's book Practical Intelligence and the Virtues, where he said that he would not consider non-secular arguments for the unity of the virtues, such as Augustine's argument that there really is only one virtue, which is the love of God....</summary>
   </entry>
 </feed>
