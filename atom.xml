@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-11-10</modified>
+  <modified>2022-11-17</modified>
+  <entry>
+    <title>Moderation</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1745.html"/>
+    <id>tag:stpeter.im,1745</id>
+    <issued>2022-11-17</issued>
+    <modified>2022-11-17</modified>
+    <summary>First, happy World Philosophy Day!...</summary>
+  </entry>
   <entry>
     <title>How Wise Was Socrates?</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1744.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-10-13</issued>
     <modified>2022-10-13</modified>
     <summary>How many times has a friend sent you a link to an essay with the proviso "I don't agree with everything this person says, but it's worth reading"? I used to do that, too, but then I reflected on whether intellectual agreement is truly important, and I concluded that it's not....</summary>
-  </entry>
-  <entry>
-    <title>Thinking Forward</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1739.html"/>
-    <id>tag:stpeter.im,1739</id>
-    <issued>2022-10-06</issued>
-    <modified>2022-10-06</modified>
-    <summary>Much of what makes human beings distinctive is what Jacob Bronowski called "a sense of the future" (in addition to his old book by that name, see also more recently Homo Prospectus by Seligman, Railton, Baumeister, and Sripada). Certainly most animals can think at least a few minutes or maybe hours in advance, but they're not actively planning months or years ahead of time as humans can. Yet, perhaps under the influence of modern science, our conception of our intellectual capacities is often retrospective: reason is thought to be a faculty that formulates accurate conclusions and stable laws from the evidence we have painfully gathered in the past through induction, experiment, and the like....</summary>
   </entry>
 </feed>
