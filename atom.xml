@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-11-17</modified>
+  <modified>2022-11-23</modified>
+  <entry>
+    <title>Political Moderation</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1746.html"/>
+    <id>tag:stpeter.im,1746</id>
+    <issued>2022-11-23</issued>
+    <modified>2022-11-23</modified>
+    <summary>Here in America we've survived another national election (yet again the most momentous in our history!), so following up on my post last week about moderation it seems timely to offer a few reflections on political and ideological moderation....</summary>
+  </entry>
   <entry>
     <title>Moderation</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1745.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-10-20</issued>
     <modified>2022-10-20</modified>
     <summary>The saying γνῶθι σαυτόν ("know thyself") was prominently displayed at the temple of Delphi, where ancient Greeks, Romans, Persians, and others sought answers to their most pressing questions. Yet what is it exactly to know thyself? Essential clues can be found in an obscure little book published in 1916: "Know Thyself" in Greek and Latin Literature, in which Eliza Gregory Wilkins collected almost all mentions of the maxim up until the fall of Rome....</summary>
-  </entry>
-  <entry>
-    <title>Agreement Is Overrated</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1740.html"/>
-    <id>tag:stpeter.im,1740</id>
-    <issued>2022-10-13</issued>
-    <modified>2022-10-13</modified>
-    <summary>How many times has a friend sent you a link to an essay with the proviso "I don't agree with everything this person says, but it's worth reading"? I used to do that, too, but then I reflected on whether intellectual agreement is truly important, and I concluded that it's not....</summary>
   </entry>
 </feed>
