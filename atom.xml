@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-11-23</modified>
+  <modified>2022-11-29</modified>
+  <entry>
+    <title>What is the Job of a News Story?</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1747.html"/>
+    <id>tag:stpeter.im,1747</id>
+    <issued>2022-11-29</issued>
+    <modified>2022-11-29</modified>
+    <summary>In the last few months I've blatantly but deliberately gone off my low-information diet - not because I suddenly feel a need to be highly informed, but because I'm advising Otherweb, a startup that aims to fix the world's information ecosystem by presenting only those news stories that are provably lacking in sensationalistic language, partisan fervor, and other manipulative techniques. (Check it out!)...</summary>
+  </entry>
   <entry>
     <title>Political Moderation</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1746.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-10-27</issued>
     <modified>2022-10-27</modified>
     <summary>Following on our investigation last week of the ancient Greek maxim "Know Thyself", I thought it might be interesting to explain another Greek phrase that has gained currency in recent times: "Become What You Are"....</summary>
-  </entry>
-  <entry>
-    <title>Know Thyself</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1741.html"/>
-    <id>tag:stpeter.im,1741</id>
-    <issued>2022-10-20</issued>
-    <modified>2022-10-20</modified>
-    <summary>The saying γνῶθι σαυτόν ("know thyself") was prominently displayed at the temple of Delphi, where ancient Greeks, Romans, Persians, and others sought answers to their most pressing questions. Yet what is it exactly to know thyself? Essential clues can be found in an obscure little book published in 1916: "Know Thyself" in Greek and Latin Literature, in which Eliza Gregory Wilkins collected almost all mentions of the maxim up until the fall of Rome....</summary>
   </entry>
 </feed>
