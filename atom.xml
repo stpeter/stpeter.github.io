@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-11-29</modified>
+  <modified>2022-11-30</modified>
+  <entry>
+    <title>RFC 9325: TLS Recommendations</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1748.html"/>
+    <id>tag:stpeter.im,1748</id>
+    <issued>2022-11-30</issued>
+    <modified>2022-11-30</modified>
+    <summary>Back in 2015, I co-authored an IETF specification (RFC 7525) describing best practices for the use of Transport Layer Security (TLS) on the Internet. Much has happened since then: new security vulnerabilities, new deployment scenarios, and especially a new version of the TLS protocol (RFC 8446, published in August 2018). Thus it was time for us to define updated recommendations, which Yaron Sheffer, Thomas Fossati, and I have just done in RFC 9325. For more detailed information about the changes we made, take a few minutes to read Yaron's blog post....</summary>
+  </entry>
   <entry>
     <title>What Is the Job of a News Story?</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1747.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-11-03</issued>
     <modified>2022-11-03</modified>
     <summary>When we delved into the ancient Greek phrases "Know Thyself" and "Become What You Are" recently, I promised to look more closely at the recent notion of the true self, so here we go....</summary>
-  </entry>
-  <entry>
-    <title>Become What You Are</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1742.html"/>
-    <id>tag:stpeter.im,1742</id>
-    <issued>2022-10-27</issued>
-    <modified>2022-10-27</modified>
-    <summary>Following on our investigation last week of the ancient Greek maxim "Know Thyself", I thought it might be interesting to explain another Greek phrase that has gained currency in recent times: "Become What You Are"....</summary>
   </entry>
 </feed>
