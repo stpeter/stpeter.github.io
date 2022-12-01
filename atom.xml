@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-11-30</modified>
+  <modified>2022-12-01</modified>
+  <entry>
+    <title>Can a Nietzschean Be a Feminist?</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1749.html"/>
+    <id>tag:stpeter.im,1749</id>
+    <issued>2022-12-01</issued>
+    <modified>2022-12-01</modified>
+    <summary>In one of my earliest blog posts (written in 1996!), I explained why I'm a female chauvinist. This attitude can be hard to square with my mostly positive perspective on Friedrich Nietzsche, which I explored in my book Songs of Zarathustra. After all, Nietzsche is notorious for spewing vitriol and venom regarding the role of women in modern society. Unfortunately, this is something that his admirers often prefer to sweep under the rug....</summary>
+  </entry>
   <entry>
     <title>RFC 9325: TLS Recommendations</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1748.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-11-10</issued>
     <modified>2022-11-10</modified>
     <summary>Did you know that Socrates' 2500th birthday will occur in 2032? Lately I've been pondering the possibility of writing by then an intellectual biography of Socrates....</summary>
-  </entry>
-  <entry>
-    <title>The True Self</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1743.html"/>
-    <id>tag:stpeter.im,1743</id>
-    <issued>2022-11-03</issued>
-    <modified>2022-11-03</modified>
-    <summary>When we delved into the ancient Greek phrases "Know Thyself" and "Become What You Are" recently, I promised to look more closely at the recent notion of the true self, so here we go....</summary>
   </entry>
 </feed>
