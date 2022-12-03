@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-12-01</modified>
+  <modified>2022-12-02</modified>
+  <entry>
+    <title>The Mathematics of Freedom</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1750.html"/>
+    <id>tag:stpeter.im,1750</id>
+    <issued>2022-12-02</issued>
+    <modified>2022-12-02</modified>
+    <summary>While reading about the recent protests in China against the government's Zero Covid policy (and, more generally, the totalitarian surveillance state established by the Chinese Communist Party), I was reminded of a fascinating quote from logician Kurt Gödel extending the results of his Incompleteness Theorem to matters of society and governance:...</summary>
+  </entry>
   <entry>
     <title>Can a Nietzschean Be a Feminist?</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1749.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-11-17</issued>
     <modified>2022-11-17</modified>
     <summary>First, happy World Philosophy Day!...</summary>
-  </entry>
-  <entry>
-    <title>How Wise Was Socrates?</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1744.html"/>
-    <id>tag:stpeter.im,1744</id>
-    <issued>2022-11-10</issued>
-    <modified>2022-11-10</modified>
-    <summary>Did you know that Socrates' 2500th birthday will occur in 2032? Lately I've been pondering the possibility of writing by then an intellectual biography of Socrates....</summary>
   </entry>
 </feed>
