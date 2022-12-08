@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-12-02</modified>
+  <modified>2022-12-08</modified>
+  <entry>
+    <title>Effective Altruism and Ineffective Egoism</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1751.html"/>
+    <id>tag:stpeter.im,1751</id>
+    <issued>2022-12-08</issued>
+    <modified>2022-12-08</modified>
+    <summary>The collapse of Sam Bankman-Fried's crypto empire at FTX and Alameda Research has cast a shadow over the "effective altruism" movement, of which he was a major financer. Ironically, I would argue that in the end he failed at altruism because he was an ineffective egoist!...</summary>
+  </entry>
   <entry>
     <title>The Mathematics of Freedom</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1750.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-11-23</issued>
     <modified>2022-11-23</modified>
     <summary>Here in America we've survived another national election (yet again the most momentous in our history!), so following up on my post last week about moderation it seems timely to offer a few reflections on political and ideological moderation....</summary>
-  </entry>
-  <entry>
-    <title>Moderation</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1745.html"/>
-    <id>tag:stpeter.im,1745</id>
-    <issued>2022-11-17</issued>
-    <modified>2022-11-17</modified>
-    <summary>First, happy World Philosophy Day!...</summary>
   </entry>
 </feed>
