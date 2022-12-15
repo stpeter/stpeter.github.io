@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-12-08</modified>
+  <modified>2022-12-15</modified>
+  <entry>
+    <title>The Inner Revolution</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1752.html"/>
+    <id>tag:stpeter.im,1752</id>
+    <issued>2022-12-15</issued>
+    <modified>2022-12-15</modified>
+    <summary>One of the key themes of Tolstoy's War and Peace (which I'm currently reading for the first time) is self-deception. The reader quickly perceives that Nikolai Rostov, Andrei Bolkonsky, and many other characters are fooling themselves about their own worth, thoughts, and actions. There is a connection here to a famous quote from Tolstoy:...</summary>
+  </entry>
   <entry>
     <title>Effective Altruism and Ineffective Egoism</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1751.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-11-29</issued>
     <modified>2022-11-29</modified>
     <summary>Over the last few months I've blatantly but deliberately gone off my low-information diet - not because I suddenly feel a need to be highly informed, but because I'm advising Otherweb, a startup that aims to fix the world's information ecosystem by presenting only those news stories that are provably lacking in sensationalistic language, partisan fervor, and other manipulative techniques. (Check it out!)...</summary>
-  </entry>
-  <entry>
-    <title>Political Moderation</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1746.html"/>
-    <id>tag:stpeter.im,1746</id>
-    <issued>2022-11-23</issued>
-    <modified>2022-11-23</modified>
-    <summary>Here in America we've survived another national election (yet again the most momentous in our history!), so following up on my post last week about moderation it seems timely to offer a few reflections on political and ideological moderation....</summary>
   </entry>
 </feed>
