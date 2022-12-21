@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-12-15</modified>
+  <modified>2022-12-21</modified>
+  <entry>
+    <title>Approaching Excellence</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1753.html"/>
+    <id>tag:stpeter.im,1753</id>
+    <issued>2022-12-21</issued>
+    <modified>2022-12-21</modified>
+    <summary>Aristotle is famous for his so-called doctrine of the mean: a particular excellence of character is not the opposite of a single fault (e.g., courage vs. cowardice) but is intermediate between excess and defect (e.g., courage is opposed to both rashness and cowardice). Although some scholars never go deeper than this surface understanding, as I see it "that which is intermediate" (τὸ μέσον) is merely a first approximation to excellence, because there's an awful lot of space in the middle between going far beyond the mean and falling far short of it....</summary>
+  </entry>
   <entry>
     <title>The Inner Revolution</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1752.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-11-30</issued>
     <modified>2022-11-30</modified>
     <summary>Back in 2015, I co-authored an IETF specification (RFC 7525) describing best practices for the use of Transport Layer Security (TLS) on the Internet. Much has happened since then: new security vulnerabilities, new deployment scenarios, and especially a new version of the TLS protocol (RFC 8446, published in August 2018). Thus it was time for us to define updated recommendations, which Yaron Sheffer, Thomas Fossati, and I have just done in RFC 9325. For more detailed information about the changes we made, take a few minutes to read Yaron's blog post....</summary>
-  </entry>
-  <entry>
-    <title>What Is the Job of a News Story?</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1747.html"/>
-    <id>tag:stpeter.im,1747</id>
-    <issued>2022-11-29</issued>
-    <modified>2022-11-29</modified>
-    <summary>Over the last few months I've blatantly but deliberately gone off my low-information diet - not because I suddenly feel a need to be highly informed, but because I'm advising Otherweb, a startup that aims to fix the world's information ecosystem by presenting only those news stories that are provably lacking in sensationalistic language, partisan fervor, and other manipulative techniques. (Check it out!)...</summary>
   </entry>
 </feed>
