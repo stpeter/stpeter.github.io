@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-12-21</modified>
+  <modified>2021-12-26</modified>
+  <entry>
+    <title>Monadnock Valley Press Annual Report 2022</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1754.html"/>
+    <id>tag:stpeter.im,1754</id>
+    <issued>2021-12-26</issued>
+    <modified>2021-12-26</modified>
+    <summary>This was a big year for uploading public-domain works to the Monadnock Valley Press - likely the biggest year since I founded the site in 2008. Indeed, I republished works by 50 authors: Dante Alighieri, Aristotle, Matthew Arnold, Jane Austen, John Burroughs, Thomas Campion, Willa Cather, Joseph Conrad, William Cowper, Frederick Douglass, John Dryden, George Eliot, E.M. Forster, Robert Herrick, Hesiod, Robert Hillyer, Langston Hughes, David Hume, Henrik Ibsen, William James, Robinson Jeffers, Ben Jonson, Emma Lazarus, Henry Wadsworth Longfellow, Lucretius, Christopher Marlowe, Herman Melville, John Stuart Mill, John Milton, Michel de Montaigne, Kakuzo Okakura, Richard Overton, Walter Pater, Plutarch, Sir Walter Raleigh, Laura Riding, Edwin Arlington Robinson, Bertrand Russell, William Shakespeare, Sophocles, Baruch Spinoza, Wallace Stevens, Sara Teasdale, Henry David Thoreau, Leo Tolstoy, Virgil, Voltaire, George Washington, John Greenleaf Whittier, and Xenophon. Whew!...</summary>
+  </entry>
   <entry>
     <title>Approaching Excellence</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1753.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-12-01</issued>
     <modified>2022-12-01</modified>
     <summary>In one of my earliest blog posts (written in 1996!), I explained why I'm a female chauvinist. This attitude can be hard to square with my mostly positive perspective on Friedrich Nietzsche, which I explored in my book Songs of Zarathustra. After all, Nietzsche is notorious for spewing vitriol and venom regarding the role of women in modern society. Unfortunately, this is something that his admirers often prefer to sweep under the rug....</summary>
-  </entry>
-  <entry>
-    <title>RFC 9325: TLS Recommendations</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1748.html"/>
-    <id>tag:stpeter.im,1748</id>
-    <issued>2022-11-30</issued>
-    <modified>2022-11-30</modified>
-    <summary>Back in 2015, I co-authored an IETF specification (RFC 7525) describing best practices for the use of Transport Layer Security (TLS) on the Internet. Much has happened since then: new security vulnerabilities, new deployment scenarios, and especially a new version of the TLS protocol (RFC 8446, published in August 2018). Thus it was time for us to define updated recommendations, which Yaron Sheffer, Thomas Fossati, and I have just done in RFC 9325. For more detailed information about the changes we made, take a few minutes to read Yaron's blog post....</summary>
   </entry>
 </feed>
