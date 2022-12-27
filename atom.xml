@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-12-26</modified>
+  <modified>2022-12-27</modified>
+  <entry>
+    <title>2022 Readings</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1755.html"/>
+    <id>tag:stpeter.im,1755</id>
+    <issued>2022-12-27</issued>
+    <modified>2022-12-27</modified>
+    <summary>Here are the eighty-odd books I chanced to read in 2022, with links to ones in the public domain that I've posted in full or in part at my Monadnock site. Right I'm also a third of the way through War and Peace, but there's no way I'll finish it by the end of the year......</summary>
+  </entry>
   <entry>
     <title>Monadnock Valley Press Annual Report 2022</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1754.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-12-02</issued>
     <modified>2022-12-02</modified>
     <summary>While reading about the recent protests in China against the government's Zero Covid policy (and, more generally, the totalitarian surveillance state established by the Chinese Communist Party), I was reminded of a fascinating quote from logician Kurt Gödel extending the results of his Incompleteness Theorem to matters of society and governance:...</summary>
-  </entry>
-  <entry>
-    <title>Can a Nietzschean Be a Feminist?</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1749.html"/>
-    <id>tag:stpeter.im,1749</id>
-    <issued>2022-12-01</issued>
-    <modified>2022-12-01</modified>
-    <summary>In one of my earliest blog posts (written in 1996!), I explained why I'm a female chauvinist. This attitude can be hard to square with my mostly positive perspective on Friedrich Nietzsche, which I explored in my book Songs of Zarathustra. After all, Nietzsche is notorious for spewing vitriol and venom regarding the role of women in modern society. Unfortunately, this is something that his admirers often prefer to sweep under the rug....</summary>
   </entry>
 </feed>
