@@ -9,14 +9,22 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-12-27</modified>
+  <modified>2022-01-05</modified>
+  <entry>
+    <title>Goodness Trumps Uniqueness</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1756.html"/>
+    <id>tag:stpeter.im,1756</id>
+    <issued>2022-01-05</issued>
+    <modified>2022-01-05</modified>
+    <summary>Advocates of modern eudaimonism and the "true self" place great value on individual uniqueness. Consider David L. Norton in his 1976 book Personal Destinies (p. 16):...</summary>
+  </entry>
   <entry>
     <title>2022 Readings</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1755.html"/>
     <id>tag:stpeter.im,1755</id>
     <issued>2022-12-27</issued>
     <modified>2022-12-27</modified>
-    <summary>Here are the eighty-odd books I chanced to read in 2022, with links to ones in the public domain that I've posted in full or in part at my Monadnock site. Right I'm also a third of the way through War and Peace, but there's no way I'll finish it by the end of the year......</summary>
+    <summary>Here are the eighty-odd books I chanced to read in 2022, with links to ones in the public domain that I've posted in full or in part at my Monadnock site. Right now I'm also a third of the way through War and Peace, but there's no way I'll finish it by the end of the year......</summary>
   </entry>
   <entry>
     <title>Monadnock Valley Press Annual Report 2022</title>
@@ -49,13 +57,5 @@
     <issued>2022-12-08</issued>
     <modified>2022-12-08</modified>
     <summary>The collapse of Sam Bankman-Fried's crypto empire at FTX and Alameda Research has cast a shadow over the "effective altruism" movement, of which he was a major financer. Ironically, I would argue that in the end he failed at altruism because he was an ineffective egoist!...</summary>
-  </entry>
-  <entry>
-    <title>The Mathematics of Freedom</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1750.html"/>
-    <id>tag:stpeter.im,1750</id>
-    <issued>2022-12-02</issued>
-    <modified>2022-12-02</modified>
-    <summary>While reading about the recent protests in China against the government's Zero Covid policy (and, more generally, the totalitarian surveillance state established by the Chinese Communist Party), I was reminded of a fascinating quote from logician Kurt Gödel extending the results of his Incompleteness Theorem to matters of society and governance:...</summary>
   </entry>
 </feed>
