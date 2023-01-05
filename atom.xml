@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-12-29</modified>
+  <modified>2023-01-05</modified>
+  <entry>
+    <title>Growing into One's Nature</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1757.html"/>
+    <id>tag:stpeter.im,1757</id>
+    <issued>2023-01-05</issued>
+    <modified>2023-01-05</modified>
+    <summary>Existentialist philosophers insist on the ability - indeed, the responsibility - for human beings to create themselves. This is the import of Sartre's famous formulation "existence precedes essence": there is no human essence, and if you believe so then you are engaging in "bad faith" and living inauthentically....</summary>
+  </entry>
   <entry>
     <title>Goodness Trumps Uniqueness</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1756.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-12-15</issued>
     <modified>2022-12-15</modified>
     <summary>One of the key themes of Tolstoy's War and Peace (which I'm currently reading for the first time) is self-deception. The reader quickly perceives that Nikolai Rostov, Andrei Bolkonsky, and many other characters are fooling themselves about their own worth, thoughts, and actions. There is a connection here to a famous quote from Tolstoy:...</summary>
-  </entry>
-  <entry>
-    <title>Effective Altruism and Ineffective Egoism</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1751.html"/>
-    <id>tag:stpeter.im,1751</id>
-    <issued>2022-12-08</issued>
-    <modified>2022-12-08</modified>
-    <summary>The collapse of Sam Bankman-Fried's crypto empire at FTX and Alameda Research has cast a shadow over the "effective altruism" movement, of which he was a major financer. Ironically, I would argue that in the end he failed at altruism because he was an ineffective egoist!...</summary>
   </entry>
 </feed>
