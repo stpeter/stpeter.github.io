@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-01-05</modified>
+  <modified>2023-01-12</modified>
+  <entry>
+    <title>Metaphysics in Verse</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1758.html"/>
+    <id>tag:stpeter.im,1758</id>
+    <issued>2023-01-12</issued>
+    <modified>2023-01-12</modified>
+    <summary>One of the things I do to avoid exposure to the news is immerse myself in poetry. Most recently I've been reading English and American poets from the 1500s and 1600s, such as Anne Bradstreet, Samuel Daniel, and Thomas Traherne. At the same time, I've started an intensive re-reading of Aristotelian texts and commentary in preparation for writing an epitome of Aristotle's views on human flourishing. Putting the two together can yield some intriguing combinations!...</summary>
+  </entry>
   <entry>
     <title>Growing into One's Nature</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1757.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-12-21</issued>
     <modified>2022-12-21</modified>
     <summary>Aristotle is famous for his so-called doctrine of the mean: a particular excellence of character is not the opposite of a single fault (e.g., courage vs. cowardice) but is intermediate between excess and defect (e.g., courage is opposed to both rashness and cowardice). Although some scholars never go deeper than this surface understanding, as I see it "that which is intermediate" (τὸ μέσον) is merely a first approximation to excellence, because there's an awful lot of space in the middle between going far beyond the mean and falling far short of it....</summary>
-  </entry>
-  <entry>
-    <title>The Inner Revolution</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1752.html"/>
-    <id>tag:stpeter.im,1752</id>
-    <issued>2022-12-15</issued>
-    <modified>2022-12-15</modified>
-    <summary>One of the key themes of Tolstoy's War and Peace (which I'm currently reading for the first time) is self-deception. The reader quickly perceives that Nikolai Rostov, Andrei Bolkonsky, and many other characters are fooling themselves about their own worth, thoughts, and actions. There is a connection here to a famous quote from Tolstoy:...</summary>
   </entry>
 </feed>
