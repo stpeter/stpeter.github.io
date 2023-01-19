@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-01-12</modified>
+  <modified>2023-01-19</modified>
+  <entry>
+    <title>The Seven Pillars of Friendship</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1760.html"/>
+    <id>tag:stpeter.im,1760</id>
+    <issued>2023-01-19</issued>
+    <modified>2023-01-19</modified>
+    <summary>Love, friendship, and other close personal relationships have been ill-served in the philosophical literature. Aside from Aristotle's foundational discussion and the occasional essay by the likes of Montaigne, Bacon, and Emerson, few philosophers have contributed deep insights to human relationships. This is disappointing, because as Aristotle observed 2400 years ago we are social creatures for whom close personal relationships are fundamental to our way of life....</summary>
+  </entry>
   <entry>
     <title>Best Self vs. True Self</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1759.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-12-27</issued>
     <modified>2022-12-27</modified>
     <summary>Here are the eighty-odd books I chanced to read in 2022, with links to ones in the public domain that I've posted in full or in part at my Monadnock site. Right now I'm also a third of the way through War and Peace, but there's no way I'll finish it by the end of the year......</summary>
-  </entry>
-  <entry>
-    <title>Monadnock Valley Press Annual Report 2022</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1754.html"/>
-    <id>tag:stpeter.im,1754</id>
-    <issued>2022-12-26</issued>
-    <modified>2022-12-26</modified>
-    <summary>This was a big year for uploading public-domain works to the Monadnock Valley Press - likely the biggest year since I founded the site in 2008. Indeed, I republished works by 50 authors: Dante Alighieri, Aristotle, Matthew Arnold, Jane Austen, John Burroughs, Thomas Campion, Willa Cather, Joseph Conrad, William Cowper, Frederick Douglass, John Dryden, George Eliot, E.M. Forster, Robert Herrick, Hesiod, Robert Hillyer, Langston Hughes, David Hume, Henrik Ibsen, William James, Robinson Jeffers, Ben Jonson, Emma Lazarus, Henry Wadsworth Longfellow, Lucretius, Christopher Marlowe, Herman Melville, John Stuart Mill, John Milton, Michel de Montaigne, Kakuzo Okakura, Richard Overton, Walter Pater, Plutarch, Sir Walter Raleigh, Laura Riding, Edwin Arlington Robinson, Bertrand Russell, William Shakespeare, Sophocles, Baruch Spinoza, Wallace Stevens, Sara Teasdale, Henry David Thoreau, Leo Tolstoy, Virgil, Voltaire, George Washington, John Greenleaf Whittier, and Xenophon. Whew!...</summary>
   </entry>
 </feed>
