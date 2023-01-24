@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-01-19</modified>
+  <modified>2023-01-23</modified>
+  <entry>
+    <title>Metaphysics in Verse II</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1761.html"/>
+    <id>tag:stpeter.im,1761</id>
+    <issued>2023-01-23</issued>
+    <modified>2023-01-23</modified>
+    <summary>Among the strangest conceptions of metaphysics is Aristotle's fanciful (or perhaps deadly serious) hypothesis of the Unmoved Mover. It's difficult to understand quite what he was getting at, and I'm not about to formulate a scholarly exegesis of the idea. But I did compose a little poem about it:...</summary>
+  </entry>
   <entry>
     <title>The Seven Pillars of Friendship</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1760.html"/>
@@ -49,13 +57,5 @@
     <issued>2022-12-29</issued>
     <modified>2022-12-29</modified>
     <summary>Advocates of modern eudaimonism and the "true self" place great value on individual uniqueness. Consider David L. Norton in his 1976 book Personal Destinies (p. 16):...</summary>
-  </entry>
-  <entry>
-    <title>2022 Readings</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1755.html"/>
-    <id>tag:stpeter.im,1755</id>
-    <issued>2022-12-27</issued>
-    <modified>2022-12-27</modified>
-    <summary>Here are the eighty-odd books I chanced to read in 2022, with links to ones in the public domain that I've posted in full or in part at my Monadnock site. Right now I'm also a third of the way through War and Peace, but there's no way I'll finish it by the end of the year......</summary>
   </entry>
 </feed>
