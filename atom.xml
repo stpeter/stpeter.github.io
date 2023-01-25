@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-01-23</modified>
+  <modified>2023-01-25</modified>
+  <entry>
+    <title>Circles of Friendship</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1762.html"/>
+    <id>tag:stpeter.im,1762</id>
+    <issued>2023-01-25</issued>
+    <modified>2023-01-25</modified>
+    <summary>As noted last week, Robin Dunbar, who has done amazing research into close personal relationships, is best known for "Dunbar's Number" - his finding that the typical friends network contains about 150 people (as discussed in a recent post by Arnold Kling). Yet as I also noted long ago in my blog post "Joining the Band", there are actually multiple Dunbar numbers, each roughly 3x more or less than the next one in the series....</summary>
+  </entry>
   <entry>
     <title>Metaphysics in Verse II</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1761.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-01-05</issued>
     <modified>2023-01-05</modified>
     <summary>Existentialist philosophers insist on the ability - indeed, the responsibility - for human beings to create themselves. This is the import of Sartre's famous formulation "existence precedes essence": there is no human essence, and if you believe so then you are engaging in "bad faith" and living inauthentically....</summary>
-  </entry>
-  <entry>
-    <title>Goodness Trumps Uniqueness</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1756.html"/>
-    <id>tag:stpeter.im,1756</id>
-    <issued>2022-12-29</issued>
-    <modified>2022-12-29</modified>
-    <summary>Advocates of modern eudaimonism and the "true self" place great value on individual uniqueness. Consider David L. Norton in his 1976 book Personal Destinies (p. 16):...</summary>
   </entry>
 </feed>
