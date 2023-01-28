@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-01-25</modified>
+  <modified>2023-01-27</modified>
+  <entry>
+    <title>The Emergency Disaster Crisis</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1763.html"/>
+    <id>tag:stpeter.im,1763</id>
+    <issued>2023-01-27</issued>
+    <modified>2023-01-27</modified>
+    <summary>One reason I don't pay much attention to the news is that just about everything being reported on is an emergency, a disaster, a crisis! I like to run them all together and say that we're in the midst of an Emergency Disaster Crisis....</summary>
+  </entry>
   <entry>
     <title>Circles of Friendship</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1762.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-01-12</issued>
     <modified>2023-01-12</modified>
     <summary>One of the things I do to avoid exposure to the news is immerse myself in poetry. Most recently I've been reading English and American poets from the 1500s and 1600s, such as Anne Bradstreet, Samuel Daniel, and Thomas Traherne. At the same time, I've started an intensive re-reading of Aristotelian texts and commentary in preparation for writing an epitome of Aristotle's views on human flourishing. Putting the two together can yield some intriguing combinations!...</summary>
-  </entry>
-  <entry>
-    <title>Growing into One's Nature</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1757.html"/>
-    <id>tag:stpeter.im,1757</id>
-    <issued>2023-01-05</issued>
-    <modified>2023-01-05</modified>
-    <summary>Existentialist philosophers insist on the ability - indeed, the responsibility - for human beings to create themselves. This is the import of Sartre's famous formulation "existence precedes essence": there is no human essence, and if you believe so then you are engaging in "bad faith" and living inauthentically....</summary>
   </entry>
 </feed>
