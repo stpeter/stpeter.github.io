@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-01-27</modified>
+  <modified>2023-01-19</modified>
+  <entry>
+    <title>Aristotle on AI</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1764.html"/>
+    <id>tag:stpeter.im,1764</id>
+    <issued>2023-01-19</issued>
+    <modified>2023-01-19</modified>
+    <summary>Apparently the world is all agog over a computer program called ChatGPT. It's a harbinger of yet another emergency disaster crisis! The singularity is near! We're facing an imminent reality collapse! We won't be able to tell fake from real, machine from human, false from true! How will we know what information to trust?!?...</summary>
+  </entry>
   <entry>
     <title>The Emergency Disaster Crisis</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1763.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-01-12</issued>
     <modified>2023-01-12</modified>
     <summary>As previously mentioned, I am skeptical about the notion of the true self. Recently I've done some reading that has reinforced this skepticism. In particular, research by the likes of Roy Baumeister shows that human beings tend to identify with the activities and desires that they think are best (either individually or socially) and to disown the activities and desires that they think aren't so admirable....</summary>
-  </entry>
-  <entry>
-    <title>Metaphysics in Verse</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1758.html"/>
-    <id>tag:stpeter.im,1758</id>
-    <issued>2023-01-12</issued>
-    <modified>2023-01-12</modified>
-    <summary>One of the things I do to avoid exposure to the news is immerse myself in poetry. Most recently I've been reading English and American poets from the 1500s and 1600s, such as Anne Bradstreet, Samuel Daniel, and Thomas Traherne. At the same time, I've started an intensive re-reading of Aristotelian texts and commentary in preparation for writing an epitome of Aristotle's views on human flourishing. Putting the two together can yield some intriguing combinations!...</summary>
   </entry>
 </feed>
