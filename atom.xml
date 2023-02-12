@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-02-09</modified>
+  <modified>2023-02-12</modified>
+  <entry>
+    <title>Best Friend Books</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1766.html"/>
+    <id>tag:stpeter.im,1766</id>
+    <issued>2023-02-12</issued>
+    <modified>2023-02-12</modified>
+    <summary>It occurs to me that, just as we have circles of friendship, so also we sometimes have circles of influence and affection in the books we read. Certain books and authors are like best friends that we revisit again and again: think of those who cherish the novels of Jane Austen, the Meditations of Marcus Aurelius, the Confessions of Augustine, or the plays of Shakespeare....</summary>
+  </entry>
   <entry>
     <title>Career Reflections</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1765.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-01-23</issued>
     <modified>2023-01-23</modified>
     <summary>Among the strangest conceptions of metaphysics is Aristotle's fanciful (or perhaps deadly serious) hypothesis of the Unmoved Mover. It's difficult to understand quite what he was getting at, and I'm not about to formulate a scholarly exegesis of the idea. But I did compose a little poem about it:...</summary>
-  </entry>
-  <entry>
-    <title>The Seven Pillars of Friendship</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1760.html"/>
-    <id>tag:stpeter.im,1760</id>
-    <issued>2023-01-19</issued>
-    <modified>2023-01-19</modified>
-    <summary>Love, friendship, and other close personal relationships have been ill-served in the philosophical literature. Aside from Aristotle's foundational discussion and the occasional essay by the likes of Montaigne, Bacon, and Emerson, few philosophers have contributed deep insights to human relationships. This is disappointing, because as Aristotle observed 2400 years ago we are social creatures for whom close personal relationships are fundamental to our way of life....</summary>
   </entry>
 </feed>
