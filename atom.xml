@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-02-12</modified>
+  <modified>2023-02-16</modified>
+  <entry>
+    <title>Of Cigarettes and Smartphones</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1767.html"/>
+    <id>tag:stpeter.im,1767</id>
+    <issued>2023-02-16</issued>
+    <modified>2023-02-16</modified>
+    <summary>Have you ever watched an old movie from perhaps 75 years ago in which it seems that everyone was smoking cigarettes? We - who are, of course, far wiser - shake our heads at their benighted behavior because we recognize the horrendous health effects of smoking....</summary>
+  </entry>
   <entry>
     <title>Best Friend Books</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1766.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-01-25</issued>
     <modified>2023-01-25</modified>
     <summary>As noted last week, Robin Dunbar, who has done amazing research into close personal relationships, is best known for "Dunbar's Number" - his finding that the typical friends network contains about 150 people (as discussed in a recent post by Arnold Kling). Yet as I also noted long ago in my blog post "Joining the Band", there are actually multiple Dunbar numbers, each roughly 3x more or less than the next one in the series....</summary>
-  </entry>
-  <entry>
-    <title>Metaphysics in Verse II</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1761.html"/>
-    <id>tag:stpeter.im,1761</id>
-    <issued>2023-01-23</issued>
-    <modified>2023-01-23</modified>
-    <summary>Among the strangest conceptions of metaphysics is Aristotle's fanciful (or perhaps deadly serious) hypothesis of the Unmoved Mover. It's difficult to understand quite what he was getting at, and I'm not about to formulate a scholarly exegesis of the idea. But I did compose a little poem about it:...</summary>
   </entry>
 </feed>
