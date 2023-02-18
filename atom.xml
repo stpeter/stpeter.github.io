@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-02-16</modified>
+  <modified>2023-02-18</modified>
+  <entry>
+    <title>I Get Around</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1768.html"/>
+    <id>tag:stpeter.im,1768</id>
+    <issued>2023-02-18</issued>
+    <modified>2023-02-18</modified>
+    <summary>As a brief addendum to my post about digital moderation, I'll mention another longtime habit of mine: analog wayfinding. I have never used automated navigation systems like GPS; instead, if I'm going someplace new I look at a map beforehand and commit the route to memory. (For example, last year I drove from Camden, Maine to Ottawa, Canada in this way.) It helps that my spatial memory is strong: I seem to keep a schematic picture of the route in my head so that I can essentially walk through the whole thing and recall the necessary decision points when I come to an intersection. In addition, I have a general idea of my interim destinations (e.g., towns I need to pass through or roads I need to drive on), so if I go off course I have an intuitive sense of how to correct the situation. Yes, occasionally I get slightly lost, but I always pretty much know where I am. Give it a try sometime! :-)...</summary>
+  </entry>
   <entry>
     <title>Of Cigarettes and Smartphones</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1767.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-01-27</issued>
     <modified>2023-01-27</modified>
     <summary>One reason I don't pay much attention to the news is that just about everything being reported on is an emergency, a disaster, a crisis! I like to run them all together and say that we're in the midst of an Emergency Disaster Crisis....</summary>
-  </entry>
-  <entry>
-    <title>Circles of Friendship</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1762.html"/>
-    <id>tag:stpeter.im,1762</id>
-    <issued>2023-01-25</issued>
-    <modified>2023-01-25</modified>
-    <summary>As noted last week, Robin Dunbar, who has done amazing research into close personal relationships, is best known for "Dunbar's Number" - his finding that the typical friends network contains about 150 people (as discussed in a recent post by Arnold Kling). Yet as I also noted long ago in my blog post "Joining the Band", there are actually multiple Dunbar numbers, each roughly 3x more or less than the next one in the series....</summary>
   </entry>
 </feed>
