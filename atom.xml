@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-02-18</modified>
+  <modified>2023-02-23</modified>
+  <entry>
+    <title>Aristotle on States of Character</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1769.html"/>
+    <id>tag:stpeter.im,1769</id>
+    <issued>2023-02-23</issued>
+    <modified>2023-02-23</modified>
+    <summary>One of the distinctive features of Aristotle's philosophy of human affairs is his analysis of the various states of character, of which he identifies at least four: the corrupted person, the unrestrained person, the self-restrained person, and the good person. I might describe them briefly as follows:...</summary>
+  </entry>
   <entry>
     <title>I Get Around</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1768.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-02-02</issued>
     <modified>2023-02-02</modified>
     <summary>Apparently the world is all agog over a computer program called ChatGPT. It's a harbinger of yet another emergency disaster crisis! The singularity is near! We're facing an imminent reality collapse! We won't be able to tell fake from real, machine from human, false from true! How will we know what information to trust?!?...</summary>
-  </entry>
-  <entry>
-    <title>The Emergency Disaster Crisis</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1763.html"/>
-    <id>tag:stpeter.im,1763</id>
-    <issued>2023-01-27</issued>
-    <modified>2023-01-27</modified>
-    <summary>One reason I don't pay much attention to the news is that just about everything being reported on is an emergency, a disaster, a crisis! I like to run them all together and say that we're in the midst of an Emergency Disaster Crisis....</summary>
   </entry>
 </feed>
