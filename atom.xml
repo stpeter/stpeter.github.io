@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-02-23</modified>
+  <modified>2023-03-02</modified>
+  <entry>
+    <title>Counter-Cultural Contemplation</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1770.html"/>
+    <id>tag:stpeter.im,1770</id>
+    <issued>2023-03-02</issued>
+    <modified>2023-03-02</modified>
+    <summary>We live in a culture that glorifies action, busy-ness, and constant activity. "Don't just stand there, do something." "Idle hands are the devil's workshop." "Pull your head out of the clouds." "Get real." "Think globally, act locally." "Knowledge is power."...</summary>
+  </entry>
   <entry>
     <title>Aristotle on States of Character</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1769.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-02-09</issued>
     <modified>2023-02-09</modified>
     <summary>Twelve months ago this week I quit my job at Mozilla. Herewith a few reflections on my 25 years in tech....</summary>
-  </entry>
-  <entry>
-    <title>Aristotle on AI</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1764.html"/>
-    <id>tag:stpeter.im,1764</id>
-    <issued>2023-02-02</issued>
-    <modified>2023-02-02</modified>
-    <summary>Apparently the world is all agog over a computer program called ChatGPT. It's a harbinger of yet another emergency disaster crisis! The singularity is near! We're facing an imminent reality collapse! We won't be able to tell fake from real, machine from human, false from true! How will we know what information to trust?!?...</summary>
   </entry>
 </feed>
