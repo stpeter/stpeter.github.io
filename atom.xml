@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-03-09</modified>
+  <modified>2023-03-17</modified>
+  <entry>
+    <title>Intelligence vs. Wisdom</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1772.html"/>
+    <id>tag:stpeter.im,1772</id>
+    <issued>2023-03-17</issued>
+    <modified>2023-03-17</modified>
+    <summary>Ever since I left behind the high arrogance of my teenage years, I have valued wisdom over intelligence. This is likely why I'm much more drawn to the ancient conception of philosophy as a way of life than to the modern conception of philosophy as an exercise in argumentation....</summary>
+  </entry>
   <entry>
     <title>Information is Overrated</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1771.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-02-16</issued>
     <modified>2023-02-16</modified>
     <summary>Have you ever watched an old movie from perhaps 75 years ago in which it seems that everyone was smoking cigarettes? We - who are, of course, far wiser - shake our heads at their benighted behavior because we recognize the horrendous health effects of smoking....</summary>
-  </entry>
-  <entry>
-    <title>Best Friend Books</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1766.html"/>
-    <id>tag:stpeter.im,1766</id>
-    <issued>2023-02-12</issued>
-    <modified>2023-02-12</modified>
-    <summary>It occurs to me that, just as we have circles of friendship, so also we sometimes have circles of influence and affection in the books we read. Certain books and authors are like best friends that we revisit again and again: think of those who cherish the novels of Jane Austen, the Meditations of Marcus Aurelius, the Confessions of Augustine, or the plays of Shakespeare....</summary>
   </entry>
 </feed>
