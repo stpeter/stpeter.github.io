@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-03-17</modified>
+  <modified>2023-03-30</modified>
+  <entry>
+    <title>Battle of the Bricks</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1774.html"/>
+    <id>tag:stpeter.im,1774</id>
+    <issued>2023-03-30</issued>
+    <modified>2023-03-30</modified>
+    <summary>Last year I decided to read War and Peace for the first time. Although Tolstoy's powers of psychological observation are amazing, I got stuck about halfway through (during a lengthy description of a fox hunt), and since then I haven't really been able to get back into it. It didn't help that none of the characters appealed to me strongly, perhaps because so many of them exhibit high levels of pretentiousness or self-deception - or both! Yes, 635 pages is a large investment of time, but getting from there to page 1386 feels like a tough slog and I'm not sure I have the energy....</summary>
+  </entry>
   <entry>
     <title>Intellectual Jousting</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1773.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-02-23</issued>
     <modified>2023-02-23</modified>
     <summary>One of the distinctive features of Aristotle's philosophy of human affairs is his analysis of the various states of character, of which he identifies at least four: the corrupted person, the unrestrained person, the self-restrained person, and the good person. I might describe them briefly as follows:...</summary>
-  </entry>
-  <entry>
-    <title>I Get Around</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1768.html"/>
-    <id>tag:stpeter.im,1768</id>
-    <issued>2023-02-18</issued>
-    <modified>2023-02-18</modified>
-    <summary>As a brief addendum to my post about digital moderation, I'll mention another longtime habit of mine: analog wayfinding. I have never used automated navigation systems like GPS; instead, if I'm going someplace new I look at a map beforehand and commit the route to memory. (For example, last year I drove from Camden, Maine to Ottawa, Canada in this way.) It helps that my spatial memory is strong: I seem to keep a schematic picture of the route in my head so that I can essentially walk through the whole thing and recall the necessary decision points when I come to an intersection. In addition, I have a general idea of my interim destinations (e.g., towns I need to pass through or roads I need to drive on), so if I go off course I have an intuitive sense of how to correct the situation. Yes, occasionally I get slightly lost, but I always pretty much know where I am. Give it a try sometime! :-)...</summary>
   </entry>
 </feed>
