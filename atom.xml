@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-03-30</modified>
+  <modified>2023-04-06</modified>
+  <entry>
+    <title>Philosophy and Grief</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1775.html"/>
+    <id>tag:stpeter.im,1775</id>
+    <issued>2023-04-06</issued>
+    <modified>2023-04-06</modified>
+    <summary>Grieving is one of the characteristic activities of human beings. Although it seems that some other species (e.g., members of the corvid family) experience sorrow, grief is a more complex phenomenon. Recently I read a fine book on the topic by Michael Cholbi, entitled Grief: A Philosophical Guide. Here are the essentials of what I gleaned....</summary>
+  </entry>
   <entry>
     <title>Battle of the Bricks</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1774.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-03-02</issued>
     <modified>2023-03-02</modified>
     <summary>We live in a culture that glorifies action, busy-ness, and constant activity. "Don't just stand there, do something." "Idle hands are the devil's workshop." "Pull your head out of the clouds." "Get real." "Think globally, act locally." "Knowledge is power."...</summary>
-  </entry>
-  <entry>
-    <title>Aristotle on States of Character</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1769.html"/>
-    <id>tag:stpeter.im,1769</id>
-    <issued>2023-02-23</issued>
-    <modified>2023-02-23</modified>
-    <summary>One of the distinctive features of Aristotle's philosophy of human affairs is his analysis of the various states of character, of which he identifies at least four: the corrupted person, the unrestrained person, the self-restrained person, and the good person. I might describe them briefly as follows:...</summary>
   </entry>
 </feed>
