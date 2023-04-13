@@ -9,14 +9,22 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-04-06</modified>
+  <modified>2023-04-13</modified>
+  <entry>
+    <title>The Pursuit of Happiness</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1776.html"/>
+    <id>tag:stpeter.im,1776</id>
+    <issued>2023-04-13</issued>
+    <modified>2023-04-13</modified>
+    <summary>It's been said that America's three greatest contributions to world civilization are jazz, baseball, and the Declaration of Independence. Much as I like the first two, today is a fine day to ponder the third not only because it is Thomas Jefferson's birthday but also because this blog post is entry number 1776 in the online journal I've been keeping since November of 2000....</summary>
+  </entry>
   <entry>
     <title>Philosophy and Grief</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1775.html"/>
     <id>tag:stpeter.im,1775</id>
     <issued>2023-04-06</issued>
     <modified>2023-04-06</modified>
-    <summary>Grieving is one of the characteristic activities of human beings. Although it seems that some other species (e.g., members of the corvid family) experience sorrow, grief is a more complex phenomenon. Recently I read a fine book on the topic by Michael Cholbi, entitled Grief: A Philosophical Guide. Here are the essentials of what I gleaned....</summary>
+    <summary>Grieving is one of the characteristic activities of human beings. Although it seems that some other species (e.g., members of the corvid family) experience sorrow, grief is a more complex phenomenon. Recently I had occasion to read a fine book on the topic by Michael Cholbi, entitled Grief: A Philosophical Guide. Here are the essentials of what I gleaned....</summary>
   </entry>
   <entry>
     <title>Battle of the Bricks</title>
@@ -49,13 +57,5 @@
     <issued>2023-03-09</issued>
     <modified>2023-03-09</modified>
     <summary>It's said that we live in the Information Age. Yet what is the purpose of information? I see at least three possibilities......</summary>
-  </entry>
-  <entry>
-    <title>Counter-Cultural Contemplation</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1770.html"/>
-    <id>tag:stpeter.im,1770</id>
-    <issued>2023-03-02</issued>
-    <modified>2023-03-02</modified>
-    <summary>We live in a culture that glorifies action, busy-ness, and constant activity. "Don't just stand there, do something." "Idle hands are the devil's workshop." "Pull your head out of the clouds." "Get real." "Think globally, act locally." "Knowledge is power."...</summary>
   </entry>
 </feed>
