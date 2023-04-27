@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-04-20</modified>
+  <modified>2023-04-27</modified>
+  <entry>
+    <title>The Determinist Fantasy</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1778.html"/>
+    <id>tag:stpeter.im,1778</id>
+    <issued>2023-04-27</issued>
+    <modified>2023-04-27</modified>
+    <summary>Determinism - the belief that all events (including animal behavior and human actions) are fixed or ordained by antecedent conditions or external forces before they happen - doesn't keep me up at night, but it seems to be something of a bogeyman for many people. To my mind, it's a fantastical notion. Here's how I perceive the argument for this belief:...</summary>
+  </entry>
   <entry>
     <title>Writing as Thinking</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1777.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-03-17</issued>
     <modified>2023-03-17</modified>
     <summary>In my recent post on intelligence vs. wisdom, I used the phrase "intellectual jousting" to describe the modern practice of doing philosophy. Here's a bit of psychological speculation about how that activity comes to be valued....</summary>
-  </entry>
-  <entry>
-    <title>Intelligence vs. Wisdom</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1772.html"/>
-    <id>tag:stpeter.im,1772</id>
-    <issued>2023-03-17</issued>
-    <modified>2023-03-17</modified>
-    <summary>Ever since I left behind the high arrogance of my teenage years, I have valued wisdom over intelligence. This is likely why I'm much more drawn to the ancient conception of philosophy as a way of life than to the modern conception of philosophy as an exercise in argumentation....</summary>
   </entry>
 </feed>
