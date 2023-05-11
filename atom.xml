@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-05-04</modified>
+  <modified>2023-05-11</modified>
+  <entry>
+    <title>What Philosophers Do</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1780.html"/>
+    <id>tag:stpeter.im,1780</id>
+    <issued>2023-05-11</issued>
+    <modified>2023-05-11</modified>
+    <summary>If philosophy is a way of life, then what are the characteristic activities of philosophers? (I mean, of course, not professors of philosophy, but people who love and practice wisdom.)...</summary>
+  </entry>
   <entry>
     <title>Much Ado about Nothingness</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1779.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-04-06</issued>
     <modified>2023-04-06</modified>
     <summary>Grieving is one of the characteristic activities of human beings. Although it seems that some other species (e.g., members of the corvid family) experience sorrow, grief is a more complex phenomenon. Recently I had occasion to read a fine book on the topic by Michael Cholbi, entitled Grief: A Philosophical Guide. Here are the essentials of what I gleaned....</summary>
-  </entry>
-  <entry>
-    <title>Battle of the Bricks</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1774.html"/>
-    <id>tag:stpeter.im,1774</id>
-    <issued>2023-03-30</issued>
-    <modified>2023-03-30</modified>
-    <summary>Last year I decided to read War and Peace for the first time. Although Tolstoy's powers of psychological observation are amazing, I got stuck about halfway through (during a lengthy description of a fox hunt), and since then I haven't really been able to get back into it. It didn't help that none of the characters appealed to me strongly, perhaps because so many of them exhibit high levels of pretentiousness or self-deception - or both! Yes, 635 pages is a large investment of time, but getting from there to page 1386 feels like a tough slog and I'm not sure I have the energy....</summary>
   </entry>
 </feed>
