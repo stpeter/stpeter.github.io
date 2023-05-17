@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-05-11</modified>
+  <modified>2023-05-17</modified>
+  <entry>
+    <title>Ways of Life</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1782.html"/>
+    <id>tag:stpeter.im,1782</id>
+    <issued>2023-05-17</issued>
+    <modified>2023-05-17</modified>
+    <summary>Having last week explored what philosophers do, I thought I'd broaden that theme by looking at ways of life in general, not only philosophy as a way of life....</summary>
+  </entry>
   <entry>
     <title>Open Reading Interview</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1781.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-04-20</issued>
     <modified>2023-04-20</modified>
     <summary>Why write? I suppose there are many reasons: sharing your opinions, persuading others of your positions on issues, journaling through personal challenges, getting things off your chest, creating something beautiful, making a name for yourself, getting published, perhaps even generating income (good luck with that!)....</summary>
-  </entry>
-  <entry>
-    <title>The Pursuit of Happiness</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1776.html"/>
-    <id>tag:stpeter.im,1776</id>
-    <issued>2023-04-13</issued>
-    <modified>2023-04-13</modified>
-    <summary>It's been said that America's three greatest contributions to world civilization are jazz, baseball, and the Declaration of Independence. Much as I like the first two, today is a fine day to ponder the third not only because it is Thomas Jefferson's birthday but also because this blog post is entry number 1776 in the online journal I've been keeping since November of 2000....</summary>
   </entry>
 </feed>
