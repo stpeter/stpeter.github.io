@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-05-17</modified>
+  <modified>2023-06-01</modified>
+  <entry>
+    <title>Ways of Life and Lines of Work</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1783.html"/>
+    <id>tag:stpeter.im,1783</id>
+    <issued>2023-06-01</issued>
+    <modified>2023-06-01</modified>
+    <summary>Because labor is so central to human existence, throughout history various thinkers have speculated about what the Buddhist eightfold path calls "right livelihood" for those who would seek and practice wisdom. For instance, both the Stoic Musonius Rufus and the Confucian Wu Yubi advocated subsistence farming as a noble line of work. The Taoist sage Chuang Tzu tells a beautiful story about the artistry of a lowly butcher. Although officially Aristotle downplayed the value of mechanical pursuits like housebuilding and even music-making, nevertheless he frequently used craftsmen as models of practical thinking and he applied the lessons of craftsmanship to ethical reflection. In recent times, Matthew Crawford titled one of his books "shop class as soul craft" and has argued that working in the trades enables you to bring your whole self to your productive activities. And so on....</summary>
+  </entry>
   <entry>
     <title>Ways of Life</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1782.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-04-27</issued>
     <modified>2023-04-27</modified>
     <summary>Determinism - the belief that all events (including animal behavior and human actions) are fixed or ordained by antecedent conditions or external forces before they happen - doesn't keep me up at night, but it seems to be something of a bogeyman for many people. To my mind, it's a fantastical notion. Here's how I perceive the argument for this belief:...</summary>
-  </entry>
-  <entry>
-    <title>Writing as Thinking</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1777.html"/>
-    <id>tag:stpeter.im,1777</id>
-    <issued>2023-04-20</issued>
-    <modified>2023-04-20</modified>
-    <summary>Why write? I suppose there are many reasons: sharing your opinions, persuading others of your positions on issues, journaling through personal challenges, getting things off your chest, creating something beautiful, making a name for yourself, getting published, perhaps even generating income (good luck with that!)....</summary>
   </entry>
 </feed>
