@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-06-01</modified>
+  <modified>2023-06-07</modified>
+  <entry>
+    <title>George Winston, RIP</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1785.html"/>
+    <id>tag:stpeter.im,1785</id>
+    <issued>2023-06-07</issued>
+    <modified>2023-06-07</modified>
+    <summary>I was saddened yesterday to learn (via my friend Wayne Bethanis) that pianist-composer George Winston has died. Every solo performer of original music - not just pianists but guitarists and everyone else - owes him a debt of gratitude, for he was one of the few who blazed the trail of modern instrumental music, starting with his album Autumn in 1980. Although his music was often called "new age", he preferred the evocative term "rural folk piano". Many streams came together in his music: folk, blues, jazz, classical, rock, gospel, rhythm and blues, Hawaiian, and more. Yet he fused them into a seamless whole that was uniquely his own....</summary>
+  </entry>
   <entry>
     <title>Aristotle on Fulfillment</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1784.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-05-11</issued>
     <modified>2023-05-11</modified>
     <summary>If philosophy is a way of life, then what are the characteristic activities of philosophers? (I mean, of course, not professors of philosophy, but people who love and practice the minerval arts of wisdom.)...</summary>
-  </entry>
-  <entry>
-    <title>Much Ado about Nothingness</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1779.html"/>
-    <id>tag:stpeter.im,1779</id>
-    <issued>2023-05-04</issued>
-    <modified>2023-05-04</modified>
-    <summary>In pursuit of wisdom, I often explore intellectual traditions I'm not familiar with. Most recently, I've been reading a sourcebook of Japanese philosophy, in which I found a fascinating essay by Abe Masao (1915-2006) on the Buddhist concept of emptiness or nothingness....</summary>
   </entry>
 </feed>
