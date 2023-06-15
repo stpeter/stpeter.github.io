@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-06-09</modified>
+  <modified>2022-06-15</modified>
+  <entry>
+    <title>Software is Eating Our Humanity</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1788.html"/>
+    <id>tag:stpeter.im,1788</id>
+    <issued>2022-06-15</issued>
+    <modified>2022-06-15</modified>
+    <summary>While reading Stefan Zweig's book The World of Yesterday recently, I came across the following quote:...</summary>
+  </entry>
   <entry>
     <title>Keeping It Brief</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1787.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-06-01</issued>
     <modified>2023-06-01</modified>
     <summary>Because labor is so central to human existence, throughout history various thinkers have speculated about what the Buddhist eightfold path calls "right livelihood" for those who would seek and practice wisdom. For instance, both the Stoic Musonius Rufus and the Confucian Wu Yubi advocated subsistence farming as a noble line of work. The Taoist sage Chuang Tzu tells a beautiful story about the artistry of a lowly butcher. Although officially Aristotle downplayed the value of mechanical pursuits like housebuilding and even music-making, nevertheless he frequently used craftsmen as models of practical thinking and he applied the lessons of craftsmanship to ethical reflection. In recent times, Matthew Crawford titled one of his books "shop class as soul craft" and has argued that working in the trades enables you to bring your whole self to your productive activities. And so on....</summary>
-  </entry>
-  <entry>
-    <title>Ways of Life</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1782.html"/>
-    <id>tag:stpeter.im,1782</id>
-    <issued>2023-05-17</issued>
-    <modified>2023-05-17</modified>
-    <summary>Having last week explored what philosophers do, I thought I'd broaden that theme by looking at ways of life in general, not only philosophy as a way of life....</summary>
   </entry>
 </feed>
