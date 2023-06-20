@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2022-06-17</modified>
+  <modified>2022-06-20</modified>
+  <entry>
+    <title>Chosen Wisdom</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1790.html"/>
+    <id>tag:stpeter.im,1790</id>
+    <issued>2022-06-20</issued>
+    <modified>2022-06-20</modified>
+    <summary>The longer I study and practice philosophy, the more value I find in a wide variety of wisdom traditions. When I first became interested in philosophy at the age of 12, it was exclusively in the form of Ayn Rand's philosophy of Objectivism. About this philosophy I was, at least throughout my teenage years, thoroughly dogmatic: all the other philosophies were riddled with error - not even worth considering - and Rand's philosophy simply was philosophy as far as I was concerned. (To be clear, the fault was not Rand's but my own - I could have been just as dogmatic about Stoicism or existentialism.)...</summary>
+  </entry>
   <entry>
     <title>More Humanity</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1789.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-06-07</issued>
     <modified>2023-06-07</modified>
     <summary>I was saddened yesterday to learn (via my friend Wayne Bethanis) that pianist-composer George Winston has died. Every solo performer of original music - not just pianists but guitarists and everyone else - owes him a debt of gratitude, for he was one of the few who blazed the trail of modern instrumental music, starting with his album Autumn in 1980. Although his music was often called "new age", he preferred the evocative term "rural folk piano". Many streams came together in his music: folk, blues, jazz, classical, rock, gospel, rhythm and blues, Hawaiian, and more. Yet he fused them into a seamless whole that was uniquely his own....</summary>
-  </entry>
-  <entry>
-    <title>Aristotle on Fulfillment</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1784.html"/>
-    <id>tag:stpeter.im,1784</id>
-    <issued>2023-06-01</issued>
-    <modified>2023-06-01</modified>
-    <summary>The more deeply I ponder Aristotle's conception of eudaimonia (usually translated as "happiness" or more recently sometimes as "flourishing"), the more radical it seems....</summary>
   </entry>
 </feed>
