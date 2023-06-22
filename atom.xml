@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-06-20</modified>
+  <modified>2023-06-22</modified>
+  <entry>
+    <title>Threading a Middle Path</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1791.html"/>
+    <id>tag:stpeter.im,1791</id>
+    <issued>2023-06-22</issued>
+    <modified>2023-06-22</modified>
+    <summary>In the past I've written about both the ancient philosophical method of dialectic and the importance of intellectual and political moderation. Here I'd like to bring these two strands together....</summary>
+  </entry>
   <entry>
     <title>Chosen Wisdom</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1790.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-06-09</issued>
     <modified>2023-06-09</modified>
     <summary>Last year around this time I posted a few thoughts on Socrates and Thoreau, specifically regarding the likely influence of a passage in Book VI of Plato's Republic on Thoreau's attitude toward mere professors of philosophy, who unlike true philosophers do not live according to the dictates of wisdom. The other day, while re-reading key passages in Plato's dialogues as part of my research on Aristotle, I suddenly realized that on the very next page in the 1804 edition of Plato's works that Thoreau borrowed from Emerson can be found the inspiration for Thoreau's attitude toward the news, best encapsulated in an aphorism from his essay Life Without Principle: "Read not the Times. Read the Eternities."...</summary>
-  </entry>
-  <entry>
-    <title>George Winston, RIP</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1785.html"/>
-    <id>tag:stpeter.im,1785</id>
-    <issued>2023-06-07</issued>
-    <modified>2023-06-07</modified>
-    <summary>I was saddened yesterday to learn (via my friend Wayne Bethanis) that pianist-composer George Winston has died. Every solo performer of original music - not just pianists but guitarists and everyone else - owes him a debt of gratitude, for he was one of the few who blazed the trail of modern instrumental music, starting with his album Autumn in 1980. Although his music was often called "new age", he preferred the evocative term "rural folk piano". Many streams came together in his music: folk, blues, jazz, classical, rock, gospel, rhythm and blues, Hawaiian, and more. Yet he fused them into a seamless whole that was uniquely his own....</summary>
   </entry>
 </feed>
