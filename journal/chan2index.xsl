@@ -103,6 +103,7 @@
           <xsl:apply-templates select='/channel/journal[position()=6]/entry'/>
         </xsl:if>
         <hr/>
+        <p><a href='/'>About</a> | <a href='archive.html'>Archive</a> | <a href='best.html'>Best</a> | <a href='blogroll.html'>Blogroll</a> | <a href='/atom.xml'>Feed</a></p>
         <p><a href='/'>Peter Saint-Andre</a> &gt; Journal</p>
       </body>
     </html>
