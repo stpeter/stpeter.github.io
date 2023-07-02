@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-06-29</modified>
+  <modified>2023-07-02</modified>
+  <entry>
+    <title>Certainty</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1793.html"/>
+    <id>tag:stpeter.im,1793</id>
+    <issued>2023-07-02</issued>
+    <modified>2023-07-02</modified>
+    <summary>In my post the other day about the examined life, I observed that some people are certain about their answers to the great questions of life. By contrast, those of a Socratic bent typically doubt that certainty is likely or even possible. The standard rejoinder is this: "It sounds like you're certain that certainty is impossible." Quite the conundrum....</summary>
+  </entry>
   <entry>
     <title>The Examined Life</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1792.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-06-15</issued>
     <modified>2023-06-15</modified>
     <summary>While reading Stefan Zweig's book The World of Yesterday recently, I came across the following quote:...</summary>
-  </entry>
-  <entry>
-    <title>Keeping It Brief</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1787.html"/>
-    <id>tag:stpeter.im,1787</id>
-    <issued>2023-06-09</issued>
-    <modified>2023-06-09</modified>
-    <summary>Epicurus once said: "Understand that a long discourse and a short one both achieve the same result." Although that's standard advice for writers (Yevgeny Zamyatin counselled "writing with 90-proof ink"), few follow it. Many books could have been long articles, many long articles could have been blog posts, and many blog posts could have been aphorisms. My journal entries average around 400 words these days, and I limit my books to around 100 pages. This is simple respect for you, the reader. Besides, I'd rather provoke difficult questions than provide definitive answers, because only you can answer those questions for yourself, anyway. Perhaps loving wisdom involves respecting your wisdom as much as my own......</summary>
   </entry>
 </feed>
