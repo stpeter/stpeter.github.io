@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-07-02</modified>
+  <modified>2023-07-04</modified>
+  <entry>
+    <title>The Best We Can Do</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1794.html"/>
+    <id>tag:stpeter.im,1794</id>
+    <issued>2023-07-04</issued>
+    <modified>2023-07-04</modified>
+    <summary>Here's a further thought about the examined life, which the other day I summarized as "The best way to live is to never stop asking yourself: What is the best way to live?" Implicit in that formulation is a focus on personal improvement, for it involves continually asking yourself "Is this the best I can do?" For someone with high ethical ideals, the answer is always "not quite" because there is always a gap between the ideal and the real. Having those ideals gives us something to strive for. As I like say, "You don't have to achieve an ideal to realize the benefits of idealism."...</summary>
+  </entry>
   <entry>
     <title>Certainty</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1793.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-06-17</issued>
     <modified>2023-06-17</modified>
     <summary>The other day I observed that, in the balance between mindlessly using technology and deliberately honoring people's humanity (including my own), I tilt toward more humanity. But how does that cash out in everyday life?...</summary>
-  </entry>
-  <entry>
-    <title>Software is Eating Our Humanity</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1788.html"/>
-    <id>tag:stpeter.im,1788</id>
-    <issued>2023-06-15</issued>
-    <modified>2023-06-15</modified>
-    <summary>While reading Stefan Zweig's book The World of Yesterday recently, I came across the following quote:...</summary>
   </entry>
 </feed>
