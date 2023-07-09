@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-07-04</modified>
+  <modified>2023-07-08</modified>
+  <entry>
+    <title>Mind the Gap</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1795.html"/>
+    <id>tag:stpeter.im,1795</id>
+    <issued>2023-07-08</issued>
+    <modified>2023-07-08</modified>
+    <summary>In my recent post about discovering the best we can do, I mentioned the inevitability of a gap between the ideal and the real, especially for those who have high standards of personal behavior. This leads to the question: how do you figure out where you fall short?...</summary>
+  </entry>
   <entry>
     <title>The Best We Can Do</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1794.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-06-20</issued>
     <modified>2023-06-20</modified>
     <summary>The longer I study and practice philosophy, the more value I find in a wide variety of wisdom traditions. When I first became interested in philosophy at the age of 12, it was exclusively in the form of Ayn Rand's philosophy of Objectivism. About this philosophy I was, at least throughout my teenage years, thoroughly dogmatic: all the other philosophies were riddled with error - not even worth considering - and Rand's philosophy simply was philosophy as far as I was concerned. (To be clear, the fault was not Rand's but my own - I could have been just as dogmatic about Stoicism or existentialism.)...</summary>
-  </entry>
-  <entry>
-    <title>More Humanity</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1789.html"/>
-    <id>tag:stpeter.im,1789</id>
-    <issued>2023-06-17</issued>
-    <modified>2023-06-17</modified>
-    <summary>The other day I observed that, in the balance between mindlessly using technology and deliberately honoring people's humanity (including my own), I tilt toward more humanity. But how does that cash out in everyday life?...</summary>
   </entry>
 </feed>
