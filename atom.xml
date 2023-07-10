@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-07-08</modified>
+  <modified>2023-07-10</modified>
+  <entry>
+    <title>Philosophical Parsimony</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1797.html"/>
+    <id>tag:stpeter.im,1797</id>
+    <issued>2023-07-10</issued>
+    <modified>2023-07-10</modified>
+    <summary>If "say implies do" - if the beliefs that you profess are constrained by consistency with the behaviors you enacts - then doesn't that severely limit the scope of philosophical speculation?...</summary>
+  </entry>
   <entry>
     <title>Behavior and Belief</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1796.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-06-29</issued>
     <modified>2023-06-29</modified>
     <summary>All the great questions of life boil down to this: What is the best way to live?...</summary>
-  </entry>
-  <entry>
-    <title>Threading a Middle Path</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1791.html"/>
-    <id>tag:stpeter.im,1791</id>
-    <issued>2023-06-22</issued>
-    <modified>2023-06-22</modified>
-    <summary>In the past I've written about both the ancient philosophical method of dialectic and the importance of intellectual and political moderation. Here I'd like to bring these two strands together....</summary>
   </entry>
 </feed>
