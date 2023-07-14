@@ -9,14 +9,22 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-07-10</modified>
+  <modified>2023-07-09</modified>
+  <entry>
+    <title>Incomplete Enlightenment</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1798.html"/>
+    <id>tag:stpeter.im,1798</id>
+    <issued>2023-07-09</issued>
+    <modified>2023-07-09</modified>
+    <summary>The other day I glanced briefly at Ray Dalio's book Principles, which made something of a splash when it was published a few years ago. I decided not to read the book (for now) because I wasn't impressed by the few sections I looked at; in particular, he seems to reduce the art of living to two steps:...</summary>
+  </entry>
   <entry>
     <title>Philosophical Parsimony</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1797.html"/>
     <id>tag:stpeter.im,1797</id>
     <issued>2023-07-10</issued>
     <modified>2023-07-10</modified>
-    <summary>If "say implies do" - if the beliefs that you profess are constrained by consistency with the behaviors you enacts - then doesn't that severely limit the scope of philosophical speculation?...</summary>
+    <summary>If "say implies do" - if the beliefs that you profess are constrained by consistency with the behaviors you enact - then doesn't that severely limit the scope of philosophical speculation?...</summary>
   </entry>
   <entry>
     <title>Behavior and Belief</title>
@@ -49,13 +57,5 @@
     <issued>2023-07-02</issued>
     <modified>2023-07-02</modified>
     <summary>In my post the other day about the examined life, I observed that some people are certain about their answers to the great questions of life. By contrast, those of a Socratic bent typically doubt that certainty is likely or even possible. The standard rejoinder is this: "It sounds like you're certain that certainty is impossible." Quite the conundrum....</summary>
-  </entry>
-  <entry>
-    <title>The Examined Life</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1792.html"/>
-    <id>tag:stpeter.im,1792</id>
-    <issued>2023-06-29</issued>
-    <modified>2023-06-29</modified>
-    <summary>All the great questions of life boil down to this: What is the best way to live?...</summary>
   </entry>
 </feed>
