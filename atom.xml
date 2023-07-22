@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-07-09</modified>
+  <modified>2023-07-21</modified>
+  <entry>
+    <title>The Siren Song of Systemic Solutions</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1799.html"/>
+    <id>tag:stpeter.im,1799</id>
+    <issued>2023-07-21</issued>
+    <modified>2023-07-21</modified>
+    <summary>One often hears that "systemic problems require systemic solutions." Although I used to agree, now I'm not so sure....</summary>
+  </entry>
   <entry>
     <title>Incomplete Enlightenment</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1798.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-07-04</issued>
     <modified>2023-07-04</modified>
     <summary>Here's a further thought about the examined life, which the other day I summarized as "The best way to live is to never stop asking yourself: What is the best way to live?" Implicit in that formulation is a focus on personal improvement, for it involves continually asking yourself "Is this the best I can do?" For someone with high ethical ideals, the answer is always "not quite" because there is always a gap between the ideal and the real. Having those ideals gives us something to strive for. As I like say, "You don't have to achieve an ideal to realize the benefits of idealism."...</summary>
-  </entry>
-  <entry>
-    <title>Certainty</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1793.html"/>
-    <id>tag:stpeter.im,1793</id>
-    <issued>2023-07-02</issued>
-    <modified>2023-07-02</modified>
-    <summary>In my post the other day about the examined life, I observed that some people are certain about their answers to the great questions of life. By contrast, those of a Socratic bent typically doubt that certainty is likely or even possible. The standard rejoinder is this: "It sounds like you're certain that certainty is impossible." Quite the conundrum....</summary>
   </entry>
 </feed>
