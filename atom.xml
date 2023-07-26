@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-07-24</modified>
+  <modified>2023-07-26</modified>
+  <entry>
+    <title>The Value of Re-Reading</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1802.html"/>
+    <id>tag:stpeter.im,1802</id>
+    <issued>2023-07-26</issued>
+    <modified>2023-07-26</modified>
+    <summary>Not only do I read a lot, but I also re-read a lot. For instance, so far this year I've re-read the sonnets and a few plays by Shakespeare, three novels by Victor Hugo, the complete poems of Emily Dickinson, several Plato dialogues, and a few of my favorite children's books (The Wonderful O by James Thurber and The Phantom Tollbooth by Norton O. Juster); plus I'm in the midst of re-reading The Importance of Living by Lin Yutang as well as the Tao Te Ching....</summary>
+  </entry>
   <entry>
     <title>The Importance of Living</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1801.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-07-10</issued>
     <modified>2023-07-10</modified>
     <summary>If "say implies do" - if the beliefs that you profess are constrained by consistency with the behaviors you enact - then doesn't that severely limit the scope of philosophical speculation?...</summary>
-  </entry>
-  <entry>
-    <title>Behavior and Belief</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1796.html"/>
-    <id>tag:stpeter.im,1796</id>
-    <issued>2023-07-08</issued>
-    <modified>2023-07-08</modified>
-    <summary>A few years ago when I needed to fly across the country to attend to some urgent family matters, I spotted an older woman at the airport wearing a button that said "I'm With Greta." The irony is that if she really were with Greta and believed, in the marrow of her bones, that human activity is causing a climate emergency, she wouldn't have been about to board an airplane, since jet travel is just about the worst thing you can do to generate greenhouse gases. In a similar vein, I've heard friends say how much they want to fly to Italy so that they can visit Venice before it is inundated by rising sea levels (caused in no small part by so many people flying to Italy so that they can visit Venice before it is inundated by rising sea levels). And don't get me started on the thousands of activists and bureaucrats who fly around the world to attend climate conferences....</summary>
   </entry>
 </feed>
