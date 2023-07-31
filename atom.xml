@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-07-26</modified>
+  <modified>2023-07-30</modified>
+  <entry>
+    <title>Always Be Reading</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1803.html"/>
+    <id>tag:stpeter.im,1803</id>
+    <issued>2023-07-30</issued>
+    <modified>2023-07-30</modified>
+    <summary>In my recent post about the value of re-reading, I mentioned that I regularly seek out new books and authors. For me, at least, here's how that works....</summary>
+  </entry>
   <entry>
     <title>The Value of Re-Reading</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1802.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-07-09</issued>
     <modified>2023-07-09</modified>
     <summary>The other day I glanced briefly at Ray Dalio's book Principles, which made something of a splash when it was published a few years ago. I decided not to read the book (for now) because I wasn't impressed by the few sections I looked at; in particular, he seems to reduce the art of living to two steps:...</summary>
-  </entry>
-  <entry>
-    <title>Philosophical Parsimony</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1797.html"/>
-    <id>tag:stpeter.im,1797</id>
-    <issued>2023-07-10</issued>
-    <modified>2023-07-10</modified>
-    <summary>If "say implies do" - if the beliefs that you profess are constrained by consistency with the behaviors you enact - then doesn't that severely limit the scope of philosophical speculation?...</summary>
   </entry>
 </feed>
