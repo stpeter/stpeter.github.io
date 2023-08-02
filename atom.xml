@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-07-31</modified>
+  <modified>2023-08-02</modified>
+  <entry>
+    <title>Tao Te Ching §1: The Gateway</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1805.html"/>
+    <id>tag:stpeter.im,1805</id>
+    <issued>2023-08-02</issued>
+    <modified>2023-08-02</modified>
+    <summary>For many years I have admired, and puzzled over, the Tao Te Ching. This classic text of Chinese philosophy is wise, poetic, suggestive, and at times inscrutable. Because I don't know classical Chinese, I'm forced to read multiple translations - a task made easy by the fact that it's one of the most translated works in all of world literature. Yet, not knowing the original language, I'm always unsure whether I really understand its message. It's one of my "best friend books" and I return to it every few years....</summary>
+  </entry>
   <entry>
     <title>The Republic of Letters</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1804.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-07-23</issued>
     <modified>2023-07-23</modified>
     <summary>After further reflection on my post about the siren song of systemic solutions, I've come up with a generalization that I'm trying on for size: the philosophical is the personal....</summary>
-  </entry>
-  <entry>
-    <title>The Siren Song of Systemic Solutions</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1799.html"/>
-    <id>tag:stpeter.im,1799</id>
-    <issued>2023-07-21</issued>
-    <modified>2023-07-21</modified>
-    <summary>One often hears that "systemic problems require systemic solutions." Although I used to agree, now I'm not so sure....</summary>
   </entry>
 </feed>
