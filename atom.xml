@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-08-07</modified>
+  <modified>2023-08-09</modified>
+  <entry>
+    <title>Daily Reflection</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1808.html"/>
+    <id>tag:stpeter.im,1808</id>
+    <issued>2023-08-09</issued>
+    <modified>2023-08-09</modified>
+    <summary>As a counterpart to my morning practice of daily forethought, I've also been engaging in daily reflection every evening. This habit was made famous by the ancient Stoic Seneca in Book III of his dialogue On Anger, where he mentions that his teacher Sextius asked himself these three probing questions before going to sleep: "What bad habit of yours have you cured today? What vice have you checked? In what respect are you better?" Some of my questions are more positive, but still geared toward living a more examined life:...</summary>
+  </entry>
   <entry>
     <title>Daily Forethought</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1807.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-07-30</issued>
     <modified>2023-07-30</modified>
     <summary>In my recent post about the value of re-reading, I mentioned that I regularly seek out new books and authors. For me, at least, here's how that works....</summary>
-  </entry>
-  <entry>
-    <title>The Value of Re-Reading</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1802.html"/>
-    <id>tag:stpeter.im,1802</id>
-    <issued>2023-07-26</issued>
-    <modified>2023-07-26</modified>
-    <summary>Not only do I read a lot, but I also re-read a lot. For instance, so far this year I've re-read the sonnets and a few plays by Shakespeare, three novels by Victor Hugo, the complete poems of Emily Dickinson, several Plato dialogues, and a few of my favorite children's books (The Wonderful O by James Thurber and The Phantom Tollbooth by Norton O. Juster); plus I'm in the midst of re-reading The Importance of Living by Lin Yutang as well as the Tao Te Ching....</summary>
   </entry>
 </feed>
