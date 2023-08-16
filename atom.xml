@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-08-13</modified>
+  <modified>2023-08-16</modified>
+  <entry>
+    <title>Act Locally</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1810.html"/>
+    <id>tag:stpeter.im,1810</id>
+    <issued>2023-08-16</issued>
+    <modified>2023-08-16</modified>
+    <summary>Because my last post about the supposed death of democracy was rather theoretical, I figured I'd follow it up with something more practical....</summary>
+  </entry>
   <entry>
     <title>The Death of Democracy?</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1809.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-08-02</issued>
     <modified>2023-08-02</modified>
     <summary>For many years I have admired, and puzzled over, the Tao Te Ching. This classic text of Chinese philosophy is wise, poetic, suggestive, paradoxial, even inscrutable. Because I don't know classical Chinese, I'm forced to read multiple translations - a task made easy by the fact that it's one of the most translated works in all of world literature. Yet, not knowing the original language, I'm always unsure whether I really understand its message. It's one of my "best friend books" and I return to it every few years....</summary>
-  </entry>
-  <entry>
-    <title>The Republic of Letters</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1804.html"/>
-    <id>tag:stpeter.im,1804</id>
-    <issued>2023-07-31</issued>
-    <modified>2023-07-31</modified>
-    <summary>About 600 years ago, some farsighted intellectual explorers in Europe created a long-distance communication network they called the Republic of Letters; indeed, it was almost something like a network of networks (an internet!), since it connected local networks in various towns and cities with each other. The way it worked is that individual people would exchange handwritten letters and manuscripts, and eventually printed pamphlets and books, with correspondents in other parts of the network. Those correspondents would then write back to the original sender and also share insights with others to whom they were connected (whether local or distant). It was also expected that participants would help to grow the network by recruiting new members. This network, which flourished from about 1400 to 1800, played a significant role in fostering the Renaissance, the Scientific Revolution, the Enlightenment, and the early Industrial Revolution....</summary>
   </entry>
 </feed>
