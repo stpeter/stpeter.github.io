@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-08-16</modified>
+  <modified>2023-08-17</modified>
+  <entry>
+    <title>Self-Government</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1811.html"/>
+    <id>tag:stpeter.im,1811</id>
+    <issued>2023-08-17</issued>
+    <modified>2023-08-17</modified>
+    <summary>As noted the other day in my post on the death of democracy, Thomas Jefferson held that the townships of New England were "the wisest invention ever devised by the wit of man for the perfect exercise of self-government." If indeed they are an ideal, it would benefit us to understand what they are and how they work. Toward that end, I'll introduce a somewhat extraordinary example: Monhegan Island, Maine....</summary>
+  </entry>
   <entry>
     <title>Act Locally</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1810.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-08-03</issued>
     <modified>2023-08-03</modified>
     <summary>Following up on yesterday's post about the Tao Te Ching, here's another poem that I might set to music (chapter 11 in the standard order). My provisional rendering is as follows:...</summary>
-  </entry>
-  <entry>
-    <title>Tao Te Ching §1: The Gateway</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1805.html"/>
-    <id>tag:stpeter.im,1805</id>
-    <issued>2023-08-02</issued>
-    <modified>2023-08-02</modified>
-    <summary>For many years I have admired, and puzzled over, the Tao Te Ching. This classic text of Chinese philosophy is wise, poetic, suggestive, paradoxial, even inscrutable. Because I don't know classical Chinese, I'm forced to read multiple translations - a task made easy by the fact that it's one of the most translated works in all of world literature. Yet, not knowing the original language, I'm always unsure whether I really understand its message. It's one of my "best friend books" and I return to it every few years....</summary>
   </entry>
 </feed>
