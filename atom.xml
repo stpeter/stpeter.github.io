@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-08-18</modified>
+  <modified>2023-08-19</modified>
+  <entry>
+    <title>Washington's Wisdom</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1813.html"/>
+    <id>tag:stpeter.im,1813</id>
+    <issued>2023-08-19</issued>
+    <modified>2023-08-19</modified>
+    <summary>Recently I carved out time to read Ron Chernow's 800-page biography of George Washington. We tend to have only vague notions about Washington, but Chernow's biography truly brings him to life. Far from being the wooden, mythical figure we imagine, Washington was a man of great passions and strong emotions, which he worked hard to direct into productive channels throughout his long career in private life and public service....</summary>
+  </entry>
   <entry>
     <title>Political Animals</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1812.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-08-09</issued>
     <modified>2023-08-09</modified>
     <summary>As a counterpart to my morning practice of daily forethought, I've also been engaging in daily reflection every evening. This habit was made famous by the ancient Stoic Seneca in Book III of his dialogue On Anger, where he mentions that his teacher Sextius asked himself these three probing questions before going to sleep: "What bad habit of yours have you cured today? What vice have you checked? In what respect are you better?" Some of my questions are more positive, but still geared toward living a more examined life:...</summary>
-  </entry>
-  <entry>
-    <title>Daily Forethought</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1807.html"/>
-    <id>tag:stpeter.im,1807</id>
-    <issued>2023-08-07</issued>
-    <modified>2023-08-07</modified>
-    <summary>In pursuit of a more examined life, I've been honing my daily habits. Taking a hint from the ancient Stoics, first thing in the morning I've been thinking about the day ahead and then at the end of the day I've been reflecting on how the day went. Here's a snapshot of what this looks like for me (I'll split this up into two posts, one prospective and one retrospective)....</summary>
   </entry>
 </feed>
