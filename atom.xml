@@ -9,13 +9,21 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-08-19</modified>
+  <modified>2023-08-22</modified>
+  <entry>
+    <title>Wisdom vs. Ideology</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1814.html"/>
+    <id>tag:stpeter.im,1814</id>
+    <issued>2023-08-22</issued>
+    <modified>2023-08-22</modified>
+    <summary>Following up on my post about Washington's wisdom, I've been thinking about the contrast between wisdom and ideology as a basis for making decisions....</summary>
+  </entry>
   <entry>
     <title>Washington's Wisdom</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1813.html"/>
     <id>tag:stpeter.im,1813</id>
-    <issued>2023-08-19</issued>
-    <modified>2023-08-19</modified>
+    <issued>2023-08-18</issued>
+    <modified>2023-08-18</modified>
     <summary>Recently I carved out time to read Ron Chernow's 800-page biography of George Washington. We tend to have only vague notions about Washington, but Chernow's biography truly brings him to life. Far from being the wooden, mythical figure we imagine, Washington was a man of great passions and strong emotions, which he worked hard to direct into productive channels throughout his long career in private life and public service....</summary>
   </entry>
   <entry>
@@ -49,13 +57,5 @@
     <issued>2023-08-13</issued>
     <modified>2023-08-13</modified>
     <summary>Is democracy in peril? Apparently many pundits think so. Yet 'democracy' is notoriously difficult to define. Although I strive to stay away from political topics in this journal, perhaps by applying some philosophical elbow grease we can lessen our worries about yet another emergency disaster crisis....</summary>
-  </entry>
-  <entry>
-    <title>Daily Reflection</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1808.html"/>
-    <id>tag:stpeter.im,1808</id>
-    <issued>2023-08-09</issued>
-    <modified>2023-08-09</modified>
-    <summary>As a counterpart to my morning practice of daily forethought, I've also been engaging in daily reflection every evening. This habit was made famous by the ancient Stoic Seneca in Book III of his dialogue On Anger, where he mentions that his teacher Sextius asked himself these three probing questions before going to sleep: "What bad habit of yours have you cured today? What vice have you checked? In what respect are you better?" Some of my questions are more positive, but still geared toward living a more examined life:...</summary>
   </entry>
 </feed>
