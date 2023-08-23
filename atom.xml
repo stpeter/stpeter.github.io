@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-08-22</modified>
+  <modified>2023-08-23</modified>
+  <entry>
+    <title>The Tao of Freedom</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1815.html"/>
+    <id>tag:stpeter.im,1815</id>
+    <issued>2023-08-23</issued>
+    <modified>2023-08-23</modified>
+    <summary>Many defenses of a free society are based on assumptions of certainty regarding human nature; for instance, human beings are so constituted that they must have maximal autonomy in order to discover scientific truths or invent and produce the goods and services that improve human life....</summary>
+  </entry>
   <entry>
     <title>Wisdom vs. Ideology</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1814.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-08-16</issued>
     <modified>2023-08-16</modified>
     <summary>Because my last post about the supposed death of democracy was rather theoretical, I figured I'd follow it up with something more practical....</summary>
-  </entry>
-  <entry>
-    <title>The Death of Democracy?</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1809.html"/>
-    <id>tag:stpeter.im,1809</id>
-    <issued>2023-08-13</issued>
-    <modified>2023-08-13</modified>
-    <summary>Is democracy in peril? Apparently many pundits think so. Yet 'democracy' is notoriously difficult to define. Although I strive to stay away from political topics in this journal, perhaps by applying some philosophical elbow grease we can lessen our worries about yet another emergency disaster crisis....</summary>
   </entry>
 </feed>
