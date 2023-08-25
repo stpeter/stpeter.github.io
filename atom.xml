@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-08-23</modified>
+  <modified>2023-08-22</modified>
+  <entry>
+    <title>Attuning to Beauty</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1817.html"/>
+    <id>tag:stpeter.im,1817</id>
+    <issued>2023-08-22</issued>
+    <modified>2023-08-22</modified>
+    <summary>When describing recently my practice of daily forethought, I mentioned that every day I try to attune myself to the beauty of the world around me. This might sound pompouse and grandiose because often we associate beauty only with the fine arts, but for me it's much more practical and prosaic. Here are some of the activities I engage in toward this end:...</summary>
+  </entry>
   <entry>
     <title>Snares and Attachments</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1816.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-08-18</issued>
     <modified>2023-08-18</modified>
     <summary>One of Aristotle's most famous observations is that human beings are "political animals"; yet the meaning of this phrase is not widely understood or appreciated. Let's take a closer look....</summary>
-  </entry>
-  <entry>
-    <title>Self-Government</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1811.html"/>
-    <id>tag:stpeter.im,1811</id>
-    <issued>2023-08-17</issued>
-    <modified>2023-08-17</modified>
-    <summary>As noted the other day in my post on the death of democracy, Thomas Jefferson held that the townships of New England were "the wisest invention ever devised by the wit of man for the perfect exercise of self-government." If indeed they are an ideal, it would benefit us to understand what they are and how they work. Toward that end, I'll introduce a somewhat extraordinary example: Monhegan Island, Maine....</summary>
   </entry>
 </feed>
