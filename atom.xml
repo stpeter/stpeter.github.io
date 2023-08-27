@@ -9,14 +9,22 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-08-22</modified>
+  <modified>2023-08-26</modified>
+  <entry>
+    <title>Tao Te Ching §56: One with the Way</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1818.html"/>
+    <id>tag:stpeter.im,1818</id>
+    <issued>2023-08-26</issued>
+    <modified>2023-08-26</modified>
+    <summary>Following up on my previous renderings of chapter 1 and chapter 11 of the Tao Te Ching, here is my initial attempt at chapter 56:...</summary>
+  </entry>
   <entry>
     <title>Attuning to Beauty</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1817.html"/>
     <id>tag:stpeter.im,1817</id>
     <issued>2023-08-22</issued>
     <modified>2023-08-22</modified>
-    <summary>When describing recently my practice of daily forethought, I mentioned that every day I try to attune myself to the beauty of the world around me. This might sound pompouse and grandiose because often we associate beauty only with the fine arts, but for me it's much more practical and prosaic. Here are some of the activities I engage in toward this end:...</summary>
+    <summary>When describing recently my practice of daily forethought, I mentioned that every day I try to attune myself to the beauty of the world around me. This might sound pompous and grandiose because often we associate beauty only with the fine arts, but for me it's much more practical and prosaic. Here are some of the activities I engage in toward this end:...</summary>
   </entry>
   <entry>
     <title>Snares and Attachments</title>
@@ -49,13 +57,5 @@
     <issued>2023-08-18</issued>
     <modified>2023-08-18</modified>
     <summary>Recently I carved out time to read Ron Chernow's 800-page biography of George Washington. We tend to have only vague notions about Washington, but Chernow's biography truly brings him to life. Far from being the wooden, mythical figure we imagine, Washington was a man of great passions and strong emotions, which he worked hard to direct into productive channels throughout his long career in private life and public service....</summary>
-  </entry>
-  <entry>
-    <title>Political Animals</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1812.html"/>
-    <id>tag:stpeter.im,1812</id>
-    <issued>2023-08-18</issued>
-    <modified>2023-08-18</modified>
-    <summary>One of Aristotle's most famous observations is that human beings are "political animals"; yet the meaning of this phrase is not widely understood or appreciated. Let's take a closer look....</summary>
   </entry>
 </feed>
