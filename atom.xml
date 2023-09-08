@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-08-31</modified>
+  <modified>2023-09-08</modified>
+  <entry>
+    <title>Consuming vs. Producing</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1821.html"/>
+    <id>tag:stpeter.im,1821</id>
+    <issued>2023-09-08</issued>
+    <modified>2023-09-08</modified>
+    <summary>During my Open Reading interview with Sal Inglima a few months ago, I mentioned my opinion that producing poetry is more fulfilling than reading poetry. Although this is an opinion that it might be best for me to let go of, before doing so I'd like to generalize and expand on the idea....</summary>
+  </entry>
   <entry>
     <title>Frames of Mind</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1820.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-08-23</issued>
     <modified>2023-08-23</modified>
     <summary>Having posted enough semi-political entries of late to last me quite a while, it's time to return to reflections on living....</summary>
-  </entry>
-  <entry>
-    <title>The Tao of Freedom</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1815.html"/>
-    <id>tag:stpeter.im,1815</id>
-    <issued>2023-08-23</issued>
-    <modified>2023-08-23</modified>
-    <summary>Many defenses of a free society are based on assumptions of certainty regarding human nature; for instance, human beings are so constituted that they must have maximal autonomy in order to discover scientific truths or invent and produce the goods and services that improve human life....</summary>
   </entry>
 </feed>
