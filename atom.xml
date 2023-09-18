@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-09-08</modified>
+  <modified>2023-09-18</modified>
+  <entry>
+    <title>Passion vs. Obsession</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1822.html"/>
+    <id>tag:stpeter.im,1822</id>
+    <issued>2023-09-18</issued>
+    <modified>2023-09-18</modified>
+    <summary>In my recent post about consuming vs. producing, I mentioned a distinct but semi-related distinction: passion vs. obsession....</summary>
+  </entry>
   <entry>
     <title>Consuming vs. Producing</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1821.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-08-22</issued>
     <modified>2023-08-22</modified>
     <summary>When describing recently my practice of daily forethought, I mentioned that every day I try to attune myself to the beauty of the world around me. This might sound pompous and grandiose because often we associate beauty only with the fine arts, but for me it's much more practical and prosaic. Here are some of the activities I engage in toward this end:...</summary>
-  </entry>
-  <entry>
-    <title>Snares and Attachments</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1816.html"/>
-    <id>tag:stpeter.im,1816</id>
-    <issued>2023-08-23</issued>
-    <modified>2023-08-23</modified>
-    <summary>Having posted enough semi-political entries of late to last me quite a while, it's time to return to reflections on living....</summary>
   </entry>
 </feed>
