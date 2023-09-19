@@ -1,0 +1,41 @@
+Aristotle on the Perfect Life
+Anthony Kenny
+Clarendon, 1992
+
+"In various places in Aristotle's ethical treatises we are told that the virtuous man performs virtuous actions 'for their own sake' or 'because they are noble'. One of the things we learn from the final chapter of the EE is that these two expressions are not equivalent. The Laconian performs virtuous actions for their own sake (otherwise he would not be good); but he does not perform them because virtue is noble (otherwise he would be a kalos kagathos)." (KENNY-1992, p. 14)
+
+"Secondly, the Laconian passage is the most explicit statement of an important theorem about Aristotelian value-systems, which is elsewhere left tacit. The theorem is this: every item in a person's hierarchy of choices takes its value from the highest point in the hierarchy." (KENNY-1992, p. 15)
+
+"[T]here seems undoubtedly to be a difference between the Nicomachean notion of 'doing things for the sake of happiness' and the emphasis in the EE that the kalos kagathos does things 'because they are noble'. In the EE, as in the NE, happiness is an end; and we know from the book's first paragraph that happiness is the noblest thing there is (1214a8). But the way in which happiness functions as an end seems to be not that the happy man does things in order to be happy, but rather that he does, for the sake of their own nobility, the noble things which in fact constitute the happiness which makes life worth while (cf. 1215b30, 1216a11-13)." (KENNY-1992, p. 21) [PSA: This is more plausible if eudaimonia is not subjective well being but completing the task of human living.]
+
+"When Aristotle says that a self-sufficnet good makes life 'lacking in nothing' he does not mean that it contains everything, but that it is not deficient or needy." (KENNY-1992, p. 28)
+
+"If a man is equipped with all that is necessary for the exercise of perfect virtue at the present time, then he is happy. But he is supremely happy only if this state of affairs is going to continue until his death, which we do not know. It will be true, then, that the word for supreme happiness, makarios or blessed, cannot be safely applied until a life is complete." (KENNY-1992, p. 34)
+
+"In Aristotle's view the people who identify happiness with good fortune are making a mistake, but an understandable mistake. They are just like those who identify happiness with virtue (rather than with its exercise)." (KENNY-1992, p. 40)
+
+"[T]he good involved in perceiving and knowing is essentially a *shared* good, something which belongs to both perceiver and perceived, to both knower and known. If this is so, then the perception and knowledge of other human beings is essentially a good shared with them.... [P]rovided that the friendship is one which finds expression in discourse upon equal terms, then 'all of us find greater pleasure in sharing good things with friends to the extent that these fall to each of us, and sharing the best that is according to one's ability; to some it falls to share in bodily delights, to others in artistic contemplation, to others in philosophy.' (1245a8-22) .... [I]n this passage of the EE the emphasis is on sharing the joyous activities of life on equal terms." (KENNY-1992, pp. 50-51)
+
+"'[W]ith us welfare involves a something other than ourselves, but the deity is his own well-being'. (1245b14-19) Even in the passage where the EE resembles the NE in linking friendship with self-knowledge, the emphasis quickly shifts from self-knowledge back to partnership and common activity." (KENNY-1992, p. 52)
+
+"According to both NE and EE, the exercise of virtue involves not only moral excellence but also wisdom; so a person of good intentions who fails to translate them into virtuous deeds will lack wisdom and thus not really be virtuous." (KENNY-1992, p. 79)
+
+"[I]f God is the first mover in the soul, it is surely because the primary appetite for goodness is seen by Aristotle as a form of love of God." (KENNY-1992, p. 80)
+
+"'About each virtue by itself we have already spoken; now since we have distinguished their natures one by one we must give a more accurate description of the excellence which arises out of their combination, which we now name kalokagathia' (1248b8-11). To possess this virtue you have to possess all 'the partial virtues' (tas kata meros aretas). This must mean 'the virtues of the parts of the soul', just as the partial virtues of the body are the virtues of the various parts of the body.... So, among virtues, kalokagathia is the most final. But it is not the most final human good: because virtues are for the sake of their exercises, not the other way round (1219a32), and so it is the exercise of kalokagathia that is the supreme human good which constitutes happiness. This must include both contemplation and morally virtuous activity." (KENNY-1992, pp. 94-95)
+
+"[T]he way in which medicine rules over the patient corresponds to the way in which the rational part of the soul rules over the irrational part. This latter correspondence is not mentioned in the text because this point had already been dealt with a few pages before, where we have been told that wisdom 'uses' virtue as a ruler 'uses' his subject (1246b11)." (KENNY-1992, p. 96)
+
+"It is not said here [1249b16-23] that the contemplation of God determines everything good in the good person's life; it is the criterion for the choice of natural goods like health, wealth, and strength. The noble actions of the moral virtues are chosen for their own sake and have their own internal criterion, the mean." (KENNY-1992, pp. 99-100) [PSA: Elsewhere, Kenny argues that for the kalokagathos moral virtues are chosen for the sake of to kalon.]
+
+"Each virtue does indeed have its own internal criterion, the mean; but what the mean is in each case is determined by wisdom; and wisdom gives its commands for the sake of God." (KENNY-1992, p. 100)
+
+"In both the EE and the NE .... contemplation plays a crucially important role. It is now time to ask the question: What *is* contemplation? Aristotle tells us tantalizingly little about it. We know that it is the exercise of the intellectual virtue of sophia or understanding. We know that it is concerned with the most splendid of knowable objects, and expecially, in the EE, with God. The most important information we are given about it is that it is related to philosophy as finding is to seeking (NE 1177a27). We are told a certain amount about sophia in the common book B. It is intelligence combined with knowledge - knowledge of the highest objects which has achieved its crown (1141a17-20). The highest objects are those which are superhuman: most notably, the bodies of which the heavens are framed. The paradigms of sophia are famous philosophers like Anaxagoras and Thales. The characteristic marks of the objects of philosophic understanding are that they are remarkable, wonderful, difficult, divine, and useless (1141b6-8)." (KENNY-1992, p. 103)
+
+"It is not knowledge (episteme), the mere possession of correct conclusions, which constitutes the distinguishing mark of the sophos. It is knowledge coupled with intelligence [PSA: nous = insight] to see how individual items of knowledge fit together with the whole systematic context in which they are embedded. It is this which is the 'crown' of knowledge." (KENNY-1992, p. 104)
+
+"In mathematics, contemplation is not a matter of congratulating oneself on having produced a proof of a theorem; it is the appreciation of the beauty of the proof itself." (KENNY-1992, p. 104)
+
+"The contemplation of God in the EE will include the vision of how the first mover is related to all the levels of motion and causation in the glorious cosmos we inhabit." (KENNY-1992, p. 105)
+
+END
