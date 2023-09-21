@@ -1,0 +1,75 @@
+From Protagoras to Aristotle
+Heda Segvic
+Princeton, 2009
+
+"A techne is practical knowledge or expertise. For Plato, as for Aristotle (EN VI.3 1139b14-17, 1140a23) and Greek philosophers generally, this is in the first place a set of capacities a person has. It is something that belongs to the person's soul; only secondarily is it a set of abstract rules, or a set of established practices that constitute the exercise of a profession." (p. 4)
+
+"As a force in human action, shame is only apparently negative. Shame avoids what is aischron, ugly, ignoble or disgraceful. This framework presupposes the presence of something that is its opposite, the kalon, something that is beautiful, respectable or admirable." (p. 11)
+
+"Toward the end of the Protagoras, Socrates announces that it is the power of appearance that makes us wander all over the place and regret our actions and choices (356d4-7). We mistakenly take for good things that in fact are not good, but merely appear to us to be so. If we had knowledge about what is good and bad, the appearing (to phantasma) would lose its grip over us (become akuron, 356d8)." (p. 64) [PSA: this is also true in Aristotle; cf. the Metaphysics.]
+
+Still speaking of Socrates in the Protagoras, Segvic makes note of "his basic intuition that our actions reveal more about us and our values than any product of detached reflection might.... The reflection he is interested in is practical reflection: one that changes preferences, and goes all the way down, to influence the very valuations on which we act.... To have the relevant sort of knowledge is to be in possession of a certain regulative and organizing principle that is in control of the overall condition of the soul." (pp. 74-75)
+
+"The virtuous person's actions express his evaluative knowledge. The evalutive judgements embodied in one's emotions and actions - the values one lives by - are of paramount importance to Socrates. A part of what in his view accounts for putative akrasia is precisely the fact that people are mistaken about what values they live by. If putative akrasia is so frequent, this is so in part because people are often mistaken about this. In addition to inconsistencies among a person's evaluative beliefs, which testify to a lack of knowledge of what is good and bad, the condition people describe as akrasia also involves a certain lack of self-understanding." (p. 79) [PSA: cf. gnothi sauton in Alcibiades etc.]
+
+"Socrates would certainly agree with those who think that becoming good requires that one's whole soul be turned around. What he might disagree with is what happens in the process of turning the soul around. On his view, any change in the desiderative, volitional, or emotional condition of the soul is itself a change in the condition of reason." (p. 80) [PSA: this is especially the case if action kat' aretenis is action meta logou, as in Aristotle]
+
+"[W]hat Aristotle is concerned to combat is the very idea of the good being subsumable under a single explanatory scheme. Aristotle's point in rejecting such a scheme is not to affirm that there are a lot of different kinds of good out there, but to insist that ethical theory ... should give this variety its due weight. The plurality and variety of goodness is a datum too robust to be explained by any single-factor account. When he rejects the notion that pleasure is the good, he rejects both a certain ideal of life, a life devoted to the pursuit of pleasure, and the notion that the goodness or the rightness of conduct is to be judged by a single type of consideration. His concern is ... to preserve to a fair degree the richness of the types of consideration employed in everyday evaluative practices and followed in everyday ways of acting." (p. 91) [PSA: cf. legetai pollachos]
+
+"The good, Aristotle believes, has to be something that is attained by specifically human powers, and linked to a human form of life. This thought is crystallized in the ergon argument of EN I.7, which grounds the human good on some basic facts about the sort of creatures human beings are. The prakton requirement connects the good with praxis, which is a specifically human mode of life. The notion that the good 'we are after' - that is to say, the good which ethics is all about - is something prakton (EN I.6 1096b34-35) is part of what makes it a *human* good. Aristotle believes that his account of the ultimate good, unlike Plato's, is based on his insight into the specifically human capacities and the specifically human way of life." (p. 94)
+
+"Every craft deals with idion ti agathon, some specific good (1218a35-b2).... Every human goal-oriented action is directed at idion ti agathon, a good of some specific sort.... Goodness as such, by itself, is not something one can aim at. A 'practical' good precisely is a telos, namely, something aimed at in action.... Good, like being, is spoken of in many ways. (See EE I.8 1218b4; EN I.6 1096a23-29; cp. Metaphysics IV.2 1003a33-b10, VII.1 1028a10-13)." (p. 98)
+
+"Practical reason gives unity to our various pursuits by introducing the standpoint of life as a whole. Specific goods do not lose their independence when seen from this standpoint. Their full value is, however, determined by the place they occupy in this larger context, and how they interact with other goods.... The fact that particular goods in the agent's life are assessed with reference to his life as a whole, and that their valuation is thus dependent on the larger framework, is that makes Aristotle speak of the good, happiness, as 'the cause of goods'. A conception of happiness is a general framework within which the good of any given goal is evaluated, and fixed. An agent's goals, he thinks, are context-dependent; they have full value only within a perspective that puts them in relationship with other goals. In this sense the good, happiness, invests them with value. Yet happiness is no part of the account of what makes honour, pleasure, or understanding good. Each is good in its own right." (pp. 105-106) [PSA: Note the connections throughout this passage to completeness: "life as a whole", "full value", etc.]
+
+"What makes a good most final or end-like is above all the fact that it organizes the whole structure of aiming." (p. 107)
+
+"The claim that the ultimate good makes life 'lacking in nothing' is in part a claim about desire. The good, as Aristotle puts it in the Eudemian Ethics, fills one's desire to the full (EE I.5 1215b17-18). Although self-sufficiency involves having one's desire fully satisfied, it is not as Aristotle presents it a purely subjective condition. A life that is self-sufficient leaves nothing to be desired. It is satisfactory as well as satisfying, and it is so all by itself, without any need for further additions." (pp. 107-108) [PSA: These matters proceed in two directions: from desire to subjective satisfaction, but also from objective satisfactoriness to desire through wisdom's education of desire.]
+
+"Ethical deliberation is guided by a conception the agent has of the good life. As such, it directly guides life, and bears on the satisfaction attained in life. Whereas choice is a direct result of a successful deliberation, one's conception of the good life is changed in the process." (p. 109)
+
+"A path to correct self-understanding and a correct conception of the good life is a painstaking struggle with appearances of goodness." (p. 109)
+
+"Engaging in ethical reflection and theorizing is meant to help us live a good life.... [D]ifferent ethical theories ... provide a variety of perspectives on the good, from which we can learn. To do so, we have to approach them dialectically, seeking out the truth in the appearances. We can, however, learn the right lesson only if, along with their insights, we recognize their one-sidedness." (p. 109)
+
+"Aristotle is committed to the belief that we can guide our lives by reason; he thinks that we can do so because reason is capable of bringing order and resolution to conflicting seemings of goodness." (p. 112)
+
+"Aristotle holds that the goodness or badness of an action depends as much on what the agent is minded to do as it depends on the goodness or badness of what comes to pass in the world as the result of the aaction." (p. 114)
+
+"The metaphor of aiming at a target, skopos, [5] and of hitting or missing it, stands at the core of his approach to action." (p. 115) [fn5: For skopos, see especially EN I.2 1094a23-24 and VI.1 1128b21-25. Also relevant are EN VI.12 1144a23-27, VII.11 1152a2-3 and 1153b24-25; EE I.2 1214b6-10; II.10 1226b29-20 and 1227a5-8, II.11 1227b19-25, VIII.3 1249b23-25, and Rhetoric I.5 1360b4-7]
+
+"[T]he lives people lead provide some measure of evidence for the valuations to which they are committed regardless of how reflective their valuations are, and regardless of the role reasoning might have played in their arriving at such valuations." (p. 123)
+
+"The appearances relevant for dialectical procedure in ethics go beyond ta legomena or ta eiremena, what has been said on this issue of goodness, or more generally, on the issue of value in action.... [A]ll goal-oriented actions embody valuations. Such valuations should be among the ethical starting points." (p. 130)
+
+"Primitive seemings of goodness are ineliminable, and reveal something very basic about the way we relate to the world and the world to us." (p. 131)
+
+"The appearances of goodness that go along with appetitive desires have, Aristotle believes, a particularly strong hold over us. The fact that we need to remind ourselves that what appears good because pleasant may not in each case be good is testimony to the power which this kind of phantasia wields over us. As he observes, 'In the many, however, deception (apate) seems to arise because of pleasure, for it appears good when it is not. At any rate, they choose the pleasant as (hos) good, and avoid pain as (hos) bad' (EN III.4 1113a33-1113b2). The hos construction is often used to express an implicit conception with which one acts. In other words, then, people choose what is pleasant and avoid what is painful implicitly assuming that pleasure is something good, and pain something bad. In the absence of deliberative excellence, phantasia proper carries a considerable potential for deception." (pp. 131-132)
+
+"Both praxis and energeia have their internal, subjective component, but the subjectivity of energeia is different from the subjectivity of praxis. As instances of praxis, actions are linked to some telos, and hence to an appearance involved in having that telos. As energeiai, actions are exercises, and in some sense expressions, of one's capacities (dynameis) and of one's states or dispositions (hexeis)." (pp. 135-136)
+
+"The ethical interest in action is not exhausted when the telos of an action is identified.... The operative concern here is to place the telos of an action into a larger motivational structure, with a view ultimately to understanding what kind of life the action in question is a part of." (p. 137)
+
+"That each human being has a life to live is, on Aristotle's view, the hardest metaphysical and ethical fact about human beings. Since life itself is activity, energeia (see, for instance, EN X.4 1175a12), activity is essential to the human condition. Moreover, there is a sense in which it is appropriate to say that for Aristotle the human being *is* the life he leads.... [T]he human being is in some sense his form, and his form is fully what it is when it is actuality and activity rather than potentiality." (p. 137) [PSA: This is even clearer if we understand eidos as way of being.]
+
+"[T]he point of virtue is its exercise (see, for instance, EE II.1 1218b37-1219a9 and II.11 1228a13-14)." (p. 138) 
+
+"In the jargon of our own time, Aristotle's ethics is a 'virtue ethics.' However, what is distinctive about his own position, when seen in the context of ancient ethical theorizing, is not so much the emphasis he placed on moral character, as the emphasis he placed on accomplishment." (p. 142)
+
+"Aristotle defines deliberation as a zetesis, a search or an inquiry (with consideration insistence: EN VI.9 1142a31-32, a34, b2, b14, b15), or a skepsis, [11] an investigation, of some sort - which, when successfully completed, results in a choice (prohairesis). He takes this characterization of deliberation seriously. The difficult task of course (valiantly tackled in VI.9) is to explain what kind of search or inquiry deliberation is. But whatever kind of inquiry or search it should turn out to be, it is an actual process of arriving at a choice." (pp. 149-150) [fn11: Skepsis, which means primarily looking into some matter, is used in this context especially in the Eudemian Ethics. For skepsis, see EE II.10 1226b8, 1227a12. For the relevant usages of the related verb skopein, see EE II.10 1226b1 and II.11 1227b26; also EN III.3 1112b16.] 
+
+"Deliberation, as Aristotle understands it, is not simply reasoning that serves a practical purpose, but an effective direction, or redirection, of one's will by means of reasoning." (p. 153)
+
+"An ordinary person's conception of eudaimonia is to a large degree implicit; it is also usually vague and gappy in parts, not well-integrated, and, more often than not, not fully consistent. Nonetheless, it is Aristotle's view that most human adults have evaluative attitudes which involve such substantive valuations and which jointly amount to an evaluative outlook on the manner in which they should conduct their life." (p. 159)
+
+"Aristotle believes that, when beginning our ethical development, a reliance on other people's judgements is indispensible in order to get us going at all; it is indispensible, in other words, if we are eventually to come up with a conception of eudaimonia that is our own." (p. 160)
+
+"Aristotle appears to address the issue of ethical reflection in one passage in the Eudemian Ethics. At EE II.10 1226b25-26, he ascribes to the deliberative part of the soul an ability to contemplate the ends of human action. He says: 'that part of the soul is deliberative which contemplates (to theoretikon) the cause of a certain sort; for that-for-the-sake-of-which is one of the causes." (p. 161)
+
+"Through a choice or decision we knowingly make ourselves into causes of our actions." (p. 163) [PSA: This is even clearer if we understand prohairesis as *commitment*.]
+
+"The phronimos is someone who is as good as one can be at using his reason in modifying his desires, and in arriving at choices to act, with a view to living the best possible life." (p. 166)
+
+"[A] human being does not do well in life unless he lives in accordance with his own conception of what doing well in life consists in. This conception has to be one's own, in the sense of being to a large degree a result of one's own deliberation. It has also to be one's own in the sense that it is not a picture of the good life one merely speculates or fantasizes about, but is rather a conception that is operative in what one aims at in life." (p. 167)
+
+END
