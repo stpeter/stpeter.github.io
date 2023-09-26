@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-09-18</modified>
+  <modified>2023-09-26</modified>
+  <entry>
+    <title>Outline of Complete Thyself</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1823.html"/>
+    <id>tag:stpeter.im,1823</id>
+    <issued>2023-09-26</issued>
+    <modified>2023-09-26</modified>
+    <summary>You might have noticed that the pace of blogging has slowed around here. There are two primary reasons for this state of affairs. One is that we recently got a golden retriever puppy named Chance and he's keeping us busy!...</summary>
+  </entry>
   <entry>
     <title>Passion vs. Obsession</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1822.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-08-26</issued>
     <modified>2023-08-26</modified>
     <summary>Following up on my previous renderings of chapter 1 and chapter 11 of the Tao Te Ching, here is my initial attempt at chapter 56:...</summary>
-  </entry>
-  <entry>
-    <title>Attuning to Beauty</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1817.html"/>
-    <id>tag:stpeter.im,1817</id>
-    <issued>2023-08-22</issued>
-    <modified>2023-08-22</modified>
-    <summary>When describing recently my practice of daily forethought, I mentioned that every day I try to attune myself to the beauty of the world around me. This might sound pompous and grandiose because often we associate beauty only with the fine arts, but for me it's much more practical and prosaic. Here are some of the activities I engage in toward this end:...</summary>
   </entry>
 </feed>
