@@ -1,0 +1,22 @@
+The Nicomachean Account of Philia
+Jennifer Whiting
+In Kraut, ed., The Blackwell Guide to Aristotle's Nicomachean Ethics
+Blackwell, 2006
+
+"Aristotle begins, following Socrates' lead, with a discussion of the *object* or "what is lovable" (to phileton). This has normative connotations: it refers to what people are *apt* to love because they deem it *worthy* of love. Aristotle recognizes three such objects: what is good (agathon), what is pleasant, and what is useful (VIII.2 1155b18-19). These almost certainly correspond to the three objects of choice listed at II.3 1104b30-31: the fine (to kalon), the pleasant, and the advantageous. For it is likely, as Broadie suggests, that Aristotle avoids using to kalon here lest he be misunderstood as referring simply to physical beauty (Broadie and Rowe 2002: 408)." (WHITING-2006, pp. 279-280)
+
+"[E]ven reciprocal well-wishing for the other's sake is *not sufficient* for philia: each party must be *aware* of the other's well-wishing (1155b34-1156a5). The importance of such awareness should become clear in section 11 below." (WHITING-2006, p. 281) [PSA: this awareness is a form of theoria.]
+
+"Politics I.2 shows that we cannot move immediately from the claim that a relationship *comes to be* for the sake of some end to the conclusion that the relationship *continues to exist* for the sake of that end.... Aristotle says that the polis is the first community that is virtually self-sufficient and that it '*comes to be* for the sake of living living, but *exists* for the sake of living well" (I.2 1252b29-30). Moreover, Aristotle explicitly allows some such phenomenon in the case of philia: some friendships that come to be for the sake of pleasure later exist in the absence of the relevant sort of pleasure if, from the friends' association with one another, they have become fond of one another's characters (NE VIII.4 1157a10-12)." (WHITING-2006, p. 286)
+
+"Aristotle argues in IX.8 that brute self-love is *not* justified. As the MM puts it, '[the good man] is a lover-of-good [philagathos], not a lover-of-self [philautos]]; for he loves himself only, if at all, because he is good' (II.14 1212b18-20). So if, as IX.4 suggests, the virtuous agent's attitudes towards his friends derives [sic] from his attitudes toward himself, he will not love his friends because they are his 'other selves' in the sense that they are simply *like* him: he will love them, as he loves himself, because they are *good*.... [I]n listing what seem to be the constitutive conditions of philia, the closest Aristotle comes to mentioning sameness or even similarity of character is in (3), when he speaks of friends 'choosing the same things.' But this does not require friends to be the same or even similar in character." (WHITING-2006, p. 291)
+
+"Aristotle describes the object of the virtuous agent's choice as, simply, to contemplate decent and appropriate *actions* (IX.9 1170a1-3): he does not suggest that the agent seeks primarily to contemplate her *own* actions." (WHITING-2006, p. 295)
+
+"[C]ontemplating the virtuous activity of one's character-friend is something good and pleasant *in itself*. And Aristotle may well have used theorein precisely to capture the *intrinsic* value of the activity in question, as distinct from any instrumental value it might have. For theoria is his paradigm of an activity engaged in for itself." (WHITING-2006, p. 296)
+
+"The eudaimon agent *should* have excellent friends, but *not* because she *needs* to. She *should* have them in the same sense in which she *should* contemplate or engage in virtuous action. Each of these activities is an *appropriate* response to ways the world is." (WHITING-2006, p. 297)
+
+"Insofar as my friend's activities are constitutive of her eudaimonia, I am, of course - *in* promoting her activities *for themselves* - promoting her eudaimonia for *itself*. And while it may be true that I am, in doing so, *realizing* my own eudaimonia, this is *not* the reason *why* I promote her activities, at least not if I am a genuine friend: I do so simply because I value her activities *for themselves*. So the fact that I am *realizing* my own eudaimonia does *not* require us to say that I am acting for the *sake* of my eudaimonia." (WHITING-2006, p. 302)
+
+END
