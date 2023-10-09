@@ -1,0 +1,18 @@
+The Book on Wisdom
+Carlo Natali
+In Polansky, ed., The Cambridge Companion to Aristotle's Nicomachean Ethics
+Cambridge, 2014
+
+"[A]gainst Socrates and Plato, Aristotle thinks that human action is not simply the technical application of a truth discovered by theory or science; rather there is a particular kind of human thinking that aims from the beginning at acting." (NATALI-2014, p. 185)
+
+"In practical reasoning, correctness of desire and true reasoning must go hand in hand if there is to be an action. Desire and reason are united by the fact that they have an independent cognitive access to the same object, a good thing to be done." (NATALI-2014, p. 186)
+
+"In the NE Aristotle calls, more precisely, 'moving cause' and 'final cause' that which in DA are called, respectively, 'moved mover' and 'unmoved mover.' But the doctrine is the same. The same expression, dianoia praktiken, is used in both treatises to indicate practical reasoning (1139a36, 433a18). According to Aristotle, human movement in general, and praxis in particular, involve the complete human soul, both its intellectual and its emotional parts. Praxis in humans is the product of reasoning and habituation, that is, of an acquired moral character; because of that, action expresses the whole man and his living in a situation." (NATALI-2014, p. 187)
+
+"Aristotle says that there is the possibility of making an effective deliberation for bad results, either because one is bad or because one has weakness of the will (1142b17-21).... But there is also the possibility of doing the right thing for a bad reason: 'Since there are various kinds of correctness, it is clear that good deliberation does not consist in every kind ... it is also possible to achieve something good through false inference, that is, to achieve the right result, but ont in the right way, the middle term being false. So this kind of correctness, on the basis of which we achieve the right result but not in the right way, is not yet good deliberation either.' (1142b17-26) This second kind of correctness has no connection with the idea of the purely logical correctness of a syllogism as in A.Pr. 53b26ff, as some think, but rather to an idea of book 2, according to which one has to do the act in accord with virtue in a deliberate way and for itself (1105a31-32). When Aristotle says 'the middle term being false,' he does not refer to the wrong means because ineffective or morally unacceptable. He thinks of cases like the Spartans, described in EE 1248b36-1249a3, who do actions according to virtue, but for gain and to acquire wealth, rather than for the noble. They do the right thing for a not-quite-right reason. So orthos logos in deliberation is related to the real good for man and not to apparent goods, such as wealth or celebrity." (NATALI-2014, pp. 193-194)
+
+"Whereas merely acting according to the directives of another person could be acting *according* to right reason, only those who *themselves* are practically wise act according to virtue that *involves* right reason. This is what Aristotle means by orthos logos." (NATALI-2014, p. 199)
+
+"[P]ractical wisdom does not govern theoretical wisdom but only issues prescriptions for the sake of it. The MM later presented the same idea more clearly: 'It is a kind of steward of philosophy and procures leisure for it' (1198b18-20)." (NATALI-2014, p. 199)
+
+END
