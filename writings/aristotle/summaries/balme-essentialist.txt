@@ -1,0 +1,12 @@
+Aristotle's Biology Was Not Essentialist
+D.M. Balme
+In Gotthelf and Lennox, eds., Philosophical Issues in Aristotle's Biology
+Cambridge, 1987
+
+"To account for animal features, Aristotle tells us to distinguish those that are for the sake of something from those that arise necessarily from the matter. (GA V 778a29-b19; PA I 640a33-b4) Eyes are for something; but their color is owed only to their matter and the movements of matter. Therefore the eyes are to be included in the animal's 'definition of being', (GA V 778a32-35) while their particular color is not. He makes the same distinction between features included in and excluded from the form (eidos): neither color nor sex is included in form by itself, but both are due to the matter in the composite form-in-matter. (Metaphysics I 1058b2). (BALME-1987a, p. 294) [PSA: this might provide an Aristotelian case against sexism and racism.]
+
+"The fundamental difference between animals, he suggests, is the difference in their natural heat. Because of this, they differ in their perfectedness. Then, given that each animal has a basic capability determined by its heat, the next determinant is environment and lifestyle, which together explain functions and organs." (BALME-1987a, p. 300)
+
+"[W]hy do animals differ? ... His answer is the double explanation, 'necessity' and 'the better'. Given the necessary limitations of heat and environment, each animal form is the best possible: that is, the form which brings it the most functional advantage, what Aristotle often calls 'the useful'." (BALME-1987a, p. 301)
+
+END

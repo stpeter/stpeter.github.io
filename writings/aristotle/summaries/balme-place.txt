@@ -1,0 +1,12 @@
+The Place of Biology in Aristotle's Philosophy
+D.M. Balme
+In Gotthelf and Lennox, eds., Philosophical Issues in Aristotle's Biology
+Cambridge, 1987
+
+"Judging from Aristotle's own discussions, it would seem that form, eidos, and its relation to the individual, was a crucial problem for him; it produces the paradoxes of Metaphysics Zeta, the apparent conflict between the Metaphysics and the Categories, and a possible tension in Aristotle's philosophy which many people have commented on.... Aristotle intended his answer to the puzzle of Metaphysics Zeta to be found in Metaphysics Eta 6 - namely, that at any given moment an object's form and matter are one, so that definition of the individual is logically possible even though it changes from moment to moment." (BALME-1987c, p. 11)
+
+Balme finds a key clue in the GA's account of reproduction: "'What generates is both the individual and the kind (genos) but chiefly the individual; for that is the real being (ousia)' (GA IV 767b24).... In this theory Aristotle seems to demonstrate that the solution of the Metaphysics Zeta puzzle works in practice: one can formalize individual material states and accidents." (BALME-1987c, pp. 18-19)
+
+Related to this is "the reason given in GA II.1 for reproduction, namely the attempt to survive: since the animal cannot persist in number (i.e. as a subsistent individual) but can in form, it persists in the way possible for it; hence there is always its kind. This is sometimes quoted to show that species is eternal and that the individual acts for the sake of the species. But I myself od not find that here. Rather the individual is seeking to preserve its own form, and it can only do this by handing it on; that is why its kind persists." (BALME-1987c, p. 19)
+
+END
