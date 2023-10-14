@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-10-13</modified>
+  <modified>2023-10-14</modified>
+  <entry>
+    <title>Overcoming Savagery</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1827.html"/>
+    <id>tag:stpeter.im,1827</id>
+    <issued>2023-10-14</issued>
+    <modified>2023-10-14</modified>
+    <summary>The genocidal atrocities committed last weekend against Israeli citizens by thousands of Hamas terrorists are literally unspeakable. No words, and certainly no words I can say, have the power to heal such monstrous wounds. Yet one must not remain silent....</summary>
+  </entry>
   <entry>
     <title>Aristotle Research Report #19: The Nature of Life</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1826.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-09-18</issued>
     <modified>2023-09-18</modified>
     <summary>In my recent post about consuming vs. producing, I mentioned a distinct but semi-related distinction: passion vs. obsession....</summary>
-  </entry>
-  <entry>
-    <title>Consuming vs. Producing</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1821.html"/>
-    <id>tag:stpeter.im,1821</id>
-    <issued>2023-09-08</issued>
-    <modified>2023-09-08</modified>
-    <summary>During my Open Reading interview with Sal Inglima a few months ago, I mentioned my opinion that producing poetry is more fulfilling than reading poetry. Although this is an opinion that it might be best for me to let go of, before doing so I'd like to generalize and expand on the idea....</summary>
   </entry>
 </feed>
