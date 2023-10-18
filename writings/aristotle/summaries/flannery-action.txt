@@ -1,0 +1,69 @@
+Action and Character according to Aristotle
+Kevin L. Flannery
+Catholic University Press, 2013
+
+"[F]alling away from virtue is not simply a matter of choosing to follow an alternative idea. It is rather a corruption: a relatively permanent state, like sickness or even death. It occurs when pleasure becomes detached from the human practice to which it is proper and is pursued for its own sake. When this occurs, a person's behavior becomes irrational, lacking in intelligibility; he is without the phronimos's calm overview of what is per se best for man." (FLANNERY, pp. xxv-xxvi)
+
+"Aristotle's fundamental principle is that a single soul cannot accommodate a genuine practical contradiction: that if there is inconsistency in an agent's behavior - if, for instance, he knows what he ought to do and does not do it - this can and must be explained by positing a lack of unity within his soul." (FLANNERY, p. 17)
+
+"The realm of action (the realm of perceptual singulars) is, therefore, quite distinct from the realm of universal tersm (the realm of the syllogistic). It is important to bear in mind, however, that it is not an utterly lawless realm. Far from it: for Aristotle, as I argue below, what might be called the supremem logical law of all, the principle of non-contradiction (PNC), has its basis not in the syllogistic but in (or at) the perceptual level. Upon this principle depends the nature of virtue itself." (FLANNERY, pp. 30-31)
+
+"[I]f one cannot believe that to be good is to be bad or that to be bad is to be good, there is good reason to avoid moral inconsistency in general, for moral inconsistency always come down to a claim that that which is bad is good (or vice-versa). Not only can such a claim not be true but (and this is what is important for moral psychology) one's soul cannot accommodate the idea." (FLANNERY, p. 37)
+
+"At one place in Metaphysics IV, Aristotle actually applies the PNC within the field of human acts.... he is arguing against the notion that something and its contradictory might be simultaneously the case. 'Why,' he asks, does a man, who thinks he ought to, walk to Megara and not remain inactive?" (Metaphysics IV.4 1008b14-15). This man's intending to head toward Megara excludes his intending to remain where he is." (FLANNERY, p. 59)
+
+"[A]ctivities such as seeing and thinking are wholly present whenever and as long as one engages in them, since the end of either activity need not be waited for but is present in every moment of the activity. One is reminded of the distinction made in the Nicomachean Ethics between things good in themselves and things good for the sake of other things: seeing and understanding are good in themselves [fn42: EN I.6 1096b13-14; see also Metaphysics I.1 980a21-26, I.2 982b20-21, where seeing and thinking are said to be pursued for their own sake." (FLANNERY, p. 65)
+
+"[I]f the voluntary is that which is according to desire, the same agent will act at the same time (hama: 1223b9, 1223b17) both voluntarily and involuntary. This language reminds one of Aristotle's first (and primary) formulation of the principle of non-contradiction: 'the same attribute cannot at the same time (hama) hold and not hold of the same subject in the same respect.'" (FLANNERY, p. 77)
+
+Citing EE 1223b24-26, Flannery observes that "the language here is especially close to the formulation of the principle of non-contradiction at Metaphysics IV.3 1005b19-20". (FLANNERY, p. 79)
+
+Regarding what he calls "the rascal" (mochtheros), Flannery writes: "the rascal is ignorant but his ignorance is due per se not to the ignorance itself but to his error in not knowing what he ought to be doing. The error in this instance is a willful error." (FLANNERY, p. 116)
+
+Regarding 'the particulars in which and about which an action is', Aristotle sets out those particulars in several places (EN III.1, EN II.9, EN V.8 / EE IV.8). The lists include: who (tis), what (ti), about what (peri ti), in regard to what (en tini), with what (tini), to what end (heneka tinos), and how (pos). These comprise the praxis itself as well as the mean and to kalon. See page 119 for more details.
+
+"[T]he agent's own understanding of what he is doing establishes a line of intelligibilty between himself and the end.... But, although in order to be a per se constituent 'the end' must be known, there are ends that are per se but not known, as when a person pursues a merely apparent good, that is, an apparent good that does not correspond to the genuine good. An example of this would be a man who thinks that happiness consists in the accumulation of money." (FLANNERY, p. 141)
+
+"The wholly just man embraces the just acts he commits in all their intelligibility, that is, *as* just acts (EN II.4 1105b5-12)." (FLANNERY, p. 149) By contrast, "the man who performs a just act without the proper motivation (out of fear, for example) performs a just act only per accidens." (FLANNERY, p. 155)
+
+"[T]he good man knows what he is pursuing, just as the healthy man recognizes (tastes) the goodness of good food. The sick man, on the other hand, does not always perceive the goodness of good food; as healthy as some food may be, it tastes unpleasant to him. But it *is* - per se - good for him." (FLANNERY, p. 162) [PSA: that is, the sick man's logos is not orthos.]
+
+"[L]eading a virtuous life is a matter of being oriented toward the true good known to be such. In speaking of this orientation toward the true good, Aristotle often employs the language of archery and other aiming sports.... The word he eventually uses, stochastike (1106b15-16), comes from the word stochos denoting an aim or an aiming.... In this connection, Aristotle refers favorably to the Pythagorean view that evil is unlimited, the good limited, since 'there are many ways to miss (hamartein - 1106b28),' just one way to hit, the center." (FLANNERY, pp. 163-164)
+
+"[T]aking aim is all about movements and counter-pressures or counter-inclinations. [43] As such, it cannot be captured by the fixed formulae of mechanics. A similar thing can be said of the phronimos, the well-trained deliberator.  [fn43: See EN VI.1 1138b22-23, where Aristotle says that the man who possesses right reason 'tightens and relaxes' .... Gómez-Lobo points out that Grant 'saw long ago' that the terms 'tightening' and 'relaxing' are taken from the field of music ... 'a metaphor from the tuning of strings of a lyre' (Grant, The Ethics of Aristotle, II.147).]" (FLANNERY, p. 165) 
+
+Discussing EN VI.5 / EE V.5 1140a25-28, Flannery concludes: "[W]hen he speaks of the phronimos as being practically wise regarding 'the things that are good and expedient for himself,' he means good and expedient for himself qua man. The proper object of phronesis is the good toward which human nature as such is directed." (FLANNERY, p. 197)
+
+"[I]n EN VI.5, Aristotle says that sophrosune preserves or maintains a certain manner of thinking or conception (hupolepsis - 1140b13). The conception that remains as long as the intellectual virtue of phronesis is maintained is the very general conception of good conduct ... an orientation *toward* good conduct.... This general understanding of the importance of good conduct becomes corrupted because of pleasure - or, more precisely, because of the desire for pleasure and the aversion to pain." (FLANNERY, p. 198) After citing EN VI.5 1140b16-22, Flannery goes on: "Pleasure pushes along the thought of the person who has chosen to go down the wrong path in such a way that the *practical* conception 'good conduct' is no longer available to him.... The fundamental deviation - which involves, as Aristotle says, 'everything (panta - 1140b19)' - is due to the practical intellect; the blindness (with respect to the good) is due to pleasure." (FLANNERY, p. 199) [PSA: note the connection between this "blindness" and a lack of awareness, i.e., theoria.]
+
+"[A] person finds his greatest pleasure in sustained activity of the type that most suits his nature. (See EN X.5 1176a15-26 and I.8 1099a11-15)." (FLANNERY, p. 202)
+
+"[T]he pleasure attaching to natural activity is better and more pleasurable than that attaching to its contrary (unnatural activity), even though it may not be as strong. This is another idea that Aristotle takes over from Plato: the calm pleasures - which are all embedded in their respective natural activities - are better." (FLANNERY, p. 203)
+
+"The akolastos lacks the distance from the object of his particular desires required for reasonable, wholly rational, behavior in their regard. His objective is to *have* the relevant pleasures, rather than to engage in their corresponding activities and to accept what pleasure might be attached to them." (FLANNERY, p. 204)
+
+"Contrary to what Socrates suggests (although very ambiguously) in Hippias Minor (372A2-B6), being a false or a true man is not simply a matter of being capable of telling both truth and falsehood voluntarily; rather, it is having a settled disposition toward one or the other.... one of the words that Aristotle uses in this regard is prohairetikos (1025a2-4) - very literally, 'possessed of the disposition of one who has made a choice.' [PSA: commitment] It is choices - in the particularly strong Aristotelian sense of something voluntarily issuing from deliberation (EN III.2 1111b6-8, II.3 1113a9-12) - that determine the extreme character types: the true man and the false man. [fn11: That is to say, the phronimos and ... the akolastos.]" (FLANNERY, p. 215)
+
+"Just as the false man is the man who is decided in favor of the false in such a way that also the irrational part of his soul is given over to deception, so the desires of the phronimos are ordered toward truth in a stable manner." (FLANNERY, p. 229) [PSA: can we truly say that the "false man" (akolastos) is *committed* to deception, given that commitment is the result of deliberation?]
+
+"[T]he hopes of the phronimos are good: he has the reasonable expectation that he will continue to make good and moral decisions, for his previously disciplined desires pull him in that direction. But they pull him in that direction because he is "decided" (prohairetikos) [PSA: committed] in that direction (See Metaphysics V.29 1025a3)." (FLANNERY, p. 230)
+
+Citing EN VI.2 1139a26-31, Flannery writes: "Truth enters into the practical in so far as the reckoning part [to logistikon] lines up with right desire, that is to say, in so far as the desire of the reckoning part, which is inseparable from its reason, hits the mean on the extended target. [fn64: Aristotle mentions at EN II.9 1109a14-26 that to hit the 'center of the circle is not for anyone but for the one who knows.']" (FLANNERY, p. 237)
+
+"The phronimos has himself under control but he is not opposed to human pleasures. He seeks 'tranquil freedom' (alupia) from the more violent varieties of pleasure, that is, 'those which imply appetite and pain' and with respect to which, according to Aristotle, the akolastos ... is akolastos (EN VII.2 1153a29-34)." (FLANNERY, p. 243)
+
+"[T]he character of the akolastos is fixed by his prohairesis .... 'he is led on, having made a prohairesis, believing that he ought always to pursue the present pleasure' (EN VII.3 1146b22-23)." (FLANNERY, p. 244)
+
+"Aristotle also mentions in EN III.11, that the favorite pleasures of the akolastos control everything he does: 'The akolastos, therefore, desires all the pleasures or the most prominent, and he is impelled by desire to choose these rather than others' (1191a1-3). This irrational favoring of some pleasures over others subverts the order of his life and ultimately finishes in pain (1119a4-5)." (FLANNERY, p. 245)
+
+"When Aristotle says that, having made a prohairesis, the akolastos pursues the present pleasure, he is referring to a certain 'decisiveness' in his personal orientation toward the wrong end." (FLANNERY, p. 245)
+
+Regarding EE VII.6 1240b11ff, Flannery observes: "[T]he good man is unified by nature (phusei), the bad man (poneros) against nature (para phusin). I take this to mean that, by seeking, as he does the merely apparent good, the bad man has been and is on a trajectory toward disunity." (FLANNERY, p. 252)
+
+"The soul of the akolastos is not unlike that of the spoudaios (the upright man). There is a certain simplicity about both these character types: the spoudaios is habituated to doing the right thing and he does it; the akolastos is habituated to pursuing the present pleasure and he does that, come what may. Like that of the spoudaios, the practical reasoning of the akolastos enjoys a certain per se intelligibility: once we understand what his overall principle is, it is easy to understand why he does what he does." (FLANNERY, p. 265)
+
+"Although the akolastos does what he wants, he can never be happy, since happiness, says Aristotle, consists in activity that is 'according to virtue'.... The akolastos cannot do [the right thing], since, as Aristotle explains as EN VII.8 1151a11-17, the first principle (the arche) of ethical action has been destroyed in him." (FLANNERY, p. 268) [PSA: this provides evidence supporting a translation of eudaimonia as "fulfillment".]
+
+"According to Aristotle, the first casualty of an attachment to pleasure is always phronesis: pleasure draws a person's attention away from the comprehension of - and appreciation for - reasonable activity and toward itself. This leads to the *intellectual* corruption of the person, whose capacity to understand is now less than it might have been, but this is obviously also a moral corruption." (FLANNERY, p. 275)
+
+END
