@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-10-14</modified>
+  <modified>2023-10-27</modified>
+  <entry>
+    <title>Be Careful What You Measure</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1828.html"/>
+    <id>tag:stpeter.im,1828</id>
+    <issued>2023-10-27</issued>
+    <modified>2023-10-27</modified>
+    <summary>In business, it's often said that "if you can't measure it, you can't manage it." This aphorism is frequently attributed to Peter Drucker, although wrongly; instead it's pulled from a saying by quality expert W. Edwards Deming, despite the fact that his point was the exact opposite: "It is wrong to suppose that if you can't measure it, you can't manage it – a costly myth."...</summary>
+  </entry>
   <entry>
     <title>Overcoming Savagery</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1827.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-09-26</issued>
     <modified>2023-09-26</modified>
     <summary>You might have noticed that the pace of blogging has slowed around here. There are two primary reasons for this state of affairs. One is that we recently got a golden retriever puppy named Chance and he's keeping us busy!...</summary>
-  </entry>
-  <entry>
-    <title>Passion vs. Obsession</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1822.html"/>
-    <id>tag:stpeter.im,1822</id>
-    <issued>2023-09-18</issued>
-    <modified>2023-09-18</modified>
-    <summary>In my recent post about consuming vs. producing, I mentioned a distinct but semi-related distinction: passion vs. obsession....</summary>
   </entry>
 </feed>
