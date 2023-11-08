@@ -1,0 +1,12 @@
+<journal>
+<header><title>RFC 9525: Service Identity in TLS</title><date>2023-11-08</date></header>
+<entry>
+<p>In November of 2002, I attended my first meeting of the Internet Engineering Task Force (IETF), the premier standards-setting organization for the Internet. Since that initial exposure at IETF 55 in Atlanta, I have chaired working groups, run Birds of a Feather (BoF) sessions, acted as an expert reviewer, and served on the Internet Engineering Steering Group and the RFC Series Oversight Committee. As of today, I've also authored 49 documents in the IETF's Request for Comments (RFC) series, which puts me in roughly the top 1% of RFC authors. The RFC published today is an updated specification for verifying the identity of servers in the context of Transport Layer Security, which is the primary protocol for protecting communication over the Internet (think the 's' in 'https'). I co-authored the previous version of this document (RFC 6125) with Jeff Hodges and this new version with Rich Salz, both of whom were a pleasure to work with. Although I still have a few residual IETF commitments, this RFC will in all likelihood be the last one I author, since my writing energy is now devoted to philosophy books, not technical specifications. At least I'm going out with a bang, because this document (along with RFC 9325, which I also co-authored) is cited by well over a hundred other RFCs and thus plays a significant role in helping to keep the Internet secure.</p>
+<p><em>FOR FURTHER EXPLORATION</em></p>
+<ul>
+<li><a href='https://datatracker.ietf.org/doc/rfc9525/'>RFC 9525: Service Identity in TLS</a></li>
+<li><a href='/tech/'>My Tech Page</a> (listing all the RFCs I've authored)</li>
+<li><a href='https://datatracker.ietf.org/doc/rfc9325/'>RFC 9325: Recommendations for Secure Use of TLS and DTLS</a></li>
+</ul>
+</entry>
+</journal>

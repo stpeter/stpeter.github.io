@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-10-27</modified>
+  <modified>2023-11-08</modified>
+  <entry>
+    <title>RFC 9525: Service Identity in TLS</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1829.html"/>
+    <id>tag:stpeter.im,1829</id>
+    <issued>2023-11-08</issued>
+    <modified>2023-11-08</modified>
+    <summary>In November of 2002, I attended my first meeting of the Internet Engineering Task Force (IETF), the premier standards-setting organization for the Internet. Since that initial exposure at IETF 55 in Atlanta, I have chaired working groups, run Birds of a Feather (BoF) sessions, acted as an expert reviewer, and served on the Internet Engineering Steering Group and the RFC Series Oversight Committee. As of today, I've also authored 49 documents in the IETF's Request for Comments (RFC) series, which puts me in roughly the top 1% of RFC authors. The RFC published today is an updated specification for verifying the identity of servers in the context of Transport Layer Security, which is the primary protocol for protecting communication over the Internet (think the 's' in 'https'). I co-authored the previous version of this document (RFC 6125) with Jeff Hodges and this new version with Rich Salz, both of whom were a pleasure to work with. Although I still have a few residual IETF commitments, this RFC will in all likelihood be the last one I author, since my writing energy is now devoted to philosophy books, not technical specifications. At least I'm going out with a bang, because this document (along with RFC 9325, which I also co-authored) is cited by well over a hundred other RFCs and thus plays a significant role in helping to keep the Internet secure....</summary>
+  </entry>
   <entry>
     <title>Be Careful What You Measure</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1828.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-09-29</issued>
     <modified>2023-09-29</modified>
     <summary>As I've striven over the last few years to hold fewer opinions, those who hold opinions about seemingly everything have become more noticeable to me. Whether it's the prospects for runaway inflation, the underlying causes for increasing loneliness in society, or the likely outcome of the upcoming elections in Ecuador, some bloggers and pundits are like opinion machines, able to crank out a position on anything at a moment's notice....</summary>
-  </entry>
-  <entry>
-    <title>Outline of Complete Thyself</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1823.html"/>
-    <id>tag:stpeter.im,1823</id>
-    <issued>2023-09-26</issued>
-    <modified>2023-09-26</modified>
-    <summary>You might have noticed that the pace of blogging has slowed around here. There are two primary reasons for this state of affairs. One is that we recently got a golden retriever puppy named Chance and he's keeping us busy!...</summary>
   </entry>
 </feed>
