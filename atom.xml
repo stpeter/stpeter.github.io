@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-11-08</modified>
+  <modified>2023-11-16</modified>
+  <entry>
+    <title>Tragedy vs. Atrocity</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1830.html"/>
+    <id>tag:stpeter.im,1830</id>
+    <issued>2023-11-16</issued>
+    <modified>2023-11-16</modified>
+    <summary>Ever since the 9/11 terrorist attacks, I've been bothered by a point of language. All too often (most recently in relation to the October 7 pogrom in Israel), people say that such events are a tragedy, but this is not correct because it implicitly relieves the participants of moral responsibility. A pogrom, a massacre, a terrorist attack, a genocide - these are not tragedies, they are atrocities. Yes, it's a tragic situation that, say, there was until very recently an Armenian exclave within the borders of Azerbaijan; but the act of forcibly expelling those Armenians was an atrocity. The same applies to pogroms of Russian Jews in the 19th and 20th centuries, Turkey's genocide of Armenians during World War I, the Holocaust against European Jews carried out by Nazi Germany with the collaboration of other fascist regimes, the Rwandan genocide of Tutsi people by Hutu militias in 1994, and so many other acts of collective violence throughout human history. We could even say it's tragic that human beings are so prone to atrocities, but moral responsibility for the atrocities themselves must be assigned to the people who instigate and participate in them. Precision on this point is extremely important, as a matter of both linguistic accuracy and ethical clarity....</summary>
+  </entry>
   <entry>
     <title>RFC 9525: Service Identity in TLS</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1829.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-09-30</issued>
     <modified>2023-09-30</modified>
     <summary>As you might have guessed from yesterday's post about opinion machines, I'm skeptical that so-called artificial intelligence systems will exhibit sentience anytime soon. Thus, although my primary concern is how humans will act in relation to these systems (even more personally, how I will act), I figure it can't hurt to sketch out my thinking on the broader topic....</summary>
-  </entry>
-  <entry>
-    <title>Opinion Machines</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1824.html"/>
-    <id>tag:stpeter.im,1824</id>
-    <issued>2023-09-29</issued>
-    <modified>2023-09-29</modified>
-    <summary>As I've striven over the last few years to hold fewer opinions, those who hold opinions about seemingly everything have become more noticeable to me. Whether it's the prospects for runaway inflation, the underlying causes for increasing loneliness in society, or the likely outcome of the upcoming elections in Ecuador, some bloggers and pundits are like opinion machines, able to crank out a position on anything at a moment's notice....</summary>
   </entry>
 </feed>
