@@ -1,0 +1,18 @@
+Aristotle on Understanding Knowledge
+M.F. Burnyeat
+In Berti (ed.), Aristotle on Science: The Posterior Analytics
+Padova: Editrice Antenore, 1981
+
+"[T]he reason why according to Aristotle there is no episteme through perception of particular things or events is that one does not in perception discovery why something is at it is. Explanation imports generality, which is beyond the scope of perception (A.18, 81b6-7; A.31; Metaphysics A.1, 981b10-13). But this is not to say that perception does not yield knowledge. aisthesis is not episteme but it is (one type of) gnosis (B.19, 99b38-39; Metaphysics A.1, 980a21-27; 981b11-13; GA I.23, 731a30-34; De Mem I, 449b13-14; cf. Topics I.12, 105a17-18; V.3, 131b23-28; VIII.1, 156a7-8; An. Post. A.2, 72a2-3; Physics I.5, 188b32; 189a5-9)." (BURNYEAT-1981, p. 114)
+
+"The path by which the pupil is led to knowledge which is new to him cannot be wholly unconnected with the path by which the teacher won that knowledge in the first place.... From this point of view Aristotle's treatises can perfectly well be regarded as instruments of teaching, which indeed they often claim to be. But teaching may also be designed to impart understanding of knowledge which the pupils already have, or a deeper understanding of a science which they alreaady have some acquaintance with but in an unsystematic way." (BURNYEAT-1981, pp. 117-118)
+
+"Teaching, didaskalia, in the sense Aristotle is chiefly interested in, is explanatory illumination, the conveying of understanding." (BURNYEAT-1981, p. 120)
+
+In reference to EN VII, 1147a21-22, Burnyeat writes: "There is good reason to think that these apprentice learners are on the way to making what is knowable in nature be what is knowable to them, that being the formulae Aristotle uses to specify the goal of learning (Metaphysics Zeta.3, 1029b3-12; cf. Physics I.1; EN I.4, 1095a30-b4). If so, then the passage suggests that what is needed to complete the process may not be more evidence ... but intellectual practice and familiarity. There is such a thing as intellectual habituation as well as moral habituation, and in Aristotle's view both take us beyond mere knowing to types of contemplative and practical activity which are possible only when something is so internalized as to have become one's second nature. [fn56: The parallel between the intellectual and the moral spheres is hinted in several places by Kosman, op. cit., and by Aristotle at Metaphysics Zeta.3, 1029b3-12; cf. Topics VI.4, 142a9-12; EN VII.8, 1151a15-19...]" (BURNYEAT-1981, p. 130)
+
+"Faced with propositions which one has come to know perfectly well on inductive grounds and which are convincing and, moreover, knowable in themselves, all one needs to do is: become fully and completely familiar and convinced. That conviction and understanding is nous, the gnorizousa hexis which grasps the things which are most knowable and familiar in themselves (100b9-10; cf. 72b24-25)." (BURNYEAT-1981, pp. 131-132)
+
+"Aristotle, as I have interpreted him, goes a long way towards segregating out and distinguishing the elements of knowledge and of understanding, but he reveals at the end of the work that he sees the task he has completed as one of setting forth what is involved in the claim that all episteme is meta logou, accompanied by an account (B.19, 100b10; cf. A.6, 74b27-28; EN VI.6, 1140b33)." (BURNYEAT-1981, p. 136)
+
+END
