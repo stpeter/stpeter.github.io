@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-11-16</modified>
+  <modified>2023-11-27</modified>
+  <entry>
+    <title>Economic Gratitude</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1832.html"/>
+    <id>tag:stpeter.im,1832</id>
+    <issued>2023-11-27</issued>
+    <modified>2023-11-27</modified>
+    <summary>Over the last few months I've been tutoring a Ukrainian mom in English as a Second Language through my local library. Several weeks ago she asked me how Americans navigate the world of saving and investment, so I sent her links to two of my own blog posts as well as a number of more professional resources. We also had an hourlong discussion about the economic and legal infrastructure for investment that exists in America: stock markets, mutual funds, ETFs, Treasury bills, federal and municipal bonds, REITs, precious metals, commodities, futures markets, 401(k) plans, IRAs, 529 accounts, and all the rest. Folks in the Ukraine and many other countries around the world simply don't have (relatively) trusted investment vehicles like this; in all likelihood, their primary investment method is putting cash under the pillow. We don't realize how fortunate we are to have so many ways to build wealth....</summary>
+  </entry>
   <entry>
     <title>The Primacy of the Prompt</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1831.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-10-14</issued>
     <modified>2023-10-14</modified>
     <summary>The genocidal atrocities committed last weekend against Israeli citizens by thousands of Hamas terrorists are literally unspeakable. No words, and certainly no words I can say, have the power to heal such monstrous wounds. Yet one must not remain silent....</summary>
-  </entry>
-  <entry>
-    <title>Aristotle Research Report #19: The Nature of Life</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1826.html"/>
-    <id>tag:stpeter.im,1826</id>
-    <issued>2023-10-13</issued>
-    <modified>2023-10-13</modified>
-    <summary>Aristotle was the first biologist. Sadly, even though around one-third of his extant writings are devoted to living things, few of his interpreters take the biological basis of Aristotle's philosophy very seriously. This despite the fact that Charles Darwin said in a late letter that his "two gods" Linnaeus and Cuvier were "mere school-boys to old Aristotle"! It's a shame that Darwin didn't live long enough to study and comment on Aristotle's biological writings....</summary>
   </entry>
 </feed>
