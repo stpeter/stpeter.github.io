@@ -9,14 +9,22 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-11-27</modified>
+  <modified>2023-11-29</modified>
+  <entry>
+    <title>Understanding What You Know</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1833.html"/>
+    <id>tag:stpeter.im,1833</id>
+    <issued>2023-11-29</issued>
+    <modified>2023-11-29</modified>
+    <summary>Recently I discovered two ancient philosophy papers from the 1970s (by Aryeh Kosman and Myles Burnyeat) drawing a distinction between knowledge and understanding. As far as I can tell, Kosman was the first to propose that the Greek word epistēmē is best translated as understanding, and that in fact it means understanding how to explain what you know, in other words understanding why the thing you know is the way it is....</summary>
+  </entry>
   <entry>
     <title>Economic Gratitude</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1832.html"/>
     <id>tag:stpeter.im,1832</id>
     <issued>2023-11-27</issued>
     <modified>2023-11-27</modified>
-    <summary>Over the last few months I've been tutoring a Ukrainian mom in English as a Second Language through my local library. Several weeks ago she asked me how Americans navigate the world of saving and investment, so I sent her links to two of my own blog posts as well as a number of more professional resources. We also had an hourlong discussion about the economic and legal infrastructure for investment that exists in America: stock markets, mutual funds, ETFs, Treasury bills, federal and municipal bonds, REITs, precious metals, commodities, futures markets, 401(k) plans, IRAs, 529 accounts, and all the rest. Folks in the Ukraine and many other countries around the world simply don't have (relatively) trusted investment vehicles like this; in all likelihood, their primary investment method is putting cash under the pillow. We don't realize how fortunate we are to have so many ways to build wealth....</summary>
+    <summary>Over the last few months I've been tutoring a Ukrainian mom in English as a Second Language through my local library. Several weeks ago she asked me how Americans navigate the world of saving and investment, so I sent her links to one or two of my own blog posts as well as a number of more professional resources. We also had an hourlong discussion about the economic and legal infrastructure for investment that exists in America: stock markets, mutual funds, ETFs, Treasury bills, federal and municipal bonds, REITs, precious metals, commodities, futures markets, 401(k) plans, IRAs, 529 accounts, and all the rest. Folks in the Ukraine and many other countries around the world simply don't have (relatively) trusted investment vehicles like this; in all likelihood, their primary investment method is putting cash under the pillow. We don't realize how fortunate we are to have so many ways to build wealth....</summary>
   </entry>
   <entry>
     <title>The Primacy of the Prompt</title>
@@ -49,13 +57,5 @@
     <issued>2023-10-27</issued>
     <modified>2023-10-27</modified>
     <summary>In business, it's often said that "if you can't measure it, you can't manage it." This aphorism is frequently attributed to Peter Drucker, although wrongly; instead it's pulled from a saying by quality expert W. Edwards Deming, despite the fact that his point was the exact opposite: "It is wrong to suppose that if you can't measure it, you can't manage it – a costly myth."...</summary>
-  </entry>
-  <entry>
-    <title>Overcoming Savagery</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1827.html"/>
-    <id>tag:stpeter.im,1827</id>
-    <issued>2023-10-14</issued>
-    <modified>2023-10-14</modified>
-    <summary>The genocidal atrocities committed last weekend against Israeli citizens by thousands of Hamas terrorists are literally unspeakable. No words, and certainly no words I can say, have the power to heal such monstrous wounds. Yet one must not remain silent....</summary>
   </entry>
 </feed>
