@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-11-29</modified>
+  <modified>2023-12-06</modified>
+  <entry>
+    <title>An Aristotelian Glossary</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1834.html"/>
+    <id>tag:stpeter.im,1834</id>
+    <issued>2023-12-06</issued>
+    <modified>2023-12-06</modified>
+    <summary>Of late I've been working on the first serious contribution to my forthcoming book about Aristotle's conception of human fulfillment: a glossary of key terms. Those curious enough to peruse it will quickly discover that some of my renderings are rather non-standard. In my defense, usually these translations are rooted in ancient Greek etymology and usage or modern academic scholarship (e.g., both Aryeh Kosman and Myles Burnyeat recommended "understanding" instead of "knowledge" for epistēmē, as I recently noted); however, in a few instances I go farther out on a limb (e.g., "thriving" instead of "virtue" for aretē and, most centrally of all, "fulfillment" instead of "happiness" for eudaimonia). Although all of these renderings are subject to change, I'm quite satisfied with them so far (having pondered them for years) and in fact they provide a good indication of the interpretive direction I'm taking....</summary>
+  </entry>
   <entry>
     <title>Understanding What You Know</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1833.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-11-08</issued>
     <modified>2023-11-08</modified>
     <summary>In November of 2002, I attended my first meeting of the Internet Engineering Task Force (IETF), the premier standards-setting organization for the Internet. Since that initial exposure at IETF 55 in Atlanta, I have chaired working groups, run Birds of a Feather (BoF) sessions, acted as an expert reviewer, and served on the Internet Engineering Steering Group and the RFC Series Oversight Committee. As of today, I've also authored 49 documents in the IETF's Request for Comments (RFC) series, which puts me in roughly the top 1% of RFC authors. The RFC published today is an updated specification for verifying the identity of servers in the context of Transport Layer Security, which is the primary protocol for protecting communication over the Internet (think the 's' in 'https'). I co-authored the previous version of this document (RFC 6125) with Jeff Hodges and this new version with Rich Salz, both of whom were a pleasure to work with. Although I still have a few residual IETF commitments, this RFC will in all likelihood be the last one I author, since my writing energy is now devoted to philosophy books, not technical specifications. At least I'm going out with a bang, because this document (along with RFC 9325, which I also co-authored) is cited by well over a hundred other RFCs and thus plays a significant role in helping to keep the Internet secure....</summary>
-  </entry>
-  <entry>
-    <title>Be Careful What You Measure</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1828.html"/>
-    <id>tag:stpeter.im,1828</id>
-    <issued>2023-10-27</issued>
-    <modified>2023-10-27</modified>
-    <summary>In business, it's often said that "if you can't measure it, you can't manage it." This aphorism is frequently attributed to Peter Drucker, although wrongly; instead it's pulled from a saying by quality expert W. Edwards Deming, despite the fact that his point was the exact opposite: "It is wrong to suppose that if you can't measure it, you can't manage it – a costly myth."...</summary>
   </entry>
 </feed>
