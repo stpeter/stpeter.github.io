@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-12-06</modified>
+  <modified>2023-12-09</modified>
+  <entry>
+    <title>Reality is Messy</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1835.html"/>
+    <id>tag:stpeter.im,1835</id>
+    <issued>2023-12-09</issued>
+    <modified>2023-12-09</modified>
+    <summary>The usually reasonable Arnold Kling, one of my favorite bloggers going back 25 years, has been using ChatGPT to build an essay-grading app and might have taken one too many sips of the Kool-Aid. Consider:...</summary>
+  </entry>
   <entry>
     <title>An Aristotelian Glossary</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1834.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-11-16</issued>
     <modified>2023-11-16</modified>
     <summary>Ever since the 9/11 terrorist attacks, I've been bothered by a point of language. All too often (most recently in relation to the October 7 pogrom in Israel), people say that such events are a tragedy, but this is not correct because it implicitly relieves the participants of moral responsibility. A pogrom, a massacre, a terrorist attack, a genocide - these are not tragedies, they are atrocities. Yes, it's a tragic situation that, say, there was until very recently an Armenian exclave within the borders of Azerbaijan; but the act of forcibly expelling those Armenians was an atrocity. The same applies to pogroms of Russian Jews in the 19th and 20th centuries, Turkey's genocide of Armenians during World War I, the Holocaust against European Jews carried out by Nazi Germany with the collaboration of other fascist regimes, the Rwandan genocide of Tutsi people by Hutu militias in 1994, and so many other acts of collective violence throughout human history. We could even say it's tragic that human beings are so prone to atrocities, but moral responsibility for the atrocities themselves must be assigned to the people who instigate and participate in them. Precision on this point is extremely important, as a matter of both linguistic accuracy and ethical clarity....</summary>
-  </entry>
-  <entry>
-    <title>RFC 9525: Service Identity in TLS</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1829.html"/>
-    <id>tag:stpeter.im,1829</id>
-    <issued>2023-11-08</issued>
-    <modified>2023-11-08</modified>
-    <summary>In November of 2002, I attended my first meeting of the Internet Engineering Task Force (IETF), the premier standards-setting organization for the Internet. Since that initial exposure at IETF 55 in Atlanta, I have chaired working groups, run Birds of a Feather (BoF) sessions, acted as an expert reviewer, and served on the Internet Engineering Steering Group and the RFC Series Oversight Committee. As of today, I've also authored 49 documents in the IETF's Request for Comments (RFC) series, which puts me in roughly the top 1% of RFC authors. The RFC published today is an updated specification for verifying the identity of servers in the context of Transport Layer Security, which is the primary protocol for protecting communication over the Internet (think the 's' in 'https'). I co-authored the previous version of this document (RFC 6125) with Jeff Hodges and this new version with Rich Salz, both of whom were a pleasure to work with. Although I still have a few residual IETF commitments, this RFC will in all likelihood be the last one I author, since my writing energy is now devoted to philosophy books, not technical specifications. At least I'm going out with a bang, because this document (along with RFC 9325, which I also co-authored) is cited by well over a hundred other RFCs and thus plays a significant role in helping to keep the Internet secure....</summary>
   </entry>
 </feed>
