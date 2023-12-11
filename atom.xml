@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-12-09</modified>
+  <modified>2023-12-10</modified>
+  <entry>
+    <title>Ancient Friends</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1836.html"/>
+    <id>tag:stpeter.im,1836</id>
+    <issued>2023-12-10</issued>
+    <modified>2023-12-10</modified>
+    <summary>On this date 510 years ago (December 10th, 1513), Niccolò Machiavelli wrote a now-famous letter to his friend Francesco Vettori about his life in exile from Florence - and about a little book he was writing, which has come down to us as The Prince. After describing what had happened that day on his farm and in the village, he described his evening routine, when he would "visit" with Plutarch, Polybius, Livy, Aristotle, and other great minds of antiquity:...</summary>
+  </entry>
   <entry>
     <title>Reality is Messy</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1835.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-11-16</issued>
     <modified>2023-11-16</modified>
     <summary>While re-reading Robert Sokolowski's excellent book Phenomenology of the Human Person recently, I came across a fascinating quote from Derek Bickerton's book Language and Human Behavior:...</summary>
-  </entry>
-  <entry>
-    <title>Tragedy vs. Atrocity</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1830.html"/>
-    <id>tag:stpeter.im,1830</id>
-    <issued>2023-11-16</issued>
-    <modified>2023-11-16</modified>
-    <summary>Ever since the 9/11 terrorist attacks, I've been bothered by a point of language. All too often (most recently in relation to the October 7 pogrom in Israel), people say that such events are a tragedy, but this is not correct because it implicitly relieves the participants of moral responsibility. A pogrom, a massacre, a terrorist attack, a genocide - these are not tragedies, they are atrocities. Yes, it's a tragic situation that, say, there was until very recently an Armenian exclave within the borders of Azerbaijan; but the act of forcibly expelling those Armenians was an atrocity. The same applies to pogroms of Russian Jews in the 19th and 20th centuries, Turkey's genocide of Armenians during World War I, the Holocaust against European Jews carried out by Nazi Germany with the collaboration of other fascist regimes, the Rwandan genocide of Tutsi people by Hutu militias in 1994, and so many other acts of collective violence throughout human history. We could even say it's tragic that human beings are so prone to atrocities, but moral responsibility for the atrocities themselves must be assigned to the people who instigate and participate in them. Precision on this point is extremely important, as a matter of both linguistic accuracy and ethical clarity....</summary>
   </entry>
 </feed>
