@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-12-12</modified>
+  <modified>2023-12-13</modified>
+  <entry>
+    <title>More on Ancient Friends</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1838.html"/>
+    <id>tag:stpeter.im,1838</id>
+    <issued>2023-12-13</issued>
+    <modified>2023-12-13</modified>
+    <summary>Less than two nights after quoting Niccolò Machiavelli's reflections on his ancient friends, I came upon a similar passage in the Essays in Idleness (Tsurezuregusa), written by the Japanese poet-monk Yoshida Kenkō around the year 1330. Here's what Kenkō had to say, in the translation by Donald Keene:...</summary>
+  </entry>
   <entry>
     <title>Planning to Be Old</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1837.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-11-29</issued>
     <modified>2023-11-29</modified>
     <summary>Recently I discovered two ancient philosophy papers from the 1970s (by Aryeh Kosman and Myles Burnyeat) drawing a distinction between knowledge and understanding. As far as I can tell, Kosman was the first to propose that the Greek word epistēmē is best translated as understanding, and that in fact it means understanding how to explain what you know, in other words understanding why the thing you know is the way it is....</summary>
-  </entry>
-  <entry>
-    <title>Economic Gratitude</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1832.html"/>
-    <id>tag:stpeter.im,1832</id>
-    <issued>2023-11-27</issued>
-    <modified>2023-11-27</modified>
-    <summary>Over the last few months I've been tutoring a Ukrainian mom in English as a Second Language through my local library. Several weeks ago she asked me how Americans navigate the world of saving and investment, so I sent her links to one or two of my own blog posts as well as a number of more professional resources. We also had an hourlong discussion about the economic and legal infrastructure for investment that exists in America: stock markets, mutual funds, ETFs, Treasury bills, federal and municipal bonds, REITs, precious metals, commodities, futures markets, 401(k) plans, IRAs, 529 accounts, and all the rest. Folks in the Ukraine and many other countries around the world simply don't have (relatively) trusted investment vehicles like this; in all likelihood, their primary investment method is putting cash under the pillow. We don't realize how fortunate we are to have so many ways to build wealth....</summary>
   </entry>
 </feed>
