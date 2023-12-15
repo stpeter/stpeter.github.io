@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-12-13</modified>
+  <modified>2023-12-14</modified>
+  <entry>
+    <title>Philosophy vs. Philosophies</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1839.html"/>
+    <id>tag:stpeter.im,1839</id>
+    <issued>2023-12-14</issued>
+    <modified>2023-12-14</modified>
+    <summary>On the very first page of his book What Is Ancient Philosophy?, Pierre Hadot — the late French scholar who almost singlehandedly resurrected the humanistic conception of philosophy as a way of life — drew a distinction between individual philosophies on the one hand and philosophy itself on the other:...</summary>
+  </entry>
   <entry>
     <title>More on Ancient Friends</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1838.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-12-06</issued>
     <modified>2023-12-06</modified>
     <summary>Of late I've been working on the first serious contribution to my forthcoming book about Aristotle's conception of human fulfillment: a glossary of key terms. Those curious enough to peruse it will quickly discover that some of my renderings are rather non-standard. In my defense, usually these translations are rooted in ancient Greek etymology and usage or modern academic scholarship (e.g., both Aryeh Kosman and Myles Burnyeat recommended "understanding" instead of "knowledge" for epistēmē, as noted in my recent post "Understanding What You Know"); however, in a few instances I go farther out on a limb (e.g., "thriving" instead of "virtue" for aretē and, most centrally of all, "fulfillment" instead of "happiness" for eudaimonia). Although all of these renderings are subject to change, I'm quite satisfied with them so far (having pondered them for years) and in fact they provide a good indication of the interpretive direction I'm taking....</summary>
-  </entry>
-  <entry>
-    <title>Understanding What You Know</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1833.html"/>
-    <id>tag:stpeter.im,1833</id>
-    <issued>2023-11-29</issued>
-    <modified>2023-11-29</modified>
-    <summary>Recently I discovered two ancient philosophy papers from the 1970s (by Aryeh Kosman and Myles Burnyeat) drawing a distinction between knowledge and understanding. As far as I can tell, Kosman was the first to propose that the Greek word epistēmē is best translated as understanding, and that in fact it means understanding how to explain what you know, in other words understanding why the thing you know is the way it is....</summary>
   </entry>
 </feed>
