@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-12-14</modified>
+  <modified>2023-12-18</modified>
+  <entry>
+    <title>Do We Need the Concept of a Concept?</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1840.html"/>
+    <id>tag:stpeter.im,1840</id>
+    <issued>2023-12-18</issued>
+    <modified>2023-12-18</modified>
+    <summary>As mentioned last month, I'm slowly re-reading Robert Sokolowski's book Phenomenology of the Human Person with a friend of mine. When I first wrote about this book four years ago, I noted that Sokolowski "explains the epistemology of reason in the context of human conversation: by embracing the back and forth of speech ... he sidesteps the ever present dangers of solipsism and mental representationalism." As a point of comparison, in her book Introduction to Objectivist Epistemology, Ayn Rand says that a child independently formulates the concept of, say, a tree in his or her own mind by observing trees in reality. However, on this account we need to add communication as a separate capacity on top of concept-formation so that we can explain how the child associates the word 'tree' with the concept....</summary>
+  </entry>
   <entry>
     <title>Philosophy vs. Philosophies</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1839.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-12-09</issued>
     <modified>2023-12-09</modified>
     <summary>The usually reasonable Arnold Kling, one of my favorite bloggers going back 25 years, has been using ChatGPT to build an essay-grading app and might have taken one too many sips of the Kool-Aid. Consider:...</summary>
-  </entry>
-  <entry>
-    <title>An Aristotelian Glossary</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1834.html"/>
-    <id>tag:stpeter.im,1834</id>
-    <issued>2023-12-06</issued>
-    <modified>2023-12-06</modified>
-    <summary>Of late I've been working on the first serious contribution to my forthcoming book about Aristotle's conception of human fulfillment: a glossary of key terms. Those curious enough to peruse it will quickly discover that some of my renderings are rather non-standard. In my defense, usually these translations are rooted in ancient Greek etymology and usage or modern academic scholarship (e.g., both Aryeh Kosman and Myles Burnyeat recommended "understanding" instead of "knowledge" for epistēmē, as noted in my recent post "Understanding What You Know"); however, in a few instances I go farther out on a limb (e.g., "thriving" instead of "virtue" for aretē and, most centrally of all, "fulfillment" instead of "happiness" for eudaimonia). Although all of these renderings are subject to change, I'm quite satisfied with them so far (having pondered them for years) and in fact they provide a good indication of the interpretive direction I'm taking....</summary>
   </entry>
 </feed>
