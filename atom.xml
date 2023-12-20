@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-12-18</modified>
+  <modified>2023-12-19</modified>
+  <entry>
+    <title>Short Shrift</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1841.html"/>
+    <id>tag:stpeter.im,1841</id>
+    <issued>2023-12-19</issued>
+    <modified>2023-12-19</modified>
+    <summary>Riffing on a post by Arnold Kling, who in turn was riffing on Marc Andreessen, I've been pondering the topics that various schools of thought tend to ignore. Kling was talking about politics: conservatives don't like to discuss beneficial social changes they once opposed, progressives don't like to consider anything but oppression as a cause of disparate outcomes, etc. However, we can apply the same line of thinking to philosophies. Here are a few possibilities:...</summary>
+  </entry>
   <entry>
     <title>Do We Need the Concept of a Concept?</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1840.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-12-10</issued>
     <modified>2023-12-10</modified>
     <summary>On this day 510 years ago (December 10th, 1513), Niccolò Machiavelli wrote a now-famous letter to his friend Francesco Vettori about his life in exile from Florence - and about a little book he was writing, which has come down to us as The Prince. After relating what had happened that day on his farm and in the village, he described his evening routine, when he would "visit" with Plutarch, Polybius, Livy, Aristotle, and other great minds of antiquity:...</summary>
-  </entry>
-  <entry>
-    <title>Reality is Messy</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1835.html"/>
-    <id>tag:stpeter.im,1835</id>
-    <issued>2023-12-09</issued>
-    <modified>2023-12-09</modified>
-    <summary>The usually reasonable Arnold Kling, one of my favorite bloggers going back 25 years, has been using ChatGPT to build an essay-grading app and might have taken one too many sips of the Kool-Aid. Consider:...</summary>
   </entry>
 </feed>
