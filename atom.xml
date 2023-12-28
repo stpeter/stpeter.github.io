@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-12-23</modified>
+  <modified>2023-12-27</modified>
+  <entry>
+    <title>2023 Readings</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1843.html"/>
+    <id>tag:stpeter.im,1843</id>
+    <issued>2023-12-27</issued>
+    <modified>2023-12-27</modified>
+    <summary>In a typical year I read about 80 books, but this year I made it through less than 60. Granted, several of them were big, such as Ron Chernow's biography of Washington and Victor Hugo's wondrous novel Les Misérables; but others were short and easy. The ones that made the greatest impression on me were Honeybee Democracy by Thomas Seeley, The Old Way by Elizabeth Marshall Thomas, Free to Learn by Peter Gray, Grief by Michael Cholbi, the aforementioned biography of Washington, and the Poetical Works of 17th-century English poet Thomas Traherne. (The linked titles below point to texts in the public domain available at my Monadnock site, and the blog posts at the bottom contain reflections on several of the books that impressed me most.)...</summary>
+  </entry>
   <entry>
     <title>The Old Way</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1842.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-12-13</issued>
     <modified>2023-12-13</modified>
     <summary>A mere two nights after quoting Niccolò Machiavelli's reflections on his ancient friends, I came upon a similar passage in Essays in Idleness, written by the Japanese poet-monk Yoshida Kenkō around the year 1330. Here's what Kenkō had to say, in the translation by Donald Keene:...</summary>
-  </entry>
-  <entry>
-    <title>Planning to Be Old</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1837.html"/>
-    <id>tag:stpeter.im,1837</id>
-    <issued>2023-12-12</issued>
-    <modified>2023-12-12</modified>
-    <summary>Earlier this year at a family gathering, I overheard an uncle of mine (who is in his late 80s) say something in passing to one of his siblings about the importance of planning to be old. This set me to thinking: what might such planning involve? Here are some possible considerations:...</summary>
   </entry>
 </feed>
