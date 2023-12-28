@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-12-27</modified>
+  <modified>2023-12-28</modified>
+  <entry>
+    <title>Monadnock Valley Press Annual Report 2023</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1844.html"/>
+    <id>tag:stpeter.im,1844</id>
+    <issued>2023-12-28</issued>
+    <modified>2023-12-28</modified>
+    <summary>In contrast to 2022, when I republished works by fifty authors, 2023 was a slow year at the Monadnock Valley Press. In retrospect, the focus seems to have been English-language poets old and new (or as new as copyright expiration laws will allow). In chronological order of authors' birthdates, that would be:...</summary>
+  </entry>
   <entry>
     <title>2023 Readings</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1843.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-12-14</issued>
     <modified>2023-12-14</modified>
     <summary>On the very first page of his book What Is Ancient Philosophy?, Pierre Hadot — the late French scholar who almost singlehandedly resurrected the humanistic conception of philosophy as a way of life — drew a distinction between individual philosophies on the one hand and philosophy itself on the other:...</summary>
-  </entry>
-  <entry>
-    <title>More on Ancient Friends</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1838.html"/>
-    <id>tag:stpeter.im,1838</id>
-    <issued>2023-12-13</issued>
-    <modified>2023-12-13</modified>
-    <summary>A mere two nights after quoting Niccolò Machiavelli's reflections on his ancient friends, I came upon a similar passage in Essays in Idleness, written by the Japanese poet-monk Yoshida Kenkō around the year 1330. Here's what Kenkō had to say, in the translation by Donald Keene:...</summary>
   </entry>
 </feed>
