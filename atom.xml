@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2023-12-28</modified>
+  <modified>2024-01-02</modified>
+  <entry>
+    <title>Freed from Need</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1845.html"/>
+    <id>tag:stpeter.im,1845</id>
+    <issued>2024-01-02</issued>
+    <modified>2024-01-02</modified>
+    <summary>A few months ago, two different people reached out to me about editing their respective books. The first person was someone I had worked with for several years, whom I liked and respected, who had a complete manuscript that although in need of editing was in decent shape, and who was respectful of my time and fairly flexible about schedule. The second person was someone who contacted me out of the blue, who hadn't put in the effort to make his manuscript as good as he was able to on his own, who wanted a quick turnaround, and who was kind of passive-aggressive about working together; he seemed to think that offering to pay me would make up for these failings, and indeed he was almost offended when I told him that I don't charge to edit people's books....</summary>
+  </entry>
   <entry>
     <title>Monadnock Valley Press Annual Report 2023</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1844.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-12-18</issued>
     <modified>2023-12-18</modified>
     <summary>As mentioned last month, I'm slowly re-reading Robert Sokolowski's book Phenomenology of the Human Person with a friend of mine. When I first wrote about this book four years ago, I noted that Sokolowski "explains the epistemology of reason in the context of human conversation: by embracing the back and forth of speech ... he sidesteps the ever present dangers of solipsism and mental representationalism." As a point of comparison, in her book Introduction to Objectivist Epistemology, Ayn Rand says that a child independently formulates the concept of, say, a tree in his or her own mind by observing trees in reality. However, on this account we need to add communication as a separate capacity on top of concept-formation so that we can explain how the child associates the word 'tree' with the concept....</summary>
-  </entry>
-  <entry>
-    <title>Philosophy vs. Philosophies</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1839.html"/>
-    <id>tag:stpeter.im,1839</id>
-    <issued>2023-12-14</issued>
-    <modified>2023-12-14</modified>
-    <summary>On the very first page of his book What Is Ancient Philosophy?, Pierre Hadot — the late French scholar who almost singlehandedly resurrected the humanistic conception of philosophy as a way of life — drew a distinction between individual philosophies on the one hand and philosophy itself on the other:...</summary>
   </entry>
 </feed>
