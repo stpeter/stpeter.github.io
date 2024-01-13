@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-01-02</modified>
+  <modified>2024-01-13</modified>
+  <entry>
+    <title>Truth, Goodness, Beauty</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1846.html"/>
+    <id>tag:stpeter.im,1846</id>
+    <issued>2024-01-13</issued>
+    <modified>2024-01-13</modified>
+    <summary>As I've noted before, the unity of truth, good, and beauty is close to the heart of the Socratic-Platonic-Aristotelian tradition. That's because the highest thing we can know or understand is not the world or even ourselves, but the good. Socrates realized this when he turned away from natural philosophy to the consideration of human affairs. For Aristotle, an understanding of the human good is the key to avoiding the extremes of foolishness and cunning, and thus achieving wisdom or φρόνησις; and an understanding of the divine (the good in its purest form) is the key to avoiding the extremes of ignorance and sophistry or deception, and thus achieving sagacity or σοφία....</summary>
+  </entry>
   <entry>
     <title>Freed from Need</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1845.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-12-19</issued>
     <modified>2023-12-19</modified>
     <summary>Riffing on a post by Arnold Kling, who in turn was riffing on Marc Andreessen, I've been pondering the topics that various schools of thought tend to ignore. Kling was talking about politics: conservatives don't like to discuss beneficial social changes they once opposed, progressives don't like to consider anything but oppression as a cause of disparate outcomes, etc. However, we can apply the same line of thinking to philosophies. Here are a few possibilities:...</summary>
-  </entry>
-  <entry>
-    <title>Do We Need the Concept of a Concept?</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1840.html"/>
-    <id>tag:stpeter.im,1840</id>
-    <issued>2023-12-18</issued>
-    <modified>2023-12-18</modified>
-    <summary>As mentioned last month, I'm slowly re-reading Robert Sokolowski's book Phenomenology of the Human Person with a friend of mine. When I first wrote about this book four years ago, I noted that Sokolowski "explains the epistemology of reason in the context of human conversation: by embracing the back and forth of speech ... he sidesteps the ever present dangers of solipsism and mental representationalism." As a point of comparison, in her book Introduction to Objectivist Epistemology, Ayn Rand says that a child independently formulates the concept of, say, a tree in his or her own mind by observing trees in reality. However, on this account we need to add communication as a separate capacity on top of concept-formation so that we can explain how the child associates the word 'tree' with the concept....</summary>
   </entry>
 </feed>
