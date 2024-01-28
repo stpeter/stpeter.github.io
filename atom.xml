@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-01-18</modified>
+  <modified>2024-01-27</modified>
+  <entry>
+    <title>Crafty</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1848.html"/>
+    <id>tag:stpeter.im,1848</id>
+    <issued>2024-01-27</issued>
+    <modified>2024-01-27</modified>
+    <summary>Aristotle is well-known for having pioneered our vocabulary of potentiality and actualization. An especial meaningful form of human potentiality or capacity is what he calls a hexis: a stable, voluntarily acquired trait that, when applied, results in reliable activity of a certain kind. Aristotle identifies three such primary traits in human life: virtue or excellence of character (aretē), knowledge or understanding (epistēmē), and craft or skill (technē)....</summary>
+  </entry>
   <entry>
     <title>Does Everyone Have a Philosophy of Life?</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1847.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-12-27</issued>
     <modified>2023-12-27</modified>
     <summary>In a typical year I read about 80 books, but this year I made it through less than 60. Granted, several of them were big, such as Ron Chernow's biography of Washington and Victor Hugo's wondrous novel Les Misérables; but others were short and easy. The ones that made the greatest impression on me were Honeybee Democracy by Thomas Seeley, The Old Way by Elizabeth Marshall Thomas, Free to Learn by Peter Gray, Grief by Michael Cholbi, the aforementioned biography of Washington, and the Poetical Works of 17th-century English poet Thomas Traherne. (The linked titles below point to texts in the public domain available at my Monadnock site, and the blog posts at the bottom contain reflections on several of the books that impressed me most.)...</summary>
-  </entry>
-  <entry>
-    <title>The Old Way</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1842.html"/>
-    <id>tag:stpeter.im,1842</id>
-    <issued>2023-12-23</issued>
-    <modified>2023-12-23</modified>
-    <summary>In her book The Old Way, Elizabeth Marshall Thomas provides a poignant portrait of the hunter-gatherer way of life, based on her "first contact" experience with the Bushmen of the Kalahari Desert in the early 1950s. Her account contains many fascinating aspects, such as her description of how the Bushmen groups of ~25 people had no leader but instead made decisions by consensus. She calls their knowledge, customs, and skills "The Old Way" because she contends that we humans evolved into that way of life over hundreds of thousands (perhaps even millions) of years after we split from chimpanzees and the climate of much of Africa changed from rain forest to savannah. When you consider that humans lived as hunter-gatherers for over ten thousand generations, that we have lived as agriculturalists for only a few hundred generations, and that we have lived in industrial society for only ten to twenty generations, you start to realize the vast scale of human evolution and the deep foundations for how we think and behave - as well as the extraordinary novelty of our modern way of life. It's no surprise, then, that it's all too easy for us, whether individually or collectively, to retrogress into tribalism. Yet it seems to me that modern tribalism has all the worst features of The Old Way and none of the many features that redeemed it and indeed made it absolutely necessary for human survival until ten thousand years ago or so. In fact, what we think of as tribalism seems to have more in common with the hierarchical societies based on status, power, and wealth that emerged after the hunter-gatherer way of life broke down, and less on the egalitarian societies of The Old Way....</summary>
   </entry>
 </feed>
