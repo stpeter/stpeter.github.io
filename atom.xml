@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-01-27</modified>
+  <modified>2024-02-14</modified>
+  <entry>
+    <title>Called to Account</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1849.html"/>
+    <id>tag:stpeter.im,1849</id>
+    <issued>2024-02-14</issued>
+    <modified>2024-02-14</modified>
+    <summary>In Plato's dialogue Laches, Lysimachus and Melesias are searching for someone to teach their sons about courage, so they engage the Athenian generals Laches and Nikias in conversation, with Socrates participating alongside. Socrates encourages Lysimachus to seek an account (logos) of virtue from Laches and Nikias, since they are older and presumably wiser than Socrates himself. When Lysimachus agrees that this is a good idea, Nikias makes a fascinating observation:...</summary>
+  </entry>
   <entry>
     <title>Crafty</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1848.html"/>
@@ -49,13 +57,5 @@
     <issued>2023-12-28</issued>
     <modified>2023-12-28</modified>
     <summary>In contrast to 2022, when I republished works by fifty authors, 2023 was a slow year at the Monadnock Valley Press. In retrospect, the focus seems to have been English-language poets old and new (or as new as copyright expiration laws will allow). In chronological order of authors' birthdates, that would be:...</summary>
-  </entry>
-  <entry>
-    <title>2023 Readings</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1843.html"/>
-    <id>tag:stpeter.im,1843</id>
-    <issued>2023-12-27</issued>
-    <modified>2023-12-27</modified>
-    <summary>In a typical year I read about 80 books, but this year I made it through less than 60. Granted, several of them were big, such as Ron Chernow's biography of Washington and Victor Hugo's wondrous novel Les Misérables; but others were short and easy. The ones that made the greatest impression on me were Honeybee Democracy by Thomas Seeley, The Old Way by Elizabeth Marshall Thomas, Free to Learn by Peter Gray, Grief by Michael Cholbi, the aforementioned biography of Washington, and the Poetical Works of 17th-century English poet Thomas Traherne. (The linked titles below point to texts in the public domain available at my Monadnock site, and the blog posts at the bottom contain reflections on several of the books that impressed me most.)...</summary>
   </entry>
 </feed>
