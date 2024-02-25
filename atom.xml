@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-02-17</modified>
+  <modified>2024-02-25</modified>
+  <entry>
+    <title>Traits of Mind</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1851.html"/>
+    <id>tag:stpeter.im,1851</id>
+    <issued>2024-02-25</issued>
+    <modified>2024-02-25</modified>
+    <summary>Following up on my recent post about Plato's Laches and Aristotle's Ethics, I've continued to ponder the need they identified to provide an account for how you live. Although I'm still researching the relevant texts, it appears that Aristotle at least identified such a need in all five of the traits of mind that he discusses: craft, understanding, insight, wisdom, and sagacity (see my Aristotelian glossary for more about these terms). Here is a sketch of my findings so far....</summary>
+  </entry>
   <entry>
     <title>Pair Reading</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1850.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-01-13</issued>
     <modified>2024-01-13</modified>
     <summary>As I've noted before, the unity of truth, good, and beauty is close to the heart of the Socratic-Platonic-Aristotelian tradition. That's because the highest thing we can know or understand is not the world or even ourselves, but the good. Socrates realized this when he turned away from natural philosophy to the consideration of human affairs. For Aristotle, an understanding of the human good is the key to avoiding the extremes of foolishness and cunning, and thus achieving wisdom or φρόνησις; and an understanding of the divine (the good in its purest form) is the key to avoiding the extremes of ignorance and sophistry or deception, and thus achieving sagacity or σοφία....</summary>
-  </entry>
-  <entry>
-    <title>Freed from Need</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1845.html"/>
-    <id>tag:stpeter.im,1845</id>
-    <issued>2024-01-02</issued>
-    <modified>2024-01-02</modified>
-    <summary>A few months ago, two different people reached out to me about editing their respective books. The first person was someone I had worked with for several years, whom I liked and respected, who had a complete manuscript that although in need of editing was in decent shape, and who was respectful of my time and fairly flexible about schedule. The second person was someone who contacted me out of the blue, who hadn't put in the effort to make his manuscript as good as he was able to on his own, who wanted a quick turnaround, and who was kind of passive-aggressive about working together; he seemed to think that offering to pay me would make up for these failings, and indeed he was almost offended when I told him that I don't charge to edit people's books....</summary>
   </entry>
 </feed>
