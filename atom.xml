@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-02-25</modified>
+  <modified>2024-03-07</modified>
+  <entry>
+    <title>A Plague on Both Your Houses!</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1852.html"/>
+    <id>tag:stpeter.im,1852</id>
+    <issued>2024-03-07</issued>
+    <modified>2024-03-07</modified>
+    <summary>We all know the story of Romeo and Juliet, that pair of star-crossed lovers who through a series of mishaps and misunderstandings end up committing suicide. Yet amidst the tragedy and the romance we pay less attention to the civic background: duelling families whose constant strife seriously jeopardizes the peace in the Verona of old. Both the prince and the people are fed up with the Capulets and the Montagues; in Shakespeare's rendering, when the prince's kinsman Mercutio is mortally albeit unintentionally wounded by Romeo in yet another street fight, he cries out "a plague on both your houses!"...</summary>
+  </entry>
   <entry>
     <title>Traits of Mind</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1851.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-01-18</issued>
     <modified>2024-01-18</modified>
     <summary>In the spirit of questioning my beliefs and reducing the number of opinions I hold, lately I've been wondering about something I've always assumed: that everyone has a philosophy of life....</summary>
-  </entry>
-  <entry>
-    <title>Truth, Goodness, Beauty</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1846.html"/>
-    <id>tag:stpeter.im,1846</id>
-    <issued>2024-01-13</issued>
-    <modified>2024-01-13</modified>
-    <summary>As I've noted before, the unity of truth, good, and beauty is close to the heart of the Socratic-Platonic-Aristotelian tradition. That's because the highest thing we can know or understand is not the world or even ourselves, but the good. Socrates realized this when he turned away from natural philosophy to the consideration of human affairs. For Aristotle, an understanding of the human good is the key to avoiding the extremes of foolishness and cunning, and thus achieving wisdom or φρόνησις; and an understanding of the divine (the good in its purest form) is the key to avoiding the extremes of ignorance and sophistry or deception, and thus achieving sagacity or σοφία....</summary>
   </entry>
 </feed>
