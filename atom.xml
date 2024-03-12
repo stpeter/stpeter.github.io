@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-03-07</modified>
+  <modified>2024-03-11</modified>
+  <entry>
+    <title>Work as a Gift</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1853.html"/>
+    <id>tag:stpeter.im,1853</id>
+    <issued>2024-03-11</issued>
+    <modified>2024-03-11</modified>
+    <summary>While reading British anthropologist Alan Macfarlane's fascinating book Japan through the Looking Glass recently, I was introduced to a conception of economic interaction almost entirely different from that in the West:...</summary>
+  </entry>
   <entry>
     <title>A Plague on Both Your Houses!</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1852.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-01-27</issued>
     <modified>2024-01-27</modified>
     <summary>Aristotle is well-known for having pioneered our vocabulary of potentiality and actualization. An especially meaningful form of human potentiality or capacity is what he calls a hexis: a stable, voluntarily acquired trait that, when applied, results in reliable activity of a certain kind. Aristotle identifies three such primary traits in human life: virtue or excellence of character (aretē), knowledge or understanding (epistēmē), and craft or skill (technē)....</summary>
-  </entry>
-  <entry>
-    <title>Does Everyone Have a Philosophy of Life?</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1847.html"/>
-    <id>tag:stpeter.im,1847</id>
-    <issued>2024-01-18</issued>
-    <modified>2024-01-18</modified>
-    <summary>In the spirit of questioning my beliefs and reducing the number of opinions I hold, lately I've been wondering about something I've always assumed: that everyone has a philosophy of life....</summary>
   </entry>
 </feed>
