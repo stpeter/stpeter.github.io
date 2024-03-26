@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-03-11</modified>
+  <modified>2024-03-26</modified>
+  <entry>
+    <title>Nietzsche's Teachings</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1854.html"/>
+    <id>tag:stpeter.im,1854</id>
+    <issued>2024-03-26</issued>
+    <modified>2024-03-26</modified>
+    <summary>The other day a friend of mine asked me for my overall assessment of Friedrich Nietzsche. At first I jokingly replied that each of the seventy-two poems in my book Songs of Zarathustra might present a unique perspective, whereas all together they might not yield a unitary view. Then I decided to re-read the book, which led me to identify six main themes in what I take to be Nietzsche's positive philosophy of life:...</summary>
+  </entry>
   <entry>
     <title>Work as a Gift</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1853.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-02-05</issued>
     <modified>2024-02-05</modified>
     <summary>In Plato's dialogue Laches, Lysimachus and Melesias are searching for someone to teach their sons about courage, so they engage the Athenian generals Laches and Nikias in conversation, with Socrates participating alongside. Socrates encourages Lysimachus to seek an account (logos) of virtue from Laches and Nikias, since they are older and presumably wiser than Socrates himself. When Lysimachus agrees that this is a good idea, Nikias makes a fascinating observation:...</summary>
-  </entry>
-  <entry>
-    <title>Crafty</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1848.html"/>
-    <id>tag:stpeter.im,1848</id>
-    <issued>2024-01-27</issued>
-    <modified>2024-01-27</modified>
-    <summary>Aristotle is well-known for having pioneered our vocabulary of potentiality and actualization. An especially meaningful form of human potentiality or capacity is what he calls a hexis: a stable, voluntarily acquired trait that, when applied, results in reliable activity of a certain kind. Aristotle identifies three such primary traits in human life: virtue or excellence of character (aretē), knowledge or understanding (epistēmē), and craft or skill (technē)....</summary>
   </entry>
 </feed>
