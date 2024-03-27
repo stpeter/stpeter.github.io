@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-03-26</modified>
+  <modified>2024-03-27</modified>
+  <entry>
+    <title>Walking with Aristotle: Nicomachean Ethics I.1-5</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1855.html"/>
+    <id>tag:stpeter.im,1855</id>
+    <issued>2024-03-27</issued>
+    <modified>2024-03-27</modified>
+    <summary>Here in the late stages of preparation for writing my book Complete Yourself: Aristotle on Human Fulfillment, I've started a close re-reading of Aristotle's Nicomachean Ethics (to be followed by a similar reading of his Eudemian Ethics). Because it might prove useful both to myself and to others, I'll post notes on my readings as I go along, in a new series entitled "Walking with Aristotle"....</summary>
+  </entry>
   <entry>
     <title>Nietzsche's Teachings</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1854.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-02-17</issued>
     <modified>2024-02-17</modified>
     <summary>Over the last few months I've taken up a new practice: reading with friends. The concept is simple: choose a friend, choose a book, slowly read it, and share thoughts on each chapter as you go along. It's kind of like pair programming for intellectual exploration....</summary>
-  </entry>
-  <entry>
-    <title>Called to Account</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1849.html"/>
-    <id>tag:stpeter.im,1849</id>
-    <issued>2024-02-05</issued>
-    <modified>2024-02-05</modified>
-    <summary>In Plato's dialogue Laches, Lysimachus and Melesias are searching for someone to teach their sons about courage, so they engage the Athenian generals Laches and Nikias in conversation, with Socrates participating alongside. Socrates encourages Lysimachus to seek an account (logos) of virtue from Laches and Nikias, since they are older and presumably wiser than Socrates himself. When Lysimachus agrees that this is a good idea, Nikias makes a fascinating observation:...</summary>
   </entry>
 </feed>
