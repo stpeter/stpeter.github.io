@@ -24,4 +24,16 @@ tr. W.A. Pickard-Cambridge
 
 "Again, that is more desirable which serves the better purpose, e.g. that which serves to promote virtue more than that which serves to promote pleasure. Likewise also in the case of objectionable things; for that is more objectionable which stands more in the way of what is desirable, e.g. disease more than ugliness; for disease is a greater hindrance both to pleasure and to being good." (118b32-37) [PSA: note the connection to being impeded from engaging in good activity.]
 
+"[S]ome people hold that prudence [phronesis] is both virtue and knowledge, and that neither of its genera is embraced by the other - although certainly not everybody admits that prudence is knowledge. If, however, anyone were to admit the truth of this assertion, yet it would still be thought to be necessary that the genera of the same object must at any rate be subordinate either the one to the other or both to the same thing as actually is the case with virtue and knowledge. For both fall under the same genus; for each of them is a state [hexis] and a disposition [diathesis]." (121b31-38)
+
+"[S]ee whether the contrary of the species is not found in any genus at all, but is itself a genus, e.g. the good; for it this is not found in any genus, neither will its contrary be found in any genus, as happens in the case of good and evil; for neither of these is found in a genus, but each of them is a genus." (123b8-12)
+
+"[I]f a capacity [dunamis] is a disposition [diathesis], then also to be capable is to be disposed, and if the use of anything is an activity [energeia], then to use it is to be active." (124a31-33)
+
+"[V]irtue is essentially noble and essentially good, and yet, while virtue is a relative, good and noble are not relatives but qualities." (124b25-27)
+
+"They also make a mistake who rank a state [hexis] within the capacity [dunamis] that attends it, e.g. by calling good temper mastery [enkrateia] of anger, and courage and justice mastery of fears and of gains; for courage and good temper belong to the man who is immune from passion, whereas mastery is exhibited by the man who is exposed to passion and not led by it. Quite possibly, indeed, each of the former is attended by a capacity such that, if he were exposed to passion, he would control it and not be led by it; but, for all that, this is not what is meant by being courageous in the one case, and good-tempered in the other; what is meant is an absolute immunity from any passions of that kind at all." (125b20-27)
+
+"If anyone says that shame is fear, or that anger is pain, the result will be that genus and species are not found in the same thing; for shame is found in the reasoning faculty [logistikon], whereas fear is found in the spirited faculty [thumoeidos]; and pain is found in the faculty of desire [epithumetikon] (for in this pleasure is also found), whereas anger is found in the spirited faculty. Hence the terms given are not the genera, seeing that they do not naturally come to be in the same thing as the species. Likewise, also, if friendship is found in the faculty of desire, it is not a form of wishing [boulesis]; for wishing is always found in the reasoning faculty." (126a6-13)
+
 WIP
