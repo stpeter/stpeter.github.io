@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-03-27</modified>
+  <modified>2024-03-29</modified>
+  <entry>
+    <title>Walking with Aristotle: Nicomachean Ethics I.6</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1856.html"/>
+    <id>tag:stpeter.im,1856</id>
+    <issued>2024-03-29</issued>
+    <modified>2024-03-29</modified>
+    <summary>After the preliminaries in Nicomachean Ethics I.1-5, Aristotle considers a rather abstract question: is there some universal good or "Form of the Good" that is common to all good things? Aristotle's friends in Plato's Academy thought so, but in pursuit of truth Aristotle finds that he must disagree, for several reasons....</summary>
+  </entry>
   <entry>
     <title>Walking with Aristotle: Nicomachean Ethics I.1-5</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1855.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-02-25</issued>
     <modified>2024-02-25</modified>
     <summary>Following up on my recent post about Plato's Laches and Aristotle's Ethics, I've continued to ponder the need they identified to provide an account for how you live. Although I'm still researching the relevant texts, it appears that Aristotle at least identified such a need in all five of the traits of mind that he discusses: craft, understanding, insight, wisdom, and sagacity (see my Aristotelian glossary for more about these terms). Here is a sketch of my findings so far....</summary>
-  </entry>
-  <entry>
-    <title>Pair Reading</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1850.html"/>
-    <id>tag:stpeter.im,1850</id>
-    <issued>2024-02-17</issued>
-    <modified>2024-02-17</modified>
-    <summary>Over the last few months I've taken up a new practice: reading with friends. The concept is simple: choose a friend, choose a book, slowly read it, and share thoughts on each chapter as you go along. It's kind of like pair programming for intellectual exploration....</summary>
   </entry>
 </feed>
