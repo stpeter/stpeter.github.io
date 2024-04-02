@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-03-29</modified>
+  <modified>2024-04-01</modified>
+  <entry>
+    <title>Modernizing Aristotle's Ethics: A Review</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1857.html"/>
+    <id>tag:stpeter.im,1857</id>
+    <issued>2024-04-01</issued>
+    <modified>2024-04-01</modified>
+    <summary>This is just a brief note that folks interested in Aristotle, Ayn Rand, the psychology of happiness, or any combination thereof might enjoy my review of Roger E. Bissell and Vinay Kolhatkar's new book Modernizing Aristotle's Ethics: Toward a New Art and Science of Self-Actualization, just published in Issue 44, No. 1 of the interdisciplinary journal Reason Papers. Check it out!...</summary>
+  </entry>
   <entry>
     <title>Walking with Aristotle: Nicomachean Ethics I.6</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1856.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-03-07</issued>
     <modified>2024-03-07</modified>
     <summary>We all know the story of Romeo and Juliet, that pair of star-crossed lovers who through a series of mishaps and misunderstandings end up committing suicide. Yet amidst the tragedy and the romance we pay less attention to the civic background: duelling families whose constant strife seriously jeopardizes the peace in the Verona of old. Both the prince and the people are fed up with the Capulets and the Montagues; in Shakespeare's rendering, when the prince's kinsman Mercutio is mortally albeit unintentionally wounded by Romeo in yet another street fight, he cries out "a plague on both your houses!"...</summary>
-  </entry>
-  <entry>
-    <title>Traits of Mind</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1851.html"/>
-    <id>tag:stpeter.im,1851</id>
-    <issued>2024-02-25</issued>
-    <modified>2024-02-25</modified>
-    <summary>Following up on my recent post about Plato's Laches and Aristotle's Ethics, I've continued to ponder the need they identified to provide an account for how you live. Although I'm still researching the relevant texts, it appears that Aristotle at least identified such a need in all five of the traits of mind that he discusses: craft, understanding, insight, wisdom, and sagacity (see my Aristotelian glossary for more about these terms). Here is a sketch of my findings so far....</summary>
   </entry>
 </feed>
