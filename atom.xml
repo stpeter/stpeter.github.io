@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-04-01</modified>
+  <modified>2024-04-13</modified>
+  <entry>
+    <title>Tao Te Ching §44: Ageless Life</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1858.html"/>
+    <id>tag:stpeter.im,1858</id>
+    <issued>2024-04-13</issued>
+    <modified>2024-04-13</modified>
+    <summary>I continue to ponder various poems from the Tao Te Ching with an eye toward perhaps setting them to music. Here is my provisional rendering of chapter 44:...</summary>
+  </entry>
   <entry>
     <title>Modernizing Aristotle's Ethics: A Review</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1857.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-03-11</issued>
     <modified>2024-03-11</modified>
     <summary>While reading British anthropologist Alan Macfarlane's fascinating book Japan through the Looking Glass recently, I was introduced to a conception of economic interaction almost entirely different from that in the West:...</summary>
-  </entry>
-  <entry>
-    <title>A Plague on Both Your Houses!</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1852.html"/>
-    <id>tag:stpeter.im,1852</id>
-    <issued>2024-03-07</issued>
-    <modified>2024-03-07</modified>
-    <summary>We all know the story of Romeo and Juliet, that pair of star-crossed lovers who through a series of mishaps and misunderstandings end up committing suicide. Yet amidst the tragedy and the romance we pay less attention to the civic background: duelling families whose constant strife seriously jeopardizes the peace in the Verona of old. Both the prince and the people are fed up with the Capulets and the Montagues; in Shakespeare's rendering, when the prince's kinsman Mercutio is mortally albeit unintentionally wounded by Romeo in yet another street fight, he cries out "a plague on both your houses!"...</summary>
   </entry>
 </feed>
