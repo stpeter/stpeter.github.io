@@ -4,6 +4,6 @@ In Nussbaum and Rorty, eds., Essays on Aristotle's De Anima. Clarendon, 1992.
 
 "Aristotle is so far from thinking that 'x lives' is temporally incompatible with 'x has lived' that he thinks that 'x lives (at t)' actually *entails* 'x has lived (at t)'. This suggests that Aristotle takes living and other energeiai not simply at compatible with, but as implying, the existence of the potentialities whose actualizations they are. And this would explain why he says that only a body that is actually alive is potentially alive: living is the actualization of one of the body's potentialities, an actualization which could not occur in the absence of that potentiality." (WHITING-1992, p. 89)
 
-"[W]hen Aristotle says that a body is capable of living (or potentially alive) he does not mean that is *can* live *if* there is some external efficient cause around to make it live: a natural body is potentially alive only given the presence of an *internal* efficient cause of its being alive - that is, only given the presence of its soul." (WHITING-1992, p. 91) [PSA: for 'soul', read 'aliveness'.]
+"[W]hen Aristotle says that a body is capable of living (or potentially alive) he does not mean that it *can* live *if* there is some external efficient cause around to make it live: a natural body is potentially alive only given the presence of an *internal* efficient cause of its being alive - that is, only given the presence of its soul." (WHITING-1992, p. 91) [PSA: for 'soul', read 'aliveness'.]
 
 END
