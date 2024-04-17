@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-04-13</modified>
+  <modified>2024-04-17</modified>
+  <entry>
+    <title>Walking with Aristotle: Nicomachean Ethics I.7</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1859.html"/>
+    <id>tag:stpeter.im,1859</id>
+    <issued>2024-04-17</issued>
+    <modified>2024-04-17</modified>
+    <summary>Book I, Chapter 7 of the Nicomachean Ethics is one of the most consequential and intensively studied passages in all of Aristotle's writings, so it will behoove us to look at it closely. As mentioned last time, it's a rather knotty line of reasoning, but I'll try to describe it as simply as I can....</summary>
+  </entry>
   <entry>
     <title>Tao Te Ching §44: Ageless Life</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1858.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-03-26</issued>
     <modified>2024-03-26</modified>
     <summary>The other day a friend of mine asked me for my overall assessment of Friedrich Nietzsche. At first I jokingly replied that each of the seventy-two poems in my book Songs of Zarathustra might present a unique perspective, whereas all together they might not yield a unitary view. Then I decided to re-read the book, which led me to identify six main themes in what I take to be Nietzsche's positive philosophy of life:...</summary>
-  </entry>
-  <entry>
-    <title>Work as a Gift</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1853.html"/>
-    <id>tag:stpeter.im,1853</id>
-    <issued>2024-03-11</issued>
-    <modified>2024-03-11</modified>
-    <summary>While reading British anthropologist Alan Macfarlane's fascinating book Japan through the Looking Glass recently, I was introduced to a conception of economic interaction almost entirely different from that in the West:...</summary>
   </entry>
 </feed>
