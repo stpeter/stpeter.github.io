@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-04-17</modified>
+  <modified>2024-04-20</modified>
+  <entry>
+    <title>Walking with Aristotle: Nicomachean Ethics I.8</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1860.html"/>
+    <id>tag:stpeter.im,1860</id>
+    <issued>2024-04-20</issued>
+    <modified>2024-04-20</modified>
+    <summary>Amidst all the excitement (for philosophy scholars!) about the "function argument" in Nicomachean Ethics I.7, Chapter 8 is often overlooked. Yet there are valuable insights here, too....</summary>
+  </entry>
   <entry>
     <title>Walking with Aristotle: Nicomachean Ethics I.7</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1859.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-03-27</issued>
     <modified>2024-03-27</modified>
     <summary>Here in the late stages of preparation for writing my book Complete Yourself: Aristotle on Human Fulfillment, I've started a close re-reading of Aristotle's Nicomachean Ethics (to be followed by a similar reading of his Eudemian Ethics). Because it might prove useful both to myself and to others, I'll post notes on my readings as I go along, in a new series entitled "Walking with Aristotle"....</summary>
-  </entry>
-  <entry>
-    <title>Nietzsche's Teachings</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1854.html"/>
-    <id>tag:stpeter.im,1854</id>
-    <issued>2024-03-26</issued>
-    <modified>2024-03-26</modified>
-    <summary>The other day a friend of mine asked me for my overall assessment of Friedrich Nietzsche. At first I jokingly replied that each of the seventy-two poems in my book Songs of Zarathustra might present a unique perspective, whereas all together they might not yield a unitary view. Then I decided to re-read the book, which led me to identify six main themes in what I take to be Nietzsche's positive philosophy of life:...</summary>
   </entry>
 </feed>
