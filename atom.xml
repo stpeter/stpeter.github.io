@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-04-20</modified>
+  <modified>2024-04-25</modified>
+  <entry>
+    <title>Poetry Reading</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1861.html"/>
+    <id>tag:stpeter.im,1861</id>
+    <issued>2024-04-25</issued>
+    <modified>2024-04-25</modified>
+    <summary>Yestereve I was honored to have a conversation with folks from the poetry circle of the Boulder Writers Alliance, at the invitation of poet Laura Border. Although I don't consider myself a poet or even a writer, it was quite a pleasure to talk with such a welcoming group about the relationship between philosophy and poetry as well as the challenges of poetry translation and the differences between ancient and modern poetry. I also read some poems from my books Ancient Fire and Songs of Zarathustra. Because this is a conclave of writers, we also took time toward the end of the session for each participant to write and then read a short poem. Having discoursed a bit during the discussion on the attitudes of Socrates and Plato toward poetry, here's what I composed on the spot with reference to Plato's dialogues Republic and Phaedo:...</summary>
+  </entry>
   <entry>
     <title>Walking with Aristotle: Nicomachean Ethics I.8</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1860.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-03-29</issued>
     <modified>2024-03-29</modified>
     <summary>After the preliminaries in Nicomachean Ethics I.1-5, Aristotle considers a rather abstract question: is there some universal good or "Form of the Good" that is common to all good things? Aristotle's friends in Plato's Academy thought so, but in pursuit of truth Aristotle finds that he must disagree, for several reasons....</summary>
-  </entry>
-  <entry>
-    <title>Walking with Aristotle: Nicomachean Ethics I.1-5</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1855.html"/>
-    <id>tag:stpeter.im,1855</id>
-    <issued>2024-03-27</issued>
-    <modified>2024-03-27</modified>
-    <summary>Here in the late stages of preparation for writing my book Complete Yourself: Aristotle on Human Fulfillment, I've started a close re-reading of Aristotle's Nicomachean Ethics (to be followed by a similar reading of his Eudemian Ethics). Because it might prove useful both to myself and to others, I'll post notes on my readings as I go along, in a new series entitled "Walking with Aristotle"....</summary>
   </entry>
 </feed>
