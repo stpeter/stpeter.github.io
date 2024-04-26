@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-04-25</modified>
+  <modified>2024-04-26</modified>
+  <entry>
+    <title>Walking with Aristotle: Nicomachean Ethics I.9-12</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1862.html"/>
+    <id>tag:stpeter.im,1862</id>
+    <issued>2024-04-26</issued>
+    <modified>2024-04-26</modified>
+    <summary>Having mentioned in Nicomachean Ethics I.8 the desirability of external goods such as wealth and reputation, Aristotle naturally moves on to consider the causes of human flourishing. Is fulfillment something that can be learned through training and habituation, or is it a matter of fate or even chance? Well, he says, if flourishing and fulfillment consist in a certain kind of activity (ἐνέργεια), specifically working at the task (ἔργον) of living a complete human life in accordance with inherent thrivings of mind and character, then there must be effort involved. Although this kind of beautifully right (καλὀς) activity is consistent with human nature, still it needs to be acquired and practiced. This is why we don't say that a child has attained fulfillment: it's necessary to achieve reasonably complete excellence (ἀρετή) of mind and character in a reasonably complete life in order to be truly fulfilled....</summary>
+  </entry>
   <entry>
     <title>Poetry Reading</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1861.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-04-01</issued>
     <modified>2024-04-01</modified>
     <summary>This is just a brief note that folks interested in Aristotle, Ayn Rand, the psychology of happiness, or any combination thereof might enjoy my review of Roger E. Bissell and Vinay Kolhatkar's new book Modernizing Aristotle's Ethics: Toward a New Art and Science of Self-Actualization, just published in Issue 44, No. 1 of the interdisciplinary journal Reason Papers. Check it out!...</summary>
-  </entry>
-  <entry>
-    <title>Walking with Aristotle: Nicomachean Ethics I.6</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1856.html"/>
-    <id>tag:stpeter.im,1856</id>
-    <issued>2024-03-29</issued>
-    <modified>2024-03-29</modified>
-    <summary>After the preliminaries in Nicomachean Ethics I.1-5, Aristotle considers a rather abstract question: is there some universal good or "Form of the Good" that is common to all good things? Aristotle's friends in Plato's Academy thought so, but in pursuit of truth Aristotle finds that he must disagree, for several reasons....</summary>
   </entry>
 </feed>
