@@ -9,14 +9,22 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-04-26</modified>
+  <modified>2024-05-04</modified>
+  <entry>
+    <title>Walking with Aristotle: Nicomachean Ethics I.13-II.4</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1863.html"/>
+    <id>tag:stpeter.im,1863</id>
+    <issued>2024-05-04</issued>
+    <modified>2024-05-04</modified>
+    <summary>In Book I, Chapter 13 of the Nicomachean Ethics, Aristotle turns in earnest to an investigation of ἀρετή - traditionally translated as 'virtue', more recently by some scholars as 'excellence', and by yours truly as 'thriving'. I have my reasons for this novel rendering, among them a similarity between the ancient Greek verb ἀρετάω (attested several times in Homer's Odyssey) and the core meaning of the English verb thrive as "to grow or develop well" (OED). Interestingly, the OED points out that thrive can also mean "to be successful or eminent in arms or war", which is akin to ἀρετή in the sense of martial strength and excellence (cf. Latin virtūs)....</summary>
+  </entry>
   <entry>
     <title>Walking with Aristotle: Nicomachean Ethics I.9-12</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1862.html"/>
     <id>tag:stpeter.im,1862</id>
     <issued>2024-04-26</issued>
     <modified>2024-04-26</modified>
-    <summary>Having mentioned in Nicomachean Ethics I.8 the desirability of external goods such as wealth and reputation, Aristotle naturally moves on to consider the causes of human flourishing. Is fulfillment something that can be learned through training and habituation, or is it a matter of fate or even chance? Well, he says, if flourishing and fulfillment consist in a certain kind of activity (ἐνέργεια), specifically working at the task (ἔργον) of living a complete human life in accordance with inherent thrivings of mind and character, then there must be effort involved. Although this kind of beautifully right (καλὀς) activity is consistent with human nature, still it needs to be acquired and practiced. This is why we don't say that a child has attained fulfillment: it's necessary to achieve reasonably complete excellence (ἀρετή) of mind and character in a reasonably complete life in order to be truly fulfilled....</summary>
+    <summary>Having mentioned in Nicomachean Ethics I.8 the desirability of external goods such as wealth and reputation, Aristotle naturally moves on to consider the causes of human flourishing. Is fulfillment something that can be learned through training and habituation, or is it a matter of fate or even chance? Well, he says, if flourishing and fulfillment consist in a certain kind of activity (ἐνέργεια), specifically working at the task (ἔργον) of living a complete human life in accordance with inherent thrivings of mind and character, then there must be effort involved. Although this kind of beautifully right (καλός) activity is consistent with human nature, still it needs to be acquired and practiced. This is why we don't say that a child has attained fulfillment: it's necessary to achieve reasonably complete excellence (ἀρετή) of mind and character in a reasonably complete life in order to be truly fulfilled....</summary>
   </entry>
   <entry>
     <title>Poetry Reading</title>
@@ -49,13 +57,5 @@
     <issued>2024-04-13</issued>
     <modified>2024-04-13</modified>
     <summary>I continue to ponder various poems from the Tao Te Ching with an eye toward perhaps setting them to music. Here is my provisional rendering of chapter 44:...</summary>
-  </entry>
-  <entry>
-    <title>Modernizing Aristotle's Ethics: A Review</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1857.html"/>
-    <id>tag:stpeter.im,1857</id>
-    <issued>2024-04-01</issued>
-    <modified>2024-04-01</modified>
-    <summary>This is just a brief note that folks interested in Aristotle, Ayn Rand, the psychology of happiness, or any combination thereof might enjoy my review of Roger E. Bissell and Vinay Kolhatkar's new book Modernizing Aristotle's Ethics: Toward a New Art and Science of Self-Actualization, just published in Issue 44, No. 1 of the interdisciplinary journal Reason Papers. Check it out!...</summary>
   </entry>
 </feed>
