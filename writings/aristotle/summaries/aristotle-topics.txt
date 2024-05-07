@@ -38,6 +38,26 @@ tr. W.A. Pickard-Cambridge
 
 "A property relative to something else is one which separates its subject off not from everything else but only from a particular definite thing, as does the property which virtue possesses, relative to knowledge, viz. that the former is naturally produced in more than one faculty, whereas the latter is produced in that of reason alone.... On the other hand, a difference that is found for the most part and in most cases, is one such as the faculty of reason possesses relative to that of desire and spirit, in that the former commands [prostattein], while the latter obeys; for the reasoning faculty does not always command, but sometimes also is under command, nor is that of desire and spirit always under command, but also on occasion assumes the command, whenever the man's soul is vicious [mochtheros]." (128b36-129a17)
 
+"[A] man who has stated that it is a property of virtue to be what makes its possessor good has rendered as property something that always follows, and so the property of virtue will in this respect have been correctly rendered." (131b2-4)
 
+"[I]nasmuch as it is a property of prudence [phronesis] to be essentially the natural virtue of the rational faculty [logistikon], and so too taking each of the other virtues in this way, it will be a property of temperance (sophrosune) to be essentially the natural virtue of the faculty of desire [epithumetikon]." (136b10-14)
+
+"[I]nasmuch as prudence [phronesis] is identically related to both the noble [to kalos] and the base [to aischros], since it is a knowledge [episteme] of each of them, and it is not a property to be knowledge of the noble, it will not be a property of prudence to be knowledge of the base. And if prudence is a property of knowledge of the noble, it will not be a property of knowledge of the base." (137a12-17)
+
+"[W]ith anything it is easier to do it than to do it correctly [καλῶς]." (139b8)
+
+"For desire [epithumia] is always for the pleasant, so that what is the same as desire will also be for the pleasant. Accordingly our definition of desire becomes appetition [orexis] for the pleasant; for there is no difference between desire and appetition for the pleasant, so that both alike will be for the pleasant." (140b27-32)
+
+"Xenocrates says that prudence defines [horistiken] and contemplates [theoretiken] reality."
+
+"[A] definition is rendered in order to come to know [gnorisai] the term stated, and we come to know things by taking not any random terms, but such as are prior and more familiar, as is done in demonstrations [apodeixis] (for so it is with all teaching and learning)." (141a27-31)
+
+"What is familiar without qualification is what is familiar, not to all, but to those who are in a sound state of understanding [to tois eu diakeimenois ten dianoian], just as what is without qualification healthy is what is healthy to those in a sound state of body." (142a9-11)
+
+"[E]very form of knowledge [episteme] and potentiality [dunamis] is generally thought to be relative to the best [beltistos]." (143a11)
+
+"See if he passes over the genera, defining, e.g., justice as a state [hexis] that produces equality or distributes what is equal; for by defining it so he passes over virtue, and so by leaving out the genus of justice he fails to express its essence [to ti en einai]; for the substance ]ousia] of a thing in each gase involves its genus." (143a15-19)
+
+"A state [hexis] indicates what a virtue is, whereas good indicates not what it is but a quality, and to indicate a quality seems to be the function of a differentia." (144a17-19)
 
 WIP
