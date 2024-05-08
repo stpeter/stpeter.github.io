@@ -60,4 +60,20 @@ tr. W.A. Pickard-Cambridge
 
 "A state [hexis] indicates what a virtue is, whereas good indicates not what it is but a quality, and to indicate a quality seems to be the function of a differentia." (144a17-19)
 
+"Again, see if he has rendered an affection [pathos] as the differentia; for every affection, if intensified, subverts the substance of the thing, while the differentia is not of that kind; for the differentia seems rather to preserve [sozein] that which it differentiates; and it is absolutely impossible for a thing to exist without its appropriate [oikeias] differentia." (145a2-7)
+
+"The definition [horos] of a thing's natural correlative is that for which it would be used by the prudent man [phronimos], acting as such, and by the science [episteme] appropriate [oikeia] to that thing." (145a25-27)
+
+"Every disposition [diathesis] and every affection is formed naturally in that of which it is an affection or disposition, as knowledge is formed in the soul, being a disposition of soul." (145a34-37)
+
+"[A]n equality between contrary reasonings [logismon] would seem to be a cause of perplexity [aporia]; for it is when we reflect [logizomenois] on both sides of a question and find everything alike to be in keeping with either course that we are perplexed which of the two we are to do [praxomen]." (145b16-20) [PSA: note that the primary result of working through an impasse is that we figure out what to *do*, not what to *think*.]
+
+"Or see if a relative term has been described not in relation to its end [telos], the end in anything being whatever is best [beltiston] or gives its purpose [hou chalin] to the rest." (146b9-10)
+
+"Look and see also if that in relation to which he has rendered the term is a process [genesis] or an activity [energeia]; for nothing of that kind is an end [telos], for the completion of the activity or process [to energekenai kai gegenesthai] is the end rather than the process or activity itself. Or perhaps this rule is not true in all cases; for almost everybody would rather be enjoying themselves than have ceased enjoying themselves, so that they would count the activity [to energein] as the end rather than its completion [to energekenai]." (146b13-19)
+
+"Moreover, in the case of appetitions [orexeon], and in any other cases where it applies, see if the word 'apparent' is left out: e.g. wishing [boulesis] is an appetition after the good, or desire [epithumia] is an appetition after the pleasant - instead of the apparently good or pleasant. For often those who exhibit the appetition do not perceive [lanthanei = grasp] what is good or pleasant, so that their aim [actually their orexis = reaching] need not be really good or pleasant, but only apparently so." (146b35-147a4)
+
+"Again, see if he has rendered what is desirable for its own sake [to di' auto haireton = what is valuable in itself] as desirable for what it produces or does [poetikon he praktikon], or as in any way desirable because of something else [di' allo], e.g. by saying that justice is what preserves the laws or that wisdom [sophia] is what produces happiness; for what produces or preserves something else is one of the things desirable because of something else. It might be said that it is possible for what is desirable in itself to be desirable because of something else as well; but still to define what is desirable in itself in such a way is none the less wrong; for what is best [beltiston] in anything is especially part of its substance, and it is better for a thing to be desirable in itself than to be desirable because of something else, so that the definition ought rather to have indicated this." (149b31-39)
+
 WIP
