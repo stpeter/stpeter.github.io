@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-05-04</modified>
+  <modified>2024-05-10</modified>
+  <entry>
+    <title>The Sweet Milk of Adversity</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1864.html"/>
+    <id>tag:stpeter.im,1864</id>
+    <issued>2024-05-10</issued>
+    <modified>2024-05-10</modified>
+    <summary>As I work my way through all the plays of Shakespeare, I've had an idea for another book, entitled The Sweet Milk of Adversity: On Shakespeare and Philosophy. It turns out that philosophical insights figure significantly throughout the plays. The title comes from Romeo and Juliet, in which Romeo and Friar Laurence have the following exchange:...</summary>
+  </entry>
   <entry>
     <title>Walking with Aristotle: Nicomachean Ethics I.13-II.4</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1863.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-04-17</issued>
     <modified>2024-04-17</modified>
     <summary>Book I, Chapter 7 of the Nicomachean Ethics is one of the most consequential and intensively studied passages in all of Aristotle's writings, so it will behoove us to look at it closely. As mentioned last time, it's a rather knotty line of reasoning, but I'll try to describe it as briefly and simply as I can....</summary>
-  </entry>
-  <entry>
-    <title>Tao Te Ching §44: Ageless Life</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1858.html"/>
-    <id>tag:stpeter.im,1858</id>
-    <issued>2024-04-13</issued>
-    <modified>2024-04-13</modified>
-    <summary>I continue to ponder various poems from the Tao Te Ching with an eye toward perhaps setting them to music. Here is my provisional rendering of chapter 44:...</summary>
   </entry>
 </feed>
