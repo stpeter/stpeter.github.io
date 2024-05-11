@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-05-10</modified>
+  <modified>2024-05-11</modified>
+  <entry>
+    <title>Walking with Aristotle: Nicomachean Ethics II.5-9</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1865.html"/>
+    <id>tag:stpeter.im,1865</id>
+    <issued>2024-05-11</issued>
+    <modified>2024-05-11</modified>
+    <summary>Following up on his initial inquiry into ἀρετή, Aristotle digs further into thrivings of character. Are they feelings or emotions like anger, fear, and jealousy? No, because those are ephemeral motions in the psyche that we experience without having chosen them, which is why people aren't praised or blamed for what they happen to feel. Are they capacities or predispositions? No, because although an irritable person (say) might be predisposed to be annoyed, irritability is something like a temporary mood founded in a capacity that everyone has. Are they stable traits (ἕξεις)? Yes, because traits are formed through a long series of actions and commitments and therefore can be described as chosen; this is why people are responsible for their character. It is the serious (σπουδαῖος) thrivings and unworthy (φαῦλος) failings of character that cause us to actively conduct ourselves well or badly in relation to the feelings, all of which involve either pleasure (e.g., affection) or pain (e.g., hatred)....</summary>
+  </entry>
   <entry>
     <title>The Sweet Milk of Adversity</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1864.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-04-20</issued>
     <modified>2024-04-20</modified>
     <summary>Amidst all the excitement (for philosophy scholars!) about the "function argument" in Nicomachean Ethics I.7, Chapter 8 is often overlooked. Yet there are valuable insights here, too....</summary>
-  </entry>
-  <entry>
-    <title>Walking with Aristotle: Nicomachean Ethics I.7</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1859.html"/>
-    <id>tag:stpeter.im,1859</id>
-    <issued>2024-04-17</issued>
-    <modified>2024-04-17</modified>
-    <summary>Book I, Chapter 7 of the Nicomachean Ethics is one of the most consequential and intensively studied passages in all of Aristotle's writings, so it will behoove us to look at it closely. As mentioned last time, it's a rather knotty line of reasoning, but I'll try to describe it as briefly and simply as I can....</summary>
   </entry>
 </feed>
