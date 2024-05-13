@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-05-11</modified>
+  <modified>2024-05-12</modified>
+  <entry>
+    <title>Deep Reading</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1866.html"/>
+    <id>tag:stpeter.im,1866</id>
+    <issued>2024-05-12</issued>
+    <modified>2024-05-12</modified>
+    <summary>Recently someone asked me how I approach the reading of timeless books, so here are a few thoughts; perhaps you'll find this post helpful in your own reading practice. (I read "timely" books differently, but it's the timeless ones that I care about most.)...</summary>
+  </entry>
   <entry>
     <title>Walking with Aristotle: Nicomachean Ethics II.5-9</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1865.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-04-25</issued>
     <modified>2024-04-25</modified>
     <summary>Yesterday evening I was honored to have a conversation with folks from the poetry circle of the Boulder Writers Alliance, at the invitation of poet Laura Border. Although I don't consider myself a poet or even primarily a writer, it was quite a pleasure to talk with such a welcoming group about the relationship between philosophy and poetry as well as the challenges of poetry translation and the differences between ancient and modern poetry. I also read aloud some poems from my books Ancient Fire and Songs of Zarathustra. Because this is a conclave of writers, we also took time toward the end of the session for each participant to write and then read aloud a short poem. Having discoursed a bit during the discussion on the attitudes of Socrates and Plato toward poetry, here's what I composed on the spot with reference to Plato's dialogues Republic and Phaedo:...</summary>
-  </entry>
-  <entry>
-    <title>Walking with Aristotle: Nicomachean Ethics I.8</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1860.html"/>
-    <id>tag:stpeter.im,1860</id>
-    <issued>2024-04-20</issued>
-    <modified>2024-04-20</modified>
-    <summary>Amidst all the excitement (for philosophy scholars!) about the "function argument" in Nicomachean Ethics I.7, Chapter 8 is often overlooked. Yet there are valuable insights here, too....</summary>
   </entry>
 </feed>
