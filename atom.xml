@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>http://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-05-12</modified>
+  <modified>2024-05-15</modified>
+  <entry>
+    <title>Scholē is Wasted on the Scholars</title>
+    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1867.html"/>
+    <id>tag:stpeter.im,1867</id>
+    <issued>2024-05-15</issued>
+    <modified>2024-05-15</modified>
+    <summary>Exactly five years ago today I published a brief research report on the ancient Greek concept of σχολή. Illustrating the twists and turns that words can take over the millennia, for the ancients scholē meant leisure, but centuries later it also served as the root of our word 'school' - not a place that we associate with leisure!...</summary>
+  </entry>
   <entry>
     <title>Deep Reading</title>
     <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1866.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-04-26</issued>
     <modified>2024-04-26</modified>
     <summary>Having mentioned in Nicomachean Ethics I.8 the desirability of external goods such as wealth and reputation, Aristotle naturally moves on to consider the causes of human flourishing. Is fulfillment something that can be learned through training and habituation, or is it a matter of fate or even chance? Well, he says, if flourishing and fulfillment consist in a certain kind of activity (ἐνέργεια), specifically working at the task (ἔργον) of living a complete human life in accordance with inherent thrivings of mind and character, then there must be effort involved. Although this kind of beautifully right (καλός) activity is consistent with human nature, still it needs to be acquired and practiced. This is why we don't say that a child has attained fulfillment: it's necessary to achieve reasonably complete excellence (ἀρετή) of mind and character in a reasonably complete life in order to be truly fulfilled....</summary>
-  </entry>
-  <entry>
-    <title>Poetry Reading</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1861.html"/>
-    <id>tag:stpeter.im,1861</id>
-    <issued>2024-04-25</issued>
-    <modified>2024-04-25</modified>
-    <summary>Yesterday evening I was honored to have a conversation with folks from the poetry circle of the Boulder Writers Alliance, at the invitation of poet Laura Border. Although I don't consider myself a poet or even primarily a writer, it was quite a pleasure to talk with such a welcoming group about the relationship between philosophy and poetry as well as the challenges of poetry translation and the differences between ancient and modern poetry. I also read aloud some poems from my books Ancient Fire and Songs of Zarathustra. Because this is a conclave of writers, we also took time toward the end of the session for each participant to write and then read aloud a short poem. Having discoursed a bit during the discussion on the attitudes of Socrates and Plato toward poetry, here's what I composed on the spot with reference to Plato's dialogues Republic and Phaedo:...</summary>
   </entry>
 </feed>
