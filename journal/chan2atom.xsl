@@ -14,13 +14,13 @@
 
     <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
       <title>One Small Voice</title>
-      <link rel="alternate" type="text/html" href="http://stpeter.im/journal/"/>
+      <link rel="alternate" type="text/html" href="https://stpeter.im/journal/"/>
       <author>
         <name>Peter Saint-Andre</name>
-        <url>http://stpeter.im/</url>
+        <url>https://stpeter.im/</url>
       </author>
       <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
-      <id>http://stpeter.im/journal/</id>
+      <id>https://stpeter.im/journal/</id>
       <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
       <modified><xsl:value-of select='/channel/journal[position()=1]/header/date'/></modified>
       <xsl:if test='/channel/journal[position()=1]'>
@@ -29,7 +29,7 @@
           <link>
             <xsl:attribute name='type'>text/html</xsl:attribute>
             <xsl:attribute name='rel'>alternate</xsl:attribute>
-            <xsl:attribute name='href'>http://stpeter.im/journal/<xsl:value-of select='$last'/>.html</xsl:attribute>
+            <xsl:attribute name='href'>https://stpeter.im/journal/<xsl:value-of select='$last'/>.html</xsl:attribute>
           </link>
           <id>tag:stpeter.im,<xsl:value-of select='$last'/></id>
           <issued><xsl:value-of select='/channel/journal[position()=1]/header/date'/></issued>
@@ -46,7 +46,7 @@
           <link>
             <xsl:attribute name='type'>text/html</xsl:attribute>
             <xsl:attribute name='rel'>alternate</xsl:attribute>
-            <xsl:attribute name='href'>http://stpeter.im/journal/<xsl:value-of select='$min1'/>.html</xsl:attribute>
+            <xsl:attribute name='href'>https://stpeter.im/journal/<xsl:value-of select='$min1'/>.html</xsl:attribute>
           </link>
           <id>tag:stpeter.im,<xsl:value-of select='$min1'/></id>
           <issued><xsl:value-of select='/channel/journal[position()=2]/header/date'/></issued>
@@ -63,7 +63,7 @@
           <link>
             <xsl:attribute name='type'>text/html</xsl:attribute>
             <xsl:attribute name='rel'>alternate</xsl:attribute>
-            <xsl:attribute name='href'>http://stpeter.im/journal/<xsl:value-of select='$min2'/>.html</xsl:attribute>
+            <xsl:attribute name='href'>https://stpeter.im/journal/<xsl:value-of select='$min2'/>.html</xsl:attribute>
           </link>
           <id>tag:stpeter.im,<xsl:value-of select='$min2'/></id>
           <issued><xsl:value-of select='/channel/journal[position()=3]/header/date'/></issued>
@@ -80,7 +80,7 @@
           <link>
             <xsl:attribute name='type'>text/html</xsl:attribute>
             <xsl:attribute name='rel'>alternate</xsl:attribute>
-            <xsl:attribute name='href'>http://stpeter.im/journal/<xsl:value-of select='$min3'/>.html</xsl:attribute>
+            <xsl:attribute name='href'>https://stpeter.im/journal/<xsl:value-of select='$min3'/>.html</xsl:attribute>
           </link>
           <id>tag:stpeter.im,<xsl:value-of select='$min3'/></id>
           <issued><xsl:value-of select='/channel/journal[position()=4]/header/date'/></issued>
@@ -97,7 +97,7 @@
           <link>
             <xsl:attribute name='type'>text/html</xsl:attribute>
             <xsl:attribute name='rel'>alternate</xsl:attribute>
-            <xsl:attribute name='href'>http://stpeter.im/journal/<xsl:value-of select='$min4'/>.html</xsl:attribute>
+            <xsl:attribute name='href'>https://stpeter.im/journal/<xsl:value-of select='$min4'/>.html</xsl:attribute>
           </link>
           <id>tag:stpeter.im,<xsl:value-of select='$min4'/></id>
           <issued><xsl:value-of select='/channel/journal[position()=5]/header/date'/></issued>
@@ -114,7 +114,7 @@
           <link>
             <xsl:attribute name='type'>text/html</xsl:attribute>
             <xsl:attribute name='rel'>alternate</xsl:attribute>
-            <xsl:attribute name='href'>http://stpeter.im/journal/<xsl:value-of select='$min5'/>.html</xsl:attribute>
+            <xsl:attribute name='href'>https://stpeter.im/journal/<xsl:value-of select='$min5'/>.html</xsl:attribute>
           </link>
           <id>tag:stpeter.im,<xsl:value-of select='$min5'/></id>
           <issued><xsl:value-of select='/channel/journal[position()=6]/header/date'/></issued>
