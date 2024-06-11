@@ -1,18 +1,26 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en-US">
   <title>One Small Voice</title>
-  <link rel="alternate" type="text/html" href="http://stpeter.im/journal/"/>
+  <link rel="alternate" type="text/html" href="https://stpeter.im/journal/"/>
   <author>
     <name>Peter Saint-Andre</name>
-    <url>http://stpeter.im/</url>
+    <url>https://stpeter.im/</url>
   </author>
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
-  <id>http://stpeter.im/journal/</id>
+  <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-05-28</modified>
+  <modified>2024-06-10</modified>
+  <entry>
+    <title>E Pluribus Unum</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1870.html"/>
+    <id>tag:stpeter.im,1870</id>
+    <issued>2024-06-10</issued>
+    <modified>2024-06-10</modified>
+    <summary>Following up on my post about brotherhood, I've continued to think about ways to cultivate a more magnanimous attitude toward other people and groups. One idea I'm trying on for size is seeing different viewpoints as contributing to the overall evolution of society. This is especially challenging in the political realm, which is mired in binary thinking, polarization, and demonization of The Other; yet, for that very reason, perhaps here such a mindshift could be especially valuable....</summary>
+  </entry>
   <entry>
     <title>Brotherhood</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1869.html"/>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1869.html"/>
     <id>tag:stpeter.im,1869</id>
     <issued>2024-05-28</issued>
     <modified>2024-05-28</modified>
@@ -20,7 +28,7 @@
   </entry>
   <entry>
     <title>Virtue and Happiness</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1868.html"/>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1868.html"/>
     <id>tag:stpeter.im,1868</id>
     <issued>2024-05-18</issued>
     <modified>2024-05-18</modified>
@@ -28,7 +36,7 @@
   </entry>
   <entry>
     <title>Scholē is Wasted on the Scholars</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1867.html"/>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1867.html"/>
     <id>tag:stpeter.im,1867</id>
     <issued>2024-05-15</issued>
     <modified>2024-05-15</modified>
@@ -36,7 +44,7 @@
   </entry>
   <entry>
     <title>Deep Reading</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1866.html"/>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1866.html"/>
     <id>tag:stpeter.im,1866</id>
     <issued>2024-05-12</issued>
     <modified>2024-05-12</modified>
@@ -44,18 +52,10 @@
   </entry>
   <entry>
     <title>Walking with Aristotle: Nicomachean Ethics II.5-9</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1865.html"/>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1865.html"/>
     <id>tag:stpeter.im,1865</id>
     <issued>2024-05-11</issued>
     <modified>2024-05-11</modified>
     <summary>Following up on his initial inquiry into ἀρετή, Aristotle digs further into thrivings of character. Are they feelings or emotions like anger, fear, and jealousy? No, because those are ephemeral motions in the psyche that we experience without having chosen them, which is why people aren't praised or blamed for what they happen to feel. Are they capacities or predispositions? No, because although an irritable person (say) might be predisposed to be annoyed, irritability is something like a temporary mood founded in a capacity that everyone has. Are they stable traits (ἕξεις)? Yes, because traits are formed through a long series of actions and commitments and therefore can be described as chosen; this is why people are responsible for their character. It is the serious (σπουδαῖος) thrivings and unworthy (φαῦλος) failings of character that cause us to actively conduct ourselves well or badly in relation to the feelings, all of which involve either pleasure (e.g., affection) or pain (e.g., hatred)....</summary>
-  </entry>
-  <entry>
-    <title>The Sweet Milk of Adversity</title>
-    <link type="text/html" rel="alternate" href="http://stpeter.im/journal/1864.html"/>
-    <id>tag:stpeter.im,1864</id>
-    <issued>2024-05-10</issued>
-    <modified>2024-05-10</modified>
-    <summary>As I work my way through all the plays of Shakespeare, I've had an idea for another book, entitled The Sweet Milk of Adversity: On Shakespeare and Philosophy. It turns out that philosophical insights figure significantly throughout the plays. The title comes from Romeo and Juliet, in which Romeo and Friar Laurence have the following exchange:...</summary>
   </entry>
 </feed>
