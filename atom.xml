@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-06-10</modified>
+  <modified>2024-06-11</modified>
+  <entry>
+    <title>Walking with Aristotle: Nicomachean Ethics III.1-5</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1871.html"/>
+    <id>tag:stpeter.im,1871</id>
+    <issued>2024-06-11</issued>
+    <modified>2024-06-11</modified>
+    <summary>As mentioned last time, toward the end of Book II of the Nicomachean Ethics Aristotle states that character traits are things that we choose. In the first half of Book III, he provides a deeper analysis of related issues: the extent to which actions are willing or unwilling, the nature of deliberation and choice, etc. Although the discussion is somewhat technical in spots and has given scholars much to chew on, in the end it has a number of practical implications....</summary>
+  </entry>
   <entry>
     <title>E Pluribus Unum</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1870.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-05-12</issued>
     <modified>2024-05-12</modified>
     <summary>Recently someone asked me how I approach the reading of timeless books, so here are a few thoughts; perhaps you'll find this post helpful in your own reading practice. (I read "timely" books differently, but it's the timeless ones that I care about most.)...</summary>
-  </entry>
-  <entry>
-    <title>Walking with Aristotle: Nicomachean Ethics II.5-9</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1865.html"/>
-    <id>tag:stpeter.im,1865</id>
-    <issued>2024-05-11</issued>
-    <modified>2024-05-11</modified>
-    <summary>Following up on his initial inquiry into ἀρετή, Aristotle digs further into thrivings of character. Are they feelings or emotions like anger, fear, and jealousy? No, because those are ephemeral motions in the psyche that we experience without having chosen them, which is why people aren't praised or blamed for what they happen to feel. Are they capacities or predispositions? No, because although an irritable person (say) might be predisposed to be annoyed, irritability is something like a temporary mood founded in a capacity that everyone has. Are they stable traits (ἕξεις)? Yes, because traits are formed through a long series of actions and commitments and therefore can be described as chosen; this is why people are responsible for their character. It is the serious (σπουδαῖος) thrivings and unworthy (φαῦλος) failings of character that cause us to actively conduct ourselves well or badly in relation to the feelings, all of which involve either pleasure (e.g., affection) or pain (e.g., hatred)....</summary>
   </entry>
 </feed>
