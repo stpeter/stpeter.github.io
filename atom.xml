@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-06-11</modified>
+  <modified>2024-06-14</modified>
+  <entry>
+    <title>Persuasion vs. Power</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1872.html"/>
+    <id>tag:stpeter.im,1872</id>
+    <issued>2024-06-14</issued>
+    <modified>2024-06-14</modified>
+    <summary>In my post about pluralism the other day, I mentioned in passing a crucial proviso: those who wish to force their positions on the rest of us have thereby placed themselves outside what Michael Oakeshott called the human conversation....</summary>
+  </entry>
   <entry>
     <title>Walking with Aristotle: Nicomachean Ethics III.1-5</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1871.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-05-15</issued>
     <modified>2024-05-15</modified>
     <summary>Exactly five years ago today I published a brief research report on the ancient Greek concept of σχολή. Illustrating the twists and turns that words can take over the millennia, for the ancients scholē meant leisure, but centuries later it also served as the root of our word 'school' - not a place that we associate with leisure!...</summary>
-  </entry>
-  <entry>
-    <title>Deep Reading</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1866.html"/>
-    <id>tag:stpeter.im,1866</id>
-    <issued>2024-05-12</issued>
-    <modified>2024-05-12</modified>
-    <summary>Recently someone asked me how I approach the reading of timeless books, so here are a few thoughts; perhaps you'll find this post helpful in your own reading practice. (I read "timely" books differently, but it's the timeless ones that I care about most.)...</summary>
   </entry>
 </feed>
