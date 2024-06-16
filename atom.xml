@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-06-14</modified>
+  <modified>2024-06-16</modified>
+  <entry>
+    <title>Unalienable Rights</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1873.html"/>
+    <id>tag:stpeter.im,1873</id>
+    <issued>2024-06-16</issued>
+    <modified>2024-06-16</modified>
+    <summary>Thinking recently about brotherhood and pluralism in an American context spurred me to reflect on the American creed expressed so succinctly in the Declaration of Independence:...</summary>
+  </entry>
   <entry>
     <title>Persuasion vs. Power</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1872.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-05-18</issued>
     <modified>2024-05-18</modified>
     <summary>One of Aristotle's signature claims in ethics is that virtue and happiness go hand in hand. To our ears this sounds questionable at best, because we think of virtue as a matter of following rules and doing your duty, whereas we think of happiness as a matter of having fun and experiencing pleasure. "Do your duty and you'll have lots of fun?" Um, no!...</summary>
-  </entry>
-  <entry>
-    <title>Scholē is Wasted on the Scholars</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1867.html"/>
-    <id>tag:stpeter.im,1867</id>
-    <issued>2024-05-15</issued>
-    <modified>2024-05-15</modified>
-    <summary>Exactly five years ago today I published a brief research report on the ancient Greek concept of σχολή. Illustrating the twists and turns that words can take over the millennia, for the ancients scholē meant leisure, but centuries later it also served as the root of our word 'school' - not a place that we associate with leisure!...</summary>
   </entry>
 </feed>
