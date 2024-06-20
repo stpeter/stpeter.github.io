@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-06-16</modified>
+  <modified>2024-06-20</modified>
+  <entry>
+    <title>Liberty</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1874.html"/>
+    <id>tag:stpeter.im,1874</id>
+    <issued>2024-06-20</issued>
+    <modified>2024-06-20</modified>
+    <summary>Here are a few more thoughts on unalienable rights. In his 1748 book The Spirit of the Laws (which greatly influenced the American Founders), Montesquieu wrote:...</summary>
+  </entry>
   <entry>
     <title>Unalienable Rights</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1873.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-05-28</issued>
     <modified>2024-05-28</modified>
     <summary>A few months ago, Eric Hoel published a fascinating post about the nature of 21st-century society (read the whole thing, linked below, as background to what I write here). Hoel used Hegel (by way of Francis Fukuyama) and Nietzsche (by way of James Dale Davidson and William Rees-Mogg) as the jumping-off points for an analysis of what ails us. His dialectical thesis is the centrality of mob psychology in our current moment, and his antithesis is the sovereign individual who can rise above the mob....</summary>
-  </entry>
-  <entry>
-    <title>Virtue and Happiness</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1868.html"/>
-    <id>tag:stpeter.im,1868</id>
-    <issued>2024-05-18</issued>
-    <modified>2024-05-18</modified>
-    <summary>One of Aristotle's signature claims in ethics is that virtue and happiness go hand in hand. To our ears this sounds questionable at best, because we think of virtue as a matter of following rules and doing your duty, whereas we think of happiness as a matter of having fun and experiencing pleasure. "Do your duty and you'll have lots of fun?" Um, no!...</summary>
   </entry>
 </feed>
