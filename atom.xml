@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-06-21</modified>
+  <modified>2024-06-23</modified>
+  <entry>
+    <title>Varieties of Courage</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1876.html"/>
+    <id>tag:stpeter.im,1876</id>
+    <issued>2024-06-23</issued>
+    <modified>2024-06-23</modified>
+    <summary>In my post the other day about Aristotle's discussion of courage, I neglected to mention the restricted reference of his definition: roughly speaking, he says that the character trait of courage enables you to feel the appropriate level of fear and confidence when confronted with the possibility of dying in battle. It's true that he does mention other varieties of courage, since you can be brave when you might lose anything you hold valuable, such as your health (e.g., when diagnosed with a dread disease) or social status (e.g., when speaking out against injustice); yet he says that these varieties are merely analogous to the core or "focal" sense of the term....</summary>
+  </entry>
   <entry>
     <title>Walking with Aristotle: Nicomachean Ethics III.6-9</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1875.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-06-11</issued>
     <modified>2024-06-11</modified>
     <summary>As mentioned last time, toward the end of Book II of the Nicomachean Ethics Aristotle states that character traits are things that we choose. In the first half of Book III, he provides a deeper analysis of related issues: the extent to which actions are willing or unwilling, the nature of deliberation and choice, etc. Although the discussion is somewhat technical in spots and has given scholars much to chew on, in the end it has a number of practical implications....</summary>
-  </entry>
-  <entry>
-    <title>E Pluribus Unum</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1870.html"/>
-    <id>tag:stpeter.im,1870</id>
-    <issued>2024-06-10</issued>
-    <modified>2024-06-10</modified>
-    <summary>Following up on my post about brotherhood, I've continued to think about ways to cultivate a more magnanimous attitude toward other people and groups. One idea I'm trying on for size is seeing different viewpoints as contributing to the overall evolution of society. This is especially challenging in the political realm, which is mired in binary thinking, polarization, and demonization of The Other; yet, for that very reason, perhaps here such a mindshift could be especially valuable....</summary>
   </entry>
 </feed>
