@@ -1,0 +1,25 @@
+Parva Naturalia
+Aristotle
+variously translated by J.I. Beare, G.R.T. Ross, etc.
+
+"The most important attributes of animals, whether common to all or peculiar to some, are, manifestly, attributes of soul and body in conjunction, e.g., sensation [aisthesis = awareness], memory, passion [thumos], appetite [epithumia] and desire [orexis] in general, and, in addition, pleasure and pain. But there are, besides these, certain other attributes, of which some are common to all living things, while others are peculiar to certain species of animals. The most important of these may be summed up in four pairs, viz. waking and sleeping, youth and old age, inhalation and exhalation, life [zoe] and death." (Sense and Sensibilia, 436a6-15)
+
+"That all the attributes above enumerated belong to soul and body in conjuction, is obvious: for they all either imply sensation as a concomitant, or have it as their medium. Some are either affections [pathe] or states [hexeis] of sensation, others, means of defending [phulakai] and safe-guarding [soteriai] it, while others, again, involve its destruction [phthorai] or privation [steresis]. Now it is clear, alike by reasoning [dia tou logou] and without reasoning, that sensation is generated in the soul through the medium of the body." (Sense and Sensibilia, 436b1-8)
+
+With regard to the senses that operate through external media (smelling, hearing, seeing), Aristotle observes: "In animals which have also intelligence [phronesis] they serve for the attainment of a higher perfection [tou eu heneka]." (437a1) "For developing thought [nous] hearing incidentally takes precedence." (437a5) "Incidentally, however, it is hearing that contributes most to the growth of intelligence." (Sense and Sensibilia, 437a11-12)
+
+"[I]n all classes of things lying between extremes the intermediates must be limited. But contraries are extremes, and every object of sense-perception involves contrareity; e.g. in colour, black and white; in savour, sweet and bitter, and in all the other sensibles also the contraries are extremes." (Sense and Sensibilia, 445b23-27)
+
+"We must first consider the objects of memory, a point on which mistakes are often made. Now to remember what is future is not possible - that is an object of opinion [doxa] or expectation [elpis] ... nor is there memory of what is present, but only sense-perception [aithesis]. For by the latter we do not knomw what is future or past, but what is present only. But memory relates to what is past. No one would say that he remembers what is present, when it is present; e.g. a given white object at the moment when he sees it; nor would one say that he remembers an object of scientific contemplation [theoroumenon] when he is actually contemplating it, and has it full before his mind; - of the former he would say only that he perceives it [aisthanesthai], of the latter only that he knows it [epistasthai]. But when one has knowledge or perception apart from the objects, he thus remembers as to the former, that he learned it, or thought it out for himself, as to the latter, that he heard, or saw, it or had some sensible experience of it." (On Memory, 449b9-22)
+
+"[T]he waking state [egregorsis] is the goal [telos], since the exercise of sense-perception [aisthanesthai] or of thought [phronein] is the goal for all beings to which either of these appertains; inasmuch as these are best [beltista], and the goal is what is best." (On Sleep, 455b22-24)
+
+"We have stated what sleep is, having shown that it is a seizure of the primary sense-organ, rendering it unable to actualize its powers [to me dunasthai energein]." (On Sleep, 458a28-29)
+
+"In order to answer our original question, let us now, therefore, assume one proposition, which is clear from what precedes, viz. that even when the external object of perception has departed, the impressions it has made persist, and are themselves objects of perception; and let us assume, besides, that we are easily deceived [apatometha] respecting the operations of sense-perception when we are excited by emotions [pathesin], and different persons according to their different emotions; for example, the coward when excited by fear, the amorous person by amorous desire; so that, with but little resemblance to go upon, the former thinks he sees his foes approaching, the latter, that he sees the object of his desire; and the more deeply one is under the influence of the emotion, the less similarity is required to give rise to these impressions. Thus, too, both in fits of anger, and also in all states of appetite, all men become easily deceived, and more so the more their emotions are excited." (On Dreams, 460b1-10)
+
+"Divisible animals are like a number of animals grown together, but animals of superior construction behave differently because their constitution is a unity of the highest possible kind." (On Youth and Old Age, 468b9-12)
+
+"[I]t is the heart that has supreme control [kuriotata], exercising an additional and completing function [to telos epitithesin]." (On Youth and Old Age, 469a4-5)
+
+END
