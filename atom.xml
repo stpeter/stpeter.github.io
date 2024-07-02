@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-06-23</modified>
+  <modified>2024-07-02</modified>
+  <entry>
+    <title>Walking with Aristotle: Nicomachean Ethics III.10-12</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1877.html"/>
+    <id>tag:stpeter.im,1877</id>
+    <issued>2024-07-02</issued>
+    <modified>2024-07-02</modified>
+    <summary>After his discussion of courage, Aristotle moves immediately to another of the traditional four virtues in ancient Greece: moderation. Although Aristotle never said that we should pursue moderation in everything, he did think that moderation is crucial to human fulfillment. Among other considerations, courage is paradigmatically displayed in war, but we engage in war only for the sake of peace; thus we need to understand and practice the character traits that maintain peace, among which moderation plays a central role....</summary>
+  </entry>
   <entry>
     <title>Varieties of Courage</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1876.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-06-14</issued>
     <modified>2024-06-14</modified>
     <summary>In my post about pluralism the other day, I mentioned in passing a crucial proviso: those who wish to force their positions on the rest of us have thereby placed themselves outside what Michael Oakeshott called the human conversation....</summary>
-  </entry>
-  <entry>
-    <title>Walking with Aristotle: Nicomachean Ethics III.1-5</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1871.html"/>
-    <id>tag:stpeter.im,1871</id>
-    <issued>2024-06-11</issued>
-    <modified>2024-06-11</modified>
-    <summary>As mentioned last time, toward the end of Book II of the Nicomachean Ethics Aristotle states that character traits are things that we choose. In the first half of Book III, he provides a deeper analysis of related issues: the extent to which actions are willing or unwilling, the nature of deliberation and choice, etc. Although the discussion is somewhat technical in spots and has given scholars much to chew on, in the end it has a number of practical implications....</summary>
   </entry>
 </feed>
