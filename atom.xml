@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-07-02</modified>
+  <modified>2024-07-08</modified>
+  <entry>
+    <title>Walking with Aristotle: Nicomachean Ethics IV.1-2</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1878.html"/>
+    <id>tag:stpeter.im,1878</id>
+    <issued>2024-07-08</issued>
+    <modified>2024-07-08</modified>
+    <summary>Next Aristotle turns to generosity. A more literal rendering of the Greek word ἐλευθεριότης might be "free-giving", since it is derived from ἐλευθερία, the Greek word for freedom. We'll talk more about freedom farther along in our walk with Aristotle, but for now it's worth noting that Aristotle's conception of freedom is not purely political but also includes personal aspects of character, behavior, and thinking....</summary>
+  </entry>
   <entry>
     <title>Walking with Aristotle: Nicomachean Ethics III.10-12</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1877.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-06-16</issued>
     <modified>2024-06-16</modified>
     <summary>Thinking recently about brotherhood and pluralism in an American context spurred me to reflect on the American creed expressed so succinctly in the Declaration of Independence:...</summary>
-  </entry>
-  <entry>
-    <title>Persuasion vs. Power</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1872.html"/>
-    <id>tag:stpeter.im,1872</id>
-    <issued>2024-06-14</issued>
-    <modified>2024-06-14</modified>
-    <summary>In my post about pluralism the other day, I mentioned in passing a crucial proviso: those who wish to force their positions on the rest of us have thereby placed themselves outside what Michael Oakeshott called the human conversation....</summary>
   </entry>
 </feed>
