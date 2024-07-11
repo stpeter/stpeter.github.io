@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-07-09</modified>
+  <modified>2024-07-11</modified>
+  <entry>
+    <title>Walking with Aristotle: Nicomachean Ethics IV.3-4</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1881.html"/>
+    <id>tag:stpeter.im,1881</id>
+    <issued>2024-07-11</issued>
+    <modified>2024-07-11</modified>
+    <summary>As hinted last time, Book IV, Chapter 3 of the Nicomeachean Ethics has its oddities. Aristotle's discussion of greatness of soul (traditionally translated as "pride") has, I suspect, turned many people away from the valuable insights to be found throughout his writings because his "great-souled man" comes across as a haughty, arrogant prig that few of us would want as a friend....</summary>
+  </entry>
   <entry>
     <title>Iambic Observations</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1880.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-06-23</issued>
     <modified>2024-06-23</modified>
     <summary>In my post the other day about Aristotle's discussion of courage, I neglected to mention the restricted reference of his definition: roughly speaking, he says that the character trait of courage enables you to feel the appropriate level of fear and confidence when confronted with the possibility of dying in battle. It's true that he does mention other varieties of courage, since you can be brave when you might lose anything you hold valuable, such as your health (e.g., when diagnosed with a dread disease) or social status (e.g., when speaking out against injustice); yet he says that these varieties are merely analogous to the core or "focal" sense of the term....</summary>
-  </entry>
-  <entry>
-    <title>Walking with Aristotle: Nicomachean Ethics III.6-9</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1875.html"/>
-    <id>tag:stpeter.im,1875</id>
-    <issued>2024-06-21</issued>
-    <modified>2024-06-21</modified>
-    <summary>The first thriving of character that Aristotle discusses at length is courage. Why?...</summary>
   </entry>
 </feed>
