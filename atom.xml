@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-07-11</modified>
+  <modified>2024-07-13</modified>
+  <entry>
+    <title>Walking with Aristotle: Nicomachean Ethics IV.5-9</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1882.html"/>
+    <id>tag:stpeter.im,1882</id>
+    <issued>2024-07-13</issued>
+    <modified>2024-07-13</modified>
+    <summary>Following the intellectual drama of Aristotle's chapter on greatness of soul, the rest of Book IV covers gentleness (of which the contraries are an angry or docile disposition) and a few social excellences like benevolence, modesty, and wit. It might not be coincidental that all of these act as counterweights to the haughty arrogance we just witnessed in the great-souled man....</summary>
+  </entry>
   <entry>
     <title>Walking with Aristotle: Nicomachean Ethics IV.3-4</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1881.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-07-02</issued>
     <modified>2024-07-02</modified>
     <summary>After his discussion of courage, Aristotle moves immediately to another of the traditional four virtues in ancient Greece: moderation. Although Aristotle never said that we should pursue moderation in everything, he did think that moderation is crucial to human fulfillment. Among other considerations, courage is paradigmatically displayed in war, but we engage in war only for the sake of peace; thus we need to understand and practice the character traits that maintain peace, among which moderation plays a central role....</summary>
-  </entry>
-  <entry>
-    <title>Varieties of Courage</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1876.html"/>
-    <id>tag:stpeter.im,1876</id>
-    <issued>2024-06-23</issued>
-    <modified>2024-06-23</modified>
-    <summary>In my post the other day about Aristotle's discussion of courage, I neglected to mention the restricted reference of his definition: roughly speaking, he says that the character trait of courage enables you to feel the appropriate level of fear and confidence when confronted with the possibility of dying in battle. It's true that he does mention other varieties of courage, since you can be brave when you might lose anything you hold valuable, such as your health (e.g., when diagnosed with a dread disease) or social status (e.g., when speaking out against injustice); yet he says that these varieties are merely analogous to the core or "focal" sense of the term....</summary>
   </entry>
 </feed>
