@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-07-13</modified>
+  <modified>2024-07-18</modified>
+  <entry>
+    <title>Walking with Aristotle: Nicomachean Ethics V.1-11</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1883.html"/>
+    <id>tag:stpeter.im,1883</id>
+    <issued>2024-07-18</issued>
+    <modified>2024-07-18</modified>
+    <summary>There's something unsatisfying, almost clinical, about Book V of the Nicomachean Ethics (which also happens to be Book IV of the Eudemian Ethics - more on that some other time). Whereas in Books II through IV his exploration of various character traits repeatedly emphasized the importance of action and feeling for the sake of what's beautifully right, that quasi-aesthetic perspective gives way here to dry discussions of proportionality, reciprocity, compensation, and the like. To me this indicates the severe limitations of justice as a virtue, not its centrality to ethics and the good life....</summary>
+  </entry>
   <entry>
     <title>Walking with Aristotle: Nicomachean Ethics IV.5-9</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1882.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-07-08</issued>
     <modified>2024-07-08</modified>
     <summary>Next Aristotle turns to generosity. A more literal rendering of the Greek word ἐλευθεριότης might be "free-giving", since it is derived from ἐλευθερία, the Greek word for freedom. We'll talk more about freedom farther along in our walk with Aristotle, but for now it's worth noting that Aristotle's conception of freedom is not purely political but also includes personal aspects of character, behavior, and thinking....</summary>
-  </entry>
-  <entry>
-    <title>Walking with Aristotle: Nicomachean Ethics III.10-12</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1877.html"/>
-    <id>tag:stpeter.im,1877</id>
-    <issued>2024-07-02</issued>
-    <modified>2024-07-02</modified>
-    <summary>After his discussion of courage, Aristotle moves immediately to another of the traditional four virtues in ancient Greece: moderation. Although Aristotle never said that we should pursue moderation in everything, he did think that moderation is crucial to human fulfillment. Among other considerations, courage is paradigmatically displayed in war, but we engage in war only for the sake of peace; thus we need to understand and practice the character traits that maintain peace, among which moderation plays a central role....</summary>
   </entry>
 </feed>
