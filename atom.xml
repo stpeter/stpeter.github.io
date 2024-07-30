@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-07-18</modified>
+  <modified>2024-07-29</modified>
+  <entry>
+    <title>Walking with Aristotle: Nicomachean Ethics VI.1-2</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1884.html"/>
+    <id>tag:stpeter.im,1884</id>
+    <issued>2024-07-29</issued>
+    <modified>2024-07-29</modified>
+    <summary>Here we are, halfway through the Nicomachean Ethics. Because the path becomes rather steep and stony at this point, we're going to slow down and step carefully so that we don't tumble down the side of the mountain. Hey, no one ever promised that walking with Aristotle was going to be a leisurely stroll in the park!...</summary>
+  </entry>
   <entry>
     <title>Walking with Aristotle: Nicomachean Ethics V.1-11</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1883.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-07-09</issued>
     <modified>2024-07-09</modified>
     <summary>For some time now I've toyed with the idea of writing a novel (provisionally entitled Gods Among Men) about Alexander the Great and the founder of philosophical skepticism, Pyrrho. Having recently re-read both the Iliad and the Odyssey, I'm wondering if I could structure the story as an epic poem, almost as if it were translated from the work of an ancient Greek poet deeply influenced by Homer. Here's a draft of the standard invocation of the muse to start things off:...</summary>
-  </entry>
-  <entry>
-    <title>Walking with Aristotle: Nicomachean Ethics IV.1-2</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1878.html"/>
-    <id>tag:stpeter.im,1878</id>
-    <issued>2024-07-08</issued>
-    <modified>2024-07-08</modified>
-    <summary>Next Aristotle turns to generosity. A more literal rendering of the Greek word ἐλευθεριότης might be "free-giving", since it is derived from ἐλευθερία, the Greek word for freedom. We'll talk more about freedom farther along in our walk with Aristotle, but for now it's worth noting that Aristotle's conception of freedom is not purely political but also includes personal aspects of character, behavior, and thinking....</summary>
   </entry>
 </feed>
