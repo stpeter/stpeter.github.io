@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-07-29</modified>
+  <modified>2024-07-30</modified>
+  <entry>
+    <title>Shakespeare on Self-Knowledge and Self-Mastery</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1885.html"/>
+    <id>tag:stpeter.im,1885</id>
+    <issued>2024-07-30</issued>
+    <modified>2024-07-30</modified>
+    <summary>Having read all of Shakespeare over the last eight months, I find myself even more inspired to explore the philosophical insights embedded throughout the plays. As previously mentioned, in Romeo and Juliet Shakespeare calls philosophy "the sweet milk of adversity", since it provides us with consolation in hard times. Yet it also fortifies and prepares us for successful action and much else besides....</summary>
+  </entry>
   <entry>
     <title>Walking with Aristotle: Nicomachean Ethics VI.1-2</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1884.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-07-09</issued>
     <modified>2024-07-09</modified>
     <summary>If I do decide to write an epic poem about Pyrrho and Alexander the Great, I would do so in blank verse, i.e., in unrhymed iambic pentameter. Toward that end, recently I found myself re-reading All the Fun's in How You Say a Thing: An Explanation of Meter and Versification by Timothy Steele, one of my favorite living poets. This is an extremely helpful book for anyone who wants to write - or gain a greater appreciation for - metrical poetry in English, from Chaucer to the present day. Here are some of the lessons I learned this time around......</summary>
-  </entry>
-  <entry>
-    <title>Pyrrhiad</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1879.html"/>
-    <id>tag:stpeter.im,1879</id>
-    <issued>2024-07-09</issued>
-    <modified>2024-07-09</modified>
-    <summary>For some time now I've toyed with the idea of writing a novel (provisionally entitled Gods Among Men) about Alexander the Great and the founder of philosophical skepticism, Pyrrho. Having recently re-read both the Iliad and the Odyssey, I'm wondering if I could structure the story as an epic poem, almost as if it were translated from the work of an ancient Greek poet deeply influenced by Homer. Here's a draft of the standard invocation of the muse to start things off:...</summary>
   </entry>
 </feed>
