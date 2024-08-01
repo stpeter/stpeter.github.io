@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-07-31</modified>
+  <modified>2024-08-01</modified>
+  <entry>
+    <title>Nicholas Dykes, RIP</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1887.html"/>
+    <id>tag:stpeter.im,1887</id>
+    <issued>2024-08-01</issued>
+    <modified>2024-08-01</modified>
+    <summary>Today I was saddened to learn, belatedly, that my friend Nicholas Dykes passed away earlier this year. Nick and I corresponded on and off for 25 years, ever since I published his poems "First Call of a Redwing" and "On Mynydd Troed" in The Monadnock Review, a webzine I maintained from 1997 to 2002. I was lucky to spend a few hours with him in person back in 2006 after the memorial service for British libertarian writer and activist Chris Tame, since I just happened to be London at that time and took the train down to Chichester for the event. Although Nick had strong opinions and took exception to my book The Tao of Roark (if I recall correctly, he thought it was repetitious and unenlightening), we always enjoyed sharing thoughts about philosophy and literature. I really liked his novel Old Nick's Guide to Happiness (a kind of philosophical adventure story) and was looking forward to the novel he was working on at the time of his death, about a lost island of Epicureans in the Indian Ocean. He will be missed. Rest in peace, my friend....</summary>
+  </entry>
   <entry>
     <title>Reincarnation</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1886.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-07-13</issued>
     <modified>2024-07-13</modified>
     <summary>Following the intellectual drama of Aristotle's chapter on greatness of soul, the rest of Book IV covers gentleness (of which the contraries are an angry or docile disposition) and a few social excellences like benevolence, modesty, and wit. It might not be coincidental that all of these act as counterweights to the haughty arrogance we just witnessed in the great-souled man....</summary>
-  </entry>
-  <entry>
-    <title>Walking with Aristotle: Nicomachean Ethics IV.3-4</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1881.html"/>
-    <id>tag:stpeter.im,1881</id>
-    <issued>2024-07-11</issued>
-    <modified>2024-07-11</modified>
-    <summary>As hinted last time, Book IV, Chapter 3 of the Nicomachean Ethics has its oddities. Aristotle's discussion of greatness of soul (traditionally translated as "pride") has, I suspect, turned many people away from the valuable insights to be found throughout his writings because his "great-souled man" comes across as a haughty, arrogant prig that few of us would want as a friend....</summary>
   </entry>
 </feed>
