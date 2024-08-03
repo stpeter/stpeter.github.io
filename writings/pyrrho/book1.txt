@@ -1,8 +1,8 @@
-Pyrrhiad Book I
+Writing Project: Pyrrhiad Book I
 
 Sing me, muse, of two men who lived as gods.
 So many were the lands through which they passed,
-So many were the minds from which they learned,
+So many were the minds from which they learned - 
 While, by the one man seeking to rule all
 And by the other reaching out to know,
 They travelled far from Greece to India.
@@ -13,8 +13,8 @@ And smashes all before it when the earth
 Afar is shaken by Poseidon’s rage:
 So Alexander broke upon the East,
 Forever changing all within his wake.
-Then second, sing me, too, of one who lived
-Unknown, yet rivalled Zeus for happiness:
+Then, second, sing me too of one who lived
+Unknown, yet rivalled Zeus for happiness.
 Although he conquered nothing in his path,
 His path led him to conquering within,
 To mastery of no one but himself; 
@@ -69,7 +69,7 @@ All that he could: with priests of Egypt he
 Conferred, astronomers in Babylon,
 Wise magi at the Persian court, and great
 Philosophers throughout the Grecian lands.
-Know well that most of these stayed put at home,
+Yet know that most of these stayed put at home,
 To hone whatever wisdom they knew best;
 Democritus, by contrast, came to them
 Alone to research, study, and converse, 
@@ -96,7 +96,7 @@ I come to share in thought and seek advice.
 Pleistarchos I can claim as my dear father,
 A man well known to all who live in Elis,
 Whose line for generations stretches back
-To when Epeius, shepherd of the people,
+To when Diores, shepherd of the people,
 Led forth the men of Elis to the shores
 Of windy Ilion, when all of Greece
 Adventured north to bring back Helen and
@@ -111,7 +111,7 @@ And yet you say you come in wisdom’s need.
 Many are those from whom I too have learned
 Among the friends of Socrates and from
 The man himself, who turned me to the path
-Of wisdom when I was about your age.
+Of wisdom when I once was near your age.
 So long philosophy has been my task;
 And I will try to answer what you ask.”
 
@@ -165,6 +165,8 @@ The benefit from being with them came,
 But slowly you will know it in the end.
 You do not need a teacher, but a friend.”
 
+[more conversation here - about friendship vs studentship, Socrates and his midwifery, bringing forth what is within, a “catalog of the schools” that Socrates helped to birth, etc.]
+
 Then, thoughtful, Pyrrho gave a calm reply:
 “O Phaedo, you have given much upon
 Which to reflect - for this you have my thanks.
@@ -173,7 +175,7 @@ Upon the generous words that you have shared.
 I see things aren’t as simple as they seem,
 And that the path to wisdom might be long.
 I hope that when I’m ready we may speak
-To guide me toward the insight that I seek.”
+Again to find the insight that I seek.”
 
 So Pyrrho spoke, and Phaedo gave reply:
 “Well met I say again, young friend, well met.
