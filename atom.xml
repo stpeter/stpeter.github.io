@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-08-01</modified>
+  <modified>2024-08-04</modified>
+  <entry>
+    <title>Homeric Similes</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1888.html"/>
+    <id>tag:stpeter.im,1888</id>
+    <issued>2024-08-04</issued>
+    <modified>2024-08-04</modified>
+    <summary>Having recently re-read both the Iliad and the Odyssey, I already find myself reading them yet again to more closely study various aspects of Homeric style. One of the things I've always enjoyed about the Homeric epics is the extended similes that liken events in the story to everyday experiences (indeed, I recall writing a paper about such similes for my Homer class with Laura Slatkin back in college). Here is an example from Book II of the Iliad as translated by Alexander Pope about 300 years ago:...</summary>
+  </entry>
   <entry>
     <title>Nicholas Dykes, RIP</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1887.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-07-18</issued>
     <modified>2024-07-18</modified>
     <summary>There's something unsatisfying, almost clinical, about Book V of the Nicomachean Ethics (which also happens to be Book IV of the Eudemian Ethics - more on that some other time). Whereas in Books II through IV his exploration of various character traits repeatedly emphasized the importance of action and feeling for the sake of what's beautifully right, that quasi-aesthetic perspective gives way here to dry discussions of proportionality, reciprocity, compensation, and the like. To me this indicates the severe limitations of justice as a virtue, not its centrality to ethics and the good life....</summary>
-  </entry>
-  <entry>
-    <title>Walking with Aristotle: Nicomachean Ethics IV.5-9</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1882.html"/>
-    <id>tag:stpeter.im,1882</id>
-    <issued>2024-07-13</issued>
-    <modified>2024-07-13</modified>
-    <summary>Following the intellectual drama of Aristotle's chapter on greatness of soul, the rest of Book IV covers gentleness (of which the contraries are an angry or docile disposition) and a few social excellences like benevolence, modesty, and wit. It might not be coincidental that all of these act as counterweights to the haughty arrogance we just witnessed in the great-souled man....</summary>
   </entry>
 </feed>
