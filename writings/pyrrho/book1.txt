@@ -1,4 +1,4 @@
-Writing Project: Pyrrhiad Book I
+Pyrrhiad Book I
 
 Sing me, muse, of two men who lived as gods.
 So many were the lands through which they passed,
@@ -6,7 +6,7 @@ So many were the minds from which they learned -
 While, by the one man seeking to rule all
 And by the other reaching out to know,
 They travelled far from Greece to India.
-First Alexander, King of Makedon, 
+First Alexander, King of Makedōn, 
 Whose fame will last as long as men shall live.
 Just as a huge wave crashes on the shore
 And smashes all before it when the earth
@@ -50,7 +50,7 @@ Who fired within his soul the drive to know.
 Far north in Thrace lay wealthy Abdera,
 Upon the main across from Thassos fair.
 The town grew rich with trade along the coast,
-With Makedon to westward, with Persia,
+With Makedōn to westward, with Persia,
 With the islands, with kingdoms to the north.
 Gold, timber, kine, and olive oil passed
 Through its twin harbors, off to far-flung lands.
@@ -165,9 +165,80 @@ The benefit from being with them came,
 But slowly you will know it in the end.
 You do not need a teacher, but a friend.”
 
-[more conversation here - about friendship vs studentship, Socrates and his midwifery, bringing forth what is within, a “catalog of the schools” that Socrates helped to birth, etc.]
+So Phaedo said, but Pyrrho wondered why.
+“I fail to see how that can be enough:
+The dearest friend can bring the greatest pleasure,
+But what we seek is wisdom beyond measure.”
 
-Then, thoughtful, Pyrrho gave a calm reply:
+With understanding Phaedo gave reply:
+“A teacher teaches you to be like him;
+A friend befriends you since you are yourself
+And guides you to become more what you are.
+Here Socrates can help us see the way.
+For many were his friends in thoughtful speech,
+And many are the schools he helped to birth.
+The first of these in fame is Plato’s school,
+Which gathers at the grove of Academe.
+The man himself is known throughout all Greece
+For dialogues that feature Socrates,
+Although the words that he ascribes are not
+The words of Socrates himself; instead
+They all too often represent ideas
+That Plato had on justice, knowledge, beauty,
+The nature of the good, and most of all
+His theory of the forms beyond this world.
+Though Plato has been dead for several years,
+Speusippus now still treads upon his path
+And keeps the school alive, assisted by
+Xenocrates and others of that group.
+Consider, then, another of the friends
+Of Socrates: Antisthenes, far-famed
+For the simplicity with which he lived.
+Not given to such flights as Plato took,
+He emulated Socrates more in
+The manner of his dress and of his speech.
+He lectured just outside the city walls,
+Especially before the lower class,
+Who trained there near the grounds of Herakles.
+Diogenes, that doglike man, who lived
+Upon the streets of Athens and who mocked
+Alike the leaders and the citizens,
+Took inspiration from Antisthenes,
+But took it farther than most think he ought.
+Then third among the schools my mentor spawned
+Is that of Aristippus. Pleasure is,
+He said, the goal of life, which Socrates
+Contested to the end, and yet remained
+His friend. Though Aristippus now is gone,
+It’s said his daughter Arete maintains
+The school he started far across the sea
+Upon the eastern coast of Libya.
+And yet another school of thought was formed
+In Megara by Euclid, who so yearned
+To learn from Socrates that after dark
+He’d sneak across the border into Athens
+Dressed as a woman, in days when no man
+From Megara was let into the town.
+He held the good to be unchanging, one,
+Eternal, like Parmenides of old.
+Though Euclid, too, has passed away, his school
+Continues there in Megara, where men
+Like Ichthyas, Thrasymachus, and Stilpo
+Pursue together still his line of thought.
+Amazing though it seems that Socrates
+Could help to bring so many ways of thought
+Into the world, it’s no surprise to those
+Who knew him, for his mother Phainarétē
+Was well-respected there in Athens as
+A holy priestess and a doctor who
+Would minister to women, safely bringing
+Their children from the womb into the world.
+And is this not what Socrates did, too?
+His greatest skill was not to teach, but reach
+In each of his friends’ souls with thought and care
+To help bring forth divinest wisdom there.”
+
+Then quiet, pensive, Pyrrho gave reply:
 “O Phaedo, you have given much upon
 Which to reflect - for this you have my thanks.
 For now I think that I must ponder well
