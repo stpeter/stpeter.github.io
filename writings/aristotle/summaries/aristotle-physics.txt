@@ -34,6 +34,8 @@ Chance and fortune "differ because chance is more extensive, for everything from
 
 "What is complete is said to be one (mia), whether in genus, in species, or in its own being, just as also with other things, completeness and wholeness belong to what is one. But there are also times when what is incomplete [ateles] is called one, just so long as it is continuous." (228b11-15)
 
+"But since to a motion not only a motion but also rest [eremia] seem to be contrary, this is something that must be distinguished.... it would be absurd if motions were contrary but states of rest were not opposites. And they are the ones in contrary states, as rest in health to that in sickness. (And it is contrary to the motion from health to sickness, for it is unreasonable that rest in health be contrary to motion from sickness to health, since the motion into that in which it stands still is rather the coming to rest, or at least it happens to come into being at the same time as the motion, and the contrary motion must be one of these two)." (229b23-230a6) [PSA: is rest equivalent or analogous to completion?]
+
 "Since everything that is of such a nature as to move [kineitai] or be at rest [eremei] does so when, where, and how it is natural to it, what is stopping must be moving when it is stopping; for if it is not moving it will be at rest, but it is not possible for what is at rest to be coming to rest." (238b23-26) [PSA: cf "coming to rest in nous, specifically in epagoge (An. Post II.19).]
 
 "The limit of growth is that of the complete magnitude in accord with the nature proper to a thing [kata ten oikeian phusin), and of decrease it is the loss of thing." (241a33-241b2)
@@ -56,4 +58,26 @@ Chance and fortune "differ because chance is more extensive, for everything from
 
 "But the third thing would seem to be most an impasse, that motion comes to inhere in that within which it was not present before, the thing that happens with ensouled things; for having been at rest beforehand, afterwards the ensouled thing walks, having been moved by nothing outside it, as it seems. But this is false. For we always see something moved in an animal, of the parts congenital to it; but the cause of the motion of this is not the animal itself, but perhaps its surroundings. We say it moves itself not in the case of every one of its motions, but in the case of those in respect to place. So nothing prevents, but it is perhaps rather a necessity, that many motions come to be present in the body by means of the surroundings, while some of these set in motion thinking [dianoia] or desire [orexis], and that presently sets in motion the whole animal, such as happens with those that are asleep; for even though no motion of perceiving is present, because some motion is nevertheless present, the animals wake up again." (253a7-20)
 
-WIP
+"What is itself moved by itself is moved by nature, as is each of the animals. For the animal is moved itself by itself, and whatever things have in themselves a source of motion, we say are moved by nature, and so the animal as a whole itself moves itself by nature..." (254b14-17)
+
+With regard to animals, "it is not whether it is moved by something that is unclear, but how one should distinguish within it the mover and the moved..." (254b28-30)
+
+Self-moving is "indicative of life and peculiar to things with souls..." (255a6-7)
+
+"One who is learning is potentially knowing [dunamei epistemon] in a different way from the one who already has knowledge but is not at work with it [echon ede me energon]. But always, whenever what can act and what can be acted upon are together, what is potential comes to be at work, as the one learning, from being something potentially, becomes something potentially in a different way (for the one having knowledge but not contemplating [theoron] is potentially knowing in a certain way, but not in the way he was before having learned), and once he is in this condition, if nothing prevents it, he is at work and contemplates, or else he would be in the contradictory condition, that of ignorance." (255a33-255b5)
+
+"... the knower immediately contemplates [theorei] if nothing prevents it..." (255b22-23)
+
+"It has been set down that it is what is movable that is moved; but this is something that is moved potentially, not actively-and-completely [ouk entelecheiai], and what is the case potentially goes over into being-active-and-complete [entelecheiai], and motion is an incomplete being-active-and-complete [entelecheia ateles] of the moveable thing. But the thing that causes motion is already in activity [energeiai], as what causes heat is what is hot, and in general what brings something into being is what has the form [eidos]." (257b6-10)
+
+"It is clear that the whole itself moves itself not by means of some part's being such as itself to move itself, but as a whole it mvoes itself, being moved and moving by means of some part's causing motion and some part's being moved." (258a22-25)
+
+"... among things in motion there is a source of their being moved which itself moves itself, and among all things a source that is motionless; and as for things which themselves move themselves, we see things that are obviously of this kind, namely the class of ensouled things and of animals." (259ba1-3)
+
+"All motions and changes are from opposites to opposites, as, with coming into being and destruction, the limits are being and not being, with alteratino they are contrary attributes, and with increase and decrease [they are] either greatness and smallness or completeness [teleiotes] and incompleteness [ateleia] of size..." (261a32-26)
+
+"One need not be alarmed that the same thing will be contrary to many things, for example, a motion both to standing still and to a motion to its contrary, but one need only grasp this, that the contrary motion is opposite in a certain way both to the motion and to the state of rest, just as what is equal and the mean is opposite both to what exceeds it and what it exceeds, and that it is not possible for opposites, whether motions or changes, to be present at the same time." (261b15-22)
+
+In contrast to the atomists, there are "those who make the soul responsible for motion; for they say that which itself moves itself is the ruling origin [kurios] of moving things, but an animal and everything with a soul moves itself with a motion in respect of place." (265b32-266a2)
+
+END
