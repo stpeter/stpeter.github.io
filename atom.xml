@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-08-04</modified>
+  <modified>2024-08-08</modified>
+  <entry>
+    <title>Walking with Aristotle: Nicomachean Ethics VI.5</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1890.html"/>
+    <id>tag:stpeter.im,1890</id>
+    <issued>2024-08-08</issued>
+    <modified>2024-08-08</modified>
+    <summary>In VI.5, Aristotle finally turns to a deeper analysis of phronēsis. I render this term as "wisdom", whereas others render it as "practical wisdom" (the standard these days), "practical judgment" (Joe Sachs), or "prudence" (prevalent in older translations). The wise person - the phronimos - is "able to deliberate beautifully about things that are good and advantageous, not in part, such as the sort of things that are conducive to health or strength, but the sort of things that are conducive to living well as a whole" (1140a25-28, Sachs translation). By the way, here "conducive" renders πρὸς, the same preposition we find in πρὸς τὸ τέλος, which is Aristotle's phrase for "that which takes us closer to completion" or "that which is toward the goal" - where the goal is living well as a whole, i.e., success [eupraxia] or fulfillment [eudaimonia]....</summary>
+  </entry>
   <entry>
     <title>Walking with Aristotle: Nicomachean Ethics VI.3-4</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1889.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-07-30</issued>
     <modified>2024-07-30</modified>
     <summary>Having read all of Shakespeare over the last eight months, I find myself even more inspired to explore the philosophical insights embedded throughout the plays. As previously mentioned, in Romeo and Juliet Shakespeare calls philosophy "the sweet milk of adversity", since it provides us with consolation in hard times. Yet it also fortifies and prepares us for successful action and much else besides....</summary>
-  </entry>
-  <entry>
-    <title>Walking with Aristotle: Nicomachean Ethics VI.1-2</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1884.html"/>
-    <id>tag:stpeter.im,1884</id>
-    <issued>2024-07-29</issued>
-    <modified>2024-07-29</modified>
-    <summary>Here we are, halfway through the Nicomachean Ethics. Because the path becomes rather steep and stony at this point, we're going to slow down and step carefully so that we don't tumble down the side of the mountain. Hey, no one ever promised that walking with Aristotle was going to be a leisurely stroll in the park!...</summary>
   </entry>
 </feed>
