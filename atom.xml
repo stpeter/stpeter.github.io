@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-08-08</modified>
+  <modified>2024-08-14</modified>
+  <entry>
+    <title>Tao Te Ching §81: True Words</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1891.html"/>
+    <id>tag:stpeter.im,1891</id>
+    <issued>2024-08-14</issued>
+    <modified>2024-08-14</modified>
+    <summary>Following up on my previous postings about the Tao Te Ching, here is one possible rendering of the very last poem, number 81:...</summary>
+  </entry>
   <entry>
     <title>Walking with Aristotle: Nicomachean Ethics VI.5</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1890.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-07-31</issued>
     <modified>2024-07-31</modified>
     <summary>No, not that kind of reincarnation. I refer instead to the mind tricks involved in fiction-writing. As I've been exploring the possibility of composing an epic poem about Pyrrho and Alexander (to date I've produced less than 200 lines, so don't get too excited!), I've treated it as if it were a translation of a lost work by Timon of Phlius, the best-known disciple of Pyrrho and a thinker who often wrote in a Homeric style. However, by no means am I expert in such matters, which is why I defer to the great Russian writer Yevgeny Zamyatin in his essay "On Language" (translated by Mirra Ginsburg):...</summary>
-  </entry>
-  <entry>
-    <title>Shakespeare on Self-Knowledge and Self-Mastery</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1885.html"/>
-    <id>tag:stpeter.im,1885</id>
-    <issued>2024-07-30</issued>
-    <modified>2024-07-30</modified>
-    <summary>Having read all of Shakespeare over the last eight months, I find myself even more inspired to explore the philosophical insights embedded throughout the plays. As previously mentioned, in Romeo and Juliet Shakespeare calls philosophy "the sweet milk of adversity", since it provides us with consolation in hard times. Yet it also fortifies and prepares us for successful action and much else besides....</summary>
   </entry>
 </feed>
