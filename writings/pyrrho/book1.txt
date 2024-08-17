@@ -3,7 +3,10 @@ Pyrrhiad Book I
 Sing me, muse, of two men who lived as gods.
 So many were the lands through which they passed,
 So many were the minds from which they learned,
-While they adventured far to India.
+While they adventured far away from Greece
+To Egypt, Persia, even India;
+For of these two one wished to rule it all,
+Whereas the other ever yearned to know.
 First Alexander, King of Makedōn, 
 Whose fame will last as long as men shall live.
 Just as a huge wave crashes on the shore
@@ -39,14 +42,14 @@ Of what is real. His hero in the art,
 Zeuxis of Heraclea, once portrayed
 Some grapes so true to life that hungry birds
 Flew down to forage in his studio.
-Though Pyrrho, too, had yearned to walk that road,
+Though Pyrrho, too, had wished to walk that road,
 The love of wisdom proved a stronger goad.
 
 Democritus of Abdera it was
 Who fired within his soul the drive to know.
 Far north in Thrace lay wealthy Abdera,
 Upon the main across from Thassos fair.
-The town grew rich with trade along the coast,
+The town grew rich from trade along the coast,
 With Makedōn, with Persia to the east,
 With all the isles, with kingdoms to the north.
 Gold, timber, kine, and olive oil passed
@@ -73,12 +76,12 @@ Alone to research, study, and converse,
 To gain whatever knowledge he could glean
 About the things we see and things unseen.
 
-Inspired by Democritus - his books,
-His thoughts, his journeys, and what they might mean -
+Inspired by far-famed Democritus - 
+His books, thoughts, journeys, and sagacity -
 Young Pyrrho went to see the one he knew
 In Elis to be wise, the only friend
 Of Socrates still looking on the sun:
-Phaedo - who fifty years before was there
+Phaedo, who had been present in his youth
 When Socrates was made to drain the cup
 Of hemlock and to thereby end his life
 Of questioning both others and himself.
@@ -90,18 +93,18 @@ So Pyrrho ventured forth to Phaedo’s house
 And searchingly he spoke in winged words:
 “O best of men and wisest here by far,
 I come to share in thought and seek advice.
-Pleistarchos I can claim as my dear sire,
-A man well known to all in Elis now,
+Pleistarchos is my father - dear to me,
+And dear as well to all in Elis now,
 Whose line for generations stretches back
 To when Diores, shepherd of the people,
 Led forth the men of Elis to the shores
-Of windy Ilion, when all of Greece
+Of windy Ilion - when all of Greece
 Adventured north to bring back Helen and
 To sack the sacred citadel of Troy,
 And thence to gather everlasting fame.
 Thus far our line; and Pyrrho is my name.”
 
-Then Phaedo too replied with thought and care:
+Then Phaedo answered with both thought and care:
 “O Pyrrho son of Pleistarchos, well met.
 You speak with insight far beyond your years,
 And yet you say you come in wisdom’s need.
@@ -178,7 +181,7 @@ And guides you to become more what you are.
 Here Socrates can help us see the way.
 For many were his friends in thoughtful speech,
 And many are the schools he helped to birth.
-The first of these in fame is Plato’s school,
+The first of these in fame is Plato’s group,
 Which gathers at the grove of Academe.
 The man himself is known throughout all Greece
 For dialogues that feature Socrates,
@@ -204,7 +207,7 @@ Who trained there near the grounds of Herakles.
 Diogenes, that doglike man, who lived
 Upon the streets of Athens and who mocked
 Alike the leaders and the citizens,
-Took inspiration from Antisthenes,
+Drew inspiration from Antisthenes,
 But took it farther than most think he ought.
 Then third among the schools my mentor spawned
 Is that of Aristippus. Pleasure is,
@@ -286,7 +289,7 @@ No one of them has nearly all the truth,
 For I have scattered that which can be known
 As widely as the farmers sow their seeds
 Of barley and of wheat when in the spring
-They plant and hope for harvests in the fall.
+They plant and work for harvests in the fall.
 Consider too that father Zeus who rules
 All earth and sky below his golden seat
 Upon the highest peak of great Olympos
