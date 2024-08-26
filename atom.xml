@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-08-18</modified>
+  <modified>2024-08-26</modified>
+  <entry>
+    <title>Tao Te Ching §2: What-Is and What-Is-Not</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1893.html"/>
+    <id>tag:stpeter.im,1893</id>
+    <issued>2024-08-26</issued>
+    <modified>2024-08-26</modified>
+    <summary>In my continuing experimentation with the Tao Te Ching, here's a draft rendering of the second chapter:...</summary>
+  </entry>
   <entry>
     <title>Homeric Style</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1892.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-08-04</issued>
     <modified>2024-08-04</modified>
     <summary>Having recently re-read both the Iliad and the Odyssey, I already find myself reading them yet again to more closely study various aspects of Homeric style. One of the things I've always enjoyed about the Homeric epics is the extended similes that liken events in the story to everyday experiences (indeed, I recall writing a paper about such similes for my Homer class with Laura Slatkin back in college). Here is an example from Book II of the Iliad as translated by Alexander Pope about 300 years ago:...</summary>
-  </entry>
-  <entry>
-    <title>Nicholas Dykes, RIP</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1887.html"/>
-    <id>tag:stpeter.im,1887</id>
-    <issued>2024-08-01</issued>
-    <modified>2024-08-01</modified>
-    <summary>Today I was saddened to learn, belatedly, that my friend Nicholas Dykes passed away earlier this year. Nick and I corresponded on and off for 25 years, ever since I published his poems "First Call of a Redwing" and "On Mynydd Troed" in The Monadnock Review, a webzine I maintained from 1997 to 2002. I was lucky to spend a few hours with him in person back in 2006 after the memorial service for British libertarian writer and activist Chris Tame, since I just happened to be London at that time and took the train down to Chichester for the event. Although Nick had strong opinions and took exception to my book The Tao of Roark (if I recall correctly, he thought it was repetitious and unenlightening), we always enjoyed sharing thoughts about philosophy and literature. I really liked his novel Old Nick's Guide to Happiness (a kind of philosophical adventure story) and was looking forward to the novel he was working on at the time of his death, about a lost island of Epicureans in the Indian Ocean. He will be missed. Rest in peace, my friend....</summary>
   </entry>
 </feed>
