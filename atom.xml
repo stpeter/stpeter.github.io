@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-08-28</modified>
+  <modified>2024-08-30</modified>
+  <entry>
+    <title>A Republic If You Can Keep It</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1895.html"/>
+    <id>tag:stpeter.im,1895</id>
+    <issued>2024-08-30</issued>
+    <modified>2024-08-30</modified>
+    <summary>Every year around Independence Day, I carve out time to read and reflect on the Declaration of Independence and the Constitution; and every year I notice something new. This year it was the first clause in Article IV, Section 4: "The United States shall guarantee to every State in this Union a Republican Form of Government." As with everything else in the Constitution, this "guarantee clause" has been analyzed historically, legally, and philosophically over the last 200+ years. Although I'm not a scholar of the Constitution and don't plan to become one, my curiosity was piqued, so I decided to gain a slightly better understanding of republicanism (with a small "r")....</summary>
+  </entry>
   <entry>
     <title>Pyrrho in the Light of Homer</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1894.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-08-08</issued>
     <modified>2024-08-08</modified>
     <summary>In VI.5, Aristotle finally turns to a deeper analysis of phronēsis. I render this term as "wisdom", whereas others render it as "practical wisdom" (the standard these days), "practical judgment" (Joe Sachs), or "prudence" (prevalent in older translations). The wise person - the phronimos - is "able to deliberate beautifully about things that are good and advantageous, not in part, such as the sort of things that are conducive to health or strength, but the sort of things that are conducive to living well as a whole" (1140a25-28, Sachs translation). By the way, here "conducive" renders πρὸς, the same preposition we find in πρὸς τὸ τέλος, which is Aristotle's phrase for "that which takes us closer to completion" or "that which is toward the goal" - where the goal is living well as a whole, i.e., success [eupraxia] or fulfillment [eudaimonia]....</summary>
-  </entry>
-  <entry>
-    <title>Walking with Aristotle: Nicomachean Ethics VI.3-4</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1889.html"/>
-    <id>tag:stpeter.im,1889</id>
-    <issued>2024-08-04</issued>
-    <modified>2024-08-04</modified>
-    <summary>On the last section of our walk, we started to pick our way through a boulder-field of concepts that Aristotle introduced to kick off Book VI. Here we'll glance at two of those concepts: understanding [epistēmē] and craft [technē]. Aristotle's purpose here is not to examine these phenomena in detail, but to set up a contrast with wisdom [phronēsis] and sagacity [sophia], which will become the primary focus later in Book VI....</summary>
   </entry>
 </feed>
