@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-09-03</modified>
+  <modified>2024-09-05</modified>
+  <entry>
+    <title>Walking with Aristotle: Nicomachean Ethics VI.9-11</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1897.html"/>
+    <id>tag:stpeter.im,1897</id>
+    <issued>2024-09-05</issued>
+    <modified>2024-09-05</modified>
+    <summary>Here toward the end of Book VI Aristotle looks at several skills and traits that are either constituents of wisdom or similar to wisdom in certain respects: deliberative excellence [euboulia], astuteness [sunesis], thoughtfulness [gnōmē], and sensitivity [sungnōmē]....</summary>
+  </entry>
   <entry>
     <title>Walking with Aristotle: Nicomachean Ethics VI.6-8</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1896.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-08-18</issued>
     <modified>2024-08-18</modified>
     <summary>As previously noted, my stylistic intent in writing an epic poem about Pyrrho and Alexander the Great is to have it sound as if translated into modern English iambic pentameter from the ancient Greek dactylic hexameter of a Hellenistic author deeply influenced by Homer. To do this convincingly, I need to have a firm grasp on Homeric style. Here Matthew Arnold's 1861 lectures "On Translating Homer" are invaluable. He identifies four key features of the Homeric poems:...</summary>
-  </entry>
-  <entry>
-    <title>Tao Te Ching §81: True Words</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1891.html"/>
-    <id>tag:stpeter.im,1891</id>
-    <issued>2024-08-14</issued>
-    <modified>2024-08-14</modified>
-    <summary>Following up on my previous postings about the Tao Te Ching, here is one possible rendering of the very last poem, number 81:...</summary>
   </entry>
 </feed>
