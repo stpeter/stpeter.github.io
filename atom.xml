@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-09-05</modified>
+  <modified>2024-09-08</modified>
+  <entry>
+    <title>Homeric Ambiguity</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1898.html"/>
+    <id>tag:stpeter.im,1898</id>
+    <issued>2024-09-08</issued>
+    <modified>2024-09-08</modified>
+    <summary>One of the many fascinating aspects of both the Iliad and the Odyssey is the fundamental ambiguity of Homer's stories. Is the Iliad a great war poem - or a great anti-war poem? Is Achilles really the hero of the Iliad, or is it perhaps Hector (whose death and funeral mark the end of the poem)? Are the gods the sources and enforcers of justice, or are they just as often capriciously unjust (e.g., in causing the ten-year wanderings of Odysseus after the Trojan War)? And so on....</summary>
+  </entry>
   <entry>
     <title>Walking with Aristotle: Nicomachean Ethics VI.9-11</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1897.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-08-26</issued>
     <modified>2024-08-26</modified>
     <summary>In my continuing experimentation with the Tao Te Ching, here's a draft rendering of the second chapter:...</summary>
-  </entry>
-  <entry>
-    <title>Homeric Style</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1892.html"/>
-    <id>tag:stpeter.im,1892</id>
-    <issued>2024-08-18</issued>
-    <modified>2024-08-18</modified>
-    <summary>As previously noted, my stylistic intent in writing an epic poem about Pyrrho and Alexander the Great is to have it sound as if translated into modern English iambic pentameter from the ancient Greek dactylic hexameter of a Hellenistic author deeply influenced by Homer. To do this convincingly, I need to have a firm grasp on Homeric style. Here Matthew Arnold's 1861 lectures "On Translating Homer" are invaluable. He identifies four key features of the Homeric poems:...</summary>
   </entry>
 </feed>
