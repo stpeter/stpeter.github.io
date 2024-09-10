@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-09-08</modified>
+  <modified>2024-09-10</modified>
+  <entry>
+    <title>Information vs. Wisdom</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1899.html"/>
+    <id>tag:stpeter.im,1899</id>
+    <issued>2024-09-10</issued>
+    <modified>2024-09-10</modified>
+    <summary>The world is awash with information. Some information is misinformation (falsehoods), and some misinformation is disinformation (deliberate falsehoods), but all of it is stuff that needs to processed in order to be useful, otherwise it's not much better than gossip or rumor....</summary>
+  </entry>
   <entry>
     <title>Homeric Ambiguity</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1898.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-08-28</issued>
     <modified>2024-08-28</modified>
     <summary>Only the merest wisps of evidence remain for the thoughts of Pyrrho, the founder of ancient Greek skepticism and, perhaps, the bringer of Buddhism to Greece. Like Socrates, Pyrrho wrote nothing. His disciple Timon of Phlius did some writing, but almost all of it is lost. The primary text that has survived from antiquity is a brief passage in the Preparation for the Gospel by the Christian polemicist Eusebius of Caesarea (4th century AD), who quotes from Book VIII of On Philosophy by the Peripatetic philosopher Aristocles of Messene (1st century AD), who in turn cites but doesn't seem to precisely quote Timon. That's not much to go on!...</summary>
-  </entry>
-  <entry>
-    <title>Tao Te Ching §2: What-Is and What-Is-Not</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1893.html"/>
-    <id>tag:stpeter.im,1893</id>
-    <issued>2024-08-26</issued>
-    <modified>2024-08-26</modified>
-    <summary>In my continuing experimentation with the Tao Te Ching, here's a draft rendering of the second chapter:...</summary>
   </entry>
 </feed>
