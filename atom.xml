@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-09-10</modified>
+  <modified>2024-09-15</modified>
+  <entry>
+    <title>Walking with Aristotle: Nicomachean Ethics VI.12-13</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1900.html"/>
+    <id>tag:stpeter.im,1900</id>
+    <issued>2024-09-15</issued>
+    <modified>2024-09-15</modified>
+    <summary>In the final two chapters of Nicomachean Ethics Book VI, Aristotle asks some probing questions about thrivings of mind and character....</summary>
+  </entry>
   <entry>
     <title>Information vs. Wisdom</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1899.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-08-30</issued>
     <modified>2024-08-30</modified>
     <summary>Every year around Independence Day, I carve out time to read and reflect on the Declaration of Independence and the Constitution; and every year I notice something new. This year it was the first clause in Article IV, Section 4: "The United States shall guarantee to every State in this Union a Republican Form of Government." As with everything else in the Constitution, this "guarantee clause" has been analyzed historically, legally, and philosophically over the last 200+ years. Although I'm not a scholar of the Constitution and don't plan to become one, my curiosity was piqued, so I decided to gain a slightly better understanding of republicanism (with a small "r")....</summary>
-  </entry>
-  <entry>
-    <title>Pyrrho in the Light of Homer</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1894.html"/>
-    <id>tag:stpeter.im,1894</id>
-    <issued>2024-08-28</issued>
-    <modified>2024-08-28</modified>
-    <summary>Only the merest wisps of evidence remain for the thoughts of Pyrrho, the founder of ancient Greek skepticism and, perhaps, the bringer of Buddhism to Greece. Like Socrates, Pyrrho wrote nothing. His disciple Timon of Phlius did some writing, but almost all of it is lost. The primary text that has survived from antiquity is a brief passage in the Preparation for the Gospel by the Christian polemicist Eusebius of Caesarea (4th century AD), who quotes from Book VIII of On Philosophy by the Peripatetic philosopher Aristocles of Messene (1st century AD), who in turn cites but doesn't seem to precisely quote Timon. That's not much to go on!...</summary>
   </entry>
 </feed>
