@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-09-15</modified>
+  <modified>2024-09-17</modified>
+  <entry>
+    <title>Tao Te Ching §33: Know Yourself</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1901.html"/>
+    <id>tag:stpeter.im,1901</id>
+    <issued>2024-09-17</issued>
+    <modified>2024-09-17</modified>
+    <summary>Here's another of my renderings from the Tao Te Ching:...</summary>
+  </entry>
   <entry>
     <title>Walking with Aristotle: Nicomachean Ethics VI.12-13</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1900.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-09-03</issued>
     <modified>2024-09-03</modified>
     <summary>In the most recent installment of our walk with Aristotle, we puzzled through the beginnings of his analysis of wisdom [phronēsis]. In Book VI.6-8 he climbs further up this steep section of the trail to discuss not only wisdom but also sagacity [sophia]....</summary>
-  </entry>
-  <entry>
-    <title>A Republic If You Can Keep It</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1895.html"/>
-    <id>tag:stpeter.im,1895</id>
-    <issued>2024-08-30</issued>
-    <modified>2024-08-30</modified>
-    <summary>Every year around Independence Day, I carve out time to read and reflect on the Declaration of Independence and the Constitution; and every year I notice something new. This year it was the first clause in Article IV, Section 4: "The United States shall guarantee to every State in this Union a Republican Form of Government." As with everything else in the Constitution, this "guarantee clause" has been analyzed historically, legally, and philosophically over the last 200+ years. Although I'm not a scholar of the Constitution and don't plan to become one, my curiosity was piqued, so I decided to gain a slightly better understanding of republicanism (with a small "r")....</summary>
   </entry>
 </feed>
