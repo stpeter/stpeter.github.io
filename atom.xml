@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-09-21</modified>
+  <modified>2024-09-24</modified>
+  <entry>
+    <title>Walking with Aristotle: Nicomachean Ethics VII.11-14</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1903.html"/>
+    <id>tag:stpeter.im,1903</id>
+    <issued>2024-09-24</issued>
+    <modified>2024-09-24</modified>
+    <summary>Early on in the Nicomachean Ethics, Aristotle observed that thrivings and corruptions of character are centrally concerned with managing life's pleasures and pains, joys and distresses; as two examples, the cowardly person fails to act courageously out of a desire to avoid even necessary pains, whereas the decadent person fails to act moderately out of a desire to pursue even unnecessary pleasures. Here in Book VII, Aristotle expands on those observations and provides a stronger foundation for his claims....</summary>
+  </entry>
   <entry>
     <title>Walking with Aristotle: Nicomachean Ethics VII.1-10</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1902.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-09-08</issued>
     <modified>2024-09-08</modified>
     <summary>One of the many fascinating aspects of both the Iliad and the Odyssey is the fundamental ambiguity of Homer's stories. Is the Iliad a great war poem - or a great anti-war poem? Is Achilles really the hero of the Iliad, or is it perhaps Hector (whose death and funeral mark the end of the poem)? Are the gods the sources and enforcers of justice, or are they just as often capriciously unjust (e.g., in causing the ten-year wanderings of Odysseus after the Trojan War)? And so on....</summary>
-  </entry>
-  <entry>
-    <title>Walking with Aristotle: Nicomachean Ethics VI.9-11</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1897.html"/>
-    <id>tag:stpeter.im,1897</id>
-    <issued>2024-09-05</issued>
-    <modified>2024-09-05</modified>
-    <summary>Here toward the end of Book VI Aristotle looks at several skills and traits that are either constituents of wisdom or similar to wisdom in certain respects: deliberative excellence [euboulia], astuteness [sunesis], thoughtfulness [gnōmē], and sensitivity [sungnōmē]....</summary>
   </entry>
 </feed>
