@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-10-04</modified>
+  <modified>2024-10-05</modified>
+  <entry>
+    <title>Whole Wheat Pancake Recipe</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1905.html"/>
+    <id>tag:stpeter.im,1905</id>
+    <issued>2024-10-05</issued>
+    <modified>2024-10-05</modified>
+    <summary>Every once in a while I post a recipe here, almost as much for my own reference as for sharing. Because several people have asked me about my whole wheat pancakes recently, I figured I'd write up how I make them....</summary>
+  </entry>
   <entry>
     <title>Criticism vs. Cultivation</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1904.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-09-15</issued>
     <modified>2024-09-15</modified>
     <summary>In the final two chapters of Nicomachean Ethics Book VI, Aristotle asks some probing questions about thrivings of mind and character....</summary>
-  </entry>
-  <entry>
-    <title>Information vs. Wisdom</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1899.html"/>
-    <id>tag:stpeter.im,1899</id>
-    <issued>2024-09-10</issued>
-    <modified>2024-09-10</modified>
-    <summary>The world is awash with information. Some information is misinformation (falsehoods), and some misinformation is disinformation (deliberate falsehoods), but all of it is stuff that needs to processed in order to be useful, otherwise it's not much better than gossip or rumor....</summary>
   </entry>
 </feed>
