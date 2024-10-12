@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-10-11</modified>
+  <modified>2024-10-12</modified>
+  <entry>
+    <title>Middlemarch</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1909.html"/>
+    <id>tag:stpeter.im,1909</id>
+    <issued>2024-10-12</issued>
+    <modified>2024-10-12</modified>
+    <summary>The other day I finished reading George Eliot's novel Middlemarch. This was my second attempt, since a few years ago I had made it about halfway through but then got distracted with other projects. Middlemarch is widely considered one of the greatest novels in the English language, and I can't disagree. The aspect that most impresses me is Eliot's deep understanding of human character, emotion, and deliberation, for good and for ill. As befits Eliot's intellectual interests (she was the first to translate Spinoza's Ethics from Latin into English), that understanding is simultaneously both psychological and philosophical. I love how she provides ethical insights at just the right moments in the narrative: "character too is a process and an unfolding"; "character is not cut in marble - it is not something solid and unalterable. It is something living and changing, and may become diseased as our bodies do"; "every limit is a beginning as well as an ending"; "there is no creature whose inward being is so strong that it is not greatly determined by what lies outside it"; "is there not a genius for feeling nobly which also reigns over human spirits?" (etc.). British novelist Robert McCrum once called Middlemarch "a cathedral of words" and it certainly is long (my copy, printed in the 1920s, clocks in around 1350 pages, although more modern editions are around 800). Yet Eliot needed that vast structure to house the many fascinating characters she created, to portray their interrelationships, and to resolve their conflicts. Brava!...</summary>
+  </entry>
   <entry>
     <title>Walking with Aristotle: Nicomachean Ethics VIII.1-5</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1908.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-10-04</issued>
     <modified>2024-10-04</modified>
     <summary>So much of what one reads online these days consists of social and cultural criticism, even when it avoids the cesspool of partisan vitriol. Case in point: over the last few days I've run across several essays that bemoan the decline of reading and the seemingly inexorable emergence of a post-literate society. Although I've made similar observations over the years, it strikes me that at a personal level such forms of criticism are nearly devoid of value. Instead, what matters are the practices that one cultivates in one's own life. I grant that exposing oneself to social and cultural criticism can, at times, inspire a change in behavior; yet, all too often, criticism without cultivation is "sound and fury, signifying nothing". Marx proclaimed that "Philosophers have hitherto only interpreted the world in various ways; the point is to change it." Yet I agree more with Tolstoy, who contended that "Everyone thinks of changing the world, but no one thinks of changing himself." If you ask me, changing oneself is the true function of philosophy....</summary>
-  </entry>
-  <entry>
-    <title>Walking with Aristotle: Nicomachean Ethics VII.11-14</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1903.html"/>
-    <id>tag:stpeter.im,1903</id>
-    <issued>2024-09-24</issued>
-    <modified>2024-09-24</modified>
-    <summary>Early on in the Nicomachean Ethics, Aristotle observed that thrivings and corruptions of character are centrally concerned with managing life's pleasures and pains, joys and distresses; as two examples, the cowardly person fails to act courageously out of a desire to avoid even necessary pains, whereas the decadent person fails to act moderately out of a desire to pursue even unnecessary pleasures. Here in Book VII, Aristotle expands on those observations and provides a stronger foundation for his claims....</summary>
   </entry>
 </feed>
