@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-10-08</modified>
+  <modified>2024-10-11</modified>
+  <entry>
+    <title>Walking with Aristotle: Nicomachean Ethics VIII.1-5</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1908.html"/>
+    <id>tag:stpeter.im,1908</id>
+    <issued>2024-10-11</issued>
+    <modified>2024-10-11</modified>
+    <summary>Books VIII and IX of the Nicomachean Ethics are devoted to philia. The translators all say this word means friendship - but I think they're wrong. According to Aristotle, the paradigm case of philia is a mother's love for her children (1161b27). Going out on a limb (as I am wont to do), I therefore render philia as love....</summary>
+  </entry>
   <entry>
     <title>Void for Vagueness</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1907.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-09-24</issued>
     <modified>2024-09-24</modified>
     <summary>Early on in the Nicomachean Ethics, Aristotle observed that thrivings and corruptions of character are centrally concerned with managing life's pleasures and pains, joys and distresses; as two examples, the cowardly person fails to act courageously out of a desire to avoid even necessary pains, whereas the decadent person fails to act moderately out of a desire to pursue even unnecessary pleasures. Here in Book VII, Aristotle expands on those observations and provides a stronger foundation for his claims....</summary>
-  </entry>
-  <entry>
-    <title>Walking with Aristotle: Nicomachean Ethics VII.1-10</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1902.html"/>
-    <id>tag:stpeter.im,1902</id>
-    <issued>2024-09-21</issued>
-    <modified>2024-09-21</modified>
-    <summary>At the end of Nicomachean Ethics Book VI, Aristotle sketched out an ideal of human flourishing, in the form of the seriously good person who seamlessly combines excellence of mind and character, practical wisdom [phronēsis] and ethical thriving [aretē]. Yet human experience is not always so seamless. There are many ways to go astray in life, which in Book VII Aristotle boils down to three: corruption [mochthēria] of character, lack of self-restraint [akrasia], and, rarely, a deficient state that borders on an animal-like existence [theriotēs]....</summary>
   </entry>
 </feed>
