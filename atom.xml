@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-10-12</modified>
+  <modified>2024-10-13</modified>
+  <entry>
+    <title>Beowulf</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1910.html"/>
+    <id>tag:stpeter.im,1910</id>
+    <issued>2024-10-13</issued>
+    <modified>2024-10-13</modified>
+    <summary>As part of my background research for composing an epic poem about Pyrrho, I'm reading epics from around the world. So far this year I've read both the Iliad and the Odyssey twice (in Richmond Lattimore's masterful translations), Milton's Paradise Lost, the Argonautica by Apollonius of Rhodes, and most recently Beowulf. I'm also about halfway through Virgil's Aeneid (in John Dryden's translation), after which I intend to start on Ferdowsi's great Persian epic, the Shahnameh. I'm also halfway through my friend Dave Jilk's newly published science-fiction novel in the form of an epic poem, entitled Epoch: A Poetic Psy-Phi Saga (more on that soon). And there are plenty more where these came from!...</summary>
+  </entry>
   <entry>
     <title>Middlemarch</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1909.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-10-05</issued>
     <modified>2024-10-05</modified>
     <summary>Every once in a while I post a recipe here, almost as much for my own reference as for sharing. Because several people have asked me about my whole wheat pancakes recently, I figured I'd write up how I make them....</summary>
-  </entry>
-  <entry>
-    <title>Criticism vs. Cultivation</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1904.html"/>
-    <id>tag:stpeter.im,1904</id>
-    <issued>2024-10-04</issued>
-    <modified>2024-10-04</modified>
-    <summary>So much of what one reads online these days consists of social and cultural criticism, even when it avoids the cesspool of partisan vitriol. Case in point: over the last few days I've run across several essays that bemoan the decline of reading and the seemingly inexorable emergence of a post-literate society. Although I've made similar observations over the years, it strikes me that at a personal level such forms of criticism are nearly devoid of value. Instead, what matters are the practices that one cultivates in one's own life. I grant that exposing oneself to social and cultural criticism can, at times, inspire a change in behavior; yet, all too often, criticism without cultivation is "sound and fury, signifying nothing". Marx proclaimed that "Philosophers have hitherto only interpreted the world in various ways; the point is to change it." Yet I agree more with Tolstoy, who contended that "Everyone thinks of changing the world, but no one thinks of changing himself." If you ask me, changing oneself is the true function of philosophy....</summary>
   </entry>
 </feed>
