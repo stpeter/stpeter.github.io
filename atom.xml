@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-10-13</modified>
+  <modified>2024-10-15</modified>
+  <entry>
+    <title>Radical Gratitude</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1911.html"/>
+    <id>tag:stpeter.im,1911</id>
+    <issued>2024-10-15</issued>
+    <modified>2024-10-15</modified>
+    <summary>While attempting recently to render the first few lines of Tao Te Ching §14 about the nature of the Tao, I came up with the following:...</summary>
+  </entry>
   <entry>
     <title>Beowulf</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1910.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-10-07</issued>
     <modified>2024-10-07</modified>
     <summary>In further reflecting on my recent post about criticism vs. cultivation, I've been pondering the all-too-common phenomenon of philosophical hubris: the attitude among some philosophers that they can pronounce intelligently on any topic or situation presented to them. To such thinkers (parodied as long ago as Plato's Gorgias), humility might be an intellectual virtue for others, but it isn't one for them....</summary>
-  </entry>
-  <entry>
-    <title>Whole Wheat Pancake Recipe</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1905.html"/>
-    <id>tag:stpeter.im,1905</id>
-    <issued>2024-10-05</issued>
-    <modified>2024-10-05</modified>
-    <summary>Every once in a while I post a recipe here, almost as much for my own reference as for sharing. Because several people have asked me about my whole wheat pancakes recently, I figured I'd write up how I make them....</summary>
   </entry>
 </feed>
