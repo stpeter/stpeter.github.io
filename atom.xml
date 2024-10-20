@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-10-18</modified>
+  <modified>2024-10-20</modified>
+  <entry>
+    <title>Walking with Aristotle: Nicomachean Ethics VIII.9-IX.3</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1913.html"/>
+    <id>tag:stpeter.im,1913</id>
+    <issued>2024-10-20</issued>
+    <modified>2024-10-20</modified>
+    <summary>Moving on from his discussions of ideal relationships and then unequal relationships, Aristotle first takes a detour into different forms of political community (monarchy, aristocracy, democracy, etc.). This likely strikes us as strange, until Aristotle explains that philia holds societies together even more than justice does; in this context, I would translate the term as brotherhood (a somewhat attenuated kind of loving in especially short supply these days, it seems!). The idea is that philia exists to the extent that two or more people share common goals and activities, such as workmates (Aristotle's example is actually shipmates on a commercial venture), fellow soldiers, neighbors, participants in a religious order, or members of a social club. And all of these specific varieties of association exist under the broad framework of the overall society in which you live....</summary>
+  </entry>
   <entry>
     <title>Walking with Aristotle: Nicomachean Ethics VIII.6-8</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1912.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-10-11</issued>
     <modified>2024-10-11</modified>
     <summary>Books VIII and IX of the Nicomachean Ethics are devoted to philia. The translators all say this word means friendship - but I think they're wrong. According to Aristotle, the paradigm case of philia is a mother's love for her children (1161b27). Going out on a limb (as I am wont to do), I therefore render philia as love....</summary>
-  </entry>
-  <entry>
-    <title>Void for Vagueness</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1907.html"/>
-    <id>tag:stpeter.im,1907</id>
-    <issued>2024-10-08</issued>
-    <modified>2024-10-08</modified>
-    <summary>In yesterday's post about philosophical hubris, I mentioned Alexandre Lefebvre's proposal to regard liberalism as a way of life. Astute readers might have noticed that words like liberalism, neoliberalism, and fascism don't appear prominently in my writings. Beyond the fact that I tend to avoid political topics, there's another reason: I find these words to be extremely slippery. Indeed, they are often so ill-defined as to be void for vagueness, which might be why it's so easy to hurl them as epithets. Yet isms are not the only such words in our increasingly partisan culture. Similar in their effects are terms like feminazi, Islamophobic, woke, denier, and a host of others. If you think about them carefully, can you be sure that they provide a solid basis for clear thinking, mutual understanding, and respectful communication? I have my doubts......</summary>
   </entry>
 </feed>
