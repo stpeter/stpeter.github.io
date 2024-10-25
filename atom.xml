@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-10-20</modified>
+  <modified>2024-10-25</modified>
+  <entry>
+    <title>A Visit to the Dentist</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1914.html"/>
+    <id>tag:stpeter.im,1914</id>
+    <issued>2024-10-25</issued>
+    <modified>2024-10-25</modified>
+    <summary>During a visit to the dentist the other day, I experimented with what I recently called radical gratitude. Throughout the visit, I asked myself: how much of what I experienced could I perceive as a gift to be enjoyed and appreciated? (To be clear, I actually like going to the dentist, so this wasn't as much of a stretch for me as it might be for others.)...</summary>
+  </entry>
   <entry>
     <title>Walking with Aristotle: Nicomachean Ethics VIII.9-IX.3</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1913.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-10-12</issued>
     <modified>2024-10-12</modified>
     <summary>The other day I finished reading George Eliot's novel Middlemarch. This was my second attempt, since a few years ago I had made it about halfway through but then got distracted with other projects. Middlemarch is widely considered one of the greatest novels in the English language, and I can't disagree. The aspect that most impresses me is Eliot's deep understanding of human character, emotion, and deliberation, for good and for ill. As befits Eliot's intellectual interests (she was the first to translate Spinoza's Ethics from Latin into English), that understanding is simultaneously both psychological and philosophical. I love how she provides ethical insights at just the right moments in the narrative: "character too is a process and an unfolding"; "character is not cut in marble - it is not something solid and unalterable. It is something living and changing, and may become diseased as our bodies do"; "every limit is a beginning as well as an ending"; "there is no creature whose inward being is so strong that it is not greatly determined by what lies outside it"; "is there not a genius for feeling nobly which also reigns over human spirits?" (etc.). British novelist Robert McCrum once called Middlemarch "a cathedral of words" and it certainly is long (my copy, printed in the 1920s, clocks in around 1350 pages, although more modern editions are around 800). Yet Eliot needed that vast structure to house the many fascinating characters she created, to portray their interrelationships, and to resolve their conflicts. Brava!...</summary>
-  </entry>
-  <entry>
-    <title>Walking with Aristotle: Nicomachean Ethics VIII.1-5</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1908.html"/>
-    <id>tag:stpeter.im,1908</id>
-    <issued>2024-10-11</issued>
-    <modified>2024-10-11</modified>
-    <summary>Books VIII and IX of the Nicomachean Ethics are devoted to philia. The translators all say this word means friendship - but I think they're wrong. According to Aristotle, the paradigm case of philia is a mother's love for her children (1161b27). Going out on a limb (as I am wont to do), I therefore render philia as love....</summary>
   </entry>
 </feed>
