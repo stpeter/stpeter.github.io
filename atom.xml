@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-10-26</modified>
+  <modified>2024-10-29</modified>
+  <entry>
+    <title>Walking with Aristotle: Nicomachean Ethics IX.8</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1916.html"/>
+    <id>tag:stpeter.im,1916</id>
+    <issued>2024-10-29</issued>
+    <modified>2024-10-29</modified>
+    <summary>Up until now Aristotle has considered love for other people, but in IX.8 Aristotle asks some probing questions about love of self. All the central qualities of love (summarized in my post about IX.4-7) seem to apply most of all to oneself, such that love toward others seems to grow out of self-love. But how can this be? After all, it also seems that the unserious/unworthy [phaulos] person whose character is corrupted [mochthēros] acts out of pure selfishness. The conflict between these appearances sets up what Aristotle calls an impasse [aporia], and we'll need to find a way through it in order to make further progress toward wisdom and sagacity....</summary>
+  </entry>
   <entry>
     <title>Walking with Aristotle: Nicomachean Ethics IX.4-7</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1915.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-10-15</issued>
     <modified>2024-10-15</modified>
     <summary>While attempting recently to render the first few lines of Tao Te Ching §14 about the nature of the Tao, I came up with the following:...</summary>
-  </entry>
-  <entry>
-    <title>Beowulf</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1910.html"/>
-    <id>tag:stpeter.im,1910</id>
-    <issued>2024-10-13</issued>
-    <modified>2024-10-13</modified>
-    <summary>As part of my background research for composing an epic poem about Pyrrho, I'm reading epics from around the world. So far this year I've read both the Iliad and the Odyssey twice (in Richmond Lattimore's masterful translations), Milton's Paradise Lost, the Argonautica by Apollonius of Rhodes, and most recently Beowulf. I'm also about halfway through Virgil's Aeneid (in John Dryden's translation), after which I intend to start on Ferdowsi's great Persian epic, the Shahnameh. I'm also halfway through my friend Dave Jilk's newly published science-fiction novel in the form of an epic poem, entitled Epoch: A Poetic Psy-Phi Saga (more on that soon). And there are plenty more where these came from!...</summary>
   </entry>
 </feed>
