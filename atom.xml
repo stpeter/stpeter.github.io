@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-10-29</modified>
+  <modified>2024-11-03</modified>
+  <entry>
+    <title>Walking with Aristotle: Nicomachean Ethics IX.9-12</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1917.html"/>
+    <id>tag:stpeter.im,1917</id>
+    <issued>2024-11-03</issued>
+    <modified>2024-11-03</modified>
+    <summary>In IX.9-12, Aristotle finishes off his consideration of love and friendship by wondering how many close relationships one really needs, the times in life when such relationships are most valuable, etc....</summary>
+  </entry>
   <entry>
     <title>Walking with Aristotle: Nicomachean Ethics IX.8</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1916.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-10-18</issued>
     <modified>2024-10-18</modified>
     <summary>Following up on his presentation of an ideal of human relationships, in Nicomachean Ethics VIII.6-8 Aristotle starts to investigate some of the variables that lead to less than ideal outcomes. Because ideally love and friendship in all their many forms entails a kind of equality, one of these variables is inequality between the two people involved, with respect to common attributes such as wealth, power, social class, fame, beauty, etc. As a modern example, consider the employees of a large corporation: it's highly unlikely, perhaps even unheard of, that the CEO will have a close relationship with the guy in the mailroom; the power gap is simply too wide. Or, to take the example that Aristotle uses, a ruler who is blessed with great wealth, absolute power, noble birth, and good looks usually surrounds himself with those who are useful (henchmen and servants and the like) and those who are pleasant (flatterers and entertainers and the like), but not with people of excellent character who take life seriously. Indeed, although the seriously good person is inherently both useful and enjoyable, such a person is not inclined to befriend a ruler unless the ruler is also superior in virtue, and that doesn't happen often....</summary>
-  </entry>
-  <entry>
-    <title>Radical Gratitude</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1911.html"/>
-    <id>tag:stpeter.im,1911</id>
-    <issued>2024-10-15</issued>
-    <modified>2024-10-15</modified>
-    <summary>While attempting recently to render the first few lines of Tao Te Ching §14 about the nature of the Tao, I came up with the following:...</summary>
   </entry>
 </feed>
