@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-11-03</modified>
+  <modified>2024-11-07</modified>
+  <entry>
+    <title>Walking with Aristotle: Nicomachean Ethics X.1-5</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1918.html"/>
+    <id>tag:stpeter.im,1918</id>
+    <issued>2024-11-07</issued>
+    <modified>2024-11-07</modified>
+    <summary>In X.1-5 Aristotle revisits the topic of pleasure, reiterating some of the points he made in VII.11-14 (e.g., that every activity has its own inherent pleasure) but also extending them in several ways....</summary>
+  </entry>
   <entry>
     <title>Walking with Aristotle: Nicomachean Ethics IX.9-12</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1917.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-10-20</issued>
     <modified>2024-10-20</modified>
     <summary>Moving on from his discussions of ideal relationships and then unequal relationships, Aristotle first takes a detour into different forms of political community (monarchy, aristocracy, democracy, etc.). This likely strikes us as strange, until Aristotle explains that philia holds societies together even more than justice does; in this context, I would translate the term as brotherhood (a somewhat attenuated kind of loving in especially short supply these days, it seems!). The idea is that philia exists to the extent that two or more people share common goals and activities, such as workmates (Aristotle's example is actually shipmates on a commercial venture), fellow soldiers, neighbors, participants in a religious order, or members of a social club. And all of these specific varieties of association exist under the broad framework of the overall society in which you live....</summary>
-  </entry>
-  <entry>
-    <title>Walking with Aristotle: Nicomachean Ethics VIII.6-8</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1912.html"/>
-    <id>tag:stpeter.im,1912</id>
-    <issued>2024-10-18</issued>
-    <modified>2024-10-18</modified>
-    <summary>Following up on his presentation of an ideal of human relationships, in Nicomachean Ethics VIII.6-8 Aristotle starts to investigate some of the variables that lead to less than ideal outcomes. Because ideally love and friendship in all their many forms entails a kind of equality, one of these variables is inequality between the two people involved, with respect to common attributes such as wealth, power, social class, fame, beauty, etc. As a modern example, consider the employees of a large corporation: it's highly unlikely, perhaps even unheard of, that the CEO will have a close relationship with the guy in the mailroom; the power gap is simply too wide. Or, to take the example that Aristotle uses, a ruler who is blessed with great wealth, absolute power, noble birth, and good looks usually surrounds himself with those who are useful (henchmen and servants and the like) and those who are pleasant (flatterers and entertainers and the like), but not with people of excellent character who take life seriously. Indeed, although the seriously good person is inherently both useful and enjoyable, such a person is not inclined to befriend a ruler unless the ruler is also superior in virtue, and that doesn't happen often....</summary>
   </entry>
 </feed>
