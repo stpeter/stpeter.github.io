@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-11-07</modified>
+  <modified>2024-11-09</modified>
+  <entry>
+    <title>Walking with Aristotle: Nicomachean Ethics X.6-8</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1919.html"/>
+    <id>tag:stpeter.im,1919</id>
+    <issued>2024-11-09</issued>
+    <modified>2024-11-09</modified>
+    <summary>In these rather dense chapters, the last of the Nicomachean Ethics except for X.9, Aristotle returns to the topic of human fulfillment [εὐδαιμονία / eudaimonia], drawing several conclusions that sound surprising to modern ears:...</summary>
+  </entry>
   <entry>
     <title>Walking with Aristotle: Nicomachean Ethics X.1-5</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1918.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-10-25</issued>
     <modified>2024-10-25</modified>
     <summary>During a visit to the dentist the other day, I experimented with what I recently called radical gratitude. Throughout the visit, I asked myself: how much of what I experienced could I perceive as a gift to be enjoyed and appreciated? (To be clear, I actually like going to the dentist, so this wasn't as much of a stretch for me as it might be for others.)...</summary>
-  </entry>
-  <entry>
-    <title>Walking with Aristotle: Nicomachean Ethics VIII.9-IX.3</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1913.html"/>
-    <id>tag:stpeter.im,1913</id>
-    <issued>2024-10-20</issued>
-    <modified>2024-10-20</modified>
-    <summary>Moving on from his discussions of ideal relationships and then unequal relationships, Aristotle first takes a detour into different forms of political community (monarchy, aristocracy, democracy, etc.). This likely strikes us as strange, until Aristotle explains that philia holds societies together even more than justice does; in this context, I would translate the term as brotherhood (a somewhat attenuated kind of loving in especially short supply these days, it seems!). The idea is that philia exists to the extent that two or more people share common goals and activities, such as workmates (Aristotle's example is actually shipmates on a commercial venture), fellow soldiers, neighbors, participants in a religious order, or members of a social club. And all of these specific varieties of association exist under the broad framework of the overall society in which you live....</summary>
   </entry>
 </feed>
