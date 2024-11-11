@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-11-09</modified>
+  <modified>2024-11-11</modified>
+  <entry>
+    <title>Walking with Aristotle: Nicomachean Ethics X.9</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1920.html"/>
+    <id>tag:stpeter.im,1920</id>
+    <issued>2024-11-11</issued>
+    <modified>2024-11-11</modified>
+    <summary>Here at the very end of the Nicomachean Ethics, after tens of thousands of words about human fulfillment, Aristotle somewhat wryly observes that words are powerless to encourage most people to understand and enact what is good and beautifully right, for they live by their feelings and respond more readily to correction and punishment than to wisdom and insight....</summary>
+  </entry>
   <entry>
     <title>Walking with Aristotle: Nicomachean Ethics X.6-8</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1919.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-10-26</issued>
     <modified>2024-10-26</modified>
     <summary>In his translation of the Nicomachean Ethics, Joe Sachs notes that at IX.4 Aristotle turns away from the factors that cause certain relationships to fall short or fall apart and instead turns toward the central factors that unify the experience of philia. These include: loving someone for their own sake, wishing that they might have all good things in life, actually doing or giving some of those good things for them, wanting them to live and to live well, wishing to spend time together and share in the activities of life, valuing the same things, sharing in the joys and sorrows of life, etc....</summary>
-  </entry>
-  <entry>
-    <title>A Visit to the Dentist</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1914.html"/>
-    <id>tag:stpeter.im,1914</id>
-    <issued>2024-10-25</issued>
-    <modified>2024-10-25</modified>
-    <summary>During a visit to the dentist the other day, I experimented with what I recently called radical gratitude. Throughout the visit, I asked myself: how much of what I experienced could I perceive as a gift to be enjoyed and appreciated? (To be clear, I actually like going to the dentist, so this wasn't as much of a stretch for me as it might be for others.)...</summary>
   </entry>
 </feed>
