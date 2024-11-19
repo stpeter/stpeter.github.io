@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-11-11</modified>
+  <modified>2024-11-18</modified>
+  <entry>
+    <title>Simplicity</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1921.html"/>
+    <id>tag:stpeter.im,1921</id>
+    <issued>2024-11-18</issued>
+    <modified>2024-11-18</modified>
+    <summary>Not long ago I ran across a wonderful quote from Frédéric Chopin:...</summary>
+  </entry>
   <entry>
     <title>Walking with Aristotle: Nicomachean Ethics X.9</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1920.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-10-29</issued>
     <modified>2024-10-29</modified>
     <summary>Up until now Aristotle has considered love for other people, but in IX.8 Aristotle asks some probing questions about love of self. All the central qualities of love (summarized in my post about IX.4-7) seem to apply most of all to oneself, such that love toward others seems to grow out of self-love. But how can this be? After all, it also seems that the unserious/unworthy [phaulos] person whose character is corrupted [mochthēros] acts out of pure selfishness. The conflict between these appearances sets up what Aristotle calls an impasse [aporia], and we'll need to find a way through it in order to make further progress toward wisdom and sagacity....</summary>
-  </entry>
-  <entry>
-    <title>Walking with Aristotle: Nicomachean Ethics IX.4-7</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1915.html"/>
-    <id>tag:stpeter.im,1915</id>
-    <issued>2024-10-26</issued>
-    <modified>2024-10-26</modified>
-    <summary>In his translation of the Nicomachean Ethics, Joe Sachs notes that at IX.4 Aristotle turns away from the factors that cause certain relationships to fall short or fall apart and instead turns toward the central factors that unify the experience of philia. These include: loving someone for their own sake, wishing that they might have all good things in life, actually doing or giving some of those good things for them, wanting them to live and to live well, wishing to spend time together and share in the activities of life, valuing the same things, sharing in the joys and sorrows of life, etc....</summary>
   </entry>
 </feed>
