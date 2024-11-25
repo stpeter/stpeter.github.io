@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-11-18</modified>
+  <modified>2024-11-24</modified>
+  <entry>
+    <title>Powerless</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1922.html"/>
+    <id>tag:stpeter.im,1922</id>
+    <issued>2024-11-24</issued>
+    <modified>2024-11-24</modified>
+    <summary>Several friends I've talked with recently have expressed despair over the results of the recent U.S. elections, disbelief over Donald Trump's picks for cabinet roles, even a desire to move to Canada or Europe - plus a kind of wonder that I'm able to maintain my equanimity in what they see as a dire situation. In case it might prove helpful to other folks, I'll try to describe my mindset....</summary>
+  </entry>
   <entry>
     <title>Simplicity</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1921.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-11-03</issued>
     <modified>2024-11-03</modified>
     <summary>In IX.9-12, Aristotle finishes off his consideration of love and friendship by wondering how many close relationships one really needs, the times in life when such relationships are most valuable, etc....</summary>
-  </entry>
-  <entry>
-    <title>Walking with Aristotle: Nicomachean Ethics IX.8</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1916.html"/>
-    <id>tag:stpeter.im,1916</id>
-    <issued>2024-10-29</issued>
-    <modified>2024-10-29</modified>
-    <summary>Up until now Aristotle has considered love for other people, but in IX.8 Aristotle asks some probing questions about love of self. All the central qualities of love (summarized in my post about IX.4-7) seem to apply most of all to oneself, such that love toward others seems to grow out of self-love. But how can this be? After all, it also seems that the unserious/unworthy [phaulos] person whose character is corrupted [mochthēros] acts out of pure selfishness. The conflict between these appearances sets up what Aristotle calls an impasse [aporia], and we'll need to find a way through it in order to make further progress toward wisdom and sagacity....</summary>
   </entry>
 </feed>
