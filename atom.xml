@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-11-25</modified>
+  <modified>2024-11-26</modified>
+  <entry>
+    <title>Taking Notes</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1924.html"/>
+    <id>tag:stpeter.im,1924</id>
+    <issued>2024-11-26</issued>
+    <modified>2024-11-26</modified>
+    <summary>Since I seem to be on a roll writing about habits, I figured I'd mention another one: taking notes during meetings....</summary>
+  </entry>
   <entry>
     <title>Good Distractions</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1923.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-11-09</issued>
     <modified>2024-11-09</modified>
     <summary>In these rather dense chapters, the last of the Nicomachean Ethics except for X.9, Aristotle returns to the topic of human fulfillment [εὐδαιμονία / eudaimonia], drawing several conclusions that sound surprising to modern ears:...</summary>
-  </entry>
-  <entry>
-    <title>Walking with Aristotle: Nicomachean Ethics X.1-5</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1918.html"/>
-    <id>tag:stpeter.im,1918</id>
-    <issued>2024-11-07</issued>
-    <modified>2024-11-07</modified>
-    <summary>In X.1-5 Aristotle revisits the topic of pleasure, reiterating some of the points he made in VII.11-14 (e.g., that every activity has its own inherent pleasure) but also extending them in several ways....</summary>
   </entry>
 </feed>
