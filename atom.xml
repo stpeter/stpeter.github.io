@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-11-24</modified>
+  <modified>2024-11-25</modified>
+  <entry>
+    <title>Good Distractions</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1923.html"/>
+    <id>tag:stpeter.im,1923</id>
+    <issued>2024-11-25</issued>
+    <modified>2024-11-25</modified>
+    <summary>While talking with a friend today, I described my concept of the "to don't list" as well as a few of my personal best practices related to smartphone usage. In the midst of our conversation, it occurred to me that there's such a thing as a good distraction. It's difficult for even the most disciplined person to stay focused all the time on long-term projects and personal productivity. We all need a mental break! Yet, speaking from experience, all too often I'm wont to pull out my smartphone or computer and check the headlines, even though I've been on a low-information diet for 10-15 years and intellectually I know the news isn't helpful for my state of mind. At least for me, this a bad distraction!...</summary>
+  </entry>
   <entry>
     <title>Powerless</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1922.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-11-07</issued>
     <modified>2024-11-07</modified>
     <summary>In X.1-5 Aristotle revisits the topic of pleasure, reiterating some of the points he made in VII.11-14 (e.g., that every activity has its own inherent pleasure) but also extending them in several ways....</summary>
-  </entry>
-  <entry>
-    <title>Walking with Aristotle: Nicomachean Ethics IX.9-12</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1917.html"/>
-    <id>tag:stpeter.im,1917</id>
-    <issued>2024-11-03</issued>
-    <modified>2024-11-03</modified>
-    <summary>In IX.9-12, Aristotle finishes off his consideration of love and friendship by wondering how many close relationships one really needs, the times in life when such relationships are most valuable, etc....</summary>
   </entry>
 </feed>
