@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-11-26</modified>
+  <modified>2024-11-30</modified>
+  <entry>
+    <title>Seeing Like an Ideology</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1925.html"/>
+    <id>tag:stpeter.im,1925</id>
+    <issued>2024-11-30</issued>
+    <modified>2024-11-30</modified>
+    <summary>In his classic book Seeing Like a State, James C. Scott describes numerous schemes by which what he calls "high-modernist" planners attempted to impose order on the perceived chaos of human societies: collectivized farms in Soviet Russia, compulsory villagization in parts of Africa, unworkable cities like Brasília, etc. All of these schemes to overcome the messy realities of human existence have been able to survive their own manifest failings only because of creative workarounds discovered through human inventiveness and practical know-how (which, borrowing an ancient Greek word that Homer used to describe the wily Odysseus, he calls mētis / μῆτις)....</summary>
+  </entry>
   <entry>
     <title>Taking Notes</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1924.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-11-11</issued>
     <modified>2024-11-11</modified>
     <summary>Here at the very end of the Nicomachean Ethics, after tens of thousands of words about human fulfillment, Aristotle somewhat wryly observes that words are powerless to encourage most people to understand and enact what is good and beautifully right, for they live by their feelings and respond more readily to correction and punishment than to wisdom and insight....</summary>
-  </entry>
-  <entry>
-    <title>Walking with Aristotle: Nicomachean Ethics X.6-8</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1919.html"/>
-    <id>tag:stpeter.im,1919</id>
-    <issued>2024-11-09</issued>
-    <modified>2024-11-09</modified>
-    <summary>In these rather dense chapters, the last of the Nicomachean Ethics except for X.9, Aristotle returns to the topic of human fulfillment [εὐδαιμονία / eudaimonia], drawing several conclusions that sound surprising to modern ears:...</summary>
   </entry>
 </feed>
