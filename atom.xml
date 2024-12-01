@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-11-30</modified>
+  <modified>2024-12-01</modified>
+  <entry>
+    <title>The Price of Wisdom</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1926.html"/>
+    <id>tag:stpeter.im,1926</id>
+    <issued>2024-12-01</issued>
+    <modified>2024-12-01</modified>
+    <summary>When Socrates was put on trial in Athens for corrupting the youth, part of his defense was that he never requested payment for attending to the concerns of other people and encouraging them to live a more virtuous, examined life; instead he came to people individually "like a father or elder brother" (Plato, Apology, 31b), acting out of care for their souls. In a little-noted passage in Nicomachean Ethics IX.1 (1164a33-b6), Aristotle seems to expand on this line of thinking. First he observes that in relationships founded on excellence of character - such as, say, the relationship of parent to child or elder sibling to younger sibling - the parties engage in good deeds toward each other and return favors through their own free choice and mutual commitment. Drawing an analogy between interpersonal love and the love of wisdom, he then says:...</summary>
+  </entry>
   <entry>
     <title>Seeing Like an Ideology</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1925.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-11-18</issued>
     <modified>2024-11-18</modified>
     <summary>Not long ago I ran across a wonderful quote from Frédéric Chopin:...</summary>
-  </entry>
-  <entry>
-    <title>Walking with Aristotle: Nicomachean Ethics X.9</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1920.html"/>
-    <id>tag:stpeter.im,1920</id>
-    <issued>2024-11-11</issued>
-    <modified>2024-11-11</modified>
-    <summary>Here at the very end of the Nicomachean Ethics, after tens of thousands of words about human fulfillment, Aristotle somewhat wryly observes that words are powerless to encourage most people to understand and enact what is good and beautifully right, for they live by their feelings and respond more readily to correction and punishment than to wisdom and insight....</summary>
   </entry>
 </feed>
