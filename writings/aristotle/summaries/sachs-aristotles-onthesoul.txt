@@ -1,0 +1,33 @@
+Aristotle's On the Soul and On Memory and Recollection
+Joe Sachs
+Green Lion Press, 2001
+
+"[T]he word for soul is nearly absent from Aristotle's Physics because its meaning is already built into the topic of that work, the conception of nature as a source of motion and rest within beings that have such sources in their own right. Even in Aristotle's inquiry into the Parts of Animals, the word for soul is very seldom used, but there it is equated with form, eidos (641a17). This is in accord with what is learned in the Physics, since there the conclusion reached in Book II, Chapter 1, where neature is first characterized, is that the nature of anything is its form, morphē or eidos being used interchangeably there. In the Metaphysics, where the constitution of everything there is becomes the topic of inquiry, the first step of Aristotle's main argument is to trace all being back to things that are intact and independent. The primary examples are animals and plants (1028b9-10), and the source responsible for the thinghood of these things is again identified as form (1029a29-32), again with morphē and eidos used interchangeably. The structure of this world, not some other that we may imagine or invent, but this one that we experience, must accommodate the structure of the natural and that means, pre-eminently, the living." (p. 8)
+
+"For such a being, to be at all depends on its keeping on being what it is. Aristotle sums up this way of being in his phrase to ti ēn einai, for what this sort of thing is cannot be given by some arbitrary classification of it, but is what it keeps on being in order to be at all. Its very being is activity, being-at-work, for which his word is energeia, and because it is a wholeness of identity acheived in and through being-at-work, Aristotle invents as a name for it the word entelecheia, being-at-work-staying-itself." (p. 9) [PSA: although Sachs does not mention a Greek word for wholeness, I would associate this with autarkeia.]
+
+"The telos for the sake of which each living thing does everything it does, on his view, is the wholeness of its own activity, complete in itself and not serving any external purpose." (p. 27)
+
+"Living things do not *have* purposes, they *are* purposes." (p. 28)
+
+"To speak of an activity for being for its own sake means that the one engaged in it feels [PSA: more fundamentally, *is*] completed or fulfilled when at work in that way. The ability to come to rest in such an activity is the counterpart of the ability to initiate one's own motion, and is impossible without some sort of thinking or choosing, as Aristotle says (434a5-7)." (p. 29)
+
+"Properly human work could not leave our distinctive capacities unfulfilled. In Book I of the Nicomachean Ethics, Aristotle's first outline sketch of the human end says that it must be some way of putting into action our rationality (1098a3-4)." (pp. 29-30)
+
+[glossary]
+
+being-at-work (energeia) ... "Activity comes to sight first as motion, but Aristotle's central thought is that all being is being-at-work, and that anything inert would cease to be. The primary sense of the word belongs to activities that are not motions; examples of these are seeing, knowing, and happiness, each understood as an ongoing state that is complete at every instant, but the human being that can experience them is similarly a being-at-work, constituted by metabolism." (p. 189)
+
+being-at-work-staying-itself (entelecheia) ... "A fusion of the idea of completeness with that of continuity or persistence." (p. 189)
+
+contemplation (theoria) ... "To know is not to achieve something new, but to calm down out of the distractions of our native disorder, and settle into the contemplative relation ot things that is already ours (247b17-18)." (p. 191)
+
+end (telos) ... "The completion toward which anything tends, and for the sake of which it acts. In deliberate action it has the character of purpose, but in natural activity it refers to wholeness. Aristotle does not say that animals, plants, and the cosmos *have* purposes that they *are* purposes, ends-in-themselves.... Aristotle's 'teleology' is nothing but his claim that all natural beings are self-maintaining wholes." (p. 192)
+
+nature (phusis) ... "The internal activity that makes anything what it is." (p. 197)
+
+thinghood (ousia) ... "He concludes that thinghood is not reducible to any sum of attributes (1038b25-28, 1039a1-3). It thus denotes a fullness of being and self-sufficiency." (p. 201)
+
+virtue (arete) ... "Any of the excellences of the human soul, primarily wisdom, courage, moderation, and justice. Though they depend on learning or habituation, Aristotle regards them as belonging to our nature. Without them we are like houses with roofs, not fully what we are (246a17-246b3)." (p. 203)
+
+END
