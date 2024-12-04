@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-12-01</modified>
+  <modified>2024-12-04</modified>
+  <entry>
+    <title>Desert Island Books</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1927.html"/>
+    <id>tag:stpeter.im,1927</id>
+    <issued>2024-12-04</issued>
+    <modified>2024-12-04</modified>
+    <summary>My reading list contains hundreds of items. Indeed, I maintain multiple such lists, since some of them are dedicated to particular research topics or historical figures on which I plan to write books of my own, such as Pyrrho, Socrates, and Shakespeare. Periodically, however, I like to think about how I would cull my reading list down to absolute essentials if forced to do so. The general principle seems to be: which authors would I most want to interact with in future years, for the sake of learning, enjoyment, and contemplation?...</summary>
+  </entry>
   <entry>
     <title>The Price of Wisdom</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1926.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-11-24</issued>
     <modified>2024-11-24</modified>
     <summary>Several friends I've talked with recently have expressed despair over the results of the recent U.S. elections, disbelief over Donald Trump's picks for cabinet roles, even a desire to move to Canada or Europe - plus a kind of wonder that I'm able to maintain my equanimity in what they see as a dire situation. In case it might prove helpful to other folks, I'll try to describe my mindset....</summary>
-  </entry>
-  <entry>
-    <title>Simplicity</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1921.html"/>
-    <id>tag:stpeter.im,1921</id>
-    <issued>2024-11-18</issued>
-    <modified>2024-11-18</modified>
-    <summary>Not long ago I ran across a wonderful quote from Frédéric Chopin:...</summary>
   </entry>
 </feed>
