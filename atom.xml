@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-12-04</modified>
+  <modified>2024-12-06</modified>
+  <entry>
+    <title>My Intellectual History, Part IV</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1928.html"/>
+    <id>tag:stpeter.im,1928</id>
+    <issued>2024-12-06</issued>
+    <modified>2024-12-06</modified>
+    <summary>It's been exactly ten years since the last installment of my "intellectual history", so I figure it's time to say something about changes in my thinking since then....</summary>
+  </entry>
   <entry>
     <title>Desert Island Books</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1927.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-11-25</issued>
     <modified>2024-11-25</modified>
     <summary>While talking with a friend today, I described my concept of the "to don't list" as well as a few of my personal best practices related to smartphone usage. In the midst of our conversation, it occurred to me that there's such a thing as a good distraction. It's difficult for even the most disciplined person to stay focused all the time on long-term projects and personal productivity. We all need a mental break! Yet, speaking from experience, all too often I'm wont to pull out my smartphone or computer and check the headlines, even though I've been on a low-information diet for 10-15 years and intellectually I know the news isn't helpful for my state of mind. At least for me, this a bad distraction!...</summary>
-  </entry>
-  <entry>
-    <title>Powerless</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1922.html"/>
-    <id>tag:stpeter.im,1922</id>
-    <issued>2024-11-24</issued>
-    <modified>2024-11-24</modified>
-    <summary>Several friends I've talked with recently have expressed despair over the results of the recent U.S. elections, disbelief over Donald Trump's picks for cabinet roles, even a desire to move to Canada or Europe - plus a kind of wonder that I'm able to maintain my equanimity in what they see as a dire situation. In case it might prove helpful to other folks, I'll try to describe my mindset....</summary>
   </entry>
 </feed>
