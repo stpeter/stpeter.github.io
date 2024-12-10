@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-12-06</modified>
+  <modified>2024-12-10</modified>
+  <entry>
+    <title>Value vs. Worth</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1929.html"/>
+    <id>tag:stpeter.im,1929</id>
+    <issued>2024-12-10</issued>
+    <modified>2024-12-10</modified>
+    <summary>In her book The Human Condition, Hannah Arendt argues that there is a subtle yet essential difference between value and worth: the concept of value is irreducibly social because it first emerged only within modern market economies where everything can be exchanged for everything else, whereas the worth of a person or artifact or living being is inherent within its own independent existence. Thus, according to Arendt, philosophers made a grave mistake when they imported the concept of value into politics, ethics, and aesthetics (the so-called "value branches" of philosophical inquiry). Consider, for instance, what happens when we speak of the relative value of the life of inquiry and contemplation vs. the life of social and political engagement vs. the life of making money vs. the life of pleasure and enjoyment. In modern times these wildly disparate ways of life are all on an equal footing of "value", which means we need to find a common standard of measurement for them. Just as in the market everything can and must be valued in terms of money, so now in ethics everything can and must be valued in terms of what the psychologists call subjective well-being, i.e., pleasurable feelings. As a result, the concept of value leads inexorably to a lowest-common-denominator utilitarianism. By contrast, the concept of worth helps us keep separate things that should be kept separate; as a result, we can come to understand that these ways of life are far from commensurable and that some of them are fundamentally better than others. Yet deliberating about worth takes more intellectual effort and moral courage (not to mention the fact that it can seem positively undemocratic), which could be why many people prefer to avoid it......</summary>
+  </entry>
   <entry>
     <title>My Intellectual History, Part IV</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1928.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-11-26</issued>
     <modified>2024-11-26</modified>
     <summary>Since I seem to be on a roll writing about habits, I figured I'd mention another one: taking notes during meetings....</summary>
-  </entry>
-  <entry>
-    <title>Good Distractions</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1923.html"/>
-    <id>tag:stpeter.im,1923</id>
-    <issued>2024-11-25</issued>
-    <modified>2024-11-25</modified>
-    <summary>While talking with a friend today, I described my concept of the "to don't list" as well as a few of my personal best practices related to smartphone usage. In the midst of our conversation, it occurred to me that there's such a thing as a good distraction. It's difficult for even the most disciplined person to stay focused all the time on long-term projects and personal productivity. We all need a mental break! Yet, speaking from experience, all too often I'm wont to pull out my smartphone or computer and check the headlines, even though I've been on a low-information diet for 10-15 years and intellectually I know the news isn't helpful for my state of mind. At least for me, this a bad distraction!...</summary>
   </entry>
 </feed>
