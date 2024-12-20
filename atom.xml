@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-12-10</modified>
+  <modified>2024-12-20</modified>
+  <entry>
+    <title>Monadnock Valley Press Annual Report 2024</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1930.html"/>
+    <id>tag:stpeter.im,1930</id>
+    <issued>2024-12-20</issued>
+    <modified>2024-12-20</modified>
+    <summary>My publication activity at the Monadnock Valley Press waxes and wanes; 2022 was a busy year, 2023 was relatively quiet, and in 2024 I republished more works from the public domain than in any previous year since founding the site in 2008 (e.g., I published on 118 separate days this year, whereas the average in previous years was 18!). This time around the haul included:...</summary>
+  </entry>
   <entry>
     <title>Value vs. Worth</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1929.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-11-30</issued>
     <modified>2024-11-30</modified>
     <summary>In his classic book Seeing Like a State, James C. Scott describes numerous schemes by which what he calls "high-modernist" planners attempted to impose order on the perceived chaos of human societies: collectivized farms in Soviet Russia, compulsory villagization in parts of Africa, unworkable cities like Brasília, etc. All of these schemes to overcome the messy realities of human existence have been able to survive their own manifest failings only because of creative workarounds discovered through human inventiveness and practical know-how (which, borrowing an ancient Greek word that Homer used to describe the wily Odysseus, he calls mētis / μῆτις)....</summary>
-  </entry>
-  <entry>
-    <title>Taking Notes</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1924.html"/>
-    <id>tag:stpeter.im,1924</id>
-    <issued>2024-11-26</issued>
-    <modified>2024-11-26</modified>
-    <summary>Since I seem to be on a roll writing about habits, I figured I'd mention another one: taking notes during meetings....</summary>
   </entry>
 </feed>
