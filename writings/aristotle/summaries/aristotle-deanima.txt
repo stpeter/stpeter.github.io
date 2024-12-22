@@ -2,4 +2,28 @@ De Anima
 Aristotle
 tr. Joe Sachs
 
+"[A]ll the attributes of the soul seem also to be with a body - spiritedness, gentleness, fear, pity, boldness, and also joy, as well as loving and hating - for together with these the body undergoes something." (402a16-19)
 
+"The one who studies nature and the logician [dialektikos] would define each attribute of the soul differently, for instance what anger is. The one who say it is a craving for revenge, while the other would say it is a boiling of the blood and heat around the heart. Of these, the one gives an account of the material, the other of the form [eidos] and meaning [logos]. For the one is the articulation [logos] of a thing, but this has to be in a certain sort of material if it is to be at all." (403a29-403b3)
+
+"[I]t seems that it is not in this way that the soul moves the animal, but rather by means of some sort of choice [prohairesis] and thinking [noesis]." (406b24-25)
+
+"In thinking about matters of action there are limits (since all such thinking is for the sake of something else), while contemplative thinking is likewise bounded, by reasoned speech." (407a23-25)
+
+"[T]hinking seems like some sort of stillness [ēremēsei] or coming to rest [epistasei] rather than motion, and inference [sullogismos = reasoning] seems to be the same way. And surely what is not easy but forced is not supremely happy [makarion] either..." (407a32-407b1)
+
+"[B]y the partnership [koinōnia] of soul and body the one acts and the other is acted upon, and the one is moved while the other moves it, but none of these things belongs to just any two things in relation to each other." (407b17-19)
+
+"[T]he art has to use [chrēsthai] tools and the soul has to use the body." (407b25-26)
+
+"[T]he most governing thing is that which holds the elements together, whatever it might be; but it is impossible that anything should be more powerful than the soul and rule it, and more impossible still that anything should rule the intellect [nous], for it is reasonable, in accordance with nature, that *this* comes first and is what governs." (410b11-15)
+
+"[R]ecognizing things does belong to the soul, as well as perceiving and having opinions, and also yearning [epithumia] and wishing [boulēsis] and desires [orexeis] in general, while also motion with respect to place comes about in animals by means of the soul..." (411a26-30)
+
+"By life we mean self-nourishing as well as growth and wasting away. So every natural body having a share of life would be an independent thing having thinghood as a composite [of material and form]. And since this is a body, and one of a certain sort, namely having life, the soul could not be a body, since it is not the body that is in an underlying thing, but rather the body has being as an underlying thing and material [for something else]. Therefore it is necessary that the soul has its thinghood as the form of a natural body having life as a potency. But this sort of thinghood is a being-at-work-staying-itself [entelecheia]; therefore the soul is the being-at-work-staying-itself of such a body. But this is meant in two ways, the one in the sense that knowledge [epistēmē] is a being-at-work-staying-itself, the other in the sense that the act of contemplating [theōrein] is. It is clear, then, that the soul is a being-at-work-staying-itself in the way that knowledge is, for both sleep and waking are in what belongs to the soul, and waking is analagous to the act of contemplating but sleep to holding the capacity for contemplating but not putting it to work [mē energein]. But in the same person it is knowledge that is first in coming into being; for this reason the soul is a being-at-work-staying-itself of the first kind of a natural body having life as a potency." (412a14-28)
+
+"So what soul is has been said in general, for it is thinghood as it is unfolded in speech, and this is what such-and-such a body keeps on being in order to be at all. It would be as though some tool, such as an axe, were a natural body, since its being-an-axe would be the thinghood of it, and would be its soul; for if this were separated from it, it would no longer be an axe, other than ambiguously." (412b10-15)
+
+"So just as the act of cutting is for the axe and the act of seeing for the eye, so too is the waking condition a being-at-work-staying-itself, but as the power of sight is to the eye and the capacity of the tool to the axe, so is the soul a being-at-work-staying-itself, while the body is what has being in potency." (412b27-413a2) [PSA: on being-in-capacity see Beere]
+
+WIP
