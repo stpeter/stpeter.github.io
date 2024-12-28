@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-12-20</modified>
+  <modified>2024-12-27</modified>
+  <entry>
+    <title>2024 Readings</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1933.html"/>
+    <id>tag:stpeter.im,1933</id>
+    <issued>2024-12-27</issued>
+    <modified>2024-12-27</modified>
+    <summary>By my count, I was able to read 95 books this year, not even accounting for the three epic poems I read twice: the Iliad, the Odyssey, and Beowulf. Highlights were the plays of Shakespeare (yes, all of them), George Eliot's magisterial novel Middlemarch, Bach and the Patterns of Invention by Laurence Dreyfus, an intensive re-reading of Aristotle's Nicomachean Ethics, my friend Dave Jilk's poetic SF novel Epoch, and the aforementioned epic poems. I expect that I'll not read nearly so many books in 2025 while I attempt to finish writing my book about Aristotle's conception of human fulfillment....</summary>
+  </entry>
   <entry>
     <title>Philokalia</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1932.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-12-06</issued>
     <modified>2024-12-06</modified>
     <summary>It's been exactly ten years since the last installment of my "intellectual history", so I figure it's time to say something about changes in my thinking since then....</summary>
-  </entry>
-  <entry>
-    <title>Desert Island Books</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1927.html"/>
-    <id>tag:stpeter.im,1927</id>
-    <issued>2024-12-04</issued>
-    <modified>2024-12-04</modified>
-    <summary>My reading list contains hundreds of items. Indeed, I maintain multiple such lists, since some of them are dedicated to particular research topics or historical figures on which I plan to write books of my own, such as Pyrrho, Socrates, and Shakespeare. Periodically, however, I like to think about how I would cull my reading list down to absolute essentials if forced to do so. The general principle seems to be: which authors would I most want to interact with in future years, for the sake of learning, enjoyment, and contemplation?...</summary>
   </entry>
 </feed>
