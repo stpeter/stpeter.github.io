@@ -16,9 +16,9 @@ Choosing arete both for its own sake and for the sake of eudaimonia (cf. Gottlie
 
 Theoria is not passive but active (Politics 7.3).
 
-Prohairesis is the intended result of deliberation (1112a15-16) = planning; see also 1140a24-28 on planning and 1144a28-29 on putting plans into effect as aspects of phronesis.
+Prohairesis is the intended result of deliberation (1112a15-16) = planning; see also 1140a24-28 on planning and 1144a28-29 on putting plans into effect as aspects of phronesis. (Update: I would now translate prohairesis as "commitment", but even then plans and planning might be part of the phenomenon.)
 
-For Aristotle, the exercise of a craft is always for the sake of the product (EN 6.4 etc.) not the activity, and thus of lower importance - yet this is factually incorrect (Urmson, p. 102) ... can techne be an instance of theoria?.
+For Aristotle, the exercise of a craft is always for the sake of the product (EN 6.4 etc.) not the activity, and thus of lower importance - yet this is factually incorrect (Urmson, p. 102) ... can techne be an instance of, or involve, theoria?
 
 Sophrosune concerns the pleasures that result from indulging in sensation, not the pleasures inherent in an activity itself, such as the pleasure of learning (Urmson, pp. 107-108).
 
@@ -28,13 +28,13 @@ What range of activites and practices are required for the human way of life (bi
 
 There is a continuum of worth from beastly to bad/ugly to unrestrained to self-controlled to good/beautiful to divine/makar ... to thrive is to excel along this continuum, not to be "moderate" (but: to excel is to achieve a reasoned, discriminating balance between excess and defect, again see Lennox, Gottlieb, etc.).
 
-An animal cannot be eudaimon because it does not have a daimon, yet it can flourish when it works at the task of its aliveness, its way of living. For us, eudaimonia is working at the task of human aliveness and the human way of living over a complete life in accordance with the thrivings of thought, action, and emotion. The most beautiful way of life for a human being (in the NE!) is working at the task of active inquiry into the nature and meaning of things in accordance with the most goal-worthy human thriving, which is wisdom or sagacity.
+An animal cannot be eudaimon because it does not have a daimon, yet it can flourish when it works at the task of its aliveness, its way of living. For us, eudaimonia is working at the task of human aliveness and the human way of living over a complete life in accordance with the thrivings of thought, action, and emotion. The most beautiful way of life for a human being (in the NE!) is working at the task of active inquiry into the nature and meaning of things in accordance with the most goal-worthy human thriving, which is sagacity.
 
 A daimon was a guiding spirit assigned by the fates before your birth: in modern terms your inborn personality. Against this, see Heraclitus: "daimon is ethos", i.e., acquired character (not inborn personality) is your guiding spirit.
 
 For Aristotle, the forking of sophia and phronesis is necessitated by the differences between the sublunary and superlunary realms. But we moderns recognize no such differences, and even he said "there are gods here too". (Aristotle thought that even bees share in the divine.) How valid is the distinction between sophia and phronesis? Is it even consistent with his guidelines for definition? And does it appear only in the NE, not in the EE?
 
-To thrive at X is to have a consistent, deliberate practice of mindfully and appropriately doing X instead of mindlessly or inappropriately under-doing or over-doing X. (Example from Aristotle's practice: mindfully working at the appropriate level of precision in a given field of inquiry.) Not hitting the mark is a falling away from mindful practice, perhaps succumbing to one's innate propensities or to natural temptations.
+To thrive at X is to have a consistent, deliberate practice of mindfully and appropriately doing X instead of mindlessly or inappropriately under-doing or over-doing X. (Example from Aristotle's practice: mindfully working at the appropriate level of precision in a given field of inquiry.) Not hitting the mark is a falling away from mindful practice, perhaps succumbing to one's innate propensities or to natural temptations. See also phronein as "minding".
 
 Thriving of character is directed toward action; it shapes emotional reactions when those emotions are necessarily action-oriented (e.g, fear and anger); less "practical" emotions (e.g., shame and indignation) are experienced by those of good character, but do not have an associated thriving (cf Fortenbaugh).
 
@@ -42,11 +42,9 @@ There are analogies between the organization of the city and the organization of
 
 Other goals (modern ideals): creativity as a form of inquiry, philanthropy as a form of social leadership.
 
-A living thing does not have a goal from outside itself, it is a goal within itself (Sachs, intro to De Anima). This goal is the completion of its nature.
+A living thing does not have a goal from outside itself, it is a goal within itself (Sachs, intro to De Anima). This goal is the completion of its nature. See also Johnson passim.
 
-For any entity, its eidos or form is its way of being (Sachs, intro to Physics); for a living thing, its eidos is its bios or way of living, pursued for the sake of its psuche, i.e. its continued aliveness as the kind of thing it is. Thus its life is working at the task of living, and it is fully alive when it achieves its goal of completing its nature.
-
-Thus: character is the completion of nature; arete is a perfection and kakia is a "loss" (Physics 7.3).
+For any entity, its eidos or form is its way of being (Sachs, intro to Physics); for a living thing, its eidos is its bios or way of living, pursued for the sake of its psuche, i.e. its continued aliveness as the kind of thing it is. Thus its life is working at the task of living, and it is fully alive when it achieves its goal of completing its nature. Thus: character is the completion of nature; arete is a perfection and kakia is a "loss" (Physics 7.3).
 
 Is sagacity too a perfection of nature? And what are the contraries of sagacity, the fallings-away from nature with respect to mental thriving? And is sagacity a mean? If so, what is the overdoing or overthinking involved? Note: In the EE, phronesis is a mean between cunning and foolishness.
 
@@ -56,7 +54,7 @@ Mention the educational role of a sophronistes (Constitution of Athens, 42), who
 
 Philosophy as a cooperative enterprise (Lynch, Aristotle's School).
 
-Divinity as leisure, inquiry, serenity, order. (We ascribe these qualities to the gods, but in fact they are human ideals.)
+Divinity as leisure, inquiry, serenity, order. (We ascribe these qualities to the gods, but in fact they are human ideals; cf. Kosman on the divine.)
 
 Is the acquisition of a hexis a distinctively human phenomenon? How are mental powers involved? See Categories on living and talking as ways to shape hexeis. But different species of animal have different natural characters, and this is true of individual animals as well (say, Boucephalus); yet the motive force of a change in an animal's characteristic actions comes from outside, not from within.
 
@@ -66,17 +64,17 @@ All animals are self-movers, but only human beings are self-movers of the source
 
 What is best is a telos, i.e., what completes a being's nature. (EE 1.8) Note that this includes your individual nature. (See below on teleiotaton as "most completing".) The telos is that for the sake of which one acts.
 
-The goal here is similar to what it is to be healthy or to be in good shape. We can think of it as being in great shape both intellectually and ethically. (What kind of training is needed to make that happen?)
+The goal here is similar to what it is to be healthy or to be in good shape. We can think of it as being in great shape both intellectually and ethically - getting your soul in great shape. (What kind of training is needed to make that happen?)
 
-But what's best is not the mere state or condition, but the energeia - the active work (ergon) and use (chresis) you can achieve when you are in great shape. The highest goal is what you *accomplish* with your vitality. Not virtue ethics, but achievement ethics. (See below on biocentric ethics.)
+What's best is not the mere state or condition, but the energeia - the active work (ergon) and use (chresis) you can achieve when your soul is in great shape. The highest goal is what you *accomplish* with your vitality. Not virtue ethics, but achievement ethics. (See below on biocentric ethics.)
 
-Orexis is an impulse to reach out and move toward something, whereas thinking it through (dianoia) is a countervailing force to hold back the movement and control the impulse.
+Orexis is a reaching out and moving toward something, whereas thinking it through (dianoia) is a countervailing force to hold back the movement and control the impulse.
 
 Achievement requires not just activity but forethought and planning.
 
-Distinction between behavior and action? We don't say that animals take action. In this sense action is planned, chosen, deliberate.
+There is a distinction between behavior and action. We don't say that animals take action. In this sense action is planned, chosen, deliberate.
 
-Phusis as eidos (193b3-4)
+Phusis as eidos (Physics 193b3-4).
 
 The three forms of orexis: craving or need for what's pleasant, feeling (?) or want for what's advantageous, resolving or wish for what's right. To the wise person, there is harmony between these: right reasoning leads to right reaching. (cf Pearson)
 
@@ -86,15 +84,15 @@ Is thumos related to gain and loss (advantage and threat)? Perhaps this is the o
 
 What is the relationship between thumos and pathos? Lists of the pathe (cf Pearson 115; 221) occur at 403a17, 1105b21, 1106b18, 1220b12, 1378a20. Can they all be defined as occurring in the thumoeides? Many of these are related to gain or loss.
 
-Pursuit and avoidance: Topics 104b1.
+On pursuit and avoidance, see Topics 104b1.
 
 Orthos logos = correct reasoning; orthos orexis = correct reaching.
 
 Knowing the goal and judging aright: 995a34ff. It is necessary to go through the aporiai beforehand. The clueless wanderer does not know the goal because he does not grasp what is truly good. Even before being able to wander about, one might be stuck at the perceptual level (Metaph A.1-2) of what merely appears good (often this is what's immediately pleasant or what brings immediate advantage). Only by understanding the principles involved can you become sophos (cf Metaph A.2-3). On all this see Buddensiek, "Aporia in Aristotle's Metaphysics Beta"
 
-The ergon of dianoia is acquiring knowledge and wisdom. The ergon of orexis is acquiring what is enjoyable, advantageous, or right.
+The ergon of dianoia is acquiring knowledge and sagacity. The ergon of orexis is acquiring what is enjoyable, advantageous, or right.
 
-These erga are activities guided by practices and pursued for the sake of living. A biocentric ethics, not primarily a virtue ethics. Philosophia as bios, aliveness as eidos.
+The human erga are activities guided by practices and pursued for the sake of living. A biocentric ethics, not primarily a virtue ethics. Philosophia as bios, aliveness as eidos.
 
 The human way of life is constituted by practices of thought and action; teleiotaton as "most completing" of human nature. (What about the self sufficiency requirement? Does that have something to do with completing your *own* nature?) (cf Kenny)
 
@@ -108,7 +106,7 @@ What is ethos (character)? It is how you always or usually choose to act and thi
 
 There are deep connections among eidos, energeia, psuche, and telos. At some level they are all the same thing.
 
-In Metaphysics Book 9, Aristotle argues that complete actuality (as among the immortals or the prime mover) cannot be used for both good and bad outcomes (as can be produced by the rational powers of techne); yet this is true of arete, too! Is arete thus also a kind of complete actuality? Note also energeia as "in action" vs *being* an actuality (cf. paper by Silvia Fazzo).
+In Metaphysics Book 9, Aristotle argues that complete actuality (as among the immortals or the prime mover) cannot be used for both good and bad outcomes (as can be produced by the rational powers of techne); yet this is true of arete, too! Is arete thus also a kind of complete actuality? Note also energeia as "in action" or enacting vs *being* an actuality (cf. paper by Silvia Fazzo).
 
 Phronesis leads to a balanced, measured response - and we measure according to a standard (kanon).
 
@@ -116,11 +114,11 @@ Arete is a matter of reliably and enjoyably doing what's beautifully right. This
 
 Unlike making (poiesis), in which the goal is the thing made and thus outside the activity, with taking action (praxis) the activity itself is the goal (1140b4-6). Thus the goal and standard of taking action cannot be subjective well-being or the psychological feeling of enjoyment or happiness, even though such a feeling might reliably accompany good action.
 
-Justice vs seeking to gain more than you deserve (pleonexia = avarice as overreaching, but at EE 3.1 kerdos) or accepting less than you deserve (zemia = diffidence as underreaching); note here the connection to advantage
+Justice vs seeking to gain more than you deserve (pleonexia = avarice as overreaching, but at EE 3.1 kerdos) or accepting less than you deserve (zemia = diffidence as underreaching); note here the connection to advantage (sumpheron).
 
-Friendship or love (philia) is an arete too, but in what sense is it a form of balance and what are its opposites?
+Friendship or love (philia) might be an arete too, but in what sense is it a form of balance and what are its opposites? More accurately, it is the primary field in which the aretai are applied (cf. discussion of justice).
 
-With respect to δεῖ (ought to or bound to) &mdash; I am bound to do what is beautifully right only if I have a settled practice of doing so; thus this is a kind of self-binding. I act for the sake of what is beautifully right because I have a settled yearning to be surpassingly good, because I have within myself a consistent striving for the divine.
+With respect to δεῖ (ought to or bound to) -- I am bound to do what is beautifully right only if I have a settled practice of doing so; thus this is a kind of *self-binding*. I act for the sake of what is beautifully right because I have a settled yearning to be surpassingly good, because I have within myself a consistent striving for the divine.
 
 The term τέλος (goal or completion, not 'perfection') comes from racing: you don't perfect a race, but you do complete it; and completing it consists in reaching the goal or arriving at the destination. Similarly with the terms τελεία (complete or perhaps completing) and τελειώτατον (most complete or perhaps most completing). Translating these terms with some variation of the word 'perfect' is misleading and gives the impression of a Platonic, Neo-Platonic, or godly existence without the slightest blemish.
 
@@ -128,13 +126,13 @@ Integration: if you achieve complete excellence, you experience harmony among yo
 
 Complete praxis *is* energeia, and living well is an example thereof: Met. 9.6 (1048b18-35); cf 1174b2-9.
 
-Consider more carefully the analogy of archery. First, it requires a great deal of regular practice to become good at archery (or any other complex skll), to learn how to reliably hit the target. Second, in ancient Greek society you have have learned archery not for its own sake (no matter how beautiful the pastime may be) but in order to defend your community &mdash; to preserve its freedom to pursue its distinctive way of life. Similarly, an excellence of character such as moderation or justice requires regular practice and you learn it in order to preserve your freedom to pursue the way of life you have chosen.
+Consider more carefully the analogy of archery. First, it requires a great deal of regular practice to become good at archery (or any other complex skll), to learn how to reliably hit the target. Second, in ancient Greek society you would have learned archery not for its own sake (no matter how beautiful the pastime may be) but in order to defend your community -- to preserve its freedom to pursue its distinctive way of life. Similarly, an excellence of character such as moderation or justice requires regular practice and you learn it in order to preserve your freedom to pursue the way of life you have chosen.
 
-"Even if useful things help us with the necessities and troubles and circumstances of live, the goal is not to be free from troubles but rather, being free from all troubles, to perform the activities that are appropriate to human beings - the activities of free people." Alexander of Aphrosias, Ethical Problems #20
+"Even if useful things help us with the necessities and troubles and circumstances of live, the goal is not to be free from troubles but rather, being free from all troubles, to perform the activities that are appropriate to human beings - the activities of free people." Alexander of Aphrodisias, Ethical Problems #20
 
-At best, ἀκρασία is an existence in which you have not yet turned your goals into settled practices (although this is typical of youth, a lack of full maturity can linger far into adulthood). At worst, ἀκρασία is an attempt to live a contradiction: you believe that you can have the best goals in life while doing the very things that prevent you from achieving those goals.
+At best, ἀκρασία is an existence in which you have not yet turned your goals into settled practices (although this is typical of youth, a lack of full maturity can linger far into adulthood). At worst, ἀκρασία is an attempt to live a contradiction: you believe that you can have the best goals in life while doing the very things that prevent you from achieving those goals. On this kind of contradiction in action, see Flannery passim.
 
-Connection between the best life and the activities of free people. Those activities are the best, most distinctively human things we do when at leisure: conversing, learning, appreciating artistic creations, engaging in philosophical inquiry. (More on freedom: Politics 1332a9 ff.; contrast with servility: 1095b19, 1118a25, 1118b21.)
+There is a connection between the best life and the activities of free people. Those activities are the best, most distinctively human things we do when at leisure: conversing, learning, appreciating artistic creations, engaging in philosophical inquiry. (More on freedom: Politics 1332a9 ff.; contrast with servility: 1095b19, 1118a25, 1118b21.)
 
 According to Aristotle, eudaimonia is the activity of living well, not the feeling of subjective well-being. This distinction is often glossed over by those who would popularize Aristotle's insights. For example, Edith Hall, taking seriously our present-day conception of happiness as subjective well-being, makes Aristotle relevant to people today but at the cost of trivializing his abiding contribution to the philosophical understanding of human flourishing; I, by contrast, recognizing how trivial our present-day conception of happiness is, show that Aristotle's deepest insights are relevant to serious people of all times. Hall democratizes Aristotle and thus brings him down to the level of the average person today; although she meets you where you are, I encourage you (even at the risk of sounding like an ethical elitist) to raise yourself up to Aristotle's level and thus to join the aristocracy of the human spirit.
 
@@ -142,25 +140,23 @@ D.J. Allan ("Quasi-Mathematical Method in the Eudemian Ethics", Mansion, p. 315)
  
 If arete is complete performance of the task of living, then going astray through enkrateia, akrasia, or mochtheria is incomplete performance. Each of these misses the mark in different ways.
 
-But "the task of living" sounds too general. Living consists of thinking things through (διάνοια) and taking action (πράξις) and reacting emotionally (πάθος) every day. These are the specific tasks (ἔργα) you repeat again and again, and the practice (ἕξις) of doing so is how you become what you are. "We are what we repeatedly do." Performing these tasks well builds up a thriving capacity for thought and action and feeling, and putting that capacity into practice is what living well (εὐδαιμονία) is all about.
+The phrase "the task of living" sounds too general. Living consists of thinking things through (διάνοια) and taking action (πράξις) and reacting emotionally (πάθος) every day. These are the specific tasks (ἔργα) you repeat again and again, and the practice (ἕξις) of doing so is how you become what you are. Performing these tasks well builds up a thriving capacity for thought and action and feeling, and putting that capacity into practice is what living well (εὐδαιμονία) is all about.
 
 There is no end (τέλος) to the desire for money, reputation, power, fame - they are unbounded (cf. Roochnik). Thus they cannot be essential parts of the τέλος of human life.
 
 Although most people work to rest and rest to work, the highest goal consists in the activities we pursue in serious leisure (1177b4-6); cf. Roochnik, pp. 173-177 and Pangle, p. 164.
 
-Arete is a disposition to choose in a certain way, not to act in a certain way. (1106b36ff)
+Arete is a disposition to choose (i.e., make commitments) in a certain way, not to act in a certain way. (1106b36ff)
 
 Arete preserves phronesis and the telos and source of actions, whereas mochtheria corrupts these things. (1140b11ff, 1151a15ff, 1227b12ff)
 
-With regard to akrasia (self-indulgence or ethical weakness), Aristotle distinguishes between possessing knowledge (e.g., knowing the right thing to do) and using knowledge; the latter is also called theorounta - although this is usually translated as "contemplating", clearly it refers to something much more active. For instance, at 1147a10 Aristotle says that one who merely possesses knowledge is like someone who is asleep, whereas someone who uses knowledge is awake and has full awareness. In his paper "Aristotle on Akrasia" (republished in Barnes and Schofield, eds., Articles on Aristotle, vol. 2), Richard Robinson argues that this is because knowledge of what's right is not merely knowing that (as we would say) nor even knowing how, but involves a commitment or resolution to doing what's right; ethical knowledge is a matter of taking stand. To wit: "[M]oral principles are not discoveries but resolutions. When we adopt a moral principle, we are not deciding how the world is made, but how we are going to act. The principle that one ought not to kill, for example, does not reveal the composition of the world, nor the orders of a god. It takes a stand with regard to the world. The adoption of it constitutes a sort of generalized choice." (p. 89)
+With regard to akrasia (self-indulgence or ethical weakness), Aristotle distinguishes between possessing knowledge (e.g., knowing the right thing to do) and using knowledge; the latter is also called theorounta - although this is usually translated as "contemplating", clearly it refers to something much more active. For instance, at 1147a10 Aristotle says that one who merely possesses knowledge is like someone who is asleep, whereas someone who uses knowledge is awake and has full awareness. In his paper "Aristotle on Akrasia" (republished in Barnes and Schofield, eds., Articles on Aristotle, vol. 2), Richard Robinson argues that this is because knowledge of what's right is not merely knowing that (as we would say) nor even knowing how, but involves a commitment or resolution to doing what's right; ethical knowledge is a matter of taking a stand. To wit: "[M]oral principles are not discoveries but resolutions. When we adopt a moral principle, we are not deciding how the world is made, but how we are going to act. The principle that one ought not to kill, for example, does not reveal the composition of the world, nor the orders of a god. It takes a stand with regard to the world. The adoption of it constitutes a sort of generalized choice." (p. 89)
 
 "What is an entity?" means "what is an entity's activity of being?" (See Kosman 2013.) In the case of a living entity, this means "what is a living thing's way of life?" By analogy, we might extend this thinking to the good and to arete. Thus "what is excellence?" means "what is it for an entity to perform its ergon or activity of being especially well?"
 
-Aryeh Kosman (2013, pp. 294-295) notes that Aristotle defines all of humanity's reasoned activities as forms of stable disposition or practice (ἕξις): understanding (ἐπιστήμη) is a ἕξις related to showing how things are (EE 6.3, 1139b31), skill (τένχη) is a ἕξις related to making things (EE 6.4, 1140a11), excellence of character (ἀρετή) is a ἕξις related to choosing (NE 2.6 1106b36), and wisdom (φρόνησις) is a ἕξις related to taking action (EE 6.5, 1140b7).
+Aryeh Kosman (2013, pp. 294-295) notes that Aristotle defines all of humanity's reasoned activities as forms of stable disposition or practice (ἕξις): understanding (ἐπιστήμη) is a ἕξις related to showing how things are (EE 6.3, 1139b31), skill (τένχη) is a ἕξις related to making things (EE 6.4, 1140a11), excellence of character (ἀρετή) is a ἕξις related to choosing (NE 2.6 1106b36), and wisdom (φρόνησις) is a ἕξις related to taking action (EE 6.5, 1140b7). Thus a hexis is an acquired and reliable practice of mindful activity, directed to production (techne), explanation (episteme), choice (arete), or action (phronesis). How do the aretai dianoetikai fit into this scheme? Sophia is an arete combining episteme and nous, whereas phronesis is an arete combining theoria and nous (is this accurate?). Toward what is sophia directed? Reverence?
 
-Thus a hexis is an acquired and reliable practice of mindful activity, directed to production (techne), explanation (episteme), choice (arete), or action (phronesis). How do the aretai dianoetikai fit into this scheme? Sophia is an arete combining episteme and nous, whereas phronesis is an arete combining theoria and nous (is this accurate?). Toward what is sophia directed? Reverence?
-
-Phronesis extends knowing into action and thus depends on a prior commitment or resolution or forechoice (arete as prohairesis). See "energeia" as "in action" (not "being an actuality") in Metaphysics 9, and Kosman 2013. See also Pericles as engaging in theoria. See above on knowing that as a conceptual grasp vs knowing how as a reliable knack.
+Phronesis extends knowing into action and thus depends on a prior commitment or resolution or forechoice (arete as prohairesis). See ἐνεργειᾳ as "in action" (not "being an actuality") in Metaphysics 9 (cf. Fazzo), and Kosman 2013. See also Pericles as engaging in theoria. See above on knowing that as a conceptual grasp vs knowing how as a reliable knack.
 
 Can you really use reason to feel appropriately? Consider sophrosune as calling yourself to mind, i.e., as mindfulness. This might not be all that different from the Buddha's advice to be aware of the arising within yourself of craving and wanting, and then to watch it cease.
 
@@ -172,19 +168,19 @@ Because human beings are social animals, we are completed in a community, not ou
 
 The unbounded: wealth, power, fame, reputation, health, etc. - these goods are not ends in themselves because we pursue them for the sake of some other goal and otherwise they have no natural limit (e.g., how much wealth is enough?). Other things being equal they are good - but other things are never equal, so they are not absolutely good because they are harmful if they accrue to a bad person. Thus the measure or standard of value is the wise and good person of serious worth (phronimos or spoudaios).
 
-Sophrosune and theoria as mindfulness and awareness. The ability to interpose intentional, reasoned reflection between stimulus and response (whether action or emotion). Recalling yourself to mind as rising from animality into humanity.
+Sophrosune and theoria as mindfulness and awareness. The ability to interpose intentional, reasoned reflection between stimulus and response (whether action or emotion). Recalling yourself to mind as rising from animality into humanity. (Cf. EE VIII.3.)
 
 641b25 on hou heneka (Lagoon 86-87); also 645b15 on what the body is for: the mulifaceted activity of an animal's way of life.
 
 Psyche as eidos (Lagoon 158-159), as the "activity of being" for a living thing; thus "the primary realization of a body having organs" (De Anima).
 
-Immortality through reproduction (Lagoon 300-301); is this action for the sake of the species? Not quite, because it is an extension of *my* form into the future. This conception is not that far from the selfish gene.
+Immortality through reproduction (Lagoon 300-301); is this action for the sake of the species? Not quite, because it is an extension of *my* form into the future.
 
 Completion as maturity. For example: "Just as mankind is the best of animals when he has attained maturity (teleotheis), so too is he the worst of all when separated from nomos and the justice of political order" (1253a31-33).
 
-Aporia ("impasse" or "blockage") is a teleological phenomenon: it involves a goal you're blocked from reaching, a task or project you're blocked from completing, a capacity you're blocked from realizing, an aspect of character or behavior you're blocked from improving, a relationship you're blocked from building, knowledge or wisdom you're blocked from gaining, beauty you're blocked from experiencing, and the like.
+Aporia ("impasse" or "blockage") is a teleological phenomenon: it involves a goal you're blocked from reaching, a task or project you're blocked from completing, a capacity you're blocked from realizing, an aspect of character you're blocked from improving, a relationship you're blocked from building, knowledge or wisdom you're blocked from gaining, beauty you're blocked from experiencing, and the like.
 
-"If nothing impedes"; one such (the only such?) impediment is pleasure that is foreign to the activity (1175b2). See Hitz, "Aristotle on Law and Moral Education".
+"If nothing impedes"; one such impediment is pleasure that is foreign to the activity (1175b2). See Hitz, "Aristotle on Law and Moral Education".
 
 What's intermediate is, more definitively, what's fitting, appropriate, balanced; there is a close connection between τὸ μέσον and τὸ καλόν.
 
@@ -192,15 +188,15 @@ Both character traits and concepts are formed by repeatedly taking a stand; conn
 
 Investigate usage of dunamis and energeia in EE and EN. Praxis and theoria are forms of energeia, but what exactly are the capacities? Ethos is a hexis, not a dunamis.
 
-Praxis is not merely activity but activity that realizes a commitment resulting from deliberation that was undertaken for the sake of achieving a goal - perhaps even a goal that is an overall telos (cf EE) or that reflects a distinctively human way of life (bios/diagoge). Consider an analogy: because the power of sight is a capacity for seeing, it is the activity of seeing that realizes or completes the capacity. Something similar might hold true for the uniquely human goals of wisdom and eudaimonia; but what are the capacities involved and through which activities are they realized? Staying close to the example of sight, perhaps nous as the power of insight is realized in logos as reason-and-speech; however, episteme as having conceptual knowledge is in turn fully realized through theoria as the active use or application of knowledge; and theoria about the most important and serious matters of human life is wisdom. Along similar lines, is excellence of character and thought a capacity that is realized in the human activities and choices that comprise eupraxia and euboulia? No, because ethos is a hexis. Human beings do indeed have capacities for action and choice, but you can reliably realize them in good ways only if you have stable traits and practices that conduce to eupraxia and euboulia.
+Praxis is not merely activity but activity that realizes a commitment resulting from deliberation that was undertaken for the sake of achieving a goal - perhaps even a goal that is an overall telos (cf EE) or that reflects a distinctively human way of life (bios/diagoge). Consider an analogy: because the power of sight is a capacity for seeing, it is the activity of seeing that realizes or completes the capacity. Something similar might hold true for the uniquely human goals of wisdom and eudaimonia; but what are the capacities involved and through which activities are they realized? Staying close to the example of sight, perhaps nous as the power of insight is realized in logos as reason-and-speech; however, episteme as having conceptual knowledge is in turn fully realized through theoria as the active use or application of knowledge; and theoria about the most important and serious matters of human life is sagacity. Along similar lines, is excellence of character and thought a capacity that is realized in the human activities and choices that comprise eupraxia and euboulia? No, because ethos is a hexis. Human beings do indeed have capacities for action and choice, but you can reliably realize them in good ways only if you have stable traits and practices that conduce to eupraxia and euboulia.
 
-The most appropriate thing to do in a particular situation lies on an intermediate point between extremes, but the intermediate (meson) is indeterminate; actually hitting the target entails finding what is admirably appropriate, and this is a determinate activity. Excellence is a matter of transforming the vaguely intermediate into something beautifully particular.
+The most appropriate thing to do in a particular situation lies within an intermediate range between extremes, but the intermediate (meson) is indeterminate; actually hitting the target entails finding what is admirably appropriate, and this is a determinate activity. Excellence is a matter of transforming the vaguely intermediate into something beautifully particular.
 
-Missing the mark is often a matter of being lured by a pleasure that is foreign to a thriving activity; however, Aristotle was not opposed to healthy pleasures and he held that there is nothing wrong with enjoyment if it is native to a thriving activity - indeed there is everything right with taking joy in actions that are admirably appropriate and beautifully balanced.
+Missing the mark is often a matter of being lured by a pleasure that is foreign to a thriving activity; however, Aristotle was not opposed to healthy pleasures and he held that there is nothing wrong with enjoyment if it is inherent (oikeios) within a thriving activity - indeed there is everything right with taking joy in actions that are admirably appropriate and beautifully balanced.
 
 Certain activities are ends in themselves and chosen for their own sake: seeing, learning, inquiring, flourishing, etc. The enjoyment inherent in these activities is caused by the exercise of a capacity for action, not the removal of a pain, the filling of a need, or the satisfaction of a desire. These are free activities pursued in leisure (schole), whose purpose is present in, not outside of, the activity itself.
 
-Practical truth consists in discovering the truth about a particular situation and then seeing it through in action. Truth and beauty come together in thriving activity because it is admirably appropriate to the situation and gracefully balanced in its measured response to the particulars. This involves intellectual excellences like perception (aisthesis), insight (nous), understanding (gnome), choice (proairesis), and awareness (theoria).
+Practical truth consists in discovering the truth about a particular situation and then seeing it through in action. Truth and beauty come together in thriving activity because it is admirably appropriate to the situation and gracefully balanced in its measured response to the particulars. This involves intellectual excellences like perception (aisthesis), insight (nous), understanding (episteme), commitment (proairesis), and awareness (theoria).
 
 For Aristotle himself, philosophy as a way of life also meant inquiry as a way of life: a yearning and active reaching out for a deep understanding of reality.
 
@@ -208,11 +204,11 @@ The two forms of wisdom: the task of phronesis is to guide action in the world, 
 
 Fulfillment does not depend on external goods and is possible even in the face of challenging circumstances. Although Aristotle does not go so far as the Stoics later would (deriving from Cynic philosophers Aristotle probably knew personally like Diogenes of Sinope, Stilpo of Megara, and Krates of Thebes), he did hold that your character traits are the root of your ability to live well, even when circumstances conspire against you. This strong root gives you great resilience, even though he recognized that sometimes we humans are no match for the slings and arrows of outrageous fortune.
 
-Theoria as self-awareness: "thought thinking thought" (1074b35) is the capacity for thought, activated in thinking, focused on thought itself without an external object. There is a similarity to music because of the lack of an external object ("music musing music"?), which could increase the educative value of learning to make and judge music. Even in action, it is important to retain this awareness in order to follow through on your commitments and thus avoid impulsiveness (see discussion of akrasia).
+Theoria as self-awareness: "thought thinking thought" (1074b35) is the capacity for thought, activated in thinking, focused on thought itself without an external object. There is a similarity to music because of the lack of an external object ("music musing music"?), which could increase the educative value of learning to make and judge music. Even in action, it is important to retain this awareness in order to follow through on your commitments and thus avoid impulsiveness (see discussion of akrasia). (On 1074b35 see Kosman.)
 
-The excellences of taking action are made possible by traits of character. What is it to have *traits* of intellect and what are these traits, which make possible the excellences of thinking? Because "we are what we repeatedly do" (ref), traits are built up through and consist in practices of activity; just as with skills, practice makes perfect. The primary difference between skills and traits is that the latter involve reflective commitment.
+The excellences of taking action are made possible by traits of character. What is it to have *traits* of intellect and what are these traits, which make possible the excellences of thinking? Traits are built up through and consist in practices of activity; just as with skills, practice makes perfect (or "complete" of course). The primary difference between skills and traits is that the latter involve reflective commitment. (But: techne itself is a hexis!)
 
-To experience a want (thumos) is to be spurred by the perception of an immediately accessible object, whereas to formulate a wish (boulesis) is to be drawn toward the prospect of a future state of affairs, such as the achievement of a goal. Hence wishing is an imaginative activity rooted in reason and speech (logos).
+To experience a want (thumos) is to be spurred by the perception of an immediately accessible object, whereas to formulate a wish or resolution (boulesis) is to be drawn toward the prospect of a future state of affairs, such as the achievement of a goal. Hence wishing is an imaginative activity rooted in reason and speech (logos).
 
 You do not directly choose your character (cf. Meyer); however, you do choose the actions and reactions out of which your character is formed.
 
@@ -222,67 +218,67 @@ Good judgment (phronesis) is intermediate between cunning and foolishness; perha
 
 How do you acquire wisdom and sagacity as excellences of thought? By being taught a body of knowledge? By practicing a skill? By repeatedly becoming aware of (or being made aware of) what is good, serious, and beautifully right?
 
-I suspect there is a dialectical progression in the NE (and EE?) regarding the meaning of theoria (Pericles passage, akrasia, philia, bios theoretikos). Investigate this.
+TODO: investigate whether there is a dialectical progression in the NE (and EE?) regarding the meaning of theoria (Pericles passage, akrasia, philia, bios theoretikos).
 
 Also investigate the criteria for divinity (e.g., purity, eternality, lack of change).
 
-The most valuable (timeotata) objects of insight and understanding are divine beings, secondarily human beings, in some respects even animals (PA); but the ultimate point of philosophical inquiry is to understand how to live, is it not? (And there is no god, Aristotelian or other, so we can only investigate animals and humans.)
+The most glorious or revered (timeotata) objects of insight and understanding are divine beings, secondarily human beings, in some respects even animals (PA); but the ultimate point of philosophical inquiry is to understand how to live, is it not? (And there is no god, Aristotelian or other, so we can only investigate animals and humans.)
 
-If the life of theoria is a life not without theoria (as Reeve implies), then this is in essence the examined life. Yet something stronger seems to be involved: a life whose very purpose is wisdom.
+If the life of theoria is a life not without theoria (as Reeve implies), then this is in essence the examined life. Yet something stronger seems to be involved: a life whose very purpose is sagacity.
 
-Are the activities expressing phronesis and sophia also for the sake of to kalon? What does that look like in the case of the intellectual excellences? Is phronesis the ethical know-how to reliably make admirably appropriate and beautifully right judgments and commitments regarding practical truth, thus avoiding the extremes of cunning and foolishness? Is sophia the insight and understanding to reliably attain admirably appropriate and beautifully right awareness regarding the highest good, thus avoiding the extremes of sophistry and ignorance?
+Are the activities expressing phronesis and sophia also for the sake of to kalon? What does that look like in the case of the intellectual excellences? Is phronesis the ethical know-how to reliably make admirably appropriate and beautifully right judgments and commitments regarding practical truth, thus avoiding the extremes of cunning and foolishness? Is sophia the insight and understanding to reliably attain admirably appropriate and beautifully right awareness regarding the highest good, thus avoiding the extremes of sophistry/deception and ignorance?
 
-The notion that the category of changeable things (endechomena) contains everything in the sublunary realm (and thus that theoria is only about the gods) is a fundamental misunderstanding; instead, endechomena are the things that are up to us (eph' hemin) and thus within our power to change and fit subjects of deliberation and action. This means that sophia extends to the study of human affairs, especially to the sources of ethics and politics in a conceptual grasp of human nature (which is sublunary but essentially unchanging).
+The notion that the category of changeable things (endechomena) contains everything in the sublunary realm (and thus that theoria is only about the gods) is a fundamental misunderstanding; instead, endechomena are the things that are up to us (eph' hemin); thus they are within our power to change and are fit subjects of deliberation and action. This means that sophia extends to the study of human affairs, especially to the sources of ethics and politics in a conceptual grasp of human nature (which is sublunary but essentially unchanging).
 
 Phronesis is a kind of ethical know-how or wisdom-in-action, which is why it discovers truth-in-action ("practical truth"). By contrast, sophia requires a full understanding of the highest good, so it is wisdom plain and simple (haplos) and discovers truth plain and simple.
 
 Because excess and deficiency are merely "clear cases" (1104a11 ff.) at the extreme ends of going astray, specifying that the excellences of character are intermediate between these extremes is only a first approximation of the truth, not a final definition.
 
-Because both eudaimonia and arete are archai, one must have knowledge of both in order to obtain full understanding.
+Because both eudaimonia and arete are archai, one must have knowledge of both in order to obtain full understanding (episteme) and sagacity.
 
-Although eudaimonia is traditionally translated as happiness, it is much less a positive feeling of personal well being than it is the excellent activation of human capacities - which is why a translation of flourishing is more accurate and has become much more prevalent in the last few decades.
+Although eudaimonia is traditionally translated as happiness, it is much less a positive feeling of personal well being than it is the excellent activation of human capacities - which is why a translation of flourishing is more accurate and has become much more prevalent in the last few decades. But "fulfillment" is even better.
 
-What's the good of being good? The core sense of agathos is "beneficial", not good by some external standard disconnected from the life activities of an organism.
+What's the good of being good? The core sense of agathos is "beneficial", not good by some external standard disconnected from the life activities of an organism. This is connected to the "hou heneka hoi" - cf. Johnson.
 
-In his essay "The Place of the Good in Aristotle's Natural Teleology" (1989), Allan Gotthelf asks biologically what it means to live <em>well</em> but doesn't quite find an answer. It seems to me that the phenomenon of living well (and living badly) applies only to human beings because we have the capacity for choice. A person's life activities and specific doings tend to go well when they are chosen and guided by thought because then they are more likely to hit the mark (i.e., by taking actions that are intermediate or, more precisely, admirably appropriate and beautifully right); by contrast, life activities and specific doings tend to go badly when they are thoughtless because then they veer into clear cases of missing the mark (i.e., extremes of excess and deficiency).
+In his essay "The Place of the Good in Aristotle's Natural Teleology" (1989), Allan Gotthelf asks biologically what it means to live *well* but doesn't quite find an answer. It seems to me that the phenomenon of living well (and living badly) applies only to human beings because we have the capacity for choice. A person's life activities and specific doings tend to go well when they are chosen and guided by thought because then they are more likely to hit the mark (i.e., by taking actions that are intermediate or, more precisely, admirably appropriate and beautifully right); by contrast, life activities and specific doings tend to go badly when they are thoughtless because then they veer into clear cases of missing the mark (i.e., extremes of excess and deficiency).
 
 In his essay "Aristotle's Conception of Final Causality" (1976), Allan Gotthelf defines that-for-the-sake-of-which (i.e., the so-called final cause) as an "irreducible potential for form", specifically the form of a mature living thing (a classic case is the acorn growing into a mighty oak tree). This definition makes sense in the context of biological development, but it doesn't seem to explain that-for-the-sake-of-which relationships in the life of a mature living thing, which are so important in Aristotle's biology and Aristotle's ethics. The key, I think, is that form (εἶδος) is not merely physical shape or the arrangement of a living thing's parts, but more fundamentally a way of being or, in biology specifically, a mode of life (βίος) - an irreducible capacity for activity (ἐνέργεια). This applies to ethics as well, since here it is taking action (πρᾶξις) for the sake of what is admirably appropriate and beautifully right that sets excellence of character apart from mere self-restraint (ἐγκράτεια), from impulsiveness (ἀκρασία), or from personal corruption (μοχθηρία).
 
-The deepest ignorance is knowing not the highest good; likewise the worst deception lures us from the best of lives. These two clear cases of going astray from wisdom not only reinforce each other but also embody the dynamics of power in society, for we must ask: who benefits from ignorance and deception? The sophist makes an active commitment to a deceptive way of life (1004b24-5) and therefore is culpable for keeping other people in the dark about the human good.
+The deepest ignorance is knowing not the highest good; likewise the worst deception lures us from the best of lives. These two clear cases of going astray from wisdom not only reinforce each other but also embody the dynamics of power in society, for we must ask: who benefits from ignorance and deception? The sophist makes an active commitment to a deceptive way of life (1004b24-5) and therefore is culpable for keeping other people in the dark about the human good. Just as the cunning prey on the foolish, so the deceptive prey on the ignorant.
 
 Whereas Plato believed in the possibility of a philosoper-king (indeed a whole class of them), the most that Aristotle hoped for was that a good ruler might emulate the philosopher as a paradigm of thought and behavior; Aristotle might have gained this greater realism through his interactions with King Philip of Macedon, Hermias of Atarneus, the Macedonian general Antipater, and Alexander the Great.
 
-In his paper "Aristotle and the Biological Roots of Virtue" (1999), James Lennox argues that completed excellence is an integration of φρόνησις and ἀρετή, in which a child's natural capacities for virtuous activity develop into stable traits of character through the parallel and related training of the power of deliberation to issue in in thoughtful commitments to doing what is admirably appropriate and beautifully right (although he does not tie his insights to the καλός).
+In his paper "Aristotle and the Biological Roots of Virtue" (1999), Lennox argues that completed excellence is an integration of φρόνησις and ἀρετή, in which a child's natural capacities for virtuous activity develop into stable traits of character through the parallel and related training of the power of deliberation to issue in in thoughtful commitments to doing what is admirably appropriate and beautifully right (although he does not tie his insights to καλόν).
 
-Saying that a friend is another self could in part mean that one who is dear is respected as a person who has achieved true selfhood (cf. Stern-Gillet, <cite>Aristotle's Philosophy of Friendship</cite>).
+Saying that a friend is another self could in part mean that one who is dear is respected as a person who has achieved true selfhood (cf. Stern-Gillet, Aristotle's Philosophy of Friendship).
 
-Thinghood is "what it has been to be" an entity of a certain kind. For an animal (which is most all an entity), its task is to align its activities with the way of life of its kind. For a human being, your task is to align your activities with the most human way of life, to become most of all a person. Because to thrive in this way is a matter of chosen activity, "the self is not a natural endowment, but a personal achievement." This is consistent with Stern-Gillet's argument. Note also Aristotle's statements about "being of many minds", i.e., not having achieved integration or unity as a person. Also connected is Adam Crager's work on unity (see https://metaphysicsjournal.com/articles/10.5334/met.6/ for details), for (paraphrasing) he maintains that the unity of an entity's thinghood is a kind of fulfillment (entelecheia) that makes the entity a definite thing (cf. Aristotle on <em>to horismenon</em>).
+Thinghood is "what it has been to be" an entity of a certain kind. For an animal (which is most all an entity), its task is to align its activities with the way of life of its kind. For a human being, your task is to align your activities with the most human way of life, to become most of all a person. Because to thrive in this way is a matter of chosen activity, "the self is not a natural endowment, but a personal achievement." This is consistent with Stern-Gillet's argument. Note also Aristotle's statements about "being of many minds", i.e., not having achieved integration or unity as a person. Also connected is Adam Crager's work on unity (see https://metaphysicsjournal.com/articles/10.5334/met.6/ for details), for (paraphrasing) he maintains that the unity of an entity's thinghood is a kind of fulfillment (entelecheia) that makes the entity a definite thing (cf. Aristotle on the horismenon).
 
 Millgram ("Aristotle on Making Other Selves") argues that in a sense you are a co-creator of your friend, specifically of your friend's excellence of character (cf. 1168a5-10).
 
 The basis for the most enduring common good, whether in friendship or in society, is the love of reason (1169a2-5); cf. Pangle, "Friendship and Self-Love in Aristotle's Nicomachean Ethics".
 
-When we say that eudaimonia is lacking in nothing or is in need of nothing (1097b15), much hinges on the concept of need. This must be analyzed.
+When we say that eudaimonia is lacking in nothing or is in need of nothing (1097b15), much hinges on the concept of need.
 
 "Dialectic is a process of examination wherein lies the path to the sources of all inquiry." (Topic 101b3-4) Here the word for "examination" (ἐξεταστική) is the same that Socrates uses when he says that the unexamined life is not worth living (ἀνεξέταστος βίος οὐ βιωτὸς ἀνθρώπῳ).
 
 There seems to be a connection between acting in accordance with practical truth and maintaining awareness of the future, or between akrasia and not maintaining that awareness (433b).
 
-Although Aristotle founded the science of logic, he was also the first biologist and he was strongly influenced by his family's long line of doctors descending from Asklepios. In his voluminous works on zoology, psychology, and nature in general, the inductive natural philosopher (phusikos) wins out over the deductive dialectician, and he brings this same mindest to his philosophy of human affairs.
+Although Aristotle founded the science of logic, he was also the first biologist and he was strongly influenced by his family's long line of doctors - descending, it is said, from Asklepios. In his voluminous works on zoology, psychology, and nature in general, the inductive natural philosopher (phusikos) wins out over the deductive dialectician, and he brings this same mindest to his philosophy of human affairs.
 
 Just as a polis comes to be for the sake of life but continues to exist for the sake of living well, so also a person is born for the sake of life but grows and matures for the sake of living well.
 
-Grammatically speaking, living well is a present perfect, just as seeing is: at any moment of living well I have lived well, just as at any moment of seeing I have seen (cf. Roochnik's paper <cite>What is Theoria?</cite>); thus these activities are complete in themselves (compare to Seneca's advice to each evening recognize that "I have lived").
+Grammatically speaking, living well is a present perfect, just as seeing is: at any moment of living well I have lived well, just as at any moment of seeing I have seen (cf. Roochnik's paper "What is Theoria?"); thus these activities are complete in themselves (compare to Seneca's advice to each evening recognize that "I have lived").
 
 At 1260a14, Aristotle says that the deliberative capacity of children is ἀτελές or incomplete. This is a clue to the importance of maturation in Aristotle's account of character. See also the importance of experience, e.g. at EN VI.8 (EE V.8) 1142a12-16 (cf. Miller, "Aristotle on Rationality in Action", p. 515).
 
-"Aristotle recognizes, by reflection on the existence of different kinds of things, that actual existence in each case consists in the appropriate activity, that 'to be for living things is to live' (De anima 415bI3), so that every actuality is an instance of ἐνέργεια." -- Stephen Menn, "The Origins of Aristotle's Concept of ἐνέργεια", p. 78
+"Aristotle recognizes, by reflection on the existence of different kinds of things, that actual existence in each case consists in the appropriate activity, that 'to be for living things is to live' (De anima 415bI3), so that every actuality is an instance of ἐνέργεια." -- Stephen Menn, "The Origins of Aristotle's Concept of ἐνέργεια", p. 78.
 
-"Only the object of our most perfect vital activities is a final end, capable of completing us." -- Gaëlle Fiasse, "Aristotle's Phronesis: A True Grasp of Ends as well as Means?", p. 331. (On the previous page, Fiasse had identified these activities as θεωρία and φιλία.) And on p. 333: "my happiness is only possible to the extent that I transcend myself and orient myself toward a true good which attracts me and completes me."
+"Only the object of our most perfect vital activities is a final end, capable of completing us." -- Gaëlle Fiasse, "Aristotle's Phronesis: A True Grasp of Ends as well as Means?", p. 331. (On the previous page, Fiasse had identified these activities as θεωρία and φιλία.) And on p. 333: "my happiness is only possible to the extent that I transcend myself and orient myself toward a true good which attracts me and completes me." This is even more apropos if we translante eudaimonia as "fulfillment".
 
-At EE 1236b3 and 1237a30, Aristotle emphasizes the important of mutual commitment (antiprohairesis) to close personal relationships; see also Sherman, "Aristotle on Friendship and the Shared Life", p. 597-600.
+At EE 1236b3 and 1237a30, Aristotle emphasizes the importance of mutual commitment (antiprohairesis) to close personal relationships; see also Sherman, "Aristotle on Friendship and the Shared Life", p. 597-600.
 
-Making a commitment - προαίρεσις - involves preferring one course of action over another and having reasons to do so. See EE 1226b7ff and NE 1112a15 as noted by Sherman, "Character, Planning, and Choice in Aristotle", p. 94.
+Making a commitment - προαίρεσις - involves preferring one course of action over another and having reasons to do so. See EE 1226b7ff and NE 1112a15 as noted by Sherman, "Character, Planning, and Choice in Aristotle", p. 94. On "having reasons" see also the significance of action 'meta logou'.
 
 Complete activities like seeing, thinking, and living well lack nothing which will later complete their becoming what they are (NE X.4 1174a14-16); this is connected to Aristotle's criterion in EN Book I that eudaimonia or the highest good for humans must lack or need nothing in addition to itself (cf. Gurtler, "The Activity of Happiness in Aristotle's Ethics", pp. 806-807). Furthermore, they are not dependent (as motions are) on a particular process or duration, since they are complete and whole at every moment; this has implications for Aristotle's comments about eudaimonia occurring within a "complete life" ("one swallow does not make a summer").
 
@@ -294,11 +290,11 @@ Regarding the unity of the virtues, consider the dialectic argument of the EN (a
 
 Whether the use (chresis) of a particular external good is *actually* good depends on the excellence of character - i.e., the practice (chresis) of internal goods - of the person using it. Thus the person activates the potential of the external good.
 
-What is the connection between the right reason (orthos logos) and to kalon? Look at the account of false and true courage for clues. Also see EE 8.3.
+What is the connection between the right reason (orthos logos) and to kalon? Look at the account of false and true courage for clues. Also see EE VIII.3.
 
-Divinity/Transcendence: the divine as the activity of awareness (see Kosman and post on Eudemian thread); consciousness as awareness of awareness (nous thinking nous); participation in the divine by humans and other animals (even bees!); in recent thinking, mentalizing as my awareness of your awareness (an aspect of human beings as social animals - precursors in Aristotle's account of philia?); godlike excellence could be identified in part by what is missing in the other five states of character: bestiality (forethought etc.), corruption (knowledge of or commitment to the good), weakness of the will (continuous awareness of one's commitment to the good), self-control (emotional coherence with one's commitment to the good), and even normal human excellence (in EE VIII, kalokagathia and complete or fully unified excellence, in EN X a commitment to "immortalize" or transcend as much as possible, whatever that means in practice); theoria, inquiry, knowledge, insight, sagacity; the best within us is the mind, not the "self"; connection between to kalon and to theion (does the divine have all the qualities of what is beautifully right?); investigate the tie between the horos of action (EE 8.3) and to horismenon; wonder as the beginning of philosophy ("from wonder to wisdom") - this might include not only wonder about the stars and such but wonder about animals (PA quote), about highly impressive people (e.g., Anaxagoras and Socrates), about athletic feats, and about artistic beauty (cf tragic wonder); therapeia as cultivation, not service or worship (but this is far from straightforward); notice in EE 8.3 that we must have neither too much nor too little of natural goods, so this not a form of asceticism; the theoria/therapeia standard applies to natural goods but not to internal goods, i.e. not to arete; completion vs perfection, plus the extent to which honoring and cultivating the divine is necessary to achieving wholeness (autarkeia); species nature vs individual nature; the contemplative life (the activity of awareness) vs the examined life (awareness in activity); the ideal of true freedom and serious leisure
+Divinity/Transcendence: the divine as the activity of awareness (see Kosman and post on Eudemian thread); consciousness as awareness of awareness (nous thinking nous); participation in the divine by humans and other animals (even bees!); in recent thinking, mentalizing as my awareness of your awareness (an aspect of human beings as social animals - precursors in Aristotle's account of philia?); godlike excellence could be identified in part by what is missing in the other five states of character: bestiality (forethought etc.), corruption (knowledge of or commitment to the good), weakness of the will (continuous awareness of one's commitment to the good), self-control (emotional coherence with one's commitment to the good), and even normal human excellence (in EE VIII, kalokagathia and complete or fully unified excellence, in EN X a commitment to "immortalize" or transcend as much as possible, whatever that means in practice); theoria, inquiry, knowledge, insight, sagacity; the best within us is the mind, not the "self"; connection between to kalon and to theion (does the divine have all the qualities of what is beautifully right?); investigate the tie between the horos of action (EE VIII.3) and to horismenon; wonder as the beginning of philosophy ("from wonder to wisdom") - this might include not only wonder about the stars and such but wonder about animals (PA quote), about highly impressive people (e.g., Anaxagoras and Socrates), about athletic feats, and about artistic beauty (cf tragic wonder); therapeia as cultivation, not service or worship (but this is far from straightforward); notice in EE VIII.3 that we must have neither too much nor too little of natural goods, so this not a form of asceticism; the theoria/therapeia standard applies to natural goods but not to internal goods, i.e. not to arete; completion vs perfection, plus the extent to which honoring and cultivating the divine is necessary to achieving wholeness (autarkeia); species nature vs individual nature; the contemplative life (the activity of awareness) vs the examined life (awareness in activity); the ideal of true freedom and serious leisure.
 
-"A commitment is always to something and for something" (EE 1227b37) - i.e., to some action for the sake of some purpose. Furthermore, "an action done without a purpose is not really an action" (cite) Thus we could also say: a purpose not transformed into action is not really a purpose. And what transforms a purpose into an action is deliberation that results in a commitment. For the flourishing person, purpose, deliberation, commitment, and action are a seamless whole.
+"A commitment is always to something and for something" (EE 1227b37) - i.e., to some action for the sake of some telos. Furthermore, "an action done without a purpose is not really an action" (citation??). Thus we could also say: a purpose not transformed into action is not really a purpose. And what transforms a purpose into an action is deliberation that results in a commitment. For the flourishing person, purpose, deliberation, commitment, and action are a seamless whole.
 
 Just as human beings are the most natural of living things, so awareness is the highest degree of aliveness.
 
@@ -308,57 +304,53 @@ Thought thinking thought = awareness being aware of awareness.
 
 The akratic misses the mark by not maintaining awareness of the beautifully right action. Does the enkratic miss the mark by not maintaining awareness of the beautifully right feeling?
 
-What are the links among the eudaimonia criteria (finality, self-sufficiency, etc.), the divinity criteria (eternality, activity, independence, etc.), and the beauty criteria (coherence, proportion, order, etc.)?
+TODO: think through the links among the eudaimonia criteria (finality, self-sufficiency, etc.), the divinity criteria (eternality, activity, independence, etc.), and the beauty criteria (coherence, proportion, order, etc.).
 
 Lear argues that phronesis emulates sophia. But in the order of attainment, no doubt phronesis is known to us whereas sophia is known by nature; thus upbringing and enculturation matter for gaining sagacity, too. This implies that purely academic learning is not enough.
 
 In EE VIII.3, is therapeia perhaps a kind of love?
 
-Aristotle asks a simple question: if you had enough money that you didn't need to work, what kind of life would you choose? He mentions four options: keep working (a life of money-making), have fun (a life of pleasure), give back (a life of community involvement), or go deep (a life of inquiry). But in modern society very few of us have enough money, so we need to work; could Aristotle have much to say to us about how to flourish at work?
-
-At the end of the book, return to the four lives and the role of work in human life. Does Aristotle have anything to say about work? Can we see serious leisure in work as a calling, specifically in craftsmanship, teamwork, and service? Can the four lives be parsed into stages, like the Hindu ashramas?
-
-Consider Aristotle's pursuit of philosophy as a calling: craftsmanship (logic, dialectic, science), service (teaching, advising), teamwork (collaborative research with Theophrastus, Xenocrates, and the Lyceum team).
+Aristotle asks a simple question: if you had enough money that you didn't need to work, what kind of life would you choose? He mentions four options: keep working (a life of money-making), have fun (a life of pleasure), give back (a life of community involvement), or go deep (a life of inquiry). But in modern society very few of us have enough money, so we need to work; could Aristotle have much to say to us about how to flourish in our work and careers? At the end of the book, return to the four lives and the role of work in human life. Does Aristotle have anything to say about work? Can we see serious leisure in work as a calling, specifically in craftsmanship, teamwork, and service? Can the four lives be parsed into stages, like the Hindu ashramas? Consider Aristotle's pursuit of philosophy as a calling: craftsmanship (logic, dialectic, science), service (teaching, advising), teamwork (collaborative research with Theophrastus, Xenocrates, and the Lyceum team).
 
 Beyond work, the examined life as central to the task of living.
 
-"Human beings are thinking, talking animals that live together in cities." Unpack this.
+"Human beings are thinking, talking animals that live together in communities." Unpack this.
 
-Revisit Sparshott on telos vs. skopos. There might be both bottom-up aspects (e.g., seeing the specific aim as working toward the high-level purpose) and top-down aspects (e.g., committing to the aim after deliberating about how to achieve the purpose).
+TODO: revisit Sparshott on telos vs. skopos. There might be both bottom-up aspects (e.g., seeing the specific aim as working toward the high-level purpose) and top-down aspects (e.g., committing to the aim after deliberating about how to achieve the purpose).
 
 Acting for the sake of what's beautifully right seems to be different from acting for the sake of eudaimonia. What is the role and status of to kalon in reflection and action? Is it an intermediate aim or skopos, for the ultimate sake of eudaimonia? Is it the right motive or right reason? Is acting for the sake of what's beautifully right the same as acting in accordance with arete? If this last, they might be the same thing but differ in being (e.g., arete is the hexis and kalon action is the energeia).
 
-The paradigm case of activity is what living things of a given kind do in pursuit of their characteristic aims and for their own benefit.
+The paradigm case of activity is what living things of a given kind do in pursuit of their characteristic aims (hou heneka hou) and for their own benefit (hou heneka hoi).
 
 The person who is truly serious about ethical thriving becomes great at goodness, an expert at excellence, a virtuouso of virtue.
 
 Action kata logon: consistent with reason or consisting of reasoning? This seems directive, not constitutive. (Also discuss the difference between kata logon - directed by reason - and meta logou - integrated with, unified with, suffused with reason.) Apply a similar analysis to action kat' areten. This seems constitutive, not directive.
 
-One meaning of "thought thinking thought" could be "awareness being aware of awareness". For a sentient animal, to be is to be alive and to be alive is to be aware; thus being aware of one's awareness is being aware of one's existence and aliveness. This activity is inherently pleasurable because nothing brings more fundamental joy than to know one is alive.
+One meaning of "thought thinking thought" could be "awareness being aware of awareness". For a sentient animal, to be is to be alive and to be alive is to be aware; thus being aware of one's awareness is being aware of one's existence and aliveness. This activity is inherently pleasurable because nothing brings more fundamental joy than to know one is alive. See also the Philebus.
 
-In his book Sentience, Wallace Matson describes a phenomenon he calls "sizing up", which (p. 149) he "intend[s] to be a translation of the Greek verb noein and the cognate noun nous, especially as they are used in Homer and other archaic literature [citing papers by Karl von Fritz in Classical Philology]. 'Insight' comes closer than any other English word to this notion. However, it lacks a cognate verb..." That verb might be "realize" or "become aware of". As von Fritz explains it, nous involves "the realization of a situation" (whether sudden or slow) that "makes us see all the implications and consequences of the situation with unwonted clarity, and makes us act with unusual determination and foresight" (Noos and Noein in the Homeric Poems, pp. 87-88).
+In his book Sentience, Wallace Matson describes a phenomenon he calls "sizing up", which (p. 149) he "intend[s] to be a translation of the Greek verb noein and the cognate noun nous, especially as they are used in Homer and other archaic literature [citing papers by Karl von Fritz in Classical Philology]. 'Insight' comes closer than any other English word to this notion. However, it lacks a cognate verb..." That verb might be "realize" or "become aware of". As von Fritz explains it, nous involves "the realization of a situation" (whether the realization is sudden or slow) that "makes us see all the implications and consequences of the situation with unwonted clarity, and makes us act with unusual determination and foresight" (Noos and Noein in the Homeric Poems, pp. 87-88).
 
 TODO: I need to investigate Aristotle's key concepts in light of ancient usage, esp. Homer.
 
 When Aristotle says that aliveness (psyche) is the first fulfillment (entelecheia) of a body having organs, he means to identify the full set of capacities (dunameis) that result from having the specialized parts or kinds of biological tool (organ) that enable an animal to complete the varieties of task (ergon) that comprise its way of life (bios).
 
-As quoted by Hardie (p. 96), Joachim notes that "passions [pathe], faculties [dunameis], and states [hexeis] fall into an order which depends upon 'the extent to which the thing's own being is involved in the qualification'."
+As quoted by Hardie (p. 96), Joachim notes that "passions [pathe], faculties [dunameis], and states [hexeis] fall into an order which depends upon 'the extent to which the thing's own being is involved in the qualification'." This is connected to Furth's main argument, and the order of aretai in the ethical treatises.
 
 At 1141a17-20, Aristotle says that sophia is knowledge (episteme) combined with insight (nous) - knowledge of the highest objects which has received its crown (kephale - perhaps as megalopsuchia (NE) or kalokagathia (EE) is the kosmos of the aretai.
 
-Look into the relations between skepsis, skopein, skeptomai, and skopos; cf. Segvic p. 150.
+TODO: look into the relations between skepsis, skopein, skeptomai, and skopos; cf. Segvic p. 150.
 
-See Plato's Euthydemus on having vs using and on using rightly vs wrongly.
+TODO: re-read Plato's Euthydemus on having vs using and on using rightly vs wrongly.
 
 Possible shorthand: the life of pleasure focuses on the self; the "political" life focuses on community; the "contemplative" life focuses on truth.
 
-Check the Rhetoric, Politics, GC, and PN (on old age) for hints about life stages, and Plato too. See also Reeve 2012, pp. 269-270.
+TODO: check the Rhetoric, Politics, GC, and PN (on old age) for hints about life stages, and Plato too. See also Reeve 2012, pp. 269-270.
 
 Additional lives beyond making money, having fun, giving back, and seeking truth: enlightened hedonism (would Aristotle recognize this as legitimate?), householding (oikonomike), work as a calling (service, craftsmanship, teamwork), etc.
 
-Move much of lecture #1 to preface.
+TODO: move much of lecture #1 to the preface.
 
-In modern, market-based economies, cooperative work toward shared goals in society often happens in for-profit corporations; is this a blending of "making money" and "giving back"?
+In modern, market-based economies, cooperative work toward shared goals in society often happens in for-profit corporations; is this a blending of "making money" and "giving back"? See also Garver on Benjamin Constant. Note the lack of non-interpersonal (or bourgeois) virtues such as frugality and hard work in Aristotle.
 
 The ancients thought that the sun, stars, and planets were divine entities; consider the impact of modern astronomy on Aristotle's speculations about the divine (e.g., the claim that humanity is not the best thing in the universe). If we *are* the best thing, then that is a cause not for bravado but for humility.
 
@@ -366,9 +358,7 @@ Aliveness is the completion (entelecheia) of the parts of an animal in several s
 
 The aliveness of animals is rather straightforward and innocent: they have a kind of single-minded focus on survival and reproduction that unifies their parts for action. But humans have a more complex soul whose parts themselves need to be unified through thinking and reflection. There's the rub, and the need to live an examined life.
 
-Note the lack of non-interpersonal (or bourgeois) virtues such as frugality and hard work.
-
-Taking Shields one step further, I wonder: are pleasure and pain independent phenomena that we become aware of, or are they aspects of awareness itself? We might even broaden this line of thinking to the emotions more generally. Emotions are forms of awarenees, whose positive or negative valence indicates what we consider to be the apparent good or bad that we yearn to pursue or avoid.
+Taking Shields one step further, I wonder: are pleasure and pain independent phenomena that we become aware of, or are they aspects of awareness itself? We might even broaden this line of thinking to the emotions more generally. Emotions are forms of awarenees, whose positive or negative valence indicates what we consider to be the apparent good or bad that we yearn to pursue or avoid. But see also the idea that emotion is an intensification of awareness and the hexeis.
 
 I wonder if the key difference between phronesis and sophia is not their objects, but where they fall on the continuum of occupied/busy to leisured/free.
  
@@ -376,15 +366,15 @@ There is a continuum of learning how to act and how not to act. At one end of th
 
 An inward reaction (pathos) is just as much of an activity (energeia) as an outward action (praxis) is. See Kosman's paper "Being Properly Affected".
 
-One meaning of "orthos logos" might be "correct account", thus connecting it both with the search for practical truth and with an overall understanding of the good.
+One meaning of "orthos logos" might be "correct account", thus connecting it both with the search for practical truth and with an overall understanding of the good. See Plato's Laches.
 
-To grasp truth (aletheia) means to lack (a-) forgetting (lethe); the only way not to lose your grasp is to work (energein) at applying your understanding (episteme) in action and inquiry, and that work is closely bound up with awareness (theoria).
+To grasp truth (aletheia) means to lack (a-) forgetting (lethe); the only way not to lose your grasp is to work (energein) at applying your understanding (episteme) in action and inquiry, and that work is closely bound up with awareness (theoria). See also the importance of "taking a stand" as in the Post. An.
 
 As to understanding itself, when you stand under something you look up at it, and according to a somewhat fanciful etymology that Socrates proposes in Plato's Cratylus the human being (anthropos) is the animal that looks (opope) upward (anathron). (For a more plausible etymology, see the talk by Richard Janko.)
 
 There is a close connection between truthfulness and justice. If I overestimate my own worth, then I will seek or demand more than I deserve. But an accurate estimation is difficult to achieve because it is so easy to fall into self-deception. Moreover in the case of megalopsuchia even accuracy is not a reliable guide, since it leads to inactivity - whereas activity is the essence of life. The way around this impasse is through justice, i.e., virtue applied to human relationships and community.
 
-Every human decision is of something for something - of X for Y, of "the what" for "the why". The what is a matter of orexis and the why is a matter of logos; both must be correct for the decision to be correct.
+Every human decision is of something for something - of X for Y, of "the what" for "the why". The what is a matter of orexis and the why is a matter of logos; both must be correct (orthos) for the decision to be correct.
 
 The body exists for the sake of aliveness, i.e., for the activities of being human (PA 645b15). Thus health is not an end in itself. Moreover, if your body is in great shape but your soul isn't in great shape, you won't fully develop as a human being.
 
@@ -394,7 +384,7 @@ In Robinson's paper "Aristotle on Akrasia", he notes a helpful emendation that S
 
 There are two ways to demonstrate that you understand the highest good: explaining it (apodeixis) and putting it into practice (praxis). These two *might* come together in the orthos logos ("the correct account") and in acting meta logou ("with an account" as Burnyeat calls it in his paper "Aristotle on Understanding Knowledge").
 
-Inherent in a techne is a community of practice: teachers, apprentices, role models, shop talk, lore, and some measure of theory about the practice. Practitioners who take the craft seriously talk to each other about what they do and can give an account of why they do things in particular ways. The philosophical schools or communities of ancient Greece took the same approach to arete and episteme.
+Inherent in a techne is a community of practice: teachers, apprentices, role models, shop talk, lore, and some measure of theory about the practice. Practitioners who take the craft seriously talk to each other about what they do and can give an account of why they do things in particular ways. The philosophical schools or communities of ancient Greece took the same approach to arete, episteme, phronesis, and sophia.
 
 There's much more to mastering a craft than merely learning a few of the relevant skills. First, much as a polis is a group of people with a complete set of skills and vocations who direct their efforts toward single, common purpose that is the overarching task of them all (cf. Depew), so also a craft can be seen as a complete set of skills directed toward a single, common purpose that is the overarching task of them all. Second, you *commit* to that craft and its purpose: it's not merely that you perform the task, but that you wholeheartedly *decided* to take it on and therefore that you continually think about it, study its past, care about its future, celebrate its successes, and truly enjoy it; indeed, love is not too strong a word to use. Third, you are passionate, perhaps even obsessive, about the quality of the work you do: you hold yourself to the highest standards of the craft, you deliberate about how to do the work better and better, you sweat the details even if the customer wouldn't notice them, and you strive to make the end product not merely functional but beautiful; you not only have a work ethic but your work has an ethics about it. Fourth, because you so deeply identify with the craft, it's crucial that you have a high level of autonomy and that you be the one making key decisions about the direction and details of the work. Fifth, you value the work as an end in itself: it's not merely a job, but something that has inherent meaning and that structures the overall form of your life activities.
 
