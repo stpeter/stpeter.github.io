@@ -489,3 +489,5 @@ TODO: I need to look more closely at Topics VIII.5 on dialectic for the purposes
 We come to completion through working at our task. Cf EE 1219a8 and Reeve 1995 p. 123.
 
 For Aristotle, beauty is not prettiness but something like Schiller's "living form" (Letter XV); see also IRWIN-2011 pp. 242-243. To live beautifully is to give form to one's life and to create a seamless equilibrium between matter and form - a wholeness that completes one's existence and experience.
+
+TODO: think about the sense in which "the hexis is in the energeia" at EN 1174b31-33.
