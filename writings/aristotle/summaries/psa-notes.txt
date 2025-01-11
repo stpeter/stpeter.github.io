@@ -348,8 +348,6 @@ TODO: check the Rhetoric, Politics, GC, and PN (on old age) for hints about life
 
 Additional lives beyond making money, having fun, giving back, and seeking truth: enlightened hedonism (would Aristotle recognize this as legitimate?), householding (oikonomike), work as a calling (service, craftsmanship, teamwork), etc.
 
-TODO: move much of lecture #1 to the preface.
-
 In modern, market-based economies, cooperative work toward shared goals in society often happens in for-profit corporations; is this a blending of "making money" and "giving back"? See also Garver on Benjamin Constant. Note the lack of non-interpersonal (or bourgeois) virtues such as frugality and hard work in Aristotle.
 
 The ancients thought that the sun, stars, and planets were divine entities; consider the impact of modern astronomy on Aristotle's speculations about the divine (e.g., the claim that humanity is not the best thing in the universe). If we *are* the best thing, then that is a cause not for bravado but for humility.
@@ -491,3 +489,6 @@ We come to completion through working at our task. Cf EE 1219a8 and Reeve 1995 p
 For Aristotle, beauty is not prettiness but something like Schiller's "living form" (Letter XV); see also IRWIN-2011 pp. 242-243. To live beautifully is to give form to one's life and to create a seamless equilibrium between matter and form - a wholeness that completes one's existence and experience.
 
 TODO: think about the sense in which "the hexis is in the energeia" at EN 1174b31-33.
+
+Regarding the relationship between the telos and the skopos (cf. Sparshott) - i.e., making fulfillment your aim - it might help to apply my concept of “thinking in six directions”. There are bottom-up aspects (e.g., seeing opportunities for fulfillment in particular aims, understanding how your aims help move you in the direction of fulfillment) and top-down aspects (e.g., reflecting on the nature of human fulfillment in general, committing more seriously to ideals after deliberation); there are reflective aspects (personal history, upbringing, maturation, learning from experience) and aspirational aspects (future projects, relationships, activities, achievements); there are interpersonal aspects (love, friendship, community, collaboration) and internal aspects (interests, drives, goals, aptitudes, etc.).
+
