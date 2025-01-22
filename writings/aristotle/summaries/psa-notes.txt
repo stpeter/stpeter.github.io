@@ -218,10 +218,6 @@ Good judgment (phronesis) is intermediate between cunning and foolishness; perha
 
 How do you acquire wisdom and sagacity as excellences of thought? By being taught a body of knowledge? By practicing a skill? By repeatedly becoming aware of (or being made aware of) what is good, serious, and beautifully right?
 
-TODO: investigate whether there is a dialectical progression in the NE (and EE?) regarding the meaning of theoria (Pericles passage, akrasia, philia, bios theoretikos).
-
-Also investigate the criteria for divinity (e.g., purity, eternality, lack of change).
-
 The most glorious or revered (timeotata) objects of insight and understanding are divine beings, secondarily human beings, in some respects even animals (PA); but the ultimate point of philosophical inquiry is to understand how to live, is it not? (And there is no god, Aristotelian or other, so we can only investigate animals and humans.)
 
 If the life of theoria is a life not without theoria (as Reeve implies), then this is in essence the examined life. Yet something stronger seems to be involved: a life whose very purpose is sagacity.
@@ -304,8 +300,6 @@ Thought thinking thought = awareness being aware of awareness.
 
 The akratic misses the mark by not maintaining awareness of the beautifully right action. Does the enkratic miss the mark by not maintaining awareness of the beautifully right feeling?
 
-TODO: think through the links among the eudaimonia criteria (finality, self-sufficiency, etc.), the divinity criteria (eternality, activity, independence, etc.), and the beauty criteria (coherence, proportion, order, etc.).
-
 Lear argues that phronesis emulates sophia. But in the order of attainment, no doubt phronesis is known to us whereas sophia is known by nature; thus upbringing and enculturation matter for gaining sagacity, too. This implies that purely academic learning is not enough.
 
 In EE VIII.3, is therapeia perhaps a kind of love?
@@ -315,8 +309,6 @@ Aristotle asks a simple question: if you had enough money that you didn't need t
 Beyond work, the examined life as central to the task of living.
 
 "Human beings are thinking, talking animals that live together in communities." Unpack this.
-
-TODO: revisit Sparshott on telos vs. skopos. There might be both bottom-up aspects (e.g., seeing the specific aim as working toward the high-level purpose) and top-down aspects (e.g., committing to the aim after deliberating about how to achieve the purpose).
 
 Acting for the sake of what's beautifully right seems to be different from acting for the sake of eudaimonia. What is the role and status of to kalon in reflection and action? Is it an intermediate aim or skopos, for the ultimate sake of eudaimonia? Is it the right motive or right reason? Is acting for the sake of what's beautifully right the same as acting in accordance with arete? If this last, they might be the same thing but differ in being (e.g., arete is the hexis and kalon action is the energeia).
 
@@ -330,21 +322,13 @@ One meaning of "thought thinking thought" could be "awareness being aware of awa
 
 In his book Sentience, Wallace Matson describes a phenomenon he calls "sizing up", which (p. 149) he "intend[s] to be a translation of the Greek verb noein and the cognate noun nous, especially as they are used in Homer and other archaic literature [citing papers by Karl von Fritz in Classical Philology]. 'Insight' comes closer than any other English word to this notion. However, it lacks a cognate verb..." That verb might be "realize" or "become aware of". As von Fritz explains it, nous involves "the realization of a situation" (whether the realization is sudden or slow) that "makes us see all the implications and consequences of the situation with unwonted clarity, and makes us act with unusual determination and foresight" (Noos and Noein in the Homeric Poems, pp. 87-88).
 
-TODO: I need to investigate Aristotle's key concepts in light of ancient usage, esp. Homer.
-
 When Aristotle says that aliveness (psyche) is the first fulfillment (entelecheia) of a body having organs, he means to identify the full set of capacities (dunameis) that result from having the specialized parts or kinds of biological tool (organ) that enable an animal to complete the varieties of task (ergon) that comprise its way of life (bios).
 
 As quoted by Hardie (p. 96), Joachim notes that "passions [pathe], faculties [dunameis], and states [hexeis] fall into an order which depends upon 'the extent to which the thing's own being is involved in the qualification'." This is connected to Furth's main argument, and the order of aretai in the ethical treatises.
 
 At 1141a17-20, Aristotle says that sophia is knowledge (episteme) combined with insight (nous) - knowledge of the highest objects which has received its crown (kephale - perhaps as megalopsuchia (NE) or kalokagathia (EE) is the kosmos of the aretai.
 
-TODO: look into the relations between skepsis, skopein, skeptomai, and skopos; cf. Segvic p. 150.
-
-TODO: re-read Plato's Euthydemus on having vs using and on using rightly vs wrongly.
-
 Possible shorthand: the life of pleasure focuses on the self; the "political" life focuses on community; the "contemplative" life focuses on truth.
-
-TODO: check the Rhetoric, Politics, GC, and PN (on old age) for hints about life stages, and Plato too. See also Reeve 2012, pp. 269-270.
 
 Additional lives beyond making money, having fun, giving back, and seeking truth: enlightened hedonism (would Aristotle recognize this as legitimate?), householding (oikonomike), work as a calling (service, craftsmanship, teamwork), etc.
 
@@ -404,8 +388,6 @@ There are two major obstacles to human fulfillment. First is the greedy pursuit 
 
 The hexeis are more like verbs than nouns, more like activities than things one has. Thus episteme is understanding rather than knowledge and nous is insight rather than intellect. Think about how to highlight this aspect for phronesis ("minding") and sophia ("truthing"?), and even techne ("crafting"?). In general, then, the hexeis are active traits or traitful practices; compare to prohairesis as reflective desire or desiderative reflection.
 
-TODO: Investigate the connection among hupolepsis, epamphoterizein, epallaxis, psellizein, epoche, and doxa (specifically, becoming adoxastos).
-
 Eudaimonia is an entelecheia: fulfullment is the culmination of all one's activities, of everything one has done and felt and experienced and come to understand.
 
 The "supervenience" of pleasure (Shields 2011) is connected to Plato's primary argument in the Philebus: enjoyable awareness completes the activity.
@@ -442,7 +424,6 @@ Make a note somewhere early on about ancient vs. modern senses of the word "ethi
 
 On "material" preconditions (hypothetical necessities) of action, make a connection between PA and EE via Furth, Irwin, and Lennox.
 
-With regard to the ethical proviso "if nothing impedes", one of the distinctive aspects of human beings is that such impediments can be internal: misunderstanding, self-deception, etc. (see my notes on LENNOX p 207 as well as JOHNSON p. 166). Interestingly, not only can misfortune impede many activities (1100b29-30, quoted at IRWIN-1988 pp. 368-369), but excessively *good* fortune can impede eudaimonia (1153b23, quoted at REEVE-1995 P. 121; see also ROCHE-2014 p. 48 on the lack of certain external goods as an impediment). The fact that enjoyment is unimpeded energeia (1153a12-15, cf. 1153b14-19, 1174b31-1175a1) is relevant here. See also SPARSHOTT p. 256, STERN-GILLET p. 27, WALKER-2018 p. 104. TODO: consult Bonitz on empodizo and related terms.
 
 On completeness and "lacking in nothing" see Burnet on Metaphysics 1021b2ff.
 
@@ -456,8 +437,6 @@ Aristotle says that we put arete to *use*: the point is not to have the virtues 
 
 Because the hou heneka "takes the place of the kalon", understanding the opposites of the hou heneka (maten, etuche, alogos, periergon, ateles) can help us understand the nature of the kalon; see Johnson pp. 80-82.
 
-According to Rogers in her paper on τὸ καλόν, ἠρεμία means "equilibrium" (she cites EE 1218a21-24 and also points to PA 645a23-25, Metaphysics 1078a36-b1, Politics 1326a29-35, Poetics 1450b34-37). Yet according to LSJ the word seems to mean stillness - i.e., the opposite of kinesis, as in Aristotle's Physics. Related terms include serenity and ataraxia or its equivalent (e.g., at EE 1222a5). TODO: consult Bonitz on these words.
-
 CHARLES-2015 p. 86 claims that "The self-controlled ... are characterised as acting on opinion [doxa] and not on knowledge [episteme]." Do the akrates and mochtheros act on the basis of doxa, too, or something less reliable (e.g., true opinion for the enkrates vs false opinion for the akrates vs self-deception for the mochtheros)?
 
 If zōē means *life-activity* (in contrast to bios as a way of life), then it seems that zōē is a specific form, and perhaps the canonical form, of energeia.
@@ -466,15 +445,13 @@ Several authors suggest that pleasure and pain are intensifications of awareness
 
 While writing, words to avoid include: values, behavior, habit, rules, duty, ought, reason, ethics, morality, happiness.
 
-Instead of "value", use "worth" (axia), for instance at EN 1123b17. TODO: consult Bonitz.
-
 It seems that every hexis is a kind of knowing how (e.g., episteme is knowing how to explain why something is the way it is); this needs to be spelled out in more detail for each hexis.
 
 PRICE, p. 245 mentions several passages where Aristotle talk about chrēsthai (1146b32, 1147a2, a10), theorein (1146b33-35), and energein (1147a6, a33) in relation to hexeis; see also DA II.1 412a10-11, DA II.5 417a21-b2, and Metaphysics V.7 1017a35-b6.
 
 The chapter on modern practice is a good place to work in the material on positive psychology, Haybron, Arendt, etc.
 
-TODO: I need to gain a better understanding of "the mean relative to us" (pros hemin). Passages to review include Categories 6a36-b6 and 6b15-21; Topics 124b25-27, 128b36-129a17, 143a11, 145a25-27, and 146b9-10; Metaphysics I.1 981a18-20; EN 1097a8-13 and 1180b7-23; Politics IV.11 1295a35-39. See also ACHTENBERG-1991, p. 60, BEERE p. 300, BROWN p. 71, REEVE 2012 p. 111, etc. Note that arete is relative to the ergon (i.e., the telos), stages of maturation are relative to the akme (and thus for the sake of the ergon/telos), etc.
+Action Items...
 
 Identify passages where Aristotle discusses deception (apate); e.g., 1113a33 (cf Segvic pp. 131-132). Related to this, dig more deeply into the role of appearance / phantasia (cf Sherman p. 32, Reeve 1995 p. 49, etc.). TODO: consult Bonitz on apate.
 
@@ -488,10 +465,32 @@ We come to completion through working at our task. Cf EE 1219a8 and Reeve 1995 p
 
 For Aristotle, beauty is not prettiness but something like Schiller's "living form" (Letter XV); see also IRWIN-2011 pp. 242-243. To live beautifully is to give form to one's life and to create a seamless equilibrium between matter and form - a wholeness that completes one's existence and experience.
 
-TODO: think about the sense in which "the hexis is in the energeia" at EN 1174b31-33.
-
 Regarding the relationship between the telos and the skopos (cf. Sparshott) - i.e., making fulfillment your aim - it might help to apply my concept of "thinking in six directions". There are bottom-up aspects (e.g., seeing opportunities for fulfillment in particular aims, understanding how your aims help move you in the direction of fulfillment) and top-down aspects (e.g., reflecting on the nature of human fulfillment in general, committing more seriously to ideals after deliberation); there are reflective aspects (personal history, upbringing, maturation, learning from experience) and aspirational aspects (future projects, relationships, activities, achievements); there are interpersonal aspects (love, friendship, community, collaboration) and internal aspects (interests, drives, goals, aptitudes, etc.).
 
 When we say that life or a certain way of life or eudaimonia is "preferable" (my preferred rendering of "haireta"), the question arises: preferable to what? The primary sense might be preferable to having never been born ("Not to be born is, beyond all estimation, best." - Sophocles, Oedipus at Colonus, 1225). Secondarily, one way of life is preferable to others, flourishing is preferable to languishing, fulfillment / eudaimonia is preferable to misery / athliotēs, etc.
+
+At EN 1174b31-33, Aristotle mentions that "the trait [hexis] is in the activity [energeia]". There might be several ways to unfold this insight: skills, abilities, and know-how that have been learned,  practiced, and readied are activated, enacted, and brought to fruition; past preparation and future aspiration are concentrated together in the supreme moment [kairos] of action; all that was latent shines forth as vibrantly real and beautifully alive.
+
+TODO: Investigate the dialectical progression in the EN and EE regarding the meaning of theoria (Pericles passage, akrasia, philia, bios theoretikos).
+
+TODO: Also investigate the criteria for divinity (e.g., purity, eternality, lack of change).
+
+TODO: Think through the links among the eudaimonia criteria (finality, self-sufficiency, etc.), the divinity criteria (eternality, activity, independence, etc.), and the beauty criteria (coherence, proportion, order, etc.).
+
+TODO: Investigate Aristotle's key concepts in light of ancient usage, esp. Homer.
+
+TODO: look into the relations between skepsis, skopein, skeptomai, and skopos; cf. Segvic p. 150.
+
+TODO: check the Rhetoric, Politics, GC, and PN (on old age) for hints about life stages, and Plato too. See also Reeve 2012, pp. 269-270.
+
+TODO: Investigate the connection among hupolepsis, epamphoterizein, epallaxis, psellizein, epoche, and doxa (specifically, becoming adoxastos).
+
+With regard to the ethical proviso "if nothing impedes", one of the distinctive aspects of human beings is that such impediments can be internal: misunderstanding, self-deception, etc. (see my notes on LENNOX p 207 as well as JOHNSON p. 166). Interestingly, not only can misfortune impede many activities (1100b29-30, quoted at IRWIN-1988 pp. 368-369), but excessively *good* fortune can impede eudaimonia (1153b23, quoted at REEVE-1995 P. 121; see also ROCHE-2014 p. 48 on the lack of certain external goods as an impediment). The fact that enjoyment is unimpeded energeia (1153a12-15, cf. 1153b14-19, 1174b31-1175a1) is relevant here. See also SPARSHOTT p. 256, STERN-GILLET p. 27, WALKER-2018 p. 104. TODO: onsult Bonitz on empodizo and related terms.
+
+According to Rogers in her paper on τὸ καλόν, ἠρεμία means "equilibrium" (she cites EE 1218a21-24 and also points to PA 645a23-25, Metaphysics 1078a36-b1, Politics 1326a29-35, Poetics 1450b34-37). Yet according to LSJ the word seems to mean stillness - i.e., the opposite of kinesis, as in Aristotle's Physics. Related terms include serenity and ataraxia or its equivalent (e.g., at EE 1222a5). TODO: consult Bonitz on these words.
+
+Instead of "value", use "worth" (axia), for instance at EN 1123b17; see Arendt. TODO: consult Bonitz.
+
+TODO: I need to gain a better understanding of "the mean relative to us" (pros hemin). Passages to review include Categories 6a36-b6 and 6b15-21; Topics 124b25-27, 128b36-129a17, 143a11, 145a25-27, and 146b9-10; Metaphysics I.1 981a18-20; EN 1097a8-13 and 1180b7-23; Politics IV.11 1295a35-39. See also ACHTENBERG-1991, p. 60, BEERE p. 300, BROWN p. 71, REEVE 2012 p. 111, etc. Note that arete is relative to the ergon (i.e., the telos), stages of maturation are relative to the akme (and thus for the sake of the ergon/telos), etc.
 
 END
