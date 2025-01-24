@@ -471,25 +471,23 @@ When we say that life or a certain way of life or eudaimonia is "preferable" (my
 
 At EN 1174b31-33, Aristotle mentions that "the trait [hexis] is in the activity [energeia]". There might be several ways to unfold this insight: skills, abilities, and know-how that have been learned,  practiced, and readied are activated, enacted, and brought to fruition; past preparation and future aspiration are concentrated together in the supreme moment [kairos] of action; all that was latent shines forth as vibrantly real and beautifully alive.
 
-TODO: Investigate the dialectical progression in the EN and EE regarding the meaning of theoria (Pericles passage, akrasia, philia, bios theoretikos).
+With regard to the proviso "if nothing hinders", one of the distinctive aspects of human beings is that such hindrances can be internal: misunderstanding, self-deception, inborn temperament, etc. (see my notes on LENNOX p 207 as well as JOHNSON p. 166). Naturally there are external hindrances, too: not only can misfortune - poverty, ill health, and the like - hinder many activities (1100b29-30, quoted at IRWIN-1988 pp. 368-369; see also ROCHE-2014 p. 48 on the lack of certain external goods as a hindrance), but according to Aristotle excessively *good* fortune - great wealth, high status, absolute power, wide fame, aristocratic birth, good looks, etc. - can also hinder eudaimonia (1153b23, quoted at REEVE-1995 P. 121). Additional hindrances can arise through the forming but also deforming influences of culture, law, and governance in the inevitably imperfect societies we are born into (cf SMITH). The fact that enjoyment is unhindered or "free-flowing" energeia (1153a12-15, cf. 1153b14-19, 1174b31-1175a1) is relevant here. See also SPARSHOTT p. 256, STERN-GILLET p. 27, WALKER-2018 p. 104.
 
-TODO: Also investigate the criteria for divinity (e.g., purity, eternality, lack of change).
+Instead of "value", use "worth" (axia), for instance at EN 1123b17; see ARENDT-1958. Also, instead of "values", use "commitments".
+
+TODO: Investigate the dialectical progression in the EN and EE regarding the meaning of theoria (Pericles passage, akrasia, philia, bios theoretikos).
 
 TODO: Think through the links among the eudaimonia criteria (finality, self-sufficiency, etc.), the divinity criteria (eternality, activity, independence, etc.), and the beauty criteria (coherence, proportion, order, etc.).
 
 TODO: Investigate Aristotle's key concepts in light of ancient usage, esp. Homer.
 
-TODO: look into the relations between skepsis, skopein, skeptomai, and skopos; cf. Segvic p. 150.
+TODO: Look into the relations between skepsis, skopein, skeptomai, and skopos; cf. Segvic p. 150.
 
-TODO: check the Rhetoric, Politics, GC, and PN (on old age) for hints about life stages, and Plato too. See also Reeve 2012, pp. 269-270.
+TODO: Check the Rhetoric, Politics, GC, and PN (on old age) for hints about life stages, and Plato too. See also Reeve 2012, pp. 269-270.
 
 TODO: Investigate the connection among hupolepsis, epamphoterizein, epallaxis, psellizein, epoche, and doxa (specifically, becoming adoxastos).
 
-With regard to the ethical proviso "if nothing impedes", one of the distinctive aspects of human beings is that such impediments can be internal: misunderstanding, self-deception, etc. (see my notes on LENNOX p 207 as well as JOHNSON p. 166). Interestingly, not only can misfortune impede many activities (1100b29-30, quoted at IRWIN-1988 pp. 368-369), but excessively *good* fortune can impede eudaimonia (1153b23, quoted at REEVE-1995 P. 121; see also ROCHE-2014 p. 48 on the lack of certain external goods as an impediment). The fact that enjoyment is unimpeded energeia (1153a12-15, cf. 1153b14-19, 1174b31-1175a1) is relevant here. See also SPARSHOTT p. 256, STERN-GILLET p. 27, WALKER-2018 p. 104. TODO: onsult Bonitz on empodizo and related terms.
-
 According to Rogers in her paper on τὸ καλόν, ἠρεμία means "equilibrium" (she cites EE 1218a21-24 and also points to PA 645a23-25, Metaphysics 1078a36-b1, Politics 1326a29-35, Poetics 1450b34-37). Yet according to LSJ the word seems to mean stillness - i.e., the opposite of kinesis, as in Aristotle's Physics. Related terms include serenity and ataraxia or its equivalent (e.g., at EE 1222a5). TODO: consult Bonitz on these words.
-
-Instead of "value", use "worth" (axia), for instance at EN 1123b17; see Arendt. TODO: consult Bonitz.
 
 TODO: I need to gain a better understanding of "the mean relative to us" (pros hemin). Passages to review include Categories 6a36-b6 and 6b15-21; Topics 124b25-27, 128b36-129a17, 143a11, 145a25-27, and 146b9-10; Metaphysics I.1 981a18-20; EN 1097a8-13 and 1180b7-23; Politics IV.11 1295a35-39. See also ACHTENBERG-1991, p. 60, BEERE p. 300, BROWN p. 71, REEVE 2012 p. 111, etc. Note that arete is relative to the ergon (i.e., the telos), stages of maturation are relative to the akme (and thus for the sake of the ergon/telos), etc.
 
