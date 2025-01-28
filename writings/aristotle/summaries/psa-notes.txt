@@ -451,16 +451,6 @@ PRICE, p. 245 mentions several passages where Aristotle talk about chrēsthai (1
 
 The chapter on modern practice is a good place to work in the material on positive psychology, Haybron, Arendt, etc.
 
-Action Items...
-
-Identify passages where Aristotle discusses deception (apate); e.g., 1113a33 (cf Segvic pp. 131-132). Related to this, dig more deeply into the role of appearance / phantasia (cf Sherman p. 32, Reeve 1995 p. 49, etc.). TODO: consult Bonitz on apate.
-
-TODO: I need to locate the passage in which Aristotle states that he has not sought wealth or power.
-
-TODO: I need to research Aristotle's conception of freedom (cf Constant, Garver, Sparshott, Miller, Physics 199b15-18, etc.). TODO: consult Bonitz on eleutheria.
-
-TODO: I need to look more closely at Topics VIII.5 on dialectic for the purposes of inquiry, not contention (cf. Nussbaum).
-
 We come to completion through working at our task. Cf EE 1219a8 and Reeve 1995 p. 123.
 
 For Aristotle, beauty is not prettiness but something like Schiller's "living form" (Letter XV); see also IRWIN-2011 pp. 242-243. To live beautifully is to give form to one's life and to create a seamless equilibrium between matter and form - a wholeness that completes one's existence and experience.
@@ -475,6 +465,12 @@ With regard to the proviso "if nothing hinders", one of the distinctive aspects 
 
 Instead of "value", use "worth" (axia), for instance at EN 1123b17; see ARENDT-1958. Also, instead of "values", use "commitments".
 
+For Aristotle, freedom (eleutheria) means not liberty or license (exousia) to do whatever one pleases, but freedom from the necessity to work, as servants must do, or even to earn a living, as craftsman must do. In this way it might be more similar to what we call financial independence than to modern notions of political liberty. Among other things, freedom from necessity magnifies the worth of leisure (schole) and the glorious (timios) activities we pursue simply because they are beautiful (kalos) things to do. "The free person exists for his own sake, not for someone else" (982b26); this hou heneka identifies the beneficiary. "In the best form of governance, [the citizen] is one who has the ability (dunamis) and commitment (prohairesis) to be ruled and to rule, conducing (pros) to a life guided by excellence (kata ten areten)" (1284a1-3). "One need not think that living by the constitution (politeia) is a kind of servitude, but one's preservation (soteria)" (1310a34-6); indeed, adherence to the best kind of law (a form of depersonalized reason) helps to save one's thinking and character, just as ethical moderation (sophrosune) does.
+
+Action Items...
+
+TODO: Identify passages where Aristotle discusses deception (apate); e.g., 1113a33 (cf Segvic pp. 131-132). Related to this, dig more deeply into the role of appearance / phantasia (cf Sherman p. 32, Reeve 1995 p. 49, etc.). Consult Bonitz on apate.
+
 TODO: Investigate the dialectical progression in the EN and EE regarding the meaning of theoria (Pericles passage, akrasia, philia, bios theoretikos).
 
 TODO: Think through the links among the eudaimonia criteria (finality, self-sufficiency, etc.), the divinity criteria (eternality, activity, independence, etc.), and the beauty criteria (coherence, proportion, order, etc.).
@@ -487,8 +483,12 @@ TODO: Check the Rhetoric, Politics, GC, and PN (on old age) for hints about life
 
 TODO: Investigate the connection among hupolepsis, epamphoterizein, epallaxis, psellizein, epoche, and doxa (specifically, becoming adoxastos).
 
-According to Rogers in her paper on τὸ καλόν, ἠρεμία means "equilibrium" (she cites EE 1218a21-24 and also points to PA 645a23-25, Metaphysics 1078a36-b1, Politics 1326a29-35, Poetics 1450b34-37). Yet according to LSJ the word seems to mean stillness - i.e., the opposite of kinesis, as in Aristotle's Physics. Related terms include serenity and ataraxia or its equivalent (e.g., at EE 1222a5). TODO: consult Bonitz on these words.
+TODO: According to Rogers in her paper on τὸ καλόν, ἠρεμία means "equilibrium" (she cites EE 1218a21-24 and also points to PA 645a23-25, Metaphysics 1078a36-b1, Politics 1326a29-35, Poetics 1450b34-37). Yet according to LSJ the word seems to mean stillness - i.e., the opposite of kinesis, as in Aristotle's Physics. Related terms include serenity and ataraxia or its equivalent (e.g., at EE 1222a5). Consult Bonitz on these words.
 
 TODO: I need to gain a better understanding of "the mean relative to us" (pros hemin). Passages to review include Categories 6a36-b6 and 6b15-21; Topics 124b25-27, 128b36-129a17, 143a11, 145a25-27, and 146b9-10; Metaphysics I.1 981a18-20; EN 1097a8-13 and 1180b7-23; Politics IV.11 1295a35-39. See also ACHTENBERG-1991, p. 60, BEERE p. 300, BROWN p. 71, REEVE 2012 p. 111, etc. Note that arete is relative to the ergon (i.e., the telos), stages of maturation are relative to the akme (and thus for the sake of the ergon/telos), etc.
+
+TODO: Locate the passage in which Aristotle states that he has not sought wealth or power.
+
+TODO: Look more closely at Topics VIII.5 on dialectic for the purposes of inquiry, not contention (cf. Nussbaum).
 
 END
