@@ -1,4 +1,4 @@
-These are gleanings from my readings in Aristotle, Plato, and the secondary literature.
+These are gleanings from my readings in Aristotle, Plato, and the secondary literature...
 
 "Nothing is complete unless it has a telos." (207a15) By extension, nothing is fulfilled unless it has become fully what it is. Specifically, to attain fulfillment is to have fully developed as a human being.
 
@@ -471,6 +471,8 @@ According to Rogers in her paper on τὸ καλόν, ἠρεμία means "equil
 
 In a discussion of too little and too much and the intermediate at EN 1106a26ff, Aristotle draws a contrast between how these phenomena apply "to us" (πρὸς ἡμᾶς) and "in the thing" (τοῦ πράγματος); in the equivalent Eudemian passage at EE 1220b21ff, he draws a similar contrast between "to us" (πρὸς ἡμᾶς) and "to each other" (πρὸς ἄλληλα). The phrase πρὸς ἡμᾶς is usually translated as "relative to us". Things that are relative to something else include hexis, episteme, and aisthesis - some of these in a double sense (perception *of* an object exists *in* an animal, an acquired trait is a state *of* a person *in relation to* an energeia or ergon, etc.). Most relations admit of the more and the less, and thus also of an intermediate that steers clear of the extremes; this might be why a sense organ is a kind of mean (426a27ff). Note that arete is related to the ergon (i.e., the telos), stages of maturation are related to the akme (and thus for the sake of the ergon/telos), and so on. (Relevant passages include Categories 6a36-b6 & 6b15-21; Topics 124b25-27, 128b36-129a17, 143a11, 145a25-27, & 146b9-10; Metaphysics 981a18-20; EN 1097a8-13, 1106a28, 1109b1–7, 1120b7–10, 1139a16-16, & 1180b7-23; EE 1220b21-30; Politics 1260a20ff, 1260a31–33, 1295a35-39; see also ACHTENBERG-1991, p. 60, BEERE p. 300, BROWN p. 71, REEVE 2012 p. 111, etc.) Also relevant is the difference between τὸ μέσον as what is intermediate in doing and feeling vs arete as a μεσότης (in effect, a μεσότης ἕξις) that produces τὸ μέσον. BROWN-1997 argues that in the examples of medical doctors and physical trainers, it is the expert who needs to wisely find the mean for the patient in a way that is not relative to the expert decider, much as the phronimos wisely finds the mean in ethical action and feeling, thus setting a standard that others emulate. Although this feels like a stretch, it would be consistent with Aristotle's contention that τὸ μέσον πρὸς ἡμᾶς 'is best because it is what episteme and logos prescribe' (EE 1220b27?), even though not everyone is able to attain it or to do so with the same ease. Note also that 'each sort of person' at 1295a37? is not an individual but a *type* of person. Despite all the controversy about these passages, in the end Aristotle's main point might be to knock the "arithmetical intermediate" out of contention as a viable rule for deliberation.
 
+Hints about life stages (e.g., based on wisdom and experience) can be found in the Post. An. (99b33-100b5), Topics (117a25-36), GC (316a5-12), DA (436a14), HA (479a30), EN (1095a2-11, 1103a16, 1118b11, 1128b17, 1154b10, 1156a32-b5, 1179b31, 1180b18, 1181a2-19), EE (1141b18, 1142a15-19, 1143b11ff), Politics (esp. VII.9, e.g., 1329a15 but also 1340b15, 1369a9), Rhetoric (1389a3-1390b11), Rhetoric to Alexander (1437a39-b8), etc. Plato is also relevant, esp. Republic 328d-e, 329a-d, 331a, 412c, and 540a. See also DAHL p. 87, NATALI pp. 137-138, and REEVE-2012 pp. 269-270.
+
 Action Items...
 
 TODO: Identify passages where Aristotle discusses deception (apate); e.g., 1113a33 (cf Segvic pp. 131-132). Related to this, dig more deeply into the role of appearance / phantasia (cf Sherman p. 32, Reeve 1995 p. 49, etc.). Consult Bonitz on apate.
@@ -482,8 +484,6 @@ TODO: Think through the links among the eudaimonia criteria (finality, self-suff
 TODO: Investigate Aristotle's key concepts in light of ancient usage, esp. Homer.
 
 TODO: Look into the relations between skepsis, skopein, skeptomai, and skopos; cf. Segvic p. 150.
-
-TODO: Check the Rhetoric, Politics, GC, and PN (on old age) for hints about life stages, and Plato too. See also Reeve 2012, pp. 269-270.
 
 TODO: Investigate the connection among hupolepsis, epamphoterizein, epallaxis, psellizein, epoche, and doxa (specifically, becoming adoxastos).
 
