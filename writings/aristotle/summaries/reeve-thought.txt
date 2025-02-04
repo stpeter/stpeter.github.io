@@ -1,0 +1,8 @@
+Aristotle on the Virtues of Thought
+C.D.C. Reeve
+In Kraut, ed., The Blackwell Guide to Aristotle's Nicomachean Ethics
+Blackwell, 2006
+
+"Note the language in which Aristotle characterizes the intellectual states he marks out in book 6. Just as the general account of virtue defines it as a dispositional capacity for reasoned choice, a hexi prohairetike (1106b36), so understanding (episteme) is characterized by Aristotle as a dispositional capacity for showing how things are, a hexis apodeiktike (1139b31-32) and art (techne) as a dispositional capacity for making things, a hexis poietike (1140a11). Finally, practical wisdom (phronesis) is a dispositional capacity for acting, a hexis praktike (1140b7-8). Together, these formal definitions reveal the kinship in Aristotle's thinking between the ready capacities for cognitive activity and those for moral choice, that is, between virtues of theoretical thought and virtues of character-based and reasoned deliberate choice. That kinship is further revealed by the prominence among these virtues of phronesis, the virtue traditionally termed prudence, but now more often known, revealingly, as practical wisdom. As though it were a hybrid, but nevertheless unified virtue, phronesis is the virtue of *knowing* how to *act*: a reasoned capacity for reasoned action." (REEVE-2006, pp. 294-295)
+
+END
