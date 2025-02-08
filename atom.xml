@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-01-20</modified>
+  <modified>2025-02-08</modified>
+  <entry>
+    <title>Moving Slow</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1935.html"/>
+    <id>tag:stpeter.im,1935</id>
+    <issued>2025-02-08</issued>
+    <modified>2025-02-08</modified>
+    <summary>Several factors have conspired recently to slow down my pace of posting. Not only have I been working through a difficult and distracting family matter, but I've been questioning some of my existing commitments. Among other things, I've decided to conclude my philosophical coaching and startup advising activities. Although these were intriguing experiments and I enjoyed working with several people, I have my doubts about how truly helpful I was; more generally, I doubt that I am cut out for the helping professions. As a result, I'll be shutting down my philosopher.coach website and in the future posting only at stpeter.im (however, I won't rule out a move to Substack, at least for some of my mid-length writings)....</summary>
+  </entry>
   <entry>
     <title>Musical Wisdom</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1934.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-12-20</issued>
     <modified>2024-12-20</modified>
     <summary>My publication activity at the Monadnock Valley Press waxes and wanes; 2022 was a busy year, 2023 was relatively quiet, and in 2024 I republished more works from the public domain than in any previous year since founding the site in 2008 (e.g., I published on 118 separate days this year, whereas the average in previous years was 18!). This time around the haul included:...</summary>
-  </entry>
-  <entry>
-    <title>Value vs. Worth</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1929.html"/>
-    <id>tag:stpeter.im,1929</id>
-    <issued>2024-12-10</issued>
-    <modified>2024-12-10</modified>
-    <summary>In her book The Human Condition, Hannah Arendt argues that there is a subtle yet essential difference between value and worth: the concept of value is irreducibly social because it first emerged only within modern market economies where everything can be exchanged for everything else, whereas the worth of a person or artifact or living being is inherent within its own independent existence. Thus, according to Arendt, philosophers made a grave mistake when they imported the concept of value into politics, ethics, and aesthetics (the so-called "value branches" of philosophical inquiry). Consider, for instance, what happens when we speak of the relative value of the life of inquiry and contemplation vs. the life of social and political engagement vs. the life of making money vs. the life of pleasure and enjoyment. In modern times these wildly disparate ways of life are all on an equal footing of "value", which means we need to find a common standard of measurement for them. Just as in the market everything can and must be valued in terms of money, so now in ethics everything can and must be valued in terms of what the psychologists call subjective well-being, i.e., pleasurable feelings. As a result, the concept of value leads inexorably to a lowest-common-denominator utilitarianism. By contrast, the concept of worth helps us keep separate things that should be kept separate; as a result, we can come to understand that these ways of life are far from commensurable and that some of them are fundamentally better than others. Yet deliberating about worth takes more intellectual effort and moral courage (not to mention the fact that it can seem positively undemocratic), which could be why many people prefer to avoid it......</summary>
   </entry>
 </feed>
