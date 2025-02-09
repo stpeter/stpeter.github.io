@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-02-08</modified>
+  <modified>2025-01-21</modified>
+  <entry>
+    <title>Inwardly Free</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1936.html"/>
+    <id>tag:stpeter.im,1936</id>
+    <issued>2025-01-21</issued>
+    <modified>2025-01-21</modified>
+    <summary>A while back I learned of a poet and historian named Peter Viereck (1916-2006), who not only won the Pulitzer Prize for poetry in 1949 but also wrote insightful books of social and literary criticism in the American individualist tradition of Emerson, Thoreau, and Randolph Bourne. In his now-forgotten book The Unadjusted Man, published in 1956, Viereck celebrated the kind of person who dodges the pressures of conformity (what he called "overadjustment") to maintain a measure of intellectual independence. Here is a fine passage about one path to becoming an "unadjusted man":...</summary>
+  </entry>
   <entry>
     <title>Moving Slow</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1935.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-12-20</issued>
     <modified>2024-12-20</modified>
     <summary>Although I don't make New Year's resolutions, inevitably one does think about priorities as the year winds down. One realization I've come to recently is that I need to finish off more of my long-term projects. Because my Aristotle book is the farthest along (I've been researching it for five years!), I'm recommitting to it in hopes of completing a first draft by the end of 2025. This means that I'll have to cut back somewhat on blogging, pair reading, public-domain publishing at the Monadnock Valley Press, catching up on news and long-form cultural analysis, etc. Instead, I'll be reviewing the book and article summaries I've created, improving the outline, drafting and honing the text, identifying chapter epigraphs, and so on. Where appropriate, I'll continue to use my weblog to work out my thinking on various Aristotelian themes; however, I might be posting less frequently on other topics....</summary>
-  </entry>
-  <entry>
-    <title>Monadnock Valley Press Annual Report 2024</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1930.html"/>
-    <id>tag:stpeter.im,1930</id>
-    <issued>2024-12-20</issued>
-    <modified>2024-12-20</modified>
-    <summary>My publication activity at the Monadnock Valley Press waxes and wanes; 2022 was a busy year, 2023 was relatively quiet, and in 2024 I republished more works from the public domain than in any previous year since founding the site in 2008 (e.g., I published on 118 separate days this year, whereas the average in previous years was 18!). This time around the haul included:...</summary>
   </entry>
 </feed>
