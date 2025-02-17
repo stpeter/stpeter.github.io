@@ -8,7 +8,7 @@ tr. J.L. Stocks
 
 "The ancients gave to the gods the heaven or upper place, as being alone immortal; and our present argument testifies that it is indestructible [aphthartos] and ungenerated [agenetos]. Further, it is unaffected [apathes] by any mortal discomfort [thnetes duschereias], and, in addition, effortless [aponos]; for it needs no constraining necessity to keep it to its path, and prevent it from moving with some other movement more natural to itself. Such a constrained movement would necessarily involve effort - the more so, the more eternal it were - and would be inconsistent with perfection.... Nor, again, is it possible that it should persist eternally by the necessitation of a soul. For a soul could not live in such conditions painlessly [alupon] or happily [makarian], since the movement involves constraint, being imposed on the first body whose natural motion is different, and imposed continuously. It must therefore be uneasy [ascholon] and devoid of all rational satisfaction; for it could not even, like the soul of mortal animals, take recreation in the bodily relaxation of sleep." (284a11-34)
 
-"Everything which has a function exists for its function [hekaston estin, hon estin ergon, heneka tou ergou]." (286a8-9) 
+"Everything which has a function exists for its function [hekaston estin, hon estin ἔργον, heneka tou ergou]." (286a8-9) 
 
 "We regard the zeal of one whose thirst after philosophy leads him to accept even slight indications where it is very difficult to see one's way, as a proof rather of modesty than of over-confidence." (291b25-29)
 
@@ -18,7 +18,7 @@ tr. J.L. Stocks
 
 "Things that we call natural are either substances or functions [erga] and attributes [pathe] of substances.... By attributes and functions I mean the movements of these [simple bodies, animals and their parts, etc.] and of all other things in which they have power in themselves to cause movement, and also their alterations and reciprocal transformations." (298a26-298b1)
 
-"The most important differences of bodies are those of property [pathos], function [ergon], and power [dunamis]; for every natural body has, we maintain, its own functions, properties, and powers." (307b20-23)
+"The most important differences of bodies are those of property [pathos], function [ἔργον], and power [dunamis]; for every natural body has, we maintain, its own functions, properties, and powers." (307b20-23)
 
 "There is no reason why there should not be one or more intermediates between the contraries, as in the case of colour; for 'intermediate' [metaxu] and 'mean' [meson] are capable of more than one application." (312b1-2)
 
