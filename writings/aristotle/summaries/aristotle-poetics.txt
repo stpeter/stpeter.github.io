@@ -2,7 +2,7 @@ Poetics
 Aristotle
 tr. Joe Sachs
 
-"[T]hose doing the imitating imitate people acting [prattontas] and it is necessary that the latter be people either of serious moral stature [spoudaios] or of a low sort [phaulos]...." (1448a1-2)
+"[T]hose doing the imitating imitate people acting [prattontas] and it is necessary that the latter be people either of serious moral stature [σπουδαῖος] or of a low sort [phaulos]...." (1448a1-2)
 
 "[U]nderstanding [manthanei = learning] is most pleasant not only for philosophers but in a similar way for everyone else, though they share in it to a short extent. They delight in seeing images for this reason: because understanding and reasoning out [sullogizesthai] what each thing is results when they contemplate them [theorountas]...." (1448b13-16)
 
@@ -10,15 +10,15 @@ tr. Joe Sachs
 
 "[T]he ridiculous [geloion] is a certain sort of missing the mark [hamartema] and a deformity that is painless and not destructive...." (1449a34-35)
 
-"Tragedy, then, is an imitation of an action of serious stature [spoudaios] and complete [teleios], having magnitude [megethos]...." (1449b24-25) [PSA: I might render megethos as "grandeur".]
+"Tragedy, then, is an imitation of an action of serious stature [spoudaios] and complete [teleios], having magnitude [μέγεθος]...." (1449b24-25) [PSA: I might render μέγεθος as "grandeur".]
 
 "[A]ction is performed by particular people engaged in action, who must necessarily be of some particular sort in both character [ethos] and thinking [dianoia] (for it is on account of these that we say the actions too are of certain sorts, and as a result of *these* that everyone succeeds or fails....  [B]y 'states of character' I mean that as a result of which we say the people who act are of certain particular sorts, and by 'thinking' all those thins they saw in which they demonstrate something [apodeiknumi] or even declare an opinion...." (1449b36-1450a7)
 
-Of the aspects of a tragedy, "the greatest of these is the organization [sunesis] of the things done. For tragedy is an imitation not of people but of actions [praxeis] and life [bios]. Both happiness [eudaimonina] and wretchedness [kakodaimonia] consist in action, and the end [telos] is a certain sort of action, not a quality [poiotes]; while people are of certain sorts as a result of their characters, it is as a result of their actions that they are happy or the opposite. Therefore, it is not that they act in order that they might imitate states of character; rather, they include states of character conjointly on account of the actions. So the actions performed and the story are the end of tragedy, and the end is the greatest of all things." (1450a15-23)
+Of the aspects of a tragedy, "the greatest of these is the organization [sunesis] of the things done. For tragedy is an imitation not of people but of actions [praxeis] and life [bios]. Both happiness [eudaimonina] and wretchedness [kakodaimonia] consist in action, and the end [τέλος] is a certain sort of action, not a quality [poiotes]; while people are of certain sorts as a result of their characters, it is as a result of their actions that they are happy or the opposite. Therefore, it is not that they act in order that they might imitate states of character; rather, they include states of character conjointly on account of the actions. So the actions performed and the story are the end of tragedy, and the end is the greatest of all things." (1450a15-23)
 
-"[T]ragedy is an imitation of an action that is complete [teleois] and whole [holos] and that has some magnitude [megethos]...." (1450b23-25)
+"[T]ragedy is an imitation of an action that is complete [teleois] and whole [holos] and that has some magnitude [μέγεθος]...." (1450b23-25)
 
-"[W]hat is beautiful, both an animal and every organized thing made of any parts, needs not only to have these arranged in an orderly [tetagmena] way but also to start out with a magnitude [megethos] that is not random (beauty consisting in magnitude as well as order [taxis])...." (1450b34-37)
+"[W]hat is beautiful, both an animal and every organized thing made of any parts, needs not only to have these arranged in an orderly [tetagmena] way but also to start out with a magnitude [μέγεθος] that is not random (beauty consisting in magnitude as well as order [taxis])...." (1450b34-37)
 
 "[T]he parts of the actions performed ought to be organized in such a way that, when any part is displaced or removed, the whole becomes something different and changes. For that which makes no noticeable difference when it is there or not there is no part of the whole." (1451a32-35) [PSA: cf 1106b9-14]
 
