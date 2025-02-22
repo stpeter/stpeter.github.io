@@ -68,4 +68,20 @@ The story of Thales and the olive presses shows that "it is an easy thing for ph
 
 "These things and their like are the characteristic of tyranny and are safeguards of its rule, and there is no sort of vileness they leave out. One may say that they are all encompassed within three forms, for tyranny aims at three things. One is for its subjects to think small, since a small-souled person [μικρόψυχος] would not plot against anyone. A second is for them to distrust one another completely, since a tyranny cannot be overthrown until some people have trust among themselves. And this is the reason tyrants make war on decent people as detrimental to their rule - not just because such people do not think they deserve to be ruled like slaves by a master, but also because they are trusted, among themselves and by others, and do not inform on their own kind or anyone else. And the third aim is a lack of power for action, since no one attempts impossible things, and hence no one overthrows a tyranny if the power to do so is not there. So the ultimate terms into which the intentions of tyrants are reducible are just these three, since one may trace every tyrannical measure back to these three underlying purposes: making the people not trust each other, making them have no power, and making them think small." (1314a12-29)
 
+"For a license [ἐξουσία] to act however one wishes leaves no capacity to guard against the baser element [φαῦλον] in every human being." (1318b39-1319a1)
+
+"[M]ost people find it more pleasant to live an undisciplined life [τὸ ζῆν ἀτάκτως] than a moderate one [σωφρόνως]." (1318b31-32) [PSA: to live ἀτάκτως is to live without τάξις]
+
+"This is why one must first have agreement about which way of life [βίος] is most worthy of choice [αἱρετώτατος] for practically everyone." (1323a18-19)
+
+"[O]f the three classes of goods - external ones, those of the body, and those of the soul - all of them must belong to those who are blessedly happy [μακαρίοις]." (1323a25-27)
+
+"[L]iving happily, whether this is found by human beings in enjoyment or in virtue or both, belongs to a greater extent to those who have set in order [κεκοσμημένοις] their character [ἦθος] and thinking [διἀνοια] to the utmost and are moderate [μετριάζουσιν] about the acquisition [κτῆσις] of external goods." (1323b1-4)
+
+"[E]ach of the goods pertaining to the soul is more useful [χρήσιμον] to exactly the same extent that it goes on increasing, if indeed one ought to speak of these things too not only as beautiful [καλόν] but also as useful. And in general it is clear that we will maintain that the best conditions of a variety of things in relation to one another follow the ranking of priority which is allotted to those things of which we say they are the conditions. So if the soul is a more valuable [τιμιώτερον = more glorious] thing, both simply and for us, than both possessions and the body, then it is necessary that the best conditions of each have a relation corresponding to these things. Furthermore, it is the soul for the sake of which these things are naturally worthy of choice, and for the sake of which all those who think soundly [εὖ φρονοῦντας] ought to choose them, and not the soul for their sake." (1323b10-21)
+
+"[T]he best city is one that is happy and gets along beautifully. But it is impossible for those who do not perform beautiful actions to get along beautifully, and there is no beautiful deed [καλὸν ἔργον], whether of a man or of a city, apart from virtue and good judgment [χωρὶς ἀρετῆς καὶ φρονήσεως]. And courage, justice, good judgment, and moderation in a city have the same power and form that every human being who is called courageous, just, sensible, and moderate participates in." (1323a30-36)
+
+"[T]he best way of life [βίος ἄριστος], both separately for each person and in common for cities, is one equipped with virtue to such an extent that one can take part in the actions that proceed from virtue." (1323a40-1324a2)
+
 WIP
