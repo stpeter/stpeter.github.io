@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-02-09</modified>
+  <modified>2025-02-25</modified>
+  <entry>
+    <title>A Poem a Day Keeps the Doldrums Away</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1937.html"/>
+    <id>tag:stpeter.im,1937</id>
+    <issued>2025-02-25</issued>
+    <modified>2025-02-25</modified>
+    <summary>To keep my sanity and experience more beauty in life, I endeavor to read a few poems every day. To facilitate this practice among other people, I've decided to start a Substack newsletter with a simple mission: publish one classic poem a day from the vast store of English-language verse in the public domain that I've already uploaded to the Monadnock Valley Press website. Check it out at the link below....</summary>
+  </entry>
   <entry>
     <title>Inwardly Free</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1936.html"/>
@@ -49,13 +57,5 @@
     <issued>2024-12-20</issued>
     <modified>2024-12-20</modified>
     <summary>Before I go deep on Aristotle, I figured I'd mention something I've been thinking about lately, which is aesthetics. Following up on some research I've been doing into the music of J.S. Bach for my "Meditations on Bach" project, I recently read a book about the founders of modern aesthetics during the German Enlightenment (Christian Wolff, Alexander Baumgarten, etc.). It turns out that these early thinkers saw aesthetics as a practical discipline; unlike post-Kantian philosophers of art who are interested in purely theoretical questions or, at best, epistemological justification of critical judgment, the originators of aesthetics wanted to spell out principles that would guide artists in the task of bringing more beauty into the world. Immediately I perceived parallels to philosophy as the personal love and practice of wisdom. Consulting my ancient Greek dictionary, I discovered the word φιλοκαλία / philokalia, which I would describe as the personal love and practice of beauty. This is a fascinating topic that I've sketched out in slightly more detail in a work-in-progress essay (I even subtitled it a "manifesto"), but I won't have time to dig into it much further until I complete my Aristotle book. So many projects, so little time......</summary>
-  </entry>
-  <entry>
-    <title>Looking Forward</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1931.html"/>
-    <id>tag:stpeter.im,1931</id>
-    <issued>2024-12-20</issued>
-    <modified>2024-12-20</modified>
-    <summary>Although I don't make New Year's resolutions, inevitably one does think about priorities as the year winds down. One realization I've come to recently is that I need to finish off more of my long-term projects. Because my Aristotle book is the farthest along (I've been researching it for five years!), I'm recommitting to it in hopes of completing a first draft by the end of 2025. This means that I'll have to cut back somewhat on blogging, pair reading, public-domain publishing at the Monadnock Valley Press, catching up on news and long-form cultural analysis, etc. Instead, I'll be reviewing the book and article summaries I've created, improving the outline, drafting and honing the text, identifying chapter epigraphs, and so on. Where appropriate, I'll continue to use my weblog to work out my thinking on various Aristotelian themes; however, I might be posting less frequently on other topics....</summary>
   </entry>
 </feed>
