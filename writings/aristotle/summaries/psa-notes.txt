@@ -479,6 +479,8 @@ In the Historia Animalium (488a8 or 589a3 CHECKTHIS), Aristotle notes that human
 
 A primary reason why Aristotle does not provide a final answer about the nature of theoria and its relative worth compared to praxis and poiesis is that *there is no final answer*. Life is a never-ending activity and so is thinking; therefore thinking as a way of life is doubly so. Cf ARENDT-1977a p. 125 and ARIOLI pp. 9-10; see also SMITH pp. 9, 16, 248 on the protreptic aims of the Nicomachean Ethics.
 
+Wisdom activates more (and more fundamental) capacities than natural virtue or mere experience; this why it represents a higher level of fulfillment. The same is true of sagacity relative to wisdom. The person who develops these excellences is more complete, integrated, and harmonious than the relatively immature, foolish, or ignorant person who lacks them - even more so compared to the person who actively subverts the underlying capacities by descending into corruptions of character such as cunning and deception. See also BEERE pp. 343, 350.
+
 Action Items...
 
 TODO: Identify passages where Aristotle discusses deception (apate); e.g., 1113a33 (cf Segvic pp. 131-132). Related to this, dig more deeply into the role of appearance / phantasia (cf Sherman p. 32, Reeve 1995 p. 49, etc.). Consult Bonitz on apate.
@@ -494,5 +496,7 @@ TODO: Look into the relations between skepsis, skopein, skeptomai, and skopos; c
 TODO: Investigate the connection among hupolepsis, epamphoterizein, epallaxis, psellizein, epoche, and doxa (specifically, becoming adoxastos).
 
 TODO: Locate the passage in which Aristotle states that he has not sought wealth or power.
+
+TODO: At BEERE pp. 239-240, Jonathan Beere performs an analysis of the kinds of things that cannot be made healthy. It might be fruitful to perform a similar analysis of the kinds of beings that cannot achieve wisdom or fulfillment, and why (e.g., inanimate things, plants, animals, children, adults without foresight or deliberation). See also Beere's discussion of transitivity or the lack thereof on p. 274 and Furth's discussion of levels of development.
 
 END
