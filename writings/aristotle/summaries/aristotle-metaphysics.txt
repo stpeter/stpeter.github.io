@@ -22,4 +22,8 @@ tr. Joe Sachs
 
 "[O]ne ought not to regard anything else as more honorable [τιμιωτέραν = glorious] than this knowledge. For the most divine is also the most honorable.... All kinds of knowledge, then, are more necessary than this one, but none is better. It is necessary, however, for the possession of it to settle for us in a certain way into the opposite of the strivings with which it began." (983a4-12)
 
+"[O]ne must take hold of a knowledge of the causes that originate things (since that is when we say we know each thing, when we think we know its first cause), while the causes are meant in four ways, or which one is thinghood, or what it is for something to be (since the why leads back to the ultimate reasoned account [λόγος], and the first why is a cause and source), another is the material or underlying thing [τὸ ὑποκείμενον], a third is that from which the source of motion is, and the fourth is the cause opposite to that one, that for the sake of which or the good [τἀγαθόν] (since it is the completion [τέλος] of every coming-into-being and motion)...." (983a24-32)
+
+"And yet learning is by means of things all or some of which are already known, whether it is by means of demonstration [ἀπόδειξις] or by way of definitions [ὀρισμός] (for it is necessary that one already know and be familiar with those things out of which the definition is made), and likewise with learning by examples [ἐπαγωγή]." (992b30-34)
+
 WIP
