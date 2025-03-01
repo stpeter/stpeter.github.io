@@ -483,6 +483,8 @@ Wisdom activates more (and more fundamental) capacities than natural virtue or m
 
 Each stage or level of development acts as matter to the guiding form of the next stage or level (see FURTH pp. 84-86). Thus, for instance, within animal bodies substances like blood and milk could not come to be unless preceded by the existence of liquid as a state of matter (a kind of hypothetical necessity). At much higher levels, the acquisition of ἐμπειρία is dependent on the capacity for memory (Post. An. 99b33-100b5) and φρόνησις depends on a number of underlying learnings (e.g., experience), skills (e.g., deliberation), abilities (e.g., foresight), dispositions (i.e., the natural virtues or personality factors), and traits (i.e., the acquired virtues). It might also be the case that σοφία treats φρόνησις as matter: you can't develop sagacity unless you first develop wisdom.
 
+At Metaphysics 1048b37-1048a5, Aristotle observes that not everything can be made healthy by medicine or by chance (cf. BEERE pp. 237-240). We can probably perform similar analyses regarding fulfillment and sagacity. For instance, the following entities are cannot become σπουδαῖος or σόφος, although for different reasons: inanimate objects (not alive), plants (no perception or memory), animals (not much experience and no theoria), children (they won't be ready until later on they become more complete as adults), human beings who were badly brought up or whose characters have been corrupted (arete is a precondition for or concomitant of phronesis, pronesis is a precondition for sophia), etc.
+
 Action Items...
 
 TODO: Identify passages where Aristotle discusses deception (apate); e.g., 1113a33 (cf Segvic pp. 131-132). Related to this, dig more deeply into the role of appearance / phantasia (cf Sherman p. 32, Reeve 1995 p. 49, etc.). Consult Bonitz on apate.
@@ -498,7 +500,5 @@ TODO: Look into the relations between skepsis, skopein, skeptomai, and skopos; c
 TODO: Investigate the connection among hupolepsis, epamphoterizein, epallaxis, psellizein, epoche, and doxa (specifically, becoming adoxastos).
 
 TODO: Locate the passage in which Aristotle states that he has not sought wealth or power.
-
-TODO: At BEERE pp. 239-240, Jonathan Beere performs an analysis of the kinds of things that cannot be made healthy. It might be fruitful to perform a similar analysis of the kinds of beings that cannot achieve wisdom or fulfillment, and why (e.g., inanimate objects, plants, animals, children, adults without foresight or deliberation). See also Beere's discussion of transitivity or the lack thereof on p. 274 and Furth's discussion of levels of development on pp. 84-86.
 
 END
