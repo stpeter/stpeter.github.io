@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-03-03</modified>
+  <modified>2025-03-04</modified>
+  <entry>
+    <title>Scaling the State</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1941.html"/>
+    <id>tag:stpeter.im,1941</id>
+    <issued>2025-03-04</issued>
+    <modified>2025-03-04</modified>
+    <summary>By no means do I have "the solution" for what ails the American body politic - as always, there are many causes (and many competing solutions) for our current predicament. And to be clear, I speak not about the day-to-day ins and outs of what's happening in the District of Columbia - who can keep track of it all? - but about longer-term trends. One of those trends is the ever-increasing centralization of governance at the national level....</summary>
+  </entry>
   <entry>
     <title>Writing as Thinking</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1940.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-02-09</issued>
     <modified>2025-02-09</modified>
     <summary>A while back I learned of a poet and historian named Peter Viereck (1916-2006), who not only won the Pulitzer Prize for poetry in 1949 but also wrote insightful books of social and literary criticism in the American individualist tradition of Emerson, Thoreau, and Randolph Bourne. In his now-forgotten book The Unadjusted Man, published in 1956, Viereck celebrated the kind of person who dodges the pressures of conformity (what he called "overadjustment") to maintain a measure of intellectual independence. Here is a fine passage about one path to becoming an "unadjusted man":...</summary>
-  </entry>
-  <entry>
-    <title>Moving Slow</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1935.html"/>
-    <id>tag:stpeter.im,1935</id>
-    <issued>2025-02-08</issued>
-    <modified>2025-02-08</modified>
-    <summary>Several factors have conspired recently to slow down my pace of posting. Not only have I been working through a difficult and distracting family matter, but I've been questioning some of my existing commitments. Among other things, I've decided to conclude my philosophical coaching and startup advising activities. Although these were intriguing experiments and I enjoyed working with several people, I have my doubts about how truly helpful I was; more generally, I doubt that I am cut out for the helping professions. As a result, I'll be shutting down my philosopher.coach website and in the future posting only at stpeter.im (however, I won't rule out a move to Substack, at least for some of my mid-length writings)....</summary>
   </entry>
 </feed>
