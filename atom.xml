@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-03-04</modified>
+  <modified>2025-03-05</modified>
+  <entry>
+    <title>Beauty Trumps Evil</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1942.html"/>
+    <id>tag:stpeter.im,1942</id>
+    <issued>2025-03-05</issued>
+    <modified>2025-03-05</modified>
+    <summary>A friend of mine once said that good and evil live parallel lives. It's hard to deny that there are and always have been extremely bad people in the world - dictators, secret policemen, drug lords, gang leaders, terrorists, assassins, sex traffickers, and the like; yet one could be fortunate enough go through life without directly running up against such twisted specimens of humanity, even if one knows they exist out there somewhere....</summary>
+  </entry>
   <entry>
     <title>Scaling the State</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1941.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-02-25</issued>
     <modified>2025-02-25</modified>
     <summary>To keep my sanity and experience more beauty in life, I endeavor to read a few poems every day. To facilitate this practice among other people, I've decided to start a Substack newsletter with a simple mission: publish one classic poem a day from the vast store of English-language verse in the public domain that I've already uploaded to the Monadnock Valley Press website. Check it out at the link below....</summary>
-  </entry>
-  <entry>
-    <title>Inwardly Free</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1936.html"/>
-    <id>tag:stpeter.im,1936</id>
-    <issued>2025-02-09</issued>
-    <modified>2025-02-09</modified>
-    <summary>A while back I learned of a poet and historian named Peter Viereck (1916-2006), who not only won the Pulitzer Prize for poetry in 1949 but also wrote insightful books of social and literary criticism in the American individualist tradition of Emerson, Thoreau, and Randolph Bourne. In his now-forgotten book The Unadjusted Man, published in 1956, Viereck celebrated the kind of person who dodges the pressures of conformity (what he called "overadjustment") to maintain a measure of intellectual independence. Here is a fine passage about one path to becoming an "unadjusted man":...</summary>
   </entry>
 </feed>
