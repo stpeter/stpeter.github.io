@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-03-05</modified>
+  <modified>2025-03-06</modified>
+  <entry>
+    <title>Inequalities</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1943.html"/>
+    <id>tag:stpeter.im,1943</id>
+    <issued>2025-03-06</issued>
+    <modified>2025-03-06</modified>
+    <summary>In an essay some weeks ago at Persuasion magazine entitled "Don't Just Let Radicals Dictate Your Opinions", professor of philosophy Matt Lutz listed three intellectual foundations for a more vibrant center-left political presence in America: "liberalism is the first principle"; "inequalities are problems to be solved"; and "absolutes are unwise"....</summary>
+  </entry>
   <entry>
     <title>Beauty Trumps Evil</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1942.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-03-02</issued>
     <modified>2025-03-02</modified>
     <summary>(This post introduces my new Substack newsletter, Beautiful Wisdom.)...</summary>
-  </entry>
-  <entry>
-    <title>A Poem a Day Keeps the Doldrums Away</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1937.html"/>
-    <id>tag:stpeter.im,1937</id>
-    <issued>2025-02-25</issued>
-    <modified>2025-02-25</modified>
-    <summary>To keep my sanity and experience more beauty in life, I endeavor to read a few poems every day. To facilitate this practice among other people, I've decided to start a Substack newsletter with a simple mission: publish one classic poem a day from the vast store of English-language verse in the public domain that I've already uploaded to the Monadnock Valley Press website. Check it out at the link below....</summary>
   </entry>
 </feed>
