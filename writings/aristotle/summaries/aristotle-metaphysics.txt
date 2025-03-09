@@ -2,8 +2,6 @@ Metaphysics
 Aristotle
 tr. Joe Sachs
 
-[these notes are a work in progress]
-
 "So the other animals live by images and memories, but have a small share of experience [ἐμπειρία], but the human race also lives by art and reasoning [τέχνῃ καὶ λογισμοῖς]. And for human beings, experience arises from memory, since many memories of the same thing bring to completion [ἀποτελοῦσιν] a capacity for one experience. Now experience seems to be almost the same thing as knowledge or art [ἐπιστήμη καὶ τέχνη], but for human beings, knowledge and art result from experience, for experience makes art, as Polus says and says rightly, but inexperience makes chance. And art comes into being whenever, out of many conceptions from experience, one universal judgment [ὑπόληψις] arises about those that are similar." (980b25-981a7)
 
 "For the purposes of acting [πράττειν], experience doesn't seem to differ from art [τέχνη] at all, and we even see people with experience being more successful than those who have a rational account [λόγον ἐχόντων] without experience." (981a12-15)
@@ -172,4 +170,16 @@ tr. Joe Sachs
 
 "One must also consider in which of two ways the nature of the whole contains what is good and what is best [τὸ ἀγαθὸν καὶ τὸ ἄριστον], whether as something separate, itself by itself, or as the order [τάξις] of the whole of things. Or it is present in both ways, just as in an army? For its good condition [τὸ εὖ] resides in its ordering but also in its general, and is more the latter; for he does not depend on the order but it on him. And all things are in some way ordered together [συντέτακταί], though not all similarly, the things that swim and fly and grow in the ground; yet they are not such that nothing that pertains to one kind is related to another, but there is some relation. For they are all organized [συντέτακται] toward one thing, but in the same way as in a household, in which the free members of it are least of all allowed to do any random thing [τοῖς ἐλευθέροις ἥκιστα ἔξεστιν ὅ τι ἔτυχε ποιεῖν], but all or most of what they do is prescribed [τέτακται], while for the slaves and livestock little that they do is for the common good [τὸ εἰς τὸ κοινόν] and much is just at random, since the nature of each of them is that kind of source." (1075a11-23)
 
-WIP
+"[W]hile, in the order of coming into being, the incomplete magnitude is prior, in thinghood it is derivative, just as what is without soul is derivative from what has soul.... [T]he things around us are one by virtue of a soul, or a part of a soul, or something else, reasonably..." (107718-22)
+
+"[A] body is more complete and whole in the sense that it is what comes to be ensouled..." (1077a28-29)
+
+"And since the good and the beautiful are different (for the former is always involved in action [ἐν πράξει] but the beautiful is also present in motionless things), those who claim that the mathematical kinds of knowledge say nothing about what is beautiful or good are wrong. For they speak of it and reveal it most of all, for if they do not name it but their deeds [ἔργα] and discourses [λόγους] make it evident, it is not the case that they do not speak about it. The greatest forms of the beautiful are order and symmetry and determinateness [τοῦ δὲ καλοῦ μέγιστα εἴδη τάξις καὶ συμμετρία καὶ τὸ ὡρισμένον], which the mathematical kinds of knowledge most of all display." (1078a31-1078b2)
+
+"[I]f there were no mathematical things there would still be the soul and perceptible bodies, but it does not seem from the appearances that nature is a string of unconnected episodes as in a bad [μοχθηρὰ] tragedy." (1090b18-20)
+
+"And there is an impasse, and a censure for those who find it an easy passage, as to how the elements and sources are related to the good and the beautiful; the impasse is this, whether one of the sources is the sort of thing we mean by speaking of the good itself and the highest good [τὸ ἀγαθὸν καὶ τὸ ἄριστον], or this is not one of them but something generated as derivative from them. Things that come down from those who wrote about the gods seem to agree with some people of the present time who say that the good and the beautiful are not sources but make their appearance within the nature of things when it has advanced." (1091a29-36)
+
+"The impasse, then, is this: in which of the two ways ought one to speak? But it would be surprising [θαυμαστὸν] if, in what is primary and everlasting and self-sufficient, this very self-sufficiency [τὸ αὔταρκες] and self-maintenance [ἡ σωτηρία] were not present primarily as good [ὡς ἀγαθὸν]. But it is certainly not on account of anything other than that it is in a good condition that it is indestructible or self-sufficient..." (1091b15-19)
+
+END
