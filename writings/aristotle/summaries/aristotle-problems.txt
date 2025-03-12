@@ -1,0 +1,21 @@
+Problems
+Aristotle
+tr. E.S. Forster
+
+"Why do all men delight in rhythm and melody and concords in general? Is it because we naturally rejoice in natural movements? This is shown by the fact that children rejoice in them as soon as they are born. Now we delight in the various types of melody because of habit; and we delight in rhythm because it contains a familiar and ordered number and moves us in a regular manner; for ordered movement [τεταγμένη κίνησις] is naturally more akin to us than disordered [ἀτάκτοῦ], and is therefore more in accordance with nature [κατὰ φύσιν]. This is shown by the fact that working and eating and drinking in an ordered manner we preserve [σώζομεν] and improve [αὔξομεν] our nature and strength [δύναμις], whereas if we do these things irregularly we destroy [φθείρομεν] and derange [ἐξίσταμεν] our nature; for diseases are disturbances of the natural order of the body. And we delight in concord because it is the mingling of contraries which stand in proportion to one another. Proportion [λόγος], then, is order [τάξις], which, as we have said, is naturally pleasant. Now that which is mingled is always more pleasant than that which is unmingled, especially if, being perceived by the senses, it contains equally the force of both extremes; and in a concord the proportion has this characteristic." (920b29-921a6)
+
+"Why do states honour courage more than anything else, though it is not the highest [βελτίστος] of the excellences? Is it because they are continually making war or having war made against them, and courage is most useful [χρησιμωτάτη] in both these circustances? They, therefore, honour not that which is best, but that which is best for themselves." (948a31-34)
+
+"Why is it a more terrible thing to rob a man of a deposit than of a loan? Is it because it is disgraceful [αἰσχρός] to wrong a friend? .... Or is it because the injustice is greater, since, in addition to the loss inflicted, he also violates his good faith [πίστις], for the sake of which, if for no other reason, he ought to abstain from doing the wrong?" (950a28-34)
+
+"Why is it that man, who of all animals has the advantage of most education [παιδεία], is yet the most unjust of all? Is it because he possesses the power of reasoning [λογισμοῦ] to the greatest degree, and has therefore most carefully estimated the pleasures and happiness, and these are impossible of attainment without injustice?" (950b32-35)
+
+"Why is it that, whereas we become more intelligent [νοῦν ἔχομεν] as we grow older, yet the younger we are the more easily we can learn? Is it because God has given us two instruments within ourselves, which enable us to use external instruments, providing the body with the hand and the soul with intelligence? For intelligence is among the things implanted in us by nature, being as it were an instrument; and, whereas the science and the arts are among the things created by us, intelligence is one of the gifts of nature. So just as we cannot use the hand to the best advantage immediately after birth, but only when nature has perfected [ἐπιτελέσῃ] it (for the hand can perform its particular function [ἔργον] best as age progresses), in like manner of our natural endowments reason [ὁ νοῦς] is of most assistance to us not early in life but as we get old, and is then at its highest perfection [ἀποτελεῖται μάλιστα]...." (955b22-33)
+
+"What prize could be found superior to wisdom [σοφία]?" (956b32)
+
+"Why is that man in particular thinks [νοεῖ] one thing and does [ποιεῖ] another? It is because the same science deals with contraries? Or is because the intelligence [νοῦς] has many objects, desire [ὄρεξις] one?" (956b33-35)
+
+"Knowledge [ἐπιστήμη] brings the soul to rest [ἵσησιν]." (956b40)
+
+END
