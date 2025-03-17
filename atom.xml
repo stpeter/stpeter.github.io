@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-03-15</modified>
+  <modified>2025-03-17</modified>
+  <entry>
+    <title>Translating as Thinking</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1946.html"/>
+    <id>tag:stpeter.im,1946</id>
+    <issued>2025-03-17</issued>
+    <modified>2025-03-17</modified>
+    <summary>As noted as far back as 2016, I've been ruminating for years about how to render certain key terms of Aristotle's philosophy from ancient Greek into English. To date, the only outcome has been a glossary that I update regularly as I add more definitions and polish the existing ones. Recently I lighted upon a constructive way to put some of these renderings to the test: by translating a brief Aristotelian work whose title is usually presented as On Virtues and Vices....</summary>
+  </entry>
   <entry>
     <title>The Divinity of Being</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1945.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-03-04</issued>
     <modified>2025-03-04</modified>
     <summary>By no means do I have "the solution" for what ails the American body politic - as always, there are many causes (and many competing solutions) for our current predicament. And to be clear, I speak not about the day-to-day ins and outs of what's happening in the District of Columbia - who can keep track of it all? - but about longer-term trends. One of those trends is the ever-increasing centralization of governance at the national level....</summary>
-  </entry>
-  <entry>
-    <title>Writing as Thinking</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1940.html"/>
-    <id>tag:stpeter.im,1940</id>
-    <issued>2025-03-03</issued>
-    <modified>2025-03-03</modified>
-    <summary>Why write? I can't speak for anyone else, but for me writing is a form of thinking. Although I often have vague notions floating around in my head, they don't crystallize until I formulate them in black and white. Before words can inform, they must be formed....</summary>
   </entry>
 </feed>
