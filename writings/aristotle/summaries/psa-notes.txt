@@ -485,7 +485,7 @@ Each stage or level of development acts as matter to the guiding form of the nex
 
 At Metaphysics 1048b37-1048a5, Aristotle observes that not everything can be made healthy by medicine or by chance (cf. BEERE pp. 237-240). We can probably perform similar analyses regarding fulfillment and sagacity. For instance, the following entities are cannot become σπουδαῖος or σόφος, although for different reasons: inanimate objects (not alive), plants (no perception or memory), animals (not much experience and no theoria), children (they won't be ready until they become more complete as adults), and adults who were badly brought up or whose characters have been corrupted (arete is a concomitant of phronesis, pronesis is a precondition for sophia).
 
-An evocative application of the four causes: thoughts and deeds are the kindling, wonder is the spark, the love of wisdom shapes the flame, and the resulting beauty makes our lives complete.
+An evocative application of the four causes: living is the wood, wonder is the spark, wisdom shapes the flame, beauty is the fire.
 
 Action Items...
 
@@ -499,7 +499,7 @@ TODO: Investigate Aristotle's key concepts in light of ancient usage, esp. Homer
 
 TODO: Look into the relations between skepsis, skopein, skeptomai, and skopos; cf. Segvic p. 150.
 
-TODO: Investigate the connection among hupolepsis, epamphoterizein, epallaxis, psellizein, epoche, and doxa (specifically, becoming adoxastos).
+TODO: Investigate the connections among hupolepsis, epamphoterizein, epallaxis, psellizein, epoche, and doxa (specifically, becoming adoxastos).
 
 TODO: Locate the passage in which Aristotle states that he has not sought wealth or power.
 
