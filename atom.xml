@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-03-17</modified>
+  <modified>2025-03-30</modified>
+  <entry>
+    <title>A Signal Failure</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1947.html"/>
+    <id>tag:stpeter.im,1947</id>
+    <issued>2025-03-30</issued>
+    <modified>2025-03-30</modified>
+    <summary>It's rare that I comment on day-to-day political happenings. Not only are they quite distressing these days, but in general I prefer to read not the Times but the Eternities, as Thoreau said. However, the recent kerfuffle regarding use of the Signal messaging app by Trump administration officials is too tempting a target, because I worked on secure messaging systems for 25+ years and can offer some insights....</summary>
+  </entry>
   <entry>
     <title>Translating as Thinking</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1946.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-03-05</issued>
     <modified>2025-03-05</modified>
     <summary>A friend of mine once said that good and evil live parallel lives. It's hard to deny that there are and always have been extremely bad people in the world - dictators, secret policemen, drug lords, gang leaders, terrorists, assassins, sex traffickers, and the like; yet one could be fortunate enough go through life without directly running up against such twisted specimens of humanity, even if one knows they exist out there somewhere....</summary>
-  </entry>
-  <entry>
-    <title>Scaling the State</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1941.html"/>
-    <id>tag:stpeter.im,1941</id>
-    <issued>2025-03-04</issued>
-    <modified>2025-03-04</modified>
-    <summary>By no means do I have "the solution" for what ails the American body politic - as always, there are many causes (and many competing solutions) for our current predicament. And to be clear, I speak not about the day-to-day ins and outs of what's happening in the District of Columbia - who can keep track of it all? - but about longer-term trends. One of those trends is the ever-increasing centralization of governance at the national level....</summary>
   </entry>
 </feed>
