@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-03-30</modified>
+  <modified>2025-03-31</modified>
+  <entry>
+    <title>Aristotle on Freedom</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1948.html"/>
+    <id>tag:stpeter.im,1948</id>
+    <issued>2025-03-31</issued>
+    <modified>2025-03-31</modified>
+    <summary>As mentioned two weeks ago in my note "Translation as Thinking", the concepts used across time and space (and, even, across writers) can vary quite significantly in the meanings they capture. This is especially true regarding concepts that are rather vague in the first place, such as virtue, happiness, democracy, and - the subject of today's post - freedom....</summary>
+  </entry>
   <entry>
     <title>A Signal Failure</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1947.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-03-06</issued>
     <modified>2025-03-06</modified>
     <summary>In an essay some weeks ago at Persuasion magazine entitled "Don't Just Let Radicals Dictate Your Opinions", professor of philosophy Matt Lutz listed three intellectual foundations for a more vibrant center-left political presence in America: "liberalism is the first principle"; "inequalities are problems to be solved"; and "absolutes are unwise"....</summary>
-  </entry>
-  <entry>
-    <title>Beauty Trumps Evil</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1942.html"/>
-    <id>tag:stpeter.im,1942</id>
-    <issued>2025-03-05</issued>
-    <modified>2025-03-05</modified>
-    <summary>A friend of mine once said that good and evil live parallel lives. It's hard to deny that there are and always have been extremely bad people in the world - dictators, secret policemen, drug lords, gang leaders, terrorists, assassins, sex traffickers, and the like; yet one could be fortunate enough go through life without directly running up against such twisted specimens of humanity, even if one knows they exist out there somewhere....</summary>
   </entry>
 </feed>
