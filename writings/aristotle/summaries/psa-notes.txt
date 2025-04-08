@@ -491,11 +491,11 @@ Keyt and Miller (in their introduction to A Companion to Aristotle's Politics, p
 
 Deliberation or planning (βουλεύσις) is a form of search (ζήτησις) or inquiry (σκέψις). Spelling this out further, it seems that one seeks to convert an indeterminate aim into a determinate resolution (βούλησις), and does so by closing the gap between target (σκοπός) and action (πρᾶξις), thus hitting the mark. Corroboration of this interpretation comes from the fact that σκοπέω / σκέπτομαι is used about perceptibles, whereas θεωρέω is used about intelligibles (LSJ) - and commitment or choice (προαίρεσις) is about the particulars. See SEGVIC p. 150 and EE passages cited there: 1226b1-8, 1227a12, 1227b26, 1142a31-b15; see also EN 1112b16. 
 
+Hypothesis: There are two main routes through the heart of Aristotle’s philosophy: the action-oriented route from the Nicomachean Ethics to the Politics, and the awareness-oriented route from the Eudemian Ethics to the Metaphysics. However, just as the road down the mountain is the same as the road up the mountain (albeit in different directions), so also the two routes through Aristotle’s philosophy are the same, since action requires awareness and awareness is an activity.
+
 Action Items...
 
 TODO: Identify passages where Aristotle discusses deception (apate); e.g., 1113a33 (cf Segvic pp. 131-132). Related to this, dig more deeply into the role of appearance / phantasia (cf Sherman p. 32, Reeve 1995 p. 49, etc.). Consult Bonitz on apate.
-
-TODO: Investigate the dialectical progression in the EN and EE regarding the meaning of theoria (Pericles passage, akrasia, philia, bios theoretikos).
 
 TODO: Think through the links among the eudaimonia criteria (finality, self-sufficiency, etc.), the divinity criteria (eternality, activity, independence, etc.), and the beauty criteria (coherence, proportion, order, etc.).
 
