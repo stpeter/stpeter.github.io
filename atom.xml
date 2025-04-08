@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-03-31</modified>
+  <modified>2025-04-07</modified>
+  <entry>
+    <title>Talking vs. Thinking</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1949.html"/>
+    <id>tag:stpeter.im,1949</id>
+    <issued>2025-04-07</issued>
+    <modified>2025-04-07</modified>
+    <summary>A friend and I have begun a pair reading of The Faith of a Heretic by Walter Kaufmann. It's the second time through for both of us and we have mutual admiration for Kaufmann, so we're excited about digging into this most personal of Kaufmann's books on philosophy and religion....</summary>
+  </entry>
   <entry>
     <title>Aristotle on Freedom</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1948.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-03-08</issued>
     <modified>2025-03-08</modified>
     <summary>Both Ted Gioia and Ross Barkan (among others) have observed cultural stirrings that indicate we might be moving away from rationalism, in ways similar to the sea change from Enlightenment to Romanticism around 1800. Count me intrigued....</summary>
-  </entry>
-  <entry>
-    <title>Inequalities</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1943.html"/>
-    <id>tag:stpeter.im,1943</id>
-    <issued>2025-03-06</issued>
-    <modified>2025-03-06</modified>
-    <summary>In an essay some weeks ago at Persuasion magazine entitled "Don't Just Let Radicals Dictate Your Opinions", professor of philosophy Matt Lutz listed three intellectual foundations for a more vibrant center-left political presence in America: "liberalism is the first principle"; "inequalities are problems to be solved"; and "absolutes are unwise"....</summary>
   </entry>
 </feed>
