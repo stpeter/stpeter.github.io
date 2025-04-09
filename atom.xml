@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-04-08</modified>
+  <modified>2025-04-09</modified>
+  <entry>
+    <title>He Who Pays the Piper Calls the Tune</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1951.html"/>
+    <id>tag:stpeter.im,1951</id>
+    <issued>2025-04-09</issued>
+    <modified>2025-04-09</modified>
+    <summary>Recently my alma mater, Columbia University, was back in the news because the Trump administration threatened to withhold $400 million in federal grants until the university changed some of its internal polocies. The political responses were predictable: populists were pleased about sticking it to leftist academics, faculty fulminated about threats to their intellectual freedom, the interim president lost her job over decisions she made, and a few folks quietly wondered about the wisdom of federal funding for so much educational activity and scientific research....</summary>
+  </entry>
   <entry>
     <title>Where I Stand</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1950.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-03-17</issued>
     <modified>2025-03-17</modified>
     <summary>As noted as far back as 2016, I've been ruminating for years about how to render certain key terms of Aristotle's philosophy from ancient Greek into English. To date, the only outcome has been a glossary that I update regularly as I add more definitions and polish the existing ones. Recently I lighted upon a constructive way to put some of these renderings to the test: by translating a brief Aristotelian work whose title is usually presented as On Virtues and Vices....</summary>
-  </entry>
-  <entry>
-    <title>The Divinity of Being</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1945.html"/>
-    <id>tag:stpeter.im,1945</id>
-    <issued>2025-03-15</issued>
-    <modified>2025-03-15</modified>
-    <summary>While continuing my travels in the land of Aristotle (specifically, entering passages from his Metaphysics into my digital commonplace book), I chanced recently upon the shoreline of the vast ocean of theology. Knowing that I would quickly drown if I ventured too far from shore, I merely picked up a few seashells, waded in up to my knees, and enjoyed the view of the endless depths. Even though these are mostly uncharted waters for me (despite a few related posts almost twenty years ago), I'll give a short report on my excursion....</summary>
   </entry>
 </feed>
