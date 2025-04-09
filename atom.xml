@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-04-07</modified>
+  <modified>2025-04-08</modified>
+  <entry>
+    <title>Where I Stand</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1950.html"/>
+    <id>tag:stpeter.im,1950</id>
+    <issued>2025-04-08</issued>
+    <modified>2025-04-08</modified>
+    <summary>Spurred by Garry Kasparov's call for a positive vision of the free society, Arnold Kling posted a list of the causes he is for. It seems like a good idea to reflect on these matters from time to time - perhaps especially in this time. Therefore - while recognizing both that I'm politically powerless and that my views have significance only for me - here I'll very briefly set out ten principles that I hold to be important in the political realm....</summary>
+  </entry>
   <entry>
     <title>Talking vs. Thinking</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1949.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-03-15</issued>
     <modified>2025-03-15</modified>
     <summary>While continuing my travels in the land of Aristotle (specifically, entering passages from his Metaphysics into my digital commonplace book), I chanced recently upon the shoreline of the vast ocean of theology. Knowing that I would quickly drown if I ventured too far from shore, I merely picked up a few seashells, waded in up to my knees, and enjoyed the view of the endless depths. Even though these are mostly uncharted waters for me (despite a few related posts almost twenty years ago), I'll give a short report on my excursion....</summary>
-  </entry>
-  <entry>
-    <title>Romanticism or Renaissance?</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1944.html"/>
-    <id>tag:stpeter.im,1944</id>
-    <issued>2025-03-08</issued>
-    <modified>2025-03-08</modified>
-    <summary>Both Ted Gioia and Ross Barkan (among others) have observed cultural stirrings that indicate we might be moving away from rationalism, in ways similar to the sea change from Enlightenment to Romanticism around 1800. Count me intrigued....</summary>
   </entry>
 </feed>
