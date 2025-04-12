@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-04-09</modified>
+  <modified>2025-04-11</modified>
+  <entry>
+    <title>Four Causes of Fulfillment</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1952.html"/>
+    <id>tag:stpeter.im,1952</id>
+    <issued>2025-04-11</issued>
+    <modified>2025-04-11</modified>
+    <summary>Aristotle is famous, or infamous, for what is known as his doctrine of the four causes. As I’ve explained before, there are many misconceptions about these matters, but I’ll go with the traditional description for the purpose of this somewhat fanciful post about what causes an examined life of wisdom and fulfillment....</summary>
+  </entry>
   <entry>
     <title>He Who Pays the Piper Calls the Tune</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1951.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-03-30</issued>
     <modified>2025-03-30</modified>
     <summary>It's rare that I comment on day-to-day political happenings. Not only are they quite distressing of late, but in general I prefer to read not the Times but the Eternities, as Thoreau said. However, the recent kerfuffle regarding use of the Signal messaging app by Trump administration officials is too tempting a target, because I worked on secure messaging systems for 25+ years and can offer some insights....</summary>
-  </entry>
-  <entry>
-    <title>Translating as Thinking</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1946.html"/>
-    <id>tag:stpeter.im,1946</id>
-    <issued>2025-03-17</issued>
-    <modified>2025-03-17</modified>
-    <summary>As noted as far back as 2016, I've been ruminating for years about how to render certain key terms of Aristotle's philosophy from ancient Greek into English. To date, the only outcome has been a glossary that I update regularly as I add more definitions and polish the existing ones. Recently I lighted upon a constructive way to put some of these renderings to the test: by translating a brief Aristotelian work whose title is usually presented as On Virtues and Vices....</summary>
   </entry>
 </feed>
