@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-04-11</modified>
+  <modified>2025-04-13</modified>
+  <entry>
+    <title>The Nation of Many Nations</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1953.html"/>
+    <id>tag:stpeter.im,1953</id>
+    <issued>2025-04-13</issued>
+    <modified>2025-04-13</modified>
+    <summary>In Song of Myself, Walt Whitman declared himself to be "one of the great nation, the nation of many nations" - claiming identity as a northerner and a southerner, a Yankee, a Kentuckian, a Hoosier, a Badger, a Buckeye, and a habitan of numerous other places in North America. (Whitman contained multitudes, after all!)...</summary>
+  </entry>
   <entry>
     <title>Four Causes of Fulfillment</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1952.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-03-31</issued>
     <modified>2025-03-31</modified>
     <summary>As mentioned two weeks ago in my note "Translation as Thinking", the concepts used across time and space (and, even, across writers) can vary quite significantly in the meanings they capture. This is especially true regarding concepts that are rather vague in the first place, such as virtue, happiness, democracy, and - the subject of today's post - freedom....</summary>
-  </entry>
-  <entry>
-    <title>A Signal Failure</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1947.html"/>
-    <id>tag:stpeter.im,1947</id>
-    <issued>2025-03-30</issued>
-    <modified>2025-03-30</modified>
-    <summary>It's rare that I comment on day-to-day political happenings. Not only are they quite distressing of late, but in general I prefer to read not the Times but the Eternities, as Thoreau said. However, the recent kerfuffle regarding use of the Signal messaging app by Trump administration officials is too tempting a target, because I worked on secure messaging systems for 25+ years and can offer some insights....</summary>
   </entry>
 </feed>
