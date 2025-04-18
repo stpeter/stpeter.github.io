@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-04-15</modified>
+  <modified>2025-04-18</modified>
+  <entry>
+    <title>Romanticism Reconsidered</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1954.html"/>
+    <id>tag:stpeter.im,1954</id>
+    <issued>2025-04-18</issued>
+    <modified>2025-04-18</modified>
+    <summary>To follow up on last month's post "Romanticism or Renaissance?", I decided to read two books by scholars for whom I have a great deal of respect: Classic, Romantic, and Modern by cultural historican Jacques Barzun and The Roots of Romanticism by intellectual historian Isaiah Berlin. Although I'm far from sagely on these matters now, I do feel somewhat better informed....</summary>
+  </entry>
   <entry>
     <title>The Nation of Many Nations</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1953.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-04-07</issued>
     <modified>2025-04-07</modified>
     <summary>A friend and I have begun a pair reading of The Faith of a Heretic by Walter Kaufmann. It's the second time through for both of us and we have mutual admiration for Kaufmann, so we're excited about digging into this most personal of Kaufmann's books on philosophy and religion....</summary>
-  </entry>
-  <entry>
-    <title>Aristotle on Freedom</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1948.html"/>
-    <id>tag:stpeter.im,1948</id>
-    <issued>2025-03-31</issued>
-    <modified>2025-03-31</modified>
-    <summary>As mentioned two weeks ago in my note "Translation as Thinking", the concepts used across time and space (and, even, across writers) can vary quite significantly in the meanings they capture. This is especially true regarding concepts that are rather vague in the first place, such as virtue, happiness, democracy, and - the subject of today's post - freedom....</summary>
   </entry>
 </feed>
