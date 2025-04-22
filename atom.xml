@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-04-18</modified>
+  <modified>2025-04-22</modified>
+  <entry>
+    <title>Democracy in Decline</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1955.html"/>
+    <id>tag:stpeter.im,1955</id>
+    <issued>2025-04-22</issued>
+    <modified>2025-04-22</modified>
+    <summary>Because of the long-running inversion of political power in America from the local level to the national level, these days we hear all about the decline of democracy in Washington, D.C. but very little about the decline of local democracy. This got me to thinking about representation where I live in Douglas County, Colorado....</summary>
+  </entry>
   <entry>
     <title>Romanticism Reconsidered</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1954.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-04-08</issued>
     <modified>2025-04-08</modified>
     <summary>Spurred by Garry Kasparov's call for a positive vision of the free society, Arnold Kling posted a list of the causes he is for. It seems like a good idea to reflect on these matters from time to time - perhaps especially at this time. Therefore - while recognizing both that I'm politically powerless and that my views have significance only for me - here I'll very briefly set out ten principles that I hold to be important in the political realm....</summary>
-  </entry>
-  <entry>
-    <title>Talking vs. Thinking</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1949.html"/>
-    <id>tag:stpeter.im,1949</id>
-    <issued>2025-04-07</issued>
-    <modified>2025-04-07</modified>
-    <summary>A friend and I have begun a pair reading of The Faith of a Heretic by Walter Kaufmann. It's the second time through for both of us and we have mutual admiration for Kaufmann, so we're excited about digging into this most personal of Kaufmann's books on philosophy and religion....</summary>
   </entry>
 </feed>
