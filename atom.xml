@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-04-22</modified>
+  <modified>2025-04-24</modified>
+  <entry>
+    <title>Slouching Towards Monarchy</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1956.html"/>
+    <id>tag:stpeter.im,1956</id>
+    <issued>2025-04-24</issued>
+    <modified>2025-04-24</modified>
+    <summary>Legend has it that after the Constitutional Convention finished its work in September 1787, Elizabeth Willing Powel, one of the most powerful and highly educated women in Philadelphia, asked Benjamin Franklin whether we now had a monarchy or a republic. Great question, Elizabeth! We're still trying to figure out the answer....</summary>
+  </entry>
   <entry>
     <title>Democracy in Decline</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1955.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-04-09</issued>
     <modified>2025-04-09</modified>
     <summary>Recently my alma mater, Columbia University, was back in the news because the Trump administration threatened to withhold $400 million in federal grants until the university changed some of its internal polocies. The political responses were predictable: populists were pleased about sticking it to leftist academics, faculty fulminated about threats to their intellectual freedom, the interim president lost her job over decisions she made, and a few folks quietly wondered about the wisdom of federal funding for so much educational activity and scientific research....</summary>
-  </entry>
-  <entry>
-    <title>Where I Stand</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1950.html"/>
-    <id>tag:stpeter.im,1950</id>
-    <issued>2025-04-08</issued>
-    <modified>2025-04-08</modified>
-    <summary>Spurred by Garry Kasparov's call for a positive vision of the free society, Arnold Kling posted a list of the causes he is for. It seems like a good idea to reflect on these matters from time to time - perhaps especially at this time. Therefore - while recognizing both that I'm politically powerless and that my views have significance only for me - here I'll very briefly set out ten principles that I hold to be important in the political realm....</summary>
   </entry>
 </feed>
