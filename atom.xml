@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-04-24</modified>
+  <modified>2025-05-03</modified>
+  <entry>
+    <title>Michelle Marder Kamhi, RIP</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1958.html"/>
+    <id>tag:stpeter.im,1958</id>
+    <issued>2025-05-03</issued>
+    <modified>2025-05-03</modified>
+    <summary>I was saddened to learn the other day that my friend and mentor Michelle Marder Kamhi has passed away. Chris Sciabarra has written a more complete remembrance of our mutual friend, so I will add only a few personal notes....</summary>
+  </entry>
   <entry>
     <title>Thinking Freely</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1957.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-04-15</issued>
     <modified>2025-04-15</modified>
     <summary>In Song of Myself, Walt Whitman declared himself to be "one of the great nation, the nation of many nations" - claiming identity as a northerner and a southerner, a Yankee, a Kentuckian, a Hoosier, a Badger, a Buckeye, and a habitan of numerous other places in North America. (Whitman contained multitudes, after all!)...</summary>
-  </entry>
-  <entry>
-    <title>Four Causes of Fulfillment</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1952.html"/>
-    <id>tag:stpeter.im,1952</id>
-    <issued>2025-04-11</issued>
-    <modified>2025-04-11</modified>
-    <summary>Aristotle is famous, or infamous, for what is known as his doctrine of the four causes. As I’ve explained before, there are many misconceptions about these matters, but I’ll go with the traditional description for the purpose of this somewhat fanciful post about what causes an examined life of wisdom and fulfillment....</summary>
   </entry>
 </feed>
