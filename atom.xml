@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-05-08</modified>
+  <modified>2025-05-13</modified>
+  <entry>
+    <title>Freedom of Screech</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1961.html"/>
+    <id>tag:stpeter.im,1961</id>
+    <issued>2025-05-13</issued>
+    <modified>2025-05-13</modified>
+    <summary>My alma mater, Columbia University, was back in the news yet again last week because some screeching students took over parts of Butler Library while serious students were preparing for final exams. The details are unimportant in this context; instead I'm puzzled by what passes for speech these days....</summary>
+  </entry>
   <entry>
     <title>Intellectual Honesty</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1960.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-04-24</issued>
     <modified>2025-04-24</modified>
     <summary>Legend has it that after the Constitutional Convention finished its work in September 1787, Elizabeth Willing Powel, one of the most powerful and highly educated women in Philadelphia, asked Benjamin Franklin whether we now had a monarchy or a republic. Great question, Elizabeth! We're still trying to figure out the answer....</summary>
-  </entry>
-  <entry>
-    <title>Democracy in Decline</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1955.html"/>
-    <id>tag:stpeter.im,1955</id>
-    <issued>2025-04-22</issued>
-    <modified>2025-04-22</modified>
-    <summary>Because of the long-running inversion of political power in America from the local level to the national level, these days we hear all about the decline of democracy in Washington, D.C. but very little about the decline of local democracy. This got me to thinking about representation where I live in Douglas County, Colorado....</summary>
   </entry>
 </feed>
