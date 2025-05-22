@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-05-13</modified>
+  <modified>2025-05-22</modified>
+  <entry>
+    <title>Reading Spinoza</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1962.html"/>
+    <id>tag:stpeter.im,1962</id>
+    <issued>2025-05-22</issued>
+    <modified>2025-05-22</modified>
+    <summary>Over the last few weeks I've been re-reading Spinoza's Ethics yet again, this time inspired by a review of Kieran Fox's newly-published spiritual biography of Einstein, which noted that when pressed about his religious beliefs the great scientist claimed to believe in Spinoza's God....</summary>
+  </entry>
   <entry>
     <title>Freedom of Screech</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1961.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-04-24</issued>
     <modified>2025-04-24</modified>
     <summary>While collectively we slouch towards tyranny, individually I continue to ponder some of the many methods people have proposed for counteracting that trend. Amidst all the particular suggestions, one thing I have not seen mentioned is adopting the attitude of a free person. This strikes me as seemingly simple but in fact both difficult and fundamental....</summary>
-  </entry>
-  <entry>
-    <title>Slouching towards Monarchy</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1956.html"/>
-    <id>tag:stpeter.im,1956</id>
-    <issued>2025-04-24</issued>
-    <modified>2025-04-24</modified>
-    <summary>Legend has it that after the Constitutional Convention finished its work in September 1787, Elizabeth Willing Powel, one of the most powerful and highly educated women in Philadelphia, asked Benjamin Franklin whether we now had a monarchy or a republic. Great question, Elizabeth! We're still trying to figure out the answer....</summary>
   </entry>
 </feed>
