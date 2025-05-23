@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-05-22</modified>
+  <modified>2025-05-23</modified>
+  <entry>
+    <title>Whence Wonder?</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1963.html"/>
+    <id>tag:stpeter.im,1963</id>
+    <issued>2025-05-23</issued>
+    <modified>2025-05-23</modified>
+    <summary>Socrates, Plato, and Aristotle held that philosophy - the love and practice of wisdom - begins in wonder. But whence wonder?...</summary>
+  </entry>
   <entry>
     <title>Reading Spinoza</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1962.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-05-03</issued>
     <modified>2025-05-03</modified>
     <summary>I was saddened to learn the other day that my friend and mentor Michelle Marder Kamhi has passed away. Chris Sciabarra has written a more complete remembrance of our mutual friend, so I will add only a few personal notes....</summary>
-  </entry>
-  <entry>
-    <title>Thinking Freely</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1957.html"/>
-    <id>tag:stpeter.im,1957</id>
-    <issued>2025-04-24</issued>
-    <modified>2025-04-24</modified>
-    <summary>While collectively we slouch towards tyranny, individually I continue to ponder some of the many methods people have proposed for counteracting that trend. Amidst all the particular suggestions, one thing I have not seen mentioned is adopting the attitude of a free person. This strikes me as seemingly simple but in fact both difficult and fundamental....</summary>
   </entry>
 </feed>
