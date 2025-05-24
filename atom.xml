@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-05-23</modified>
+  <modified>2025-05-24</modified>
+  <entry>
+    <title>Step by Step</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1964.html"/>
+    <id>tag:stpeter.im,1964</id>
+    <issued>2025-05-24</issued>
+    <modified>2025-05-24</modified>
+    <summary>Combining threads from recent posts on Spinoza and on Walter Kaufmann, here are a few further thoughts on intellectual honesty and philosophical methodology....</summary>
+  </entry>
   <entry>
     <title>Whence Wonder?</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1963.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-05-08</issued>
     <modified>2025-05-08</modified>
     <summary>Exactly two hundred years ago today, Thomas Jefferson wrote a letter to one Henry Lee, who had inquired about the genesis of the Declaration of Independence. Here is what Jefferson had to say (original spelling retained):...</summary>
-  </entry>
-  <entry>
-    <title>Michelle Marder Kamhi, RIP</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1958.html"/>
-    <id>tag:stpeter.im,1958</id>
-    <issued>2025-05-03</issued>
-    <modified>2025-05-03</modified>
-    <summary>I was saddened to learn the other day that my friend and mentor Michelle Marder Kamhi has passed away. Chris Sciabarra has written a more complete remembrance of our mutual friend, so I will add only a few personal notes....</summary>
   </entry>
 </feed>
