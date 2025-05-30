@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-05-26</modified>
+  <modified>2025-05-30</modified>
+  <entry>
+    <title>Universe and Humanverse</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1966.html"/>
+    <id>tag:stpeter.im,1966</id>
+    <issued>2025-05-30</issued>
+    <modified>2025-05-30</modified>
+    <summary>As I have continued to read Spinoza's Ethics and at the same time apply Walter Kaufmann's suggestion to rethink every step critically, for a few days I started to take notes toward a geometrical presentation of propositions I could agree with (e.g., instead beginning with a self-caused God who created the universe, my propositions began on more Aristotelian lines with being itself and an eternal universe)....</summary>
+  </entry>
   <entry>
     <title>Self-Deception</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1965.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-05-13</issued>
     <modified>2025-05-13</modified>
     <summary>My alma mater, Columbia University, was back in the news yet again last week because some screeching students took over parts of Butler Library while serious students were preparing for final exams. The details are unimportant in this context; instead I'm puzzled by what passes for speech these days....</summary>
-  </entry>
-  <entry>
-    <title>Intellectual Honesty</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1960.html"/>
-    <id>tag:stpeter.im,1960</id>
-    <issued>2025-05-08</issued>
-    <modified>2025-05-08</modified>
-    <summary>In his book The Faith of a Heretic, Walter Kaufmann spells out an ethic of intellectual honesty. (The book covers many other topics, but that's the core of it.) He sets admirably high standards for himself and anyone else who would, in the words of his fellow philosopher Jan Patočka, live in truth. As Kaufmann presents it, intellectual honesty is a challenging virtue because we're all liable to limit ourselves to the comfortable confines of what we already know - or think we know....</summary>
   </entry>
 </feed>
