@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-05-30</modified>
+  <modified>2025-06-02</modified>
+  <entry>
+    <title>Utopia Is Not an Option</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1967.html"/>
+    <id>tag:stpeter.im,1967</id>
+    <issued>2025-06-02</issued>
+    <modified>2025-06-02</modified>
+    <summary>The recent death of philosopher Alisdair MacIntyre has prompted numerous assessments of his work (which, I'll admit, I have not looked at in decades - an oversight that I plan to remedy soon because of his status as perhaps the most prominent neo-Aristotelian thinker of the last fifty years). Several of the remembrances I've read expressed frustration with the lack of specificity in MacIntyre's political philosophy, which boils down to what my college professor Charles Larmore called "polis envy": the desire to construct communities on the model of the ancient Greek city-states, in which all the citizens worked together for the sake of a common purpose and a common vision of the good life. Only in such a setting, says MacIntyre, can human beings lead an ethically flourishing life....</summary>
+  </entry>
   <entry>
     <title>Universe and Humanverse</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1966.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-05-22</issued>
     <modified>2025-05-22</modified>
     <summary>Over the last few weeks I've been re-reading Spinoza's Ethics yet again, this time inspired by a review of Kieran Fox's newly-published spiritual biography of Einstein, which noted that when pressed about his religious beliefs the great scientist claimed to believe in Spinoza's God....</summary>
-  </entry>
-  <entry>
-    <title>Freedom of Screech</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1961.html"/>
-    <id>tag:stpeter.im,1961</id>
-    <issued>2025-05-13</issued>
-    <modified>2025-05-13</modified>
-    <summary>My alma mater, Columbia University, was back in the news yet again last week because some screeching students took over parts of Butler Library while serious students were preparing for final exams. The details are unimportant in this context; instead I'm puzzled by what passes for speech these days....</summary>
   </entry>
 </feed>
