@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-06-02</modified>
+  <modified>2025-06-08</modified>
+  <entry>
+    <title>Living on the Margins</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1968.html"/>
+    <id>tag:stpeter.im,1968</id>
+    <issued>2025-06-08</issued>
+    <modified>2025-06-08</modified>
+    <summary>While reading today the final essay published by Alisdair MacIntyre, I was struck by the following two passages:...</summary>
+  </entry>
   <entry>
     <title>Utopia Is Not an Option</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1967.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-05-23</issued>
     <modified>2025-05-23</modified>
     <summary>Socrates, Plato, and Aristotle held that philosophy - the love and practice of wisdom - begins in wonder. But whence wonder?...</summary>
-  </entry>
-  <entry>
-    <title>Reading Spinoza</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1962.html"/>
-    <id>tag:stpeter.im,1962</id>
-    <issued>2025-05-22</issued>
-    <modified>2025-05-22</modified>
-    <summary>Over the last few weeks I've been re-reading Spinoza's Ethics yet again, this time inspired by a review of Kieran Fox's newly-published spiritual biography of Einstein, which noted that when pressed about his religious beliefs the great scientist claimed to believe in Spinoza's God....</summary>
   </entry>
 </feed>
