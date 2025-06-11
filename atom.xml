@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-06-08</modified>
+  <modified>2025-06-10</modified>
+  <entry>
+    <title>Learning Excellence</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1969.html"/>
+    <id>tag:stpeter.im,1969</id>
+    <issued>2025-06-10</issued>
+    <modified>2025-06-10</modified>
+    <summary>In my post about Alisdair MacIntyre the other day, I expressed admiration for his recognition that we need to learn the principles of action from the practices life. Here is a quote on the topic from his last essay:...</summary>
+  </entry>
   <entry>
     <title>Living on the Margins</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1968.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-05-24</issued>
     <modified>2025-05-24</modified>
     <summary>Combining threads from recent posts on Spinoza and on Walter Kaufmann, here are a few further thoughts on intellectual honesty and philosophical methodology....</summary>
-  </entry>
-  <entry>
-    <title>Whence Wonder?</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1963.html"/>
-    <id>tag:stpeter.im,1963</id>
-    <issued>2025-05-23</issued>
-    <modified>2025-05-23</modified>
-    <summary>Socrates, Plato, and Aristotle held that philosophy - the love and practice of wisdom - begins in wonder. But whence wonder?...</summary>
   </entry>
 </feed>
