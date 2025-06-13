@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-06-10</modified>
+  <modified>2025-06-13</modified>
+  <entry>
+    <title>Up and Down</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1970.html"/>
+    <id>tag:stpeter.im,1970</id>
+    <issued>2025-06-13</issued>
+    <modified>2025-06-13</modified>
+    <summary>About 2500 year ago, Heraclitus said: "the way upward and the way downward are one and the same" (Fragment 60). As always with the enigmatic and evocative fragments of Heraclitus - I've written before about his statement that "you can't step into the same river twice" - there are multiple interpretations of this one, from the mundane (the road up a mountain is the same as the road down a mountain) to the mystical (humanity's way up to god is the same as god's way down to humanity). For today I'd like to link this saying to the Aristotelian theme of practical wisdom (φρόνησις)....</summary>
+  </entry>
   <entry>
     <title>Learning Excellence</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1969.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-05-26</issued>
     <modified>2025-05-26</modified>
     <summary>One of my personal aphorisms is: "The easiest thing in the world is self-deception."...</summary>
-  </entry>
-  <entry>
-    <title>Step by Step</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1964.html"/>
-    <id>tag:stpeter.im,1964</id>
-    <issued>2025-05-24</issued>
-    <modified>2025-05-24</modified>
-    <summary>Combining threads from recent posts on Spinoza and on Walter Kaufmann, here are a few further thoughts on intellectual honesty and philosophical methodology....</summary>
   </entry>
 </feed>
