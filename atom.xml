@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-06-13</modified>
+  <modified>2025-06-15</modified>
+  <entry>
+    <title>Reflective Passion</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1971.html"/>
+    <id>tag:stpeter.im,1971</id>
+    <issued>2025-06-15</issued>
+    <modified>2025-06-15</modified>
+    <summary>In §32 of Walter Kaufmann's 1958 book Critique of Religion and Philosophy can be found this magnificent paragraph:...</summary>
+  </entry>
   <entry>
     <title>Up and Down</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1970.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-05-30</issued>
     <modified>2025-05-30</modified>
     <summary>As I have continued to read Spinoza's Ethics and at the same time apply Walter Kaufmann's suggestion to rethink every step critically, for a few days there I started to take notes toward a geometrical presentation of propositions I could agree with (e.g., instead beginning with a self-caused God who created the universe, my propositions began on more Aristotelian lines with being itself and an eternal universe)....</summary>
-  </entry>
-  <entry>
-    <title>Self-Deception</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1965.html"/>
-    <id>tag:stpeter.im,1965</id>
-    <issued>2025-05-26</issued>
-    <modified>2025-05-26</modified>
-    <summary>One of my personal aphorisms is: "The easiest thing in the world is self-deception."...</summary>
   </entry>
 </feed>
