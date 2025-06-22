@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-06-15</modified>
+  <modified>2025-06-22</modified>
+  <entry>
+    <title>Go There, Do It, Write It</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1972.html"/>
+    <id>tag:stpeter.im,1972</id>
+    <issued>2025-06-22</issued>
+    <modified>2025-06-22</modified>
+    <summary>I've just started reading David Hackett Fischer's massive book African Founders: How Enslaved People Expanded American Ideals, a worthy follow-up to the magisterial Albion's Seed (which I also happen to be re-reading as background to my in-progress poem "Song of the Nations"). In the introduction, Fischer cites three rules for historical research that were originally formulated by Francis Parkman: "Go There", "Do It", and "Write It" (advice that Parkman followed in spades, for example in his well-known work on the Oregon Trail)....</summary>
+  </entry>
   <entry>
     <title>Reflective Passion</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1971.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-06-02</issued>
     <modified>2025-06-02</modified>
     <summary>The recent death of philosopher Alasdair MacIntyre has prompted numerous assessments of his work (which, I'll admit, I have not looked at in decades - an oversight that I plan to remedy soon because of his status as perhaps the most prominent neo-Aristotelian thinker of the last fifty years). Several of the remembrances I've read expressed frustration with the lack of specificity in MacIntyre's political philosophy, which boils down to what my college professor Charles Larmore called "polis envy": the desire to construct communities on the model of the ancient Greek city-states, in which all the citizens worked together for the sake of a common purpose and a common vision of the good life. Only in such a setting, says MacIntyre, can human beings lead an ethically flourishing life....</summary>
-  </entry>
-  <entry>
-    <title>Universe and Humanverse</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1966.html"/>
-    <id>tag:stpeter.im,1966</id>
-    <issued>2025-05-30</issued>
-    <modified>2025-05-30</modified>
-    <summary>As I have continued to read Spinoza's Ethics and at the same time apply Walter Kaufmann's suggestion to rethink every step critically, for a few days there I started to take notes toward a geometrical presentation of propositions I could agree with (e.g., instead beginning with a self-caused God who created the universe, my propositions began on more Aristotelian lines with being itself and an eternal universe)....</summary>
   </entry>
 </feed>
