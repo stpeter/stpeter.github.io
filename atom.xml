@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-06-22</modified>
+  <modified>2025-07-04</modified>
+  <entry>
+    <title>American Gumbo</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1973.html"/>
+    <id>tag:stpeter.im,1973</id>
+    <issued>2025-07-04</issued>
+    <modified>2025-07-04</modified>
+    <summary>While slowly writing a long poem about America as the nation of many nations, I've been reading widely about the peoples who have come together to form the American people - the numerous tribes of indigenous American Indians of course, and then a vast, continuing, 400-year migration of East Anglian Puritans, West Country Cavaliers, Dutch Calvinists, North Midland Quakers, German Pietists, enslaved Africans, British convicts, Scottish Presbyterians, French Huguenots, Irish Catholics, Norwegian and Swedish Lutherans, Jews, Italians, French Canadians, Portuguese, Finns, Russians, Poles, Ukrainians, Japanese, Filipinos, Puerto Ricans, Jamaicans, Mexicans, Cubans, Brazilians, Chinese, Koreans, Vietnamese, Hmong, Lebanese, Egyptians, Persians, Indians, Ethiopians, Nigerians, and folks from every other nation of the world....</summary>
+  </entry>
   <entry>
     <title>Go There, Do It, Write It</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1972.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-06-08</issued>
     <modified>2025-06-08</modified>
     <summary>While reading today the final essay published by Alasdair MacIntyre, I was struck by the following two passages:...</summary>
-  </entry>
-  <entry>
-    <title>Utopia Is Not an Option</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1967.html"/>
-    <id>tag:stpeter.im,1967</id>
-    <issued>2025-06-02</issued>
-    <modified>2025-06-02</modified>
-    <summary>The recent death of philosopher Alasdair MacIntyre has prompted numerous assessments of his work (which, I'll admit, I have not looked at in decades - an oversight that I plan to remedy soon because of his status as perhaps the most prominent neo-Aristotelian thinker of the last fifty years). Several of the remembrances I've read expressed frustration with the lack of specificity in MacIntyre's political philosophy, which boils down to what my college professor Charles Larmore called "polis envy": the desire to construct communities on the model of the ancient Greek city-states, in which all the citizens worked together for the sake of a common purpose and a common vision of the good life. Only in such a setting, says MacIntyre, can human beings lead an ethically flourishing life....</summary>
   </entry>
 </feed>
