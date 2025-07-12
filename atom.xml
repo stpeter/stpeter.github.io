@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-07-04</modified>
+  <modified>2025-07-11</modified>
+  <entry>
+    <title>Culture Streams</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1974.html"/>
+    <id>tag:stpeter.im,1974</id>
+    <issued>2025-07-11</issued>
+    <modified>2025-07-11</modified>
+    <summary>Here are a few more thoughts on the flavorful gumbo that is American culture. This time I'll introduce a different metaphor: a great river that is formed from numerous streams, each with its own sources, rapids, eddies, and, ultimately, individual droplets of water....</summary>
+  </entry>
   <entry>
     <title>American Gumbo</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1973.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-06-10</issued>
     <modified>2025-06-10</modified>
     <summary>In my post about Alasdair MacIntyre the other day, I expressed admiration for his recognition that we need to learn the principles of action from the practices life. Here is a quote on the topic from his last essay:...</summary>
-  </entry>
-  <entry>
-    <title>Living on the Margins</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1968.html"/>
-    <id>tag:stpeter.im,1968</id>
-    <issued>2025-06-08</issued>
-    <modified>2025-06-08</modified>
-    <summary>While reading today the final essay published by Alasdair MacIntyre, I was struck by the following two passages:...</summary>
   </entry>
 </feed>
