@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-07-11</modified>
+  <modified>2025-07-12</modified>
+  <entry>
+    <title>Greatness in Philosophy</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1975.html"/>
+    <id>tag:stpeter.im,1975</id>
+    <issued>2025-07-12</issued>
+    <modified>2025-07-12</modified>
+    <summary>In his book Critique of Religion and Philosophy, Walter Kaufmann wrote:...</summary>
+  </entry>
   <entry>
     <title>Culture Streams</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1974.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-06-13</issued>
     <modified>2025-06-13</modified>
     <summary>About 2500 year ago, Heraclitus said: "the way upward and the way downward are one and the same" (Fragment 60). As always with the enigmatic and evocative fragments of Heraclitus - I've written before about his statement that "you can't step into the same river twice" - there are multiple interpretations of this one, from the mundane (the road up a mountain is the same as the road down a mountain) to the mystical (humanity's way up to god is the same as god's way down to humanity). For today I'd like to link this saying to the Aristotelian theme of practical wisdom (φρόνησις)....</summary>
-  </entry>
-  <entry>
-    <title>Learning Excellence</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1969.html"/>
-    <id>tag:stpeter.im,1969</id>
-    <issued>2025-06-10</issued>
-    <modified>2025-06-10</modified>
-    <summary>In my post about Alasdair MacIntyre the other day, I expressed admiration for his recognition that we need to learn the principles of action from the practices life. Here is a quote on the topic from his last essay:...</summary>
   </entry>
 </feed>
