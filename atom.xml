@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-07-12</modified>
+  <modified>2025-07-21</modified>
+  <entry>
+    <title>All, Some, One</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1976.html"/>
+    <id>tag:stpeter.im,1976</id>
+    <issued>2025-07-21</issued>
+    <modified>2025-07-21</modified>
+    <summary>A recent essay by Fasil Merawi about Ethiopian philosophy set me to thinking. According to Merawi, there are two opposing philosophical camps in Ethiopia:...</summary>
+  </entry>
   <entry>
     <title>Greatness in Philosophy</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1975.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-06-15</issued>
     <modified>2025-06-15</modified>
     <summary>In §32 of Walter Kaufmann's 1958 book Critique of Religion and Philosophy can be found this magnificent paragraph:...</summary>
-  </entry>
-  <entry>
-    <title>Up and Down</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1970.html"/>
-    <id>tag:stpeter.im,1970</id>
-    <issued>2025-06-13</issued>
-    <modified>2025-06-13</modified>
-    <summary>About 2500 year ago, Heraclitus said: "the way upward and the way downward are one and the same" (Fragment 60). As always with the enigmatic and evocative fragments of Heraclitus - I've written before about his statement that "you can't step into the same river twice" - there are multiple interpretations of this one, from the mundane (the road up a mountain is the same as the road down a mountain) to the mystical (humanity's way up to god is the same as god's way down to humanity). For today I'd like to link this saying to the Aristotelian theme of practical wisdom (φρόνησις)....</summary>
   </entry>
 </feed>
