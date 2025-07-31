@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-07-21</modified>
+  <modified>2025-07-31</modified>
+  <entry>
+    <title>Values are Overrated</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1977.html"/>
+    <id>tag:stpeter.im,1977</id>
+    <issued>2025-07-31</issued>
+    <modified>2025-07-31</modified>
+    <summary>Modern society is filled with incessant talk about the importance of good values. Yet talk is cheap and values are overrated. Much more important than values are commitments, practices, and actions....</summary>
+  </entry>
   <entry>
     <title>All, Some, One</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1976.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-06-22</issued>
     <modified>2025-06-22</modified>
     <summary>I've just started reading David Hackett Fischer's massive book African Founders: How Enslaved People Expanded American Ideals, a worthy follow-up to the magisterial Albion's Seed (which I also happen to be re-reading as background to my in-progress poem "Song of the Nations"). In the introduction, Fischer cites three rules for historical research that were originally formulated by Francis Parkman: "Go There", "Do It", and "Write It" (advice that Parkman followed in spades, for example in his well-known work on the Oregon Trail)....</summary>
-  </entry>
-  <entry>
-    <title>Reflective Passion</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1971.html"/>
-    <id>tag:stpeter.im,1971</id>
-    <issued>2025-06-15</issued>
-    <modified>2025-06-15</modified>
-    <summary>In §32 of Walter Kaufmann's 1958 book Critique of Religion and Philosophy can be found this magnificent paragraph:...</summary>
   </entry>
 </feed>
