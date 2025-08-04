@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-07-31</modified>
+  <modified>2025-08-04</modified>
+  <entry>
+    <title>Personal World</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1978.html"/>
+    <id>tag:stpeter.im,1978</id>
+    <issued>2025-08-04</issued>
+    <modified>2025-08-04</modified>
+    <summary>Back in May, Discourse magazine published a fine essay by Martin Gurri entitled "My Moral Sphere". Consistent with my own stance toward life, Gurri argued that ethics is not what you profess about national or global issues, but how you treat the people around you. Here's his summary:...</summary>
+  </entry>
   <entry>
     <title>Values Are Overrated</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1977.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-07-04</issued>
     <modified>2025-07-04</modified>
     <summary>While slowly writing a long poem about America as the nation of many nations, I've been reading widely about the peoples who have come together to form the American people - the numerous tribes of indigenous American Indians of course, and then a vast, continuing, 400-year migration of East Anglian Puritans, West Country Cavaliers, Dutch Calvinists, North Midland Quakers, German Pietists, enslaved Africans, British convicts, Scottish Presbyterians, French Huguenots, Irish Catholics, Norwegian and Swedish Lutherans, Jews, Italians, French Canadians, Portuguese, Finns, Russians, Poles, Ukrainians, Japanese, Filipinos, Puerto Ricans, Jamaicans, Mexicans, Cubans, Brazilians, Chinese, Koreans, Vietnamese, Hmong, Lebanese, Egyptians, Persians, Indians, Ethiopians, Nigerians, and folks from every other nation of the world....</summary>
-  </entry>
-  <entry>
-    <title>Go There, Do It, Write It</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1972.html"/>
-    <id>tag:stpeter.im,1972</id>
-    <issued>2025-06-22</issued>
-    <modified>2025-06-22</modified>
-    <summary>I've just started reading David Hackett Fischer's massive book African Founders: How Enslaved People Expanded American Ideals, a worthy follow-up to the magisterial Albion's Seed (which I also happen to be re-reading as background to my in-progress poem "Song of the Nations"). In the introduction, Fischer cites three rules for historical research that were originally formulated by Francis Parkman: "Go There", "Do It", and "Write It" (advice that Parkman followed in spades, for example in his well-known work on the Oregon Trail)....</summary>
   </entry>
 </feed>
