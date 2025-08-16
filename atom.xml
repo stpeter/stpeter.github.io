@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-08-04</modified>
+  <modified>2025-08-15</modified>
+  <entry>
+    <title>Words, Words, Words</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1979.html"/>
+    <id>tag:stpeter.im,1979</id>
+    <issued>2025-08-15</issued>
+    <modified>2025-08-15</modified>
+    <summary>Here's something I'm struggling with: if talk is cheap and values are overrated, what's the worth of writing?...</summary>
+  </entry>
   <entry>
     <title>Personal World</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1978.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-07-11</issued>
     <modified>2025-07-11</modified>
     <summary>Here are a few more thoughts on the flavorful gumbo that is American culture. This time I'll introduce a different metaphor: a great river that is formed from numerous streams, each with its own sources, rapids, eddies, and, ultimately, individual droplets of water....</summary>
-  </entry>
-  <entry>
-    <title>American Gumbo</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1973.html"/>
-    <id>tag:stpeter.im,1973</id>
-    <issued>2025-07-04</issued>
-    <modified>2025-07-04</modified>
-    <summary>While slowly writing a long poem about America as the nation of many nations, I've been reading widely about the peoples who have come together to form the American people - the numerous tribes of indigenous American Indians of course, and then a vast, continuing, 400-year migration of East Anglian Puritans, West Country Cavaliers, Dutch Calvinists, North Midland Quakers, German Pietists, enslaved Africans, British convicts, Scottish Presbyterians, French Huguenots, Irish Catholics, Norwegian and Swedish Lutherans, Jews, Italians, French Canadians, Portuguese, Finns, Russians, Poles, Ukrainians, Japanese, Filipinos, Puerto Ricans, Jamaicans, Mexicans, Cubans, Brazilians, Chinese, Koreans, Vietnamese, Hmong, Lebanese, Egyptians, Persians, Indians, Ethiopians, Nigerians, and folks from every other nation of the world....</summary>
   </entry>
 </feed>
