@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-08-15</modified>
+  <modified>2025-08-16</modified>
+  <entry>
+    <title>Thinking Historically</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1980.html"/>
+    <id>tag:stpeter.im,1980</id>
+    <issued>2025-08-16</issued>
+    <modified>2025-08-16</modified>
+    <summary>Over the last few months I've read three books by my favorite historian, David Hackett Fischer: Historians' Fallacies: Toward a Logic of Historical Thought (1970), Albion's Seed: Four British Folkways in America (my third reading of this book, published in 1989), and African Founders: How Enslaved People Expanded American Ideals (2022)....</summary>
+  </entry>
   <entry>
     <title>Words, Words, Words</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1979.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-07-12</issued>
     <modified>2025-07-12</modified>
     <summary>In §25 of his book Critique of Religion and Philosophy, Walter Kaufmann wrote:...</summary>
-  </entry>
-  <entry>
-    <title>Culture Streams</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1974.html"/>
-    <id>tag:stpeter.im,1974</id>
-    <issued>2025-07-11</issued>
-    <modified>2025-07-11</modified>
-    <summary>Here are a few more thoughts on the flavorful gumbo that is American culture. This time I'll introduce a different metaphor: a great river that is formed from numerous streams, each with its own sources, rapids, eddies, and, ultimately, individual droplets of water....</summary>
   </entry>
 </feed>
