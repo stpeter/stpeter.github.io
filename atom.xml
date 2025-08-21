@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-08-20</modified>
+  <modified>2025-08-21</modified>
+  <entry>
+    <title>AI and I</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1982.html"/>
+    <id>tag:stpeter.im,1982</id>
+    <issued>2025-08-21</issued>
+    <modified>2025-08-21</modified>
+    <summary>With all the Sturm und Drang about so-called artificial intelligence right now, I'd like to make it clear that I don't use these technologies. For me, the primary consideration is not that AI will, on balance, degrade humanity's already weakened ability to engage in independent thinking and humane interaction (although I think evidence is mounting that this will be the case). No, I simply find these technologies uninteresting....</summary>
+  </entry>
   <entry>
     <title>Imitation and Individuality</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1981.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-07-31</issued>
     <modified>2025-07-31</modified>
     <summary>Modern society is filled with incessant talk about the importance of good values. Yet talk is cheap and values are overrated. Much more important than values are commitments, practices, and actions....</summary>
-  </entry>
-  <entry>
-    <title>All, Some, One</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1976.html"/>
-    <id>tag:stpeter.im,1976</id>
-    <issued>2025-07-21</issued>
-    <modified>2025-07-21</modified>
-    <summary>A recent essay by Fasil Merawi about Ethiopian philosophy set me to thinking (and to ordering a copy of the Hatatas). According to Merawi, there are two opposing philosophical camps in Ethiopia:...</summary>
   </entry>
 </feed>
