@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-08-16</modified>
+  <modified>2025-08-20</modified>
+  <entry>
+    <title>Imitation and Individuality</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1981.html"/>
+    <id>tag:stpeter.im,1981</id>
+    <issued>2025-08-20</issued>
+    <modified>2025-08-20</modified>
+    <summary>These propositions, quoted in Albert Murray's book The Blue Devils of Nada, "preclude imitation in favor of individuality", as Murray observes. Here I'm especially interested in Hemingway's statement that schools of art serve to classify their members as failures. What exactly does that mean?...</summary>
+  </entry>
   <entry>
     <title>Thinking Historically</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1980.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-07-21</issued>
     <modified>2025-07-21</modified>
     <summary>A recent essay by Fasil Merawi about Ethiopian philosophy set me to thinking (and to ordering a copy of the Hatatas). According to Merawi, there are two opposing philosophical camps in Ethiopia:...</summary>
-  </entry>
-  <entry>
-    <title>Greatness in Philosophy</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1975.html"/>
-    <id>tag:stpeter.im,1975</id>
-    <issued>2025-07-12</issued>
-    <modified>2025-07-12</modified>
-    <summary>In §25 of his book Critique of Religion and Philosophy, Walter Kaufmann wrote:...</summary>
   </entry>
 </feed>
