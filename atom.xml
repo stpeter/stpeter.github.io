@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-08-16</modified>
+  <modified>2025-08-24</modified>
+  <entry>
+    <title>Sunlight and Shadow</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1984.html"/>
+    <id>tag:stpeter.im,1984</id>
+    <issued>2025-08-24</issued>
+    <modified>2025-08-24</modified>
+    <summary>Overnight I realized that my post yesterday about Walter Kaufmann's account of love as a virtue could give the impression that my view of life is rather dark. Whereas it seems that Kaufmann had something of a tragic sense of life, my outlook is decidedly sunnier. Since I was quite young, I've wondered at the cosmic improbability of being alive. Several months ago I put it this way to a friend:...</summary>
+  </entry>
   <entry>
     <title>What Is This Thing Called Love?</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1983.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-08-15</issued>
     <modified>2025-08-15</modified>
     <summary>Here's something I'm struggling with: if talk is cheap and values are overrated, what's the worth of writing?...</summary>
-  </entry>
-  <entry>
-    <title>Personal World</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1978.html"/>
-    <id>tag:stpeter.im,1978</id>
-    <issued>2025-08-04</issued>
-    <modified>2025-08-04</modified>
-    <summary>Back in May, Discourse magazine published a fine essay by Martin Gurri entitled "My Moral Sphere". Consistent with my own stance toward life, Gurri argued that ethics is not what you profess about national or global issues, but how you treat the people around you. Here's his summary:...</summary>
   </entry>
 </feed>
