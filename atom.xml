@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-08-24</modified>
+  <modified>2025-08-25</modified>
+  <entry>
+    <title>Historical Aspirations</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1985.html"/>
+    <id>tag:stpeter.im,1985</id>
+    <issued>2025-08-25</issued>
+    <modified>2025-08-25</modified>
+    <summary>Following up on my post about thinking historically, here are some further reflections on the methodological insights (and, to my mind, shortcomings) of my favorite historian, David Hackett Fischer....</summary>
+  </entry>
   <entry>
     <title>Sunlight and Shadow</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1984.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-08-16</issued>
     <modified>2025-08-16</modified>
     <summary>Over the last few months I've read three books by my favorite historian, David Hackett Fischer: Historians' Fallacies: Toward a Logic of Historical Thought (1970), Albion's Seed: Four British Folkways in America (my third reading of this book, published in 1989), and African Founders: How Enslaved People Expanded American Ideals (2022)....</summary>
-  </entry>
-  <entry>
-    <title>Words, Words, Words</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1979.html"/>
-    <id>tag:stpeter.im,1979</id>
-    <issued>2025-08-15</issued>
-    <modified>2025-08-15</modified>
-    <summary>Here's something I'm struggling with: if talk is cheap and values are overrated, what's the worth of writing?...</summary>
   </entry>
 </feed>
