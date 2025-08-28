@@ -48,6 +48,10 @@ img {
   padding: 2%;
 }
 
+strong {
+  font-weight: bold;
+}
+
 /* Typography */
 
 /*  6pt = 0.375em
