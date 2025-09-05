@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-09-03</modified>
+  <modified>2025-09-05</modified>
+  <entry>
+    <title>American Complexities</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1988.html"/>
+    <id>tag:stpeter.im,1988</id>
+    <issued>2025-09-05</issued>
+    <modified>2025-09-05</modified>
+    <summary>Reading about American history and culture is forever fascinating. Of late I've been focused on learning about various immigrant groups, from monumental ones like the English and the Africans (explained so well by David Hackett Fischer in his books Albion's Seed and African Founders) to relatively unknown ones like the French Huguenots who migrated to Boston, New York, and South Carolina in the 1690s and the Canary Islanders who settled in southern Louisiana under Spanish rule from 1778 to 1783. America has experienced dozens of such migrant streams, each consisting of atypically adventurous people and each adding its distinctive flavor to the gumbo of American culture. Indeed, as Walt Whitman observed in his 1855 poem Great Are the Myths, America is "the nation of clusters of equal nations"; Frederick Douglass echoed Whitman in his 1869 speech Our Composite Nation; and Albert Murray renewed these insights in his 1970 book The Omni-Americans, wherein he argued that American culture is inherently composite, pluralistic, mulatto....</summary>
+  </entry>
   <entry>
     <title>Vibe Thinking</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1987.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-08-16</issued>
     <modified>2025-08-16</modified>
     <summary>The German-born American philosopher Walter Kaufmann, best known for his translations (and postwar rehabilitation) of Nietzsche, also produced original philosophical works of great worth, as well as a fine collection of poems of which I'm quite fond. In his 1961 book The Faith of a Heretic, among other things Kaufmann attempted to sketch out a personal ethic appropriate for contemporary human beings. Although his accounts of virtues like courage and intellectual honesty span only a few pages each, they are dense with meaning. Here I'll try to summarize his perspective on what Cole Porter famously named "this thing called love"....</summary>
-  </entry>
-  <entry>
-    <title>AI and I</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1982.html"/>
-    <id>tag:stpeter.im,1982</id>
-    <issued>2025-08-21</issued>
-    <modified>2025-08-21</modified>
-    <summary>With all the Sturm und Drang about so-called artificial intelligence right now, I'd like to make it clear that I don't use these technologies. For me, the primary consideration is not that AI will, on balance, degrade humanity's already weakened ability to engage in independent thinking and humane interaction (although I think evidence is mounting that this will be the case). No, I simply find these technologies uninteresting....</summary>
   </entry>
 </feed>
