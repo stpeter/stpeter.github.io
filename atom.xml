@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-09-05</modified>
+  <modified>2025-09-08</modified>
+  <entry>
+    <title>Living Wisdom</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1989.html"/>
+    <id>tag:stpeter.im,1989</id>
+    <issued>2025-09-08</issued>
+    <modified>2025-09-08</modified>
+    <summary>While reading yet another book by Pierre Hadot recently, I came across a fascinating passage from the ancient Greek writer Plutarch about philosophy as a way of life. Here's the crux of it, in my own translation:...</summary>
+  </entry>
   <entry>
     <title>American Complexities</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1988.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-08-24</issued>
     <modified>2025-08-24</modified>
     <summary>Overnight I realized that my post yesterday about Walter Kaufmann's account of love as a virtue could give the impression that my view of life is rather dark. Whereas it seems that Kaufmann had something of a tragic sense of life, my outlook is decidedly sunnier. Since I was quite young, I've wondered at the cosmic improbability of being alive. Several months ago I put it this way to a friend:...</summary>
-  </entry>
-  <entry>
-    <title>What Is This Thing Called Love?</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1983.html"/>
-    <id>tag:stpeter.im,1983</id>
-    <issued>2025-08-16</issued>
-    <modified>2025-08-16</modified>
-    <summary>The German-born American philosopher Walter Kaufmann, best known for his translations (and postwar rehabilitation) of Nietzsche, also produced original philosophical works of great worth, as well as a fine collection of poems of which I'm quite fond. In his 1961 book The Faith of a Heretic, among other things Kaufmann attempted to sketch out a personal ethic appropriate for contemporary human beings. Although his accounts of virtues like courage and intellectual honesty span only a few pages each, they are dense with meaning. Here I'll try to summarize his perspective on what Cole Porter famously named "this thing called love"....</summary>
   </entry>
 </feed>
