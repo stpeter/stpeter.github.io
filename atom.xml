@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-09-05</modified>
+  <modified>2025-09-07</modified>
+  <entry>
+    <title>Investing in People</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1990.html"/>
+    <id>tag:stpeter.im,1990</id>
+    <issued>2025-09-07</issued>
+    <modified>2025-09-07</modified>
+    <summary>In Ayn Rand's novel The Fountainhead, the villainous intellectual Ellsworth Toohey shamelessly states his attitude to other people: "I play the stock market of the soul - and I sell short." Because you can't go too far wrong by doing the exact opposite of what a wicked character like Toohey does, I've been thinking about what it means to buy long in human relationships....</summary>
+  </entry>
   <entry>
     <title>Living Wisdom</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1989.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-08-25</issued>
     <modified>2025-08-25</modified>
     <summary>Following up on my post about thinking historically, here are some further reflections on the methodological insights (and, to my mind, shortcomings) of my favorite historian, David Hackett Fischer....</summary>
-  </entry>
-  <entry>
-    <title>Sunlight and Shadow</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1984.html"/>
-    <id>tag:stpeter.im,1984</id>
-    <issued>2025-08-24</issued>
-    <modified>2025-08-24</modified>
-    <summary>Overnight I realized that my post yesterday about Walter Kaufmann's account of love as a virtue could give the impression that my view of life is rather dark. Whereas it seems that Kaufmann had something of a tragic sense of life, my outlook is decidedly sunnier. Since I was quite young, I've wondered at the cosmic improbability of being alive. Several months ago I put it this way to a friend:...</summary>
   </entry>
 </feed>
