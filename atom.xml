@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-09-07</modified>
+  <modified>2025-09-17</modified>
+  <entry>
+    <title>American Identity</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1991.html"/>
+    <id>tag:stpeter.im,1991</id>
+    <issued>2025-09-17</issued>
+    <modified>2025-09-17</modified>
+    <summary>Because today is Constitution Day, I figured it would appropriate to share a few reflections on what it is to be an American. Apparently that's a thing these days! But in fact it's been a thing since at least 1781, when J. Hector St. Jean de Crevecoeur published his essay What Is an American....</summary>
+  </entry>
   <entry>
     <title>Investing in People</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1990.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-08-25</issued>
     <modified>2025-08-25</modified>
     <summary>Cross-pollination is a wondrous thing. Over the last few months I've been reading about two topics that might seem quite far apart: ancient Greek tragedy and American jazz. In the first category, I'm working my way through all the extant tragedies of Aeschylus, Sophocles, and Euripides, and also reading literary and philosophical analysis of tragic drama, such as Walter Kaufmann's Tragedy and Philosophy. In the second category, I've been reading biographies of great jazz musicians and composers (Armstrong, Ellington, Monk, Mingus, Coltrane, etc.) as well as historical and philosophical analysis of the meaning of jazz and blues in American culture, especially some amazing books by Albert Murray and some essays by Ralph Ellison....</summary>
-  </entry>
-  <entry>
-    <title>Historical Aspirations</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1985.html"/>
-    <id>tag:stpeter.im,1985</id>
-    <issued>2025-08-25</issued>
-    <modified>2025-08-25</modified>
-    <summary>Following up on my post about thinking historically, here are some further reflections on the methodological insights (and, to my mind, shortcomings) of my favorite historian, David Hackett Fischer....</summary>
   </entry>
 </feed>
