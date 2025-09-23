@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-09-17</modified>
+  <modified>2025-09-23</modified>
+  <entry>
+    <title>Sagehood</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1993.html"/>
+    <id>tag:stpeter.im,1993</id>
+    <issued>2025-09-23</issued>
+    <modified>2025-09-23</modified>
+    <summary>In most of the ancient philosophical communities, the figure of the sage was held up as the ideal to which a budding lover of wisdom should rightly aspire. This was true of Confucianism, Pythagoreanism, Stoicism, Buddhism, Taoism, Pyrrhonism, Epicureanism, and the various "schools" inspired by the example of Socrates, including the "think tanks" and voluminous works of Plato and Aristotle....</summary>
+  </entry>
   <entry>
     <title>Philosophers: Public and Private</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1992.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-09-05</issued>
     <modified>2025-09-05</modified>
     <summary>Reading about American history and culture is forever fascinating. Of late I've been focused on learning about various immigrant groups, from monumental ones like the English and the Africans (explained so well by David Hackett Fischer in his books Albion's Seed and African Founders) to relatively unknown ones like the French Huguenots who migrated to Boston, New York, and South Carolina in the 1690s and the Canary Islanders who settled in southern Louisiana under Spanish rule from 1778 to 1783. America has experienced dozens of such migrant streams, each consisting of atypically adventurous people and each adding its distinctive flavor to the gumbo of American culture. Indeed, as Walt Whitman observed in his 1855 poem Great Are the Myths, America is "the nation of clusters of equal nations"; Frederick Douglass echoed Whitman in his 1869 speech Our Composite Nation; and Albert Murray renewed these insights in his 1970 book The Omni-Americans, wherein he argued that American culture is inherently composite, pluralistic, mulatto....</summary>
-  </entry>
-  <entry>
-    <title>Vibe Thinking</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1987.html"/>
-    <id>tag:stpeter.im,1987</id>
-    <issued>2025-09-03</issued>
-    <modified>2025-09-03</modified>
-    <summary>Over lunch last week, a friend and I had an interesting discussion about the future of computer programming. At his startup, he makes extensive use of machine learning and large language models but still writes plenty of code. He called this "AI-assisted coding", in contradistinction to "vibe coding”, whereby people who don't know how to code ask the LLM chatbot to generate all the code for them. He also noted that when an LLM generates code, you have to get really good at reading code - a skill that even old-style programmers haven't traditionally cultivated or enjoyed....</summary>
   </entry>
 </feed>
