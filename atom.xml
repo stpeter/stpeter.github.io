@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-09-23</modified>
+  <modified>2025-09-29</modified>
+  <entry>
+    <title>Varieties of Grieving</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1994.html"/>
+    <id>tag:stpeter.im,1994</id>
+    <issued>2025-09-29</issued>
+    <modified>2025-09-29</modified>
+    <summary>A few years ago I read an excellent book entitled Grief: A Philosophical Guide by Michael Cholbi. Since then, events in my life have led me to reflect further on the several varieties of grieving experience, as William James might have phrased it. Foremost in my mind are anticipatory grief (mental, emotional, and spiritual adjustment to a future loss, such as loss of parents) and ambiguous grief (adjustment to a loss that is difficult to understand or resolve, such as a loved one's incapacitation because of dementia)....</summary>
+  </entry>
   <entry>
     <title>Sagehood</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1993.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-09-05</issued>
     <modified>2025-09-05</modified>
     <summary>While reading yet another book by Pierre Hadot recently, I came across a fascinating passage from the ancient Greek writer Plutarch about philosophy as a way of life. Here's the crux of it, in my own translation:...</summary>
-  </entry>
-  <entry>
-    <title>American Complexities</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1988.html"/>
-    <id>tag:stpeter.im,1988</id>
-    <issued>2025-09-05</issued>
-    <modified>2025-09-05</modified>
-    <summary>Reading about American history and culture is forever fascinating. Of late I've been focused on learning about various immigrant groups, from monumental ones like the English and the Africans (explained so well by David Hackett Fischer in his books Albion's Seed and African Founders) to relatively unknown ones like the French Huguenots who migrated to Boston, New York, and South Carolina in the 1690s and the Canary Islanders who settled in southern Louisiana under Spanish rule from 1778 to 1783. America has experienced dozens of such migrant streams, each consisting of atypically adventurous people and each adding its distinctive flavor to the gumbo of American culture. Indeed, as Walt Whitman observed in his 1855 poem Great Are the Myths, America is "the nation of clusters of equal nations"; Frederick Douglass echoed Whitman in his 1869 speech Our Composite Nation; and Albert Murray renewed these insights in his 1970 book The Omni-Americans, wherein he argued that American culture is inherently composite, pluralistic, mulatto....</summary>
   </entry>
 </feed>
