@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-09-29</modified>
+  <modified>2025-10-01</modified>
+  <entry>
+    <title>Bushwhacking</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1995.html"/>
+    <id>tag:stpeter.im,1995</id>
+    <issued>2025-10-01</issued>
+    <modified>2025-10-01</modified>
+    <summary>One of the differences, I'm finding, between public philosophy and private philosophy is that the former is full of well-established trails, whereas the latter is largely an unexplored territory in which bushwhacking is required if you want to blaze a path to wisdom. For instance, there are probably hundreds of books on a typical public philosophy topic like free will vs. determinism, whereas there are few if any about, say, understanding and navigating the varieties of grieving....</summary>
+  </entry>
   <entry>
     <title>Varieties of Grieving</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1994.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-09-07</issued>
     <modified>2025-09-07</modified>
     <summary>In Ayn Rand's novel The Fountainhead, the villainous intellectual Ellsworth Toohey shamelessly states his attitude to other people: "I play the stock market of the soul - and I sell short." Because you can't go too far wrong by doing the exact opposite of what a wicked character like Toohey does, I've been thinking about what it means to buy long in human relationships....</summary>
-  </entry>
-  <entry>
-    <title>Living Wisdom</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1989.html"/>
-    <id>tag:stpeter.im,1989</id>
-    <issued>2025-09-05</issued>
-    <modified>2025-09-05</modified>
-    <summary>While reading yet another book by Pierre Hadot recently, I came across a fascinating passage from the ancient Greek writer Plutarch about philosophy as a way of life. Here's the crux of it, in my own translation:...</summary>
   </entry>
 </feed>
