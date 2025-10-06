@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-10-02</modified>
+  <modified>2025-10-05</modified>
+  <entry>
+    <title>Soulcraft</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1997.html"/>
+    <id>tag:stpeter.im,1997</id>
+    <issued>2025-10-05</issued>
+    <modified>2025-10-05</modified>
+    <summary>Aristotle wrote three books with "ethics" (ἠθική) in the title, where the word ἠθική is derived from the Greek word for character (ἦθος). Yet to modern ears, "ethics" brings to mind commandments, guardrails, and other restrictions on behavior. Thus arises the question: how best to render the word ἠθική into English?...</summary>
+  </entry>
   <entry>
     <title>Biscuit Wood</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1996.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-09-17</issued>
     <modified>2025-09-17</modified>
     <summary>We're all familiar with public intellectuals: prominent thinkers who cross over from merely academic research to have an impact on the broader culture through popular books, public debates, influence on government policy, and so on....</summary>
-  </entry>
-  <entry>
-    <title>American Identity</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1991.html"/>
-    <id>tag:stpeter.im,1991</id>
-    <issued>2025-09-17</issued>
-    <modified>2025-09-17</modified>
-    <summary>Because today is Constitution Day, I figured it would appropriate to share a few reflections on what it is to be an American. Apparently that's a thing these days! But in fact it's been a thing since at least 1781, when J. Hector St. Jean de Crevecoeur published his essay What Is an American....</summary>
   </entry>
 </feed>
