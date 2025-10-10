@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-10-05</modified>
+  <modified>2025-10-10</modified>
+  <entry>
+    <title>Private, Personal, Practical, Passionate, Particular</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1998.html"/>
+    <id>tag:stpeter.im,1998</id>
+    <issued>2025-10-10</issued>
+    <modified>2025-10-10</modified>
+    <summary>Following a gap of nearly forty years (!), I'm re-reading Alasdair MacIntyre's influential book After Virtue. As I do so, I'll post occasionally on the reflections it inspires....</summary>
+  </entry>
   <entry>
     <title>Soulcraft</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1997.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-09-23</issued>
     <modified>2025-09-23</modified>
     <summary>In most of the ancient philosophical communities, the figure of the sage was held up as the ideal to which a budding lover of wisdom should rightly aspire. This was true of Confucianism, Pythagoreanism, Stoicism, Buddhism, Taoism, Pyrrhonism, Epicureanism, and the various "schools" inspired by the example of Socrates, including the "think tanks" and voluminous works of Plato and Aristotle....</summary>
-  </entry>
-  <entry>
-    <title>Philosophers: Public and Private</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1992.html"/>
-    <id>tag:stpeter.im,1992</id>
-    <issued>2025-09-17</issued>
-    <modified>2025-09-17</modified>
-    <summary>We're all familiar with public intellectuals: prominent thinkers who cross over from merely academic research to have an impact on the broader culture through popular books, public debates, influence on government policy, and so on....</summary>
   </entry>
 </feed>
