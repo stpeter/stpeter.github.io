@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-10-10</modified>
+  <modified>2025-10-14</modified>
+  <entry>
+    <title>Socrates and Thoreau on True Wealth</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1999.html"/>
+    <id>tag:stpeter.im,1999</id>
+    <issued>2025-10-14</issued>
+    <modified>2025-10-14</modified>
+    <summary>On this day in 1857, Thoreau wrote as follows in his journal:...</summary>
+  </entry>
   <entry>
     <title>Private, Personal, Practical, Passionate, Particular</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1998.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-09-29</issued>
     <modified>2025-09-29</modified>
     <summary>A few years ago I read an excellent book entitled Grief: A Philosophical Guide by Michael Cholbi. Since then, events in my life have led me to reflect further on the several varieties of grieving experience, as William James might have phrased it. Foremost in my mind are anticipatory grief (mental, emotional, and spiritual adjustment to a future loss, such as loss of parents) and ambiguous grief (adjustment to a loss that is difficult to understand or resolve, such as a loved one's incapacitation because of dementia)....</summary>
-  </entry>
-  <entry>
-    <title>Sagehood</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1993.html"/>
-    <id>tag:stpeter.im,1993</id>
-    <issued>2025-09-23</issued>
-    <modified>2025-09-23</modified>
-    <summary>In most of the ancient philosophical communities, the figure of the sage was held up as the ideal to which a budding lover of wisdom should rightly aspire. This was true of Confucianism, Pythagoreanism, Stoicism, Buddhism, Taoism, Pyrrhonism, Epicureanism, and the various "schools" inspired by the example of Socrates, including the "think tanks" and voluminous works of Plato and Aristotle....</summary>
   </entry>
 </feed>
