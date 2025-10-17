@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-10-14</modified>
+  <modified>2025-10-17</modified>
+  <entry>
+    <title>A Letter</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2000.html"/>
+    <id>tag:stpeter.im,2000</id>
+    <issued>2025-10-17</issued>
+    <modified>2025-10-17</modified>
+    <summary>Yesterday I penned a letter to my best friend. And I do mean penned: after rummaging around in a box stashed in a closet, I tracked down some fine stationery I'd bought years ago and, pen in hand, sat down to write. Having been away from letter-writing for decades, I was reminded of a few long-forgotten essentials:...</summary>
+  </entry>
   <entry>
     <title>Socrates and Thoreau on True Wealth</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1999.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-10-01</issued>
     <modified>2025-10-01</modified>
     <summary>One of the differences, I'm finding, between public philosophy and private philosophy is that the former is full of well-established trails, whereas the latter is largely an unexplored territory in which bushwhacking is required if you want to blaze a path to wisdom. For instance, there are probably hundreds of books on a typical public philosophy topic like free will vs. determinism, whereas there are few if any about, say, understanding and navigating the varieties of grieving....</summary>
-  </entry>
-  <entry>
-    <title>Varieties of Grieving</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1994.html"/>
-    <id>tag:stpeter.im,1994</id>
-    <issued>2025-09-29</issued>
-    <modified>2025-09-29</modified>
-    <summary>A few years ago I read an excellent book entitled Grief: A Philosophical Guide by Michael Cholbi. Since then, events in my life have led me to reflect further on the several varieties of grieving experience, as William James might have phrased it. Foremost in my mind are anticipatory grief (mental, emotional, and spiritual adjustment to a future loss, such as loss of parents) and ambiguous grief (adjustment to a loss that is difficult to understand or resolve, such as a loved one's incapacitation because of dementia)....</summary>
   </entry>
 </feed>
