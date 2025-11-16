@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-10-17</modified>
+  <modified>2025-11-16</modified>
+  <entry>
+    <title>Giving and Receiving</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2001.html"/>
+    <id>tag:stpeter.im,2001</id>
+    <issued>2025-11-16</issued>
+    <modified>2025-11-16</modified>
+    <summary>Recent life circumstances have spurred me to reflect further on love as an activity, but also on love as a "passivity", as it were....</summary>
+  </entry>
   <entry>
     <title>A Letter</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2000.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-10-02</issued>
     <modified>2025-10-02</modified>
     <summary>With winter preparations already underway here (I don't want to get caught flatfooted as happened last year when we were hit with three feet of snow in the first week of November), I was reminded of a story that Henry David Thoreau related in his journal on December 15th, 1859:...</summary>
-  </entry>
-  <entry>
-    <title>Bushwhacking</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1995.html"/>
-    <id>tag:stpeter.im,1995</id>
-    <issued>2025-10-01</issued>
-    <modified>2025-10-01</modified>
-    <summary>One of the differences, I'm finding, between public philosophy and private philosophy is that the former is full of well-established trails, whereas the latter is largely an unexplored territory in which bushwhacking is required if you want to blaze a path to wisdom. For instance, there are probably hundreds of books on a typical public philosophy topic like free will vs. determinism, whereas there are few if any about, say, understanding and navigating the varieties of grieving....</summary>
   </entry>
 </feed>
