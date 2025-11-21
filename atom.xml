@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-11-16</modified>
+  <modified>2025-11-21</modified>
+  <entry>
+    <title>Twenty-Five Years of Blogging</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2002.html"/>
+    <id>tag:stpeter.im,2002</id>
+    <issued>2025-11-21</issued>
+    <modified>2025-11-21</modified>
+    <summary>On this day in the year 2000, I posted the first entry in my online journal. Two thousand posts and 650,000+ words later, I'm still at it. Granted, my journal is not quite of Thoreauvian proportions: our friend Henry produced over 2 million words in 24 years of journaling (all of which I read while encountering Thoreau in preparation for composing my book The Upland Farm). Even so, I've done a lot of scribbling over the last quarter century!...</summary>
+  </entry>
   <entry>
     <title>Giving and Receiving</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2001.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-10-05</issued>
     <modified>2025-10-05</modified>
     <summary>Aristotle wrote three books with "ethics" (ἠθική) in the title, where the word ἠθική is derived from the Greek word for character (ἦθος). Yet to modern ears, "ethics" brings to mind commandments, guardrails, and other restrictions on behavior. Thus arises the question: how best to render the word ἠθική into English?...</summary>
-  </entry>
-  <entry>
-    <title>Biscuit Wood</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1996.html"/>
-    <id>tag:stpeter.im,1996</id>
-    <issued>2025-10-02</issued>
-    <modified>2025-10-02</modified>
-    <summary>With winter preparations already underway here (I don't want to get caught flatfooted as happened last year when we were hit with three feet of snow in the first week of November), I was reminded of a story that Henry David Thoreau related in his journal on December 15th, 1859:...</summary>
   </entry>
 </feed>
