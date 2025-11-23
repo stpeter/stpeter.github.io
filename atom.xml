@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-11-21</modified>
+  <modified>2025-11-22</modified>
+  <entry>
+    <title>The Personal Side of Public Behavior</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2003.html"/>
+    <id>tag:stpeter.im,2003</id>
+    <issued>2025-11-22</issued>
+    <modified>2025-11-22</modified>
+    <summary>While conversing with a friend the other day about the seemingly endless decline in societal standards of public behavior, I had a realization: there is nothing I can do about how other people conduct themselves; all I can do is conduct myself up to my own standards. This is not a newfound awareness - I can't count the number of times I have observed that the only thing I have control over in life is myself, and even this can be rather tenuous - yet each time I make such an observation my consciousness experiences a little jolt of surprised recognition....</summary>
+  </entry>
   <entry>
     <title>Twenty-Five Years of Blogging</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2002.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-10-10</issued>
     <modified>2025-10-10</modified>
     <summary>Following a gap of nearly forty years (!), I'm re-reading Alasdair MacIntyre's influential book After Virtue. As I do so, I'll post occasionally on the reflections it inspires....</summary>
-  </entry>
-  <entry>
-    <title>Soulcraft</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1997.html"/>
-    <id>tag:stpeter.im,1997</id>
-    <issued>2025-10-05</issued>
-    <modified>2025-10-05</modified>
-    <summary>Aristotle wrote three books with "ethics" (ἠθική) in the title, where the word ἠθική is derived from the Greek word for character (ἦθος). Yet to modern ears, "ethics" brings to mind commandments, guardrails, and other restrictions on behavior. Thus arises the question: how best to render the word ἠθική into English?...</summary>
   </entry>
 </feed>
