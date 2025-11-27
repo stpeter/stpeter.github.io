@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-11-22</modified>
+  <modified>2025-11-26</modified>
+  <entry>
+    <title>Beauty, Pleasure, Mozart, and Bob Dylan</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2004.html"/>
+    <id>tag:stpeter.im,2004</id>
+    <issued>2025-11-26</issued>
+    <modified>2025-11-26</modified>
+    <summary>Since choosing the name Beautiful Wisdom for my Substack earlier this year, I have focused more on wisdom and less on beauty. That might be changing, for several reasons: I've been getting deeper into musical composition, theory, and performance; I've been souring on speculative logorrhea; and in some of my recent readings on aesthetics I've been disappointed with philosophical accounts of beauty....</summary>
+  </entry>
   <entry>
     <title>The Personal Side of Public Behavior</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2003.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-10-14</issued>
     <modified>2025-10-14</modified>
     <summary>On this day in 1857, Thoreau wrote as follows in his journal:...</summary>
-  </entry>
-  <entry>
-    <title>Private, Personal, Practical, Passionate, Particular</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1998.html"/>
-    <id>tag:stpeter.im,1998</id>
-    <issued>2025-10-10</issued>
-    <modified>2025-10-10</modified>
-    <summary>Following a gap of nearly forty years (!), I'm re-reading Alasdair MacIntyre's influential book After Virtue. As I do so, I'll post occasionally on the reflections it inspires....</summary>
   </entry>
 </feed>
