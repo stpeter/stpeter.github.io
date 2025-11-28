@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-11-26</modified>
+  <modified>2025-11-28</modified>
+  <entry>
+    <title>Eleven Questions</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2005.html"/>
+    <id>tag:stpeter.im,2005</id>
+    <issued>2025-11-28</issued>
+    <modified>2025-11-28</modified>
+    <summary>Apparently Substack has something called the Sunshine Blogger Awards, wherein writers are tagged to answer eleven questions of the tagger's choosing. Although I haven't been tagged, reading a few such posts set me to thinking, so here are eleven fascinating questions to ponder, along with my own answers....</summary>
+  </entry>
   <entry>
     <title>Beauty, Pleasure, Mozart, and Bob Dylan</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2004.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-10-17</issued>
     <modified>2025-10-17</modified>
     <summary>Yesterday I penned a letter to my best friend. And I do mean penned: after rummaging around in a box stashed in a closet, I tracked down some fine stationery I'd bought years ago and, pen in hand, sat down to write. Having been away from letter-writing for decades, I was reminded of a few long-forgotten essentials:...</summary>
-  </entry>
-  <entry>
-    <title>Socrates and Thoreau on True Wealth</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/1999.html"/>
-    <id>tag:stpeter.im,1999</id>
-    <issued>2025-10-14</issued>
-    <modified>2025-10-14</modified>
-    <summary>On this day in 1857, Thoreau wrote as follows in his journal:...</summary>
   </entry>
 </feed>
