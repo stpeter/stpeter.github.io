@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-11-28</modified>
+  <modified>2025-11-30</modified>
+  <entry>
+    <title>The Source of the Arts</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2006.html"/>
+    <id>tag:stpeter.im,2006</id>
+    <issued>2025-11-30</issued>
+    <modified>2025-11-30</modified>
+    <summary>Despite my harsh words the other day about the foundations of Santayana's aesthetics, even partway into The Sense of Beauty I could tell that some of his more particular insights would be worthy of serious consideration. That indeed has proved to be the case, specifically in the form of his summations late in the book regarding the role of art in human life....</summary>
+  </entry>
   <entry>
     <title>Eleven Questions</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2005.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-11-16</issued>
     <modified>2025-11-16</modified>
     <summary>Recent life circumstances have spurred me to reflect further on love as an activity, but also on love as a "passivity", as it were....</summary>
-  </entry>
-  <entry>
-    <title>A Letter</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2000.html"/>
-    <id>tag:stpeter.im,2000</id>
-    <issued>2025-10-17</issued>
-    <modified>2025-10-17</modified>
-    <summary>Yesterday I penned a letter to my best friend. And I do mean penned: after rummaging around in a box stashed in a closet, I tracked down some fine stationery I'd bought years ago and, pen in hand, sat down to write. Having been away from letter-writing for decades, I was reminded of a few long-forgotten essentials:...</summary>
   </entry>
 </feed>
