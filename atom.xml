@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-11-30</modified>
+  <modified>2025-12-03</modified>
+  <entry>
+    <title>Varieties of Beauty</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2009.html"/>
+    <id>tag:stpeter.im,2009</id>
+    <issued>2025-12-03</issued>
+    <modified>2025-12-03</modified>
+    <summary>Beauty is not limited to the arts (indeed, art is not always beautiful, but that's another topic). This set me to thinking about the many sorts of things that we humans can call beautiful:...</summary>
+  </entry>
   <entry>
     <title>Shakespeare and Santayana on Beauty and Truth</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2008.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-11-26</issued>
     <modified>2025-11-26</modified>
     <summary>Since choosing the name Beautiful Wisdom for my Substack earlier this year, I have focused more on wisdom and less on beauty. That might be changing, for several reasons: I've been getting deeper into musical composition, theory, and performance; I've been souring on speculative logorrhea; and in some of my recent readings on aesthetics I've been disappointed with philosophical accounts of beauty....</summary>
-  </entry>
-  <entry>
-    <title>The Personal Side of Public Behavior</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2003.html"/>
-    <id>tag:stpeter.im,2003</id>
-    <issued>2025-11-22</issued>
-    <modified>2025-11-22</modified>
-    <summary>While conversing with a friend the other day about the seemingly endless decline in societal standards of public behavior, I had a realization: there is nothing I can do about how other people conduct themselves; all I can do is conduct myself up to my own standards. This is not a newfound awareness - I can't count the number of times I have observed that the only thing I have control over in life is myself, and even this can be rather tenuous - yet each time I make such an observation my consciousness experiences a little jolt of surprised recognition....</summary>
   </entry>
 </feed>
