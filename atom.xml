@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-12-03</modified>
+  <modified>2025-12-08</modified>
+  <entry>
+    <title>Making It Personal</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2010.html"/>
+    <id>tag:stpeter.im,2010</id>
+    <issued>2025-12-08</issued>
+    <modified>2025-12-08</modified>
+    <summary>My increasingly strong commitment to personalism and particularism has prompted me to make some changes in how I read, think, and act. Specifically, I have taken to translating universal claims and observations into practices that I can apply in my own life (and ignoring them if they cannot be so translated)....</summary>
+  </entry>
   <entry>
     <title>Varieties of Beauty</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2009.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-11-28</issued>
     <modified>2025-11-28</modified>
     <summary>Apparently Substack has something called the Sunshine Blogger Awards, wherein writers are tagged to answer eleven questions of the tagger's choosing. Although I haven't been tagged, reading a few such posts set me to thinking, so here are eleven questions to ponder, along with my own answers....</summary>
-  </entry>
-  <entry>
-    <title>Beauty, Pleasure, Mozart, and Bob Dylan</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2004.html"/>
-    <id>tag:stpeter.im,2004</id>
-    <issued>2025-11-26</issued>
-    <modified>2025-11-26</modified>
-    <summary>Since choosing the name Beautiful Wisdom for my Substack earlier this year, I have focused more on wisdom and less on beauty. That might be changing, for several reasons: I've been getting deeper into musical composition, theory, and performance; I've been souring on speculative logorrhea; and in some of my recent readings on aesthetics I've been disappointed with philosophical accounts of beauty....</summary>
   </entry>
 </feed>
