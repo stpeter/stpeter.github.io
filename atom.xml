@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-12-08</modified>
+  <modified>2025-12-10</modified>
+  <entry>
+    <title>The Universalist Temptation</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2011.html"/>
+    <id>tag:stpeter.im,2011</id>
+    <issued>2025-12-10</issued>
+    <modified>2025-12-10</modified>
+    <summary>The other day in my post about Making It Personal, I wrote as follows:...</summary>
+  </entry>
   <entry>
     <title>Making It Personal</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2010.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-11-30</issued>
     <modified>2025-11-30</modified>
     <summary>Despite my harsh words the other day about the foundations of Santayana's aesthetics, even partway into The Sense of Beauty I could tell that some of his more particular insights would be worthy of serious consideration. That indeed has proved to be the case, specifically in the form of his summations late in the book regarding the role of art in human life....</summary>
-  </entry>
-  <entry>
-    <title>Eleven Questions</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2005.html"/>
-    <id>tag:stpeter.im,2005</id>
-    <issued>2025-11-28</issued>
-    <modified>2025-11-28</modified>
-    <summary>Apparently Substack has something called the Sunshine Blogger Awards, wherein writers are tagged to answer eleven questions of the tagger's choosing. Although I haven't been tagged, reading a few such posts set me to thinking, so here are eleven questions to ponder, along with my own answers....</summary>
   </entry>
 </feed>
