@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-12-10</modified>
+  <modified>2025-12-14</modified>
+  <entry>
+    <title>Change and Revolution</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2012.html"/>
+    <id>tag:stpeter.im,2012</id>
+    <issued>2025-12-14</issued>
+    <modified>2025-12-14</modified>
+    <summary>In his book First Things, Last Things, Eric Hoffer makes some observations about change and revolution:...</summary>
+  </entry>
   <entry>
     <title>The Universalist Temptation</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2011.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-11-30</issued>
     <modified>2025-11-30</modified>
     <summary>Continuing my reflections on Santayana's aesthetics, I've been thinking about the contemplative significance of the arts. It's no surprise that this connection would stand out for me, given the contemplative turn I have been exploring over the last few years. I would never claim that art serves only a contemplative function, for as I mentioned in a paper I wrote twenty years ago art can do many things. Yet I think Santayana identifies something important when he observes that aesthetic experience can settle the soul, enable us to stand outside the confusions of our ephemeral existence, and bring us inner peace....</summary>
-  </entry>
-  <entry>
-    <title>The Source of the Arts</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2006.html"/>
-    <id>tag:stpeter.im,2006</id>
-    <issued>2025-11-30</issued>
-    <modified>2025-11-30</modified>
-    <summary>Despite my harsh words the other day about the foundations of Santayana's aesthetics, even partway into The Sense of Beauty I could tell that some of his more particular insights would be worthy of serious consideration. That indeed has proved to be the case, specifically in the form of his summations late in the book regarding the role of art in human life....</summary>
   </entry>
 </feed>
