@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-12-14</modified>
+  <modified>2025-12-15</modified>
+  <entry>
+    <title>Philosophy and Psychology</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2013.html"/>
+    <id>tag:stpeter.im,2013</id>
+    <issued>2025-12-15</issued>
+    <modified>2025-12-15</modified>
+    <summary>Sometime in the next few weeks my friend Adrian Lory and I will hold a Substack Live video conversation about philosophy and psychology as complementary paths to wisdom and fulfillment. In preparation, I've been thinking up some questions about the relationship between philosophy and psychology, as well as their respective contributions to the good life. Here's what I have so far:...</summary>
+  </entry>
   <entry>
     <title>Change and Revolution</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2012.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-11-30</issued>
     <modified>2025-11-30</modified>
     <summary>Once more unto the breach with Santayana! (Three posts in a day on this topic were not what I expected.) Before saying goodbye to him, at least for now, I thought it would be fun to look at his use - or abuse - of Shakespeare at a crucial point in The Sense of Beauty. As Santayana leads up to this definition of beauty, he quotes Sonnet 54, which runs as follows:...</summary>
-  </entry>
-  <entry>
-    <title>Art and Contemplation</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2007.html"/>
-    <id>tag:stpeter.im,2007</id>
-    <issued>2025-11-30</issued>
-    <modified>2025-11-30</modified>
-    <summary>Continuing my reflections on Santayana's aesthetics, I've been thinking about the contemplative significance of the arts. It's no surprise that this connection would stand out for me, given the contemplative turn I have been exploring over the last few years. I would never claim that art serves only a contemplative function, for as I mentioned in a paper I wrote twenty years ago art can do many things. Yet I think Santayana identifies something important when he observes that aesthetic experience can settle the soul, enable us to stand outside the confusions of our ephemeral existence, and bring us inner peace....</summary>
   </entry>
 </feed>
