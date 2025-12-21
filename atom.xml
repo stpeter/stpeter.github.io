@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-12-15</modified>
+  <modified>2025-10-14</modified>
+  <entry>
+    <title>Soul Workout</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2014.html"/>
+    <id>tag:stpeter.im,2014</id>
+    <issued>2025-10-14</issued>
+    <modified>2025-10-14</modified>
+    <summary>While reading Eric Hoffer's book The Passionate State of Mind, I came across some thought-provoking aphorisms about self-knowledge, self-deception, and personal identity. Here are the key sentences, which I've extracted and strung together for my own purposes:...</summary>
+  </entry>
   <entry>
     <title>Philosophy and Psychology</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2013.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-12-03</issued>
     <modified>2025-12-03</modified>
     <summary>Beauty is not limited to the arts (indeed, art is not always beautiful, but that's another topic). This set me to thinking about the many sorts of things that we humans can call beautiful:...</summary>
-  </entry>
-  <entry>
-    <title>Shakespeare and Santayana on Beauty and Truth</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2008.html"/>
-    <id>tag:stpeter.im,2008</id>
-    <issued>2025-11-30</issued>
-    <modified>2025-11-30</modified>
-    <summary>Once more unto the breach with Santayana! (Three posts in a day on this topic were not what I expected.) Before saying goodbye to him, at least for now, I thought it would be fun to look at his use - or abuse - of Shakespeare at a crucial point in The Sense of Beauty. As Santayana leads up to this definition of beauty, he quotes Sonnet 54, which runs as follows:...</summary>
   </entry>
 </feed>
