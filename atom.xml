@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-12-21</modified>
+  <modified>2025-12-23</modified>
+  <entry>
+    <title>Workout #1</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2015.html"/>
+    <id>tag:stpeter.im,2015</id>
+    <issued>2025-12-23</issued>
+    <modified>2025-12-23</modified>
+    <summary>Following up on my post about a Soul Workout, I've hit the spiritual gym and done some reflective reps on my personal practices. So far I've focused on three of the six questions I gleaned from Eric Hoffer's book The Passionate State of Mind:...</summary>
+  </entry>
   <entry>
     <title>Soul Workout</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2014.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-12-08</issued>
     <modified>2025-12-08</modified>
     <summary>My increasingly strong commitment to personalism and particularism has prompted me to make some changes in how I read, think, and act. Specifically, I have taken to translating universal claims and observations into practices that I can apply in my own life (and ignoring them if they cannot be so translated)....</summary>
-  </entry>
-  <entry>
-    <title>Varieties of Beauty</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2009.html"/>
-    <id>tag:stpeter.im,2009</id>
-    <issued>2025-12-03</issued>
-    <modified>2025-12-03</modified>
-    <summary>Beauty is not limited to the arts (indeed, art is not always beautiful, but that's another topic). This set me to thinking about the many sorts of things that we humans can call beautiful:...</summary>
   </entry>
 </feed>
