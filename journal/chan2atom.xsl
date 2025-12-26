@@ -19,7 +19,7 @@
         <name>Peter Saint-Andre</name>
         <url>https://stpeter.im/</url>
       </author>
-      <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
+      <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
       <id>https://stpeter.im/journal/</id>
       <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
       <modified><xsl:value-of select='/channel/journal[position()=1]/header/date'/></modified>
