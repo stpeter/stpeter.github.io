@@ -6,10 +6,18 @@
     <name>Peter Saint-Andre</name>
     <url>https://stpeter.im/</url>
   </author>
-  <tagline>The journal of Peter Saint-Andre - technologist, musician, philosopher.</tagline>
+  <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-12-23</modified>
+  <modified>2025-12-26</modified>
+  <entry>
+    <title>Workout #2</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2016.html"/>
+    <id>tag:stpeter.im,2016</id>
+    <issued>2025-12-26</issued>
+    <modified>2025-12-26</modified>
+    <summary>Continuing my Soul Workout, I've been reflecting on this question: "Am I less tolerant than I could be of other people's behavior and opinions?"...</summary>
+  </entry>
   <entry>
     <title>Workout #1</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2015.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-12-10</issued>
     <modified>2025-12-10</modified>
     <summary>The other day in my post about Making It Personal, I wrote as follows:...</summary>
-  </entry>
-  <entry>
-    <title>Making It Personal</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2010.html"/>
-    <id>tag:stpeter.im,2010</id>
-    <issued>2025-12-08</issued>
-    <modified>2025-12-08</modified>
-    <summary>My increasingly strong commitment to personalism and particularism has prompted me to make some changes in how I read, think, and act. Specifically, I have taken to translating universal claims and observations into practices that I can apply in my own life (and ignoring them if they cannot be so translated)....</summary>
   </entry>
 </feed>
