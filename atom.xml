@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-12-26</modified>
+  <modified>2025-12-27</modified>
+  <entry>
+    <title>Workout #3</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2017.html"/>
+    <id>tag:stpeter.im,2017</id>
+    <issued>2025-12-27</issued>
+    <modified>2025-12-27</modified>
+    <summary>In this third and last installment of my Soul Workout, I address the two remaining questions derived from my reading of Eric Hoffer's book The Passionate State of Mind:...</summary>
+  </entry>
   <entry>
     <title>Workout #2</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2016.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-12-14</issued>
     <modified>2025-12-14</modified>
     <summary>In his book First Things, Last Things, Eric Hoffer makes some observations about change and revolution:...</summary>
-  </entry>
-  <entry>
-    <title>The Universalist Temptation</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2011.html"/>
-    <id>tag:stpeter.im,2011</id>
-    <issued>2025-12-10</issued>
-    <modified>2025-12-10</modified>
-    <summary>The other day in my post about Making It Personal, I wrote as follows:...</summary>
   </entry>
 </feed>
