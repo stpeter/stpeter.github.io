@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-12-28</modified>
+  <modified>2025-12-29</modified>
+  <entry>
+    <title>Monadnock Valley Press Annual Report 2025</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2019.html"/>
+    <id>tag:stpeter.im,2019</id>
+    <issued>2025-12-29</issued>
+    <modified>2025-12-29</modified>
+    <summary>Following my tradition of posting on or about Public Domain Day, here is a brief report about this year's publishing activity at the Monadnock Valley Press, my website for writings in the public domain....</summary>
+  </entry>
   <entry>
     <title>2025 Readings</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2018.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-12-21</issued>
     <modified>2025-12-21</modified>
     <summary>While reading Eric Hoffer's book The Passionate State of Mind, I came across some thought-provoking aphorisms about self-knowledge, self-deception, and personal identity. Here are the key sentences, which I've extracted and strung together for my own purposes:...</summary>
-  </entry>
-  <entry>
-    <title>Philosophy and Psychology</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2013.html"/>
-    <id>tag:stpeter.im,2013</id>
-    <issued>2025-12-15</issued>
-    <modified>2025-12-15</modified>
-    <summary>Sometime in the next few weeks my friend Adrian Lory and I will hold a Substack Live video conversation about philosophy and psychology as complementary paths to wisdom and fulfillment. In preparation, I've been thinking up some questions about the relationship between philosophy and psychology, as well as their respective contributions to the good life. Here's what I have so far:...</summary>
   </entry>
 </feed>
