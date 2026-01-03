@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-12-29</modified>
+  <modified>2026-01-03</modified>
+  <entry>
+    <title>A Rugged Road</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2020.html"/>
+    <id>tag:stpeter.im,2020</id>
+    <issued>2026-01-03</issued>
+    <modified>2026-01-03</modified>
+    <summary>In Montaigne's essay "Of Practice", he recounts at some length a brush with death he experienced because of a horse-riding accident. He then offers some remarkable reflections on his practice of personalism:...</summary>
+  </entry>
   <entry>
     <title>Monadnock Valley Press Annual Report 2025</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2019.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-12-23</issued>
     <modified>2025-12-23</modified>
     <summary>Following up on my post about a Soul Workout, I've hit the spiritual gym and done some reflective reps on my personal practices. So far I've focused on three of the six questions I gleaned from Eric Hoffer's book The Passionate State of Mind:...</summary>
-  </entry>
-  <entry>
-    <title>Soul Workout</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2014.html"/>
-    <id>tag:stpeter.im,2014</id>
-    <issued>2025-12-21</issued>
-    <modified>2025-12-21</modified>
-    <summary>While reading Eric Hoffer's book The Passionate State of Mind, I came across some thought-provoking aphorisms about self-knowledge, self-deception, and personal identity. Here are the key sentences, which I've extracted and strung together for my own purposes:...</summary>
   </entry>
 </feed>
