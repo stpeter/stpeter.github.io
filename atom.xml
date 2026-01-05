@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-01-03</modified>
+  <modified>2026-01-04</modified>
+  <entry>
+    <title>A Force and Assurance of the Soul</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2021.html"/>
+    <id>tag:stpeter.im,2021</id>
+    <issued>2026-01-04</issued>
+    <modified>2026-01-04</modified>
+    <summary>In his essay "Of the Rewards of Honour", Montaigne discourses on the "vain and in themselves valueless distinctions to honour and recompense virtue" that governments have instituted over the centuries: crowns of laurel, special uniforms, privileged seating, names, titles, coats of arms, and the like. Most commonly, these rewards of honor are used to encourage military valor among the citizenry. Montaigne then goes on to say:...</summary>
+  </entry>
   <entry>
     <title>A Rugged Road</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2020.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-12-26</issued>
     <modified>2025-12-26</modified>
     <summary>Continuing my Soul Workout, I've been reflecting on this question: "Am I less tolerant than I could be of other people's behavior and opinions?"...</summary>
-  </entry>
-  <entry>
-    <title>Workout #1</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2015.html"/>
-    <id>tag:stpeter.im,2015</id>
-    <issued>2025-12-23</issued>
-    <modified>2025-12-23</modified>
-    <summary>Following up on my post about a Soul Workout, I've hit the spiritual gym and done some reflective reps on my personal practices. So far I've focused on three of the six questions I gleaned from Eric Hoffer's book The Passionate State of Mind:...</summary>
   </entry>
 </feed>
