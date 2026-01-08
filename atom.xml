@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-01-04</modified>
+  <modified>2026-01-08</modified>
+  <entry>
+    <title>Making the Political Personal</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2022.html"/>
+    <id>tag:stpeter.im,2022</id>
+    <issued>2026-01-08</issued>
+    <modified>2026-01-08</modified>
+    <summary>Last week I had a brief conversation with two of my neighbors about politics and, specifically, my avoidance thereof. We touched on only the first of the topics I cover in this post, but I thought it might be helpful to me, and perhaps others, if I use this space to clarify my thoughts....</summary>
+  </entry>
   <entry>
     <title>A Force and Assurance of the Soul</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2021.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-12-27</issued>
     <modified>2025-12-27</modified>
     <summary>In this third and last installment of my Soul Workout, I address the two remaining questions derived from my reading of Eric Hoffer's book The Passionate State of Mind:...</summary>
-  </entry>
-  <entry>
-    <title>Workout #2</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2016.html"/>
-    <id>tag:stpeter.im,2016</id>
-    <issued>2025-12-26</issued>
-    <modified>2025-12-26</modified>
-    <summary>Continuing my Soul Workout, I've been reflecting on this question: "Am I less tolerant than I could be of other people's behavior and opinions?"...</summary>
   </entry>
 </feed>
