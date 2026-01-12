@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-01-09</modified>
+  <modified>2026-01-12</modified>
+  <entry>
+    <title>The Discipline of Reading</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2024.html"/>
+    <id>tag:stpeter.im,2024</id>
+    <issued>2026-01-12</issued>
+    <modified>2026-01-12</modified>
+    <summary>A friend asked me yesterday how it is that I am so disciplined about reading. I perceive a few reasons....</summary>
+  </entry>
   <entry>
     <title>The Music of the Future</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2023.html"/>
@@ -49,13 +57,5 @@
     <issued>2025-12-29</issued>
     <modified>2025-12-29</modified>
     <summary>Following my tradition of posting on or about Public Domain Day, here is a brief report about this year's publishing activity at the Monadnock Valley Press, my website for writings in the public domain....</summary>
-  </entry>
-  <entry>
-    <title>2025 Readings</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2018.html"/>
-    <id>tag:stpeter.im,2018</id>
-    <issued>2025-12-28</issued>
-    <modified>2025-12-28</modified>
-    <summary>In 2024 I read 95 books; although I didn't think I'd ever top that, in 2025 I somehow managed to read 116 books (more than two a week and almost ten a month). The downside is that for various reasons I didn't write my book on Aristotle, which I thought would absorb most of my energies. Instead I read a bunch of jazz biographies, historical tomes on American culture, some classic American literature, all the ancient Greek tragedies, philosophical treatments of various topics in ethics and aesthetics, and the usual smattering of poetry. Highlights were three original works of philosophy by Walter Kaufmann, three early novels by Willa Cather (my new favorite writer of fiction!), and wide-ranging explorations in music and aesthetics (especially Roger Scruton's Beauty, the collected nonfiction of Albert Murray, and Ellen Dissanayake's ethological analyses of art as a behavior in What Is Art For? and Homo Aestheticus)....</summary>
   </entry>
 </feed>
