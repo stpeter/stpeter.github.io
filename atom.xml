@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-01-12</modified>
+  <modified>2026-01-13</modified>
+  <entry>
+    <title>Writing Blank Verse</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2025.html"/>
+    <id>tag:stpeter.im,2025</id>
+    <issued>2026-01-13</issued>
+    <modified>2026-01-13</modified>
+    <summary>For my slowly-progressing epic poem about Pyrrho and Alexander the Great, I'm writing in blank verse, i.e., unrhymed iambic pentameter. Many of the great English-language poets have written in blank verse, including Shakespeare, Milton, Wordsworth, and Frost. Blank verse is especially appropriate, if you ask me, for epic poetry, since it's something like the equivalent in English of ancient Greek dactylic hexameter (another option is to employ fourteeners, as Matthew Arnold preferred for translations of Homer and as A.E. Stallings did in her amazing translation of Lucretius). Aside from its epic and dramatic pedigree, one of the attractions of blank verse is that it steers clear of the chimey sound and forced rhymes of heroic couplets, yet still maintains a regular pulse....</summary>
+  </entry>
   <entry>
     <title>The Discipline of Reading</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2024.html"/>
@@ -49,13 +57,5 @@
     <issued>2026-01-03</issued>
     <modified>2026-01-03</modified>
     <summary>In Montaigne's essay "Use Makes Perfect" or "Of Practice", he recounts at some length a brush with death he experienced because of a horse-riding accident. He then offers some remarkable reflections on his practice of personalism:...</summary>
-  </entry>
-  <entry>
-    <title>Monadnock Valley Press Annual Report 2025</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2019.html"/>
-    <id>tag:stpeter.im,2019</id>
-    <issued>2025-12-29</issued>
-    <modified>2025-12-29</modified>
-    <summary>Following my tradition of posting on or about Public Domain Day, here is a brief report about this year's publishing activity at the Monadnock Valley Press, my website for writings in the public domain....</summary>
   </entry>
 </feed>
