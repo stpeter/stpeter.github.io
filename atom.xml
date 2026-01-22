@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-01-13</modified>
+  <modified>2026-01-21</modified>
+  <entry>
+    <title>Philosophy and Psychology Redux</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2026.html"/>
+    <id>tag:stpeter.im,2026</id>
+    <issued>2026-01-21</issued>
+    <modified>2026-01-21</modified>
+    <summary>Yesterday my friend Adrian Lory and I had an enjoyable and thought-provoking dialogue on Substack Live about philosophy and psychology as complementary paths to wisdom and fulfillment - so much so that we plan to have a follow-up chat in the coming weeks. Inspired by our conversation, here are some further questions I'm pondering about the interface between philosophy and psychology:...</summary>
+  </entry>
   <entry>
     <title>Writing Blank Verse</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2025.html"/>
@@ -49,13 +57,5 @@
     <issued>2026-01-04</issued>
     <modified>2026-01-04</modified>
     <summary>In his essay "Of the Rewards of Honour", Montaigne discourses on the "vain and in themselves valueless distinctions to honour and recompense virtue" that governments have instituted over the centuries: crowns of laurel, special uniforms, privileged seating, names, titles, coats of arms, and the like. Most commonly, these rewards of honor are used to encourage military valor among the citizenry. Montaigne then goes on to say:...</summary>
-  </entry>
-  <entry>
-    <title>A Rugged Road</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2020.html"/>
-    <id>tag:stpeter.im,2020</id>
-    <issued>2026-01-03</issued>
-    <modified>2026-01-03</modified>
-    <summary>In Montaigne's essay "Use Makes Perfect" or "Of Practice", he recounts at some length a brush with death he experienced because of a horse-riding accident. He then offers some remarkable reflections on his practice of personalism:...</summary>
   </entry>
 </feed>
