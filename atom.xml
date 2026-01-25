@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-01-21</modified>
+  <modified>2026-01-25</modified>
+  <entry>
+    <title>Back to the Future</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2027.html"/>
+    <id>tag:stpeter.im,2027</id>
+    <issued>2026-01-25</issued>
+    <modified>2026-01-25</modified>
+    <summary>About 110 years ago (in America we can conveniently date it from the 1913 Armory Show), the shock troops of aesthetic Modernism blew it all up. Disgusted with third-rate late Romantics, this self-proclaimed avant-garde decreed the destruction of meter in poetry, tonality in music, depiction in painting and sculpture, and in all the arts what they derided as the banality of beauty. Instead of seeking regeneration through artistic movements within the broad framework of what had been built up and bequeathed to them over thousands of years, they decided (for reasons I don't fully understand) that we needed to destroy everything first in order to create anew....</summary>
+  </entry>
   <entry>
     <title>Philosophy and Psychology Redux</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2026.html"/>
@@ -49,13 +57,5 @@
     <issued>2026-01-08</issued>
     <modified>2026-01-08</modified>
     <summary>Last week I had a brief conversation with two of my neighbors about politics and, specifically, my avoidance thereof. We touched on only the first of the topics I cover in this post, but I thought it might be helpful to me, and perhaps others, if I use this space to clarify my thoughts....</summary>
-  </entry>
-  <entry>
-    <title>A Force and Assurance of the Soul</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2021.html"/>
-    <id>tag:stpeter.im,2021</id>
-    <issued>2026-01-04</issued>
-    <modified>2026-01-04</modified>
-    <summary>In his essay "Of the Rewards of Honour", Montaigne discourses on the "vain and in themselves valueless distinctions to honour and recompense virtue" that governments have instituted over the centuries: crowns of laurel, special uniforms, privileged seating, names, titles, coats of arms, and the like. Most commonly, these rewards of honor are used to encourage military valor among the citizenry. Montaigne then goes on to say:...</summary>
   </entry>
 </feed>
