@@ -1,7 +1,8 @@
 Pyrrhiad Book I
 
-Come sing, O Muse, two men who lived as gods:
+Come sing me, Muse, two men who lived as gods:
 So many were the lands through which they passed,
+So many were the men whom they subdued,
 So many were the minds from which they learned,
 While they adventured far away from Greece
 To Egypt, Persia, even India;
@@ -15,10 +16,9 @@ Afar is shaken by Poseidon’s rage:
 So Alexander broke upon the East,
 Forever changing all within his wake.
 Then, second, sing me too that one who lived
-Unknown, yet rivalled Zeus for happiness.
+Unknown, yet rivalled Zeus for happiness;
 Although he conquered nothing in his path,
-His way led him to triumphing within,
-To mastering no person but himself.
+His path led him to conquering within.
 From Elis, the Epeians’ land, he came;
 Son of Pleistarchos, Pyrrho was his name.
 
@@ -66,7 +66,7 @@ On pleasures, and on influence with kings.
 Instead he traveled far and wide to learn
 All that he could: with priests of Egypt he
 Conferred, astronomers in Babylon,
-Wise magi at the Persian court, and great
+Wise Magi at the Persian court, and great
 Philosophers throughout Hellenic lands.
 Yet know that most of these stayed put at home,
 To hone whatever wisdom they knew best;
@@ -144,7 +144,7 @@ But half the race, for what you come to know
 Must be applied in action and in thought,
 Else you will never gain what you have sought.”
 
-Yet Pyrrho, all aflame for learning truth,
+Yet Pyrrho, all aflame for gaining truth,
 Pressed forward in his zeal and spoke again
 In wingèd words: “O Phaedo, well I know
 That of Eleans you are thought most wise.
@@ -177,7 +177,7 @@ With understanding Phaedo gave reply:
 “A teacher teaches you to be like him;
 A friend befriends you since you are yourself
 And guides you to become more what you are.
-Here Socrates can help us see the way.
+Here Socrates can help us see the way:
 For many were his friends in thoughtful speech,
 And many are the schools he helped to birth.
 The first of these in fame is Plato’s group,
@@ -254,7 +254,7 @@ Then quiet, pensive, Pyrrho gave reply:
 Which to reflect - for this you have my thanks.
 For now I think that I must ponder well
 Upon the generous words that you have shared.
-I see things aren’t as simple as they seem,
+I see things aren’t as simple as I’d hoped,
 And that the path to wisdom might be long.
 I hope that when I’m ready we may speak
 Again to find the insight that I seek.”
@@ -288,7 +288,7 @@ No one of them has nearly all the truth,
 For I have scattered that which can be known
 As widely as the farmers sow their seeds
 Of barley and of wheat when in the spring
-They plant and strive for harvests in the fall.
+They plant and plan for harvests in the fall.
 Consider too that father Zeus who rules
 All earth and sky below his golden seat
 Upon the highest peak of great Olympos
@@ -312,7 +312,7 @@ And so it was the grey-eyed goddess spoke
 In dreams to Pyrrho while his body slept;
 Yet when he woke her words came back in full
 To pull him forward from the life he knew
-Toward a quest whose path was ever new.
+Toward a quest whose way was ever new.
 
 When Dawn once more her golden throne did mount,
 Then Pyrrho rose, all stirred within his soul.
@@ -320,7 +320,7 @@ He straightaway set out for Phaedo’s house,
 Endeavoring to settle, as he went,
 The thoughts that came unbidden to his mind.
 Because his family’s home lay in the hills
-Outside of town, the walk afforded him
+Toward Olympia, the walk gave him
 Much time to contemplate within his heart
 The journey that Athena had proposed:
 “I wonder now what will become of me;
