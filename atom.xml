@@ -9,7 +9,20 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-01-26</modified>
+  <modified>2026-02-03</modified>
+  <entry>
+    <title>Elegy for Elisa</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2029.html"/>
+    <id>tag:stpeter.im,2029</id>
+    <issued>2026-02-03</issued>
+    <modified>2026-02-03</modified>
+    <summary>
+Her sands have run; her thread has reached its end.
+The woman whom I singled out to stride
+With me through time, together at my side,
+Is wife no more, nor life, nor soul, nor friend.
+...</summary>
+  </entry>
   <entry>
     <title>Flattery vs. Freedom</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2028.html"/>
@@ -49,13 +62,5 @@
     <issued>2026-01-12</issued>
     <modified>2026-01-12</modified>
     <summary>A friend asked me yesterday how it is that I am so disciplined about reading. I perceive a few reasons....</summary>
-  </entry>
-  <entry>
-    <title>The Music of the Future</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2023.html"/>
-    <id>tag:stpeter.im,2023</id>
-    <issued>2026-01-09</issued>
-    <modified>2026-01-09</modified>
-    <summary>Over at The American Scholar, Joseph Horowitz has asked the big question about art music in America: can it find an orientation, a future direction, a way forward? In truth, the question has loomed over our musical culture, unanswered, ever since the serialist revolution over a hundred years ago. Horowitz's telling highlights composers who resisted serialism, such as Busoni, Elgar, Sibelius, and Ives (we might widen the lens even further to include the likes of Debussy, Ravel, Delius, Hindemith, Scriabin, and Shostakovich). He also connects a few dots from Dvořák and his stay in America to composers who answered Dvořák's call to honor and integrate music from Native American cultures; a somewhat prominent example is Busoni's Indian Fantasy for piano and orchestra, whereas a more obscure but quite inspiring example is Arthur Farwell's "Hoka" String Quartet (which Horowitz names "the closest thing I know to an American idiom in parallel with Béla Bartók’s raw absorption of Transylvanian song and dance")....</summary>
   </entry>
 </feed>
