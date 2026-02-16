@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-02-09</modified>
+  <modified>2026-02-16</modified>
+  <entry>
+    <title>Sources of Solace</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2031.html"/>
+    <id>tag:stpeter.im,2031</id>
+    <issued>2026-02-16</issued>
+    <modified>2026-02-16</modified>
+    <summary>It's been a long two weeks since my dear Elisa passed away. It goes without saying that losing your partner in life is a harrowing experience. Yet in the midst of the darkness there are rays of light and sources of solace. Here are a few that have soothed me in my time of grief:...</summary>
+  </entry>
   <entry>
     <title>The Final Third</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2030.html"/>
@@ -54,13 +62,5 @@ Is wife no more, nor life, nor soul, nor friend.
     <issued>2026-01-21</issued>
     <modified>2026-01-21</modified>
     <summary>Yesterday my friend Adrian Lory and I had an enjoyable and thought-provoking dialogue on Substack Live about philosophy and psychology as complementary paths to wisdom and fulfillment - so much so that we plan to have a follow-up chat in the coming weeks. Inspired by our conversation, here are some further questions I'm pondering about the interface between philosophy and psychology:...</summary>
-  </entry>
-  <entry>
-    <title>Writing Blank Verse</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2025.html"/>
-    <id>tag:stpeter.im,2025</id>
-    <issued>2026-01-13</issued>
-    <modified>2026-01-13</modified>
-    <summary>For my slowly-progressing epic poem about Pyrrho and Alexander the Great, I'm writing in blank verse, i.e., unrhymed iambic pentameter. Many of the great English-language poets have written in blank verse, including Shakespeare, Milton, Wordsworth, and Frost. Blank verse is especially appropriate, if you ask me, for epic poetry, since it's something like the equivalent in English of ancient Greek dactylic hexameter (another option is to employ fourteeners, as Matthew Arnold preferred for translations of Homer and as A.E. Stallings did in her amazing translation of Lucretius). Aside from its epic and dramatic pedigree, one of the attractions of blank verse is that it steers clear of the chimey sound and forced rhymes of heroic couplets, yet still maintains a regular pulse....</summary>
   </entry>
 </feed>
