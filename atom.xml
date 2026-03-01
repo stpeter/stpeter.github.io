@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-02-16</modified>
+  <modified>2026-03-01</modified>
+  <entry>
+    <title>Renewed Commitments</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2032.html"/>
+    <id>tag:stpeter.im,2032</id>
+    <issued>2026-03-01</issued>
+    <modified>2026-03-01</modified>
+    <summary>In ancient Rome, March was the first month of the year (that's why October, November, and December were the 8th, 9th, and 10th months). Thus from a certain perspective March 1st is New Year's Day - a time of longer days, returning light, fresh growth, new life, and renewed commitments....</summary>
+  </entry>
   <entry>
     <title>Sources of Solace</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2031.html"/>
@@ -54,13 +62,5 @@ Is wife no more, nor life, nor soul, nor friend.
     <issued>2026-01-25</issued>
     <modified>2026-01-25</modified>
     <summary>About 110 years ago (in America we can conveniently date it from the 1913 Armory Show), the shock troops of aesthetic Modernism blew it all up. Disgusted with third-rate late Romantics, this self-proclaimed avant-garde decreed the destruction of meter in poetry, tonality in music, depiction in painting and sculpture, and in all the arts what they derided as the banality of beauty. Instead of seeking regeneration through artistic movements within the broad framework of what had been built up and bequeathed to them over thousands of years, they decided (for reasons I don't fully understand) that we needed to destroy everything first in order to create anew....</summary>
-  </entry>
-  <entry>
-    <title>Philosophy and Psychology Redux</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2026.html"/>
-    <id>tag:stpeter.im,2026</id>
-    <issued>2026-01-21</issued>
-    <modified>2026-01-21</modified>
-    <summary>Yesterday my friend Adrian Lory and I had an enjoyable and thought-provoking dialogue on Substack Live about philosophy and psychology as complementary paths to wisdom and fulfillment - so much so that we plan to have a follow-up chat in the coming weeks. Inspired by our conversation, here are some further questions I'm pondering about the interface between philosophy and psychology:...</summary>
   </entry>
 </feed>
