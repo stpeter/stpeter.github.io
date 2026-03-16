@@ -16,30 +16,43 @@ What makes for beautifully good judgment? Aristotle approaches the question from
 
 At its most immediate, good judgment requires excellent discernment of what’s feasible in the moment; this is an almost perceptual ability to identify the best course of action right now, often based more on experience than on knowledge or reasoning. Yet mere experience can take you only so far: the person who acts without deliberation and deeper insight might often be lucky in hitting the mark, but is liable to go astray in more challenging circumstances or even succumb to unthinking convention.
 
-At its most rarified, good judgment requires a comprehensive understanding of the highest good achievable in action, i.e., the best life for human beings. It is in terms of this that Socrates insisted his friends and fellow citizens provide an account for their way of life. Following in this Socratic tradition, Aristotle distinguished between living as directed by the results of correct reasoning and living in such a way that all of your activities are suffused with thoughtful reflection. Only in the latter case are you able to spell out why you live the way you do and thus truly live with purpose.
+At its most rarified, good judgment requires a comprehensive understanding of the highest good achievable in action, i.e., the best life for human beings. It is in terms of this that Socrates insisted his friends and fellow citizens should provide an account for their way of life. Following in the Socratic tradition, Aristotle distinguished between living as directed by the results of correct reasoning (quite possibly someone else’s reasoning) and living in such a way that all of your activities are suffused with thoughtful reflection. Only in the latter case are you able to spell out why you live the way you do, experience complete inner harmony, and truly live with purpose.
 
 3.2 A LIFE WORTH LIVING
 
-[the purpose of a human being; the examined life; awareness; action meta logou; giving an account of how you live; spelling things out]
+Aristotle asks a question that must strike us as strange: what is the task or job or work of a human being? Consider also a related question that seems to have been common among the ancient Greeks: if you were given the choice, why would you choose to have been born rather than not?
 
-fulfillment is not a state that is delayed until the end of life, but is an ongoing energeia: being fulfilled now implies having been fulfilled
+To answer these questions in modern terms, we would have to say: a person’s task is not merely to be successful in a particular line of work but to be successful as a human being, because it is only by finding true fulfillment that you can craft a life which is preferable to the alternative of having never been born.
 
-- a purpose not transformed into action is not really a purpose; what transforms a purpose into an action is deliberation that results in a commitment; thus for the flourishing person telos, skopos, deliberation, commitment, and action are a seamless whole, and are suffused with logos
-- it is your conception of human fulfillment that gives structure and definition to your day-to-day activities (these are aspects of beauty)
-- to give an account (“logon didonai”) is to spell out why your life is the way it is, or more specifically why you’ve lived as you have done; this is a quest for understanding and meaning (Arendt)
-- if you have lived well or at least aim to live well (if your target is completion as a human being), then giving an account involves an understanding of human nature and a beautiful way of life (you take action “meta logou” in the fullest sense); this entails educating and pruning your desires toward the end of lifelong fulfillment as opposed to temporary pleasures
-- another aspect of action “meta [orthou] logou” is doing the right thing for the right reasons, unlike the Spartans (EE 1248b36-1249a3) who do the right thing for the wrong reasons; examples of the wrong reasons include wealth, power, pleasure (subjective well-being, happy feelings), even health
-- this kind of reasoning treats things that by right are ends in themselves (love, friendship, knowledge, etc.) merely as means to a less worthy end
-- phronesis entails taking action for reasons you have internalized and made your own; in part this is the difference between action kata logon and action meta logou because your praxis is itself a way of demonstrating your understanding of why you live and act the way you do
-- living and acting meta logou means that your understanding of life completely suffuses your day-to-day activities - this is wholeness, integration, harmony
+Although these stark statements might seem somewhat exaggerated, we can use them to trigger reflection into what makes life worth living. For Aristotle, at its best a life of true fulfillment meets the following criteria.
+
+First, it’s complete unto itself: it’s not pursued for the sake of something else (say, health or wealth), but is prized for its own sake; indeed, good things such as health and wealth exist for and contribute to the more complete state of overall fulfillment.
+
+Closely related is a second point: a life of fulfillment has a kind of wholeness, in that it lacks nothing of significance which would make a noticeable difference if missing, such as friends and community.
+
+Third, it’s not a grind limited to the necessities, but is organized around more free, beautiful, glorious activities such as festive meals, intelligent conversation, aesthetic appreciation, and loving relationships.
+
+Fourth, it’s enjoyable, even blissful.
+
+It’s no coincidence that for the ancient Greeks these criteria applied first and foremost to the Homeric gods, who were everlastingly young, healthy, and gorgeous, didn’t have to concern themselves with money or making a living, and could treat life as one endless festival.
+
+Humans, by comparison, had a sorry, short-lived lot (thus the wonder about whether it’s better not to have been born). Yet the Greeks thought that even we can share in the divine and attain some measure of fulfillment by focusing on the higher things in life and on the activities that make life worth living. As Aristotle put it, we should strain every nerve to reach upward and to live, to the extent we humans can, like the immortals.
+
+This best life - not grovelling for money, power, status, or fame - is our highest human purpose.
 
 3.3 ADJUSTING YOUR AIM
 
-[transforming a human being’s purpose into your target; understanding the best for a human being of things done in action; beautiful goodness makes your target the right one, but you also need to know how to hit the target in particular situations, which is the role of deliberation]
+That all sounds well and good in theory, but in practice how do we build such a life and pursue the highest good achievable in action?
 
-The analogy with archery is serious business because in ancient Greece that skill was not a mere hobby but a matter of life and death in the courageous and skillful defence of your family, friends, and community.
+Consider the months-long task of building a house. Here everything is done for the sake of the completed house, and the architect or builder understands how and why each part and activity contributes to that overarching goal. Yet, comparatively speaking, building a house is a relatively simple affair. Completing the years-long task of crafting a life well lived is a much more complex and intricate endeavor, for there’s no set of architect’s plans to follow, the “materials” of life aren’t standardized, most of us don’t have a clear idea of what our aspirations should be until we’re halfway through the construction process, and we’re continually issuing change orders to ourselves as the site shifts beneath our feet.
 
-- in the example of building a house, everything is done for the sake of building the completed house (PA 639b14ff etc.) and the architect or builder understands how and why each part and activity contributes to that goal; yet building a life is a much more complex and delicate endeavor
+Even worse, many people go through life like philosophical day-laborers, unaware that constructing a lifelong state of fulfillment is a worthy or feasible goal in the first place. And yet it is just that goal which functions as an organizing principle for your life, which bestow upon your day-to-day activities a sense of structure, a measure of meaning, the wonder of oneness, and even the grace of grandeur. Indeed, fulfillment is not a state that is delayed until the end of life, but is an ongoing enactment of your highest capacities and aspirations.
+
+The challenge is transforming this high purpose into everyday action by closing the gap between wish and fact, intention and commitment, ideal and real. Aristotle has some powerful suggestions for doing so, which surprisingly come from his foundational studies of logic.
+
+Step one is to consciously set this universal purpose as your personal target in life, as the underlying premise for all of your choices and decisions. After all, if you’re not aiming at the right target, you’ll never hit it! The analogy with archery is serious business because in ancient Greece that skill was not a mere hobby but a matter of life and death both in hunting and in the courageous defence of family, friends, and community.
+
+For Aristotle, it is the beautiful goodness of your character that makes your target the right one. However, you also need to know how to hit the target in particular situations, which is the role of deliberation.
 
 3.4 LIVING DELIBERATELY
 
@@ -62,6 +75,12 @@ Perception of the beautiful particulars requires not just knowledge but insight,
 - yet this can happen in the moment, too, especially as you gain more experience in life
 - deliberation pertains to what is “up to us” and what is within your *reach*
 - one aspect of practical truth is having an accurate assessment not only of the situation but also of your own abilities
+- a purpose not transformed into action is not really a purpose; what transforms a purpose into an action is deliberation that results in a commitment; thus for the flourishing person telos, skopos, deliberation, commitment, and action are a seamless whole, and are suffused with logos
+- practical syllogisms and the logic of “thickening”; also non-contradiction
+- to give an account (“logon didonai”) is to spell out why your life is the way it is, or more specifically why you’ve lived as you have done; this is a quest for understanding and meaning (Arendt)
+- if you have lived well or at least aim to live well (if your target is completion as a human being), then giving an account involves an understanding of human nature and a beautiful way of life (you take action “meta logou” in the fullest sense); this entails educating and pruning your desires toward the end of lifelong fulfillment as opposed to temporary pleasures
+- another aspect of action “meta [orthou] logou” is doing the right thing for the right reasons, unlike the Spartans (EE 1248b36-1249a3) who do the right thing for the wrong reasons; examples of the wrong reasons include wealth, power, pleasure (subjective well-being, happy feelings), even health
+- this kind of reasoning treats things that by right are ends in themselves (love, friendship, knowledge, etc.) merely as means to a less worthy end
 
 3.5 DEMONSTRATING COMMITMENT
 
