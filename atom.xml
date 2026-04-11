@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-03-29</modified>
+  <modified>2026-04-11</modified>
+  <entry>
+    <title>The Pageant</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2035.html"/>
+    <id>tag:stpeter.im,2035</id>
+    <issued>2026-04-11</issued>
+    <modified>2026-04-11</modified>
+    <summary>For reasons unknown, several friends have asked me of late about my perspective on spirituality. Might they suspect that the passing of my wife Elisa has prompted me to ponder these matters? Knowing that I philosophize about the deep questions of existence, do they feel that I might have insights to share? Do I give off an aura of spirituality? Is it something in the air, perhaps triggered by the seeming emergence of artificial intelligence?...</summary>
+  </entry>
   <entry>
     <title>Windings</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2034.html"/>
@@ -49,18 +57,5 @@
     <issued>2026-02-09</issued>
     <modified>2026-02-09</modified>
     <summary>My dear Elisa's passing last week has brought an entire epoch of my life to an abrupt end. This rupture has re-opened my eyes to the inescapable fact that my sands too are running. Given that I'll turn sixty about six months from now, I've realized that the next epoch is the final third of my life....</summary>
-  </entry>
-  <entry>
-    <title>Elegy for Elisa</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2029.html"/>
-    <id>tag:stpeter.im,2029</id>
-    <issued>2026-02-03</issued>
-    <modified>2026-02-03</modified>
-    <summary>
-Her sands have run; her thread has reached its end.
-The woman whom I singled out to stride
-With me through time, together at my side,
-Is wife no more, nor life, nor soul, nor friend.
-...</summary>
   </entry>
 </feed>
