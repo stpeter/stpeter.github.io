@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-04-11</modified>
+  <modified>2026-04-19</modified>
+  <entry>
+    <title>Preludes and Fugues</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2036.html"/>
+    <id>tag:stpeter.im,2036</id>
+    <issued>2026-04-19</issued>
+    <modified>2026-04-19</modified>
+    <summary>In my classical guitar studies of late I've been learning a Bach prelude and fugue (BWV 999 and 1000, although so far I have only the prelude in my fingers). This has inspired me to think about tweaking my lifelong philosophy project of books on the art of living well, as I've done several times since first articulating it about twelve years ago....</summary>
+  </entry>
   <entry>
     <title>The Pageant</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2035.html"/>
@@ -49,13 +57,5 @@
     <issued>2026-02-16</issued>
     <modified>2026-02-16</modified>
     <summary>It's been a long two weeks since my dear Elisa passed away. It goes without saying that losing your partner in life is a harrowing experience. Yet in the midst of the darkness there are rays of light and sources of solace. Here are a few that have soothed me in my time of grief:...</summary>
-  </entry>
-  <entry>
-    <title>The Final Third</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2030.html"/>
-    <id>tag:stpeter.im,2030</id>
-    <issued>2026-02-09</issued>
-    <modified>2026-02-09</modified>
-    <summary>My dear Elisa's passing last week has brought an entire epoch of my life to an abrupt end. This rupture has re-opened my eyes to the inescapable fact that my sands too are running. Given that I'll turn sixty about six months from now, I've realized that the next epoch is the final third of my life....</summary>
   </entry>
 </feed>
