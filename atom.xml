@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-04-19</modified>
+  <modified>2026-04-21</modified>
+  <entry>
+    <title>Meanwhile, Back at the Ranch...</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2037.html"/>
+    <id>tag:stpeter.im,2037</id>
+    <issued>2026-04-21</issued>
+    <modified>2026-04-21</modified>
+    <summary>From reading my weblog, you might get the impression that I'm just another ivory-tower intellectual, philosophe, and artiste. It's true I started out that way after earning a degree in philosophy and ancient Greek, but over the course of my 30-year career in business and technology I learned quite a bit about the practicalities of life and slowly acquired traits and abilities that continue to stand me in good stead today, such as communication, negotiation, and public speaking....</summary>
+  </entry>
   <entry>
     <title>Preludes and Fugues</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2036.html"/>
@@ -49,13 +57,5 @@
     <issued>2026-03-01</issued>
     <modified>2026-03-01</modified>
     <summary>In ancient Rome, March was the first month of the year (that's why October, November, and December were the 8th, 9th, and 10th months). Thus from a certain perspective March 1st is New Year's Day - a time of longer days, returning light, fresh growth, new life, and renewed commitments....</summary>
-  </entry>
-  <entry>
-    <title>Sources of Solace</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2031.html"/>
-    <id>tag:stpeter.im,2031</id>
-    <issued>2026-02-16</issued>
-    <modified>2026-02-16</modified>
-    <summary>It's been a long two weeks since my dear Elisa passed away. It goes without saying that losing your partner in life is a harrowing experience. Yet in the midst of the darkness there are rays of light and sources of solace. Here are a few that have soothed me in my time of grief:...</summary>
   </entry>
 </feed>
