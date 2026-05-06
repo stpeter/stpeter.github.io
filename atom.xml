@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-04-21</modified>
+  <modified>2026-05-05</modified>
+  <entry>
+    <title>An Inward Turn</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2039.html"/>
+    <id>tag:stpeter.im,2039</id>
+    <issued>2026-05-05</issued>
+    <modified>2026-05-05</modified>
+    <summary>Despite renewed commitments, local involvements, continued interaction with folks who care about me, and other sources of solace, lately I have been taking an inward turn. Although as previously mentioned I don't like to talk about myself much, after twenty-five years of blogging and the loss of my dear Elisa three months ago I am finding it helpful at times to use this weblog as something more like a diary, so I'll attempt to describe what's going on in my head and my heart....</summary>
+  </entry>
   <entry>
     <title>Dialogue #4</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2038.html"/>
@@ -49,13 +57,5 @@
     <issued>2026-03-29</issued>
     <modified>2026-03-29</modified>
     <summary>Revisiting Montaigne's essay "Use Makes Perfect" just now, I was reminded of his personalist insights regarding the rambling and uncertain pace of the soul, and its intricate internal windings. Having little of a universalist cast to share and not feeling much like writing these days, somewhat reluctantly I turn to the personal....</summary>
-  </entry>
-  <entry>
-    <title>Psy-Phi Dialogues</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2033.html"/>
-    <id>tag:stpeter.im,2033</id>
-    <issued>2026-03-16</issued>
-    <modified>2026-03-16</modified>
-    <summary>This Thursday at 8:30am PDT / 11:30 EDT / 15:30 UTC, my friend Adrian Lory and I will hold the third in our series of live conversations about psychology and philosophy. Inspired by my friend Dave Jilk's SF novel Epoch, which is subtitled "A Poetic Psy-Phi Saga", Adrian and I have decided to name this series the "Psy-Phi Dialogues", where "psy" is short for psychology and "phi" is short for philosophy. Clever, eh? My friend Dave is very creative. :-)...</summary>
   </entry>
 </feed>
