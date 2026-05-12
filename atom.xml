@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-05-09</modified>
+  <modified>2026-05-11</modified>
+  <entry>
+    <title>Brief Translation Update</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2041.html"/>
+    <id>tag:stpeter.im,2041</id>
+    <issued>2026-05-11</issued>
+    <modified>2026-05-11</modified>
+    <summary>Well, it took me about 8 hours over the course of a few days to translate the first page of Aristotle's Eudemian Ethics. Because there are 60 pages in the EE, as it's affectionately known (including the three "common books" shared with the Nicomachean Ethics), at this rate it should take me about 500 hours to complete the translation. That's not as long as I expected, and I'll probably gain speed as I make progress up the mountain because here at the start I'm thinking carefully about how I'll render certain words and phrases....</summary>
+  </entry>
   <entry>
     <title>Climbing Mount Aristotle</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2040.html"/>
@@ -49,13 +57,5 @@
     <issued>2026-04-19</issued>
     <modified>2026-04-19</modified>
     <summary>In my classical guitar studies of late I've been learning a Bach prelude and fugue (BWV 999 and 1000, although so far I have only the prelude in my fingers). This has inspired me to think about tweaking my lifelong philosophy project of writing half a dozen books on the art of living well, as I've done several times before since first articulating it about twelve years ago....</summary>
-  </entry>
-  <entry>
-    <title>The Pageant</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2035.html"/>
-    <id>tag:stpeter.im,2035</id>
-    <issued>2026-04-11</issued>
-    <modified>2026-04-11</modified>
-    <summary>For reasons unknown, several friends have asked me of late about my perspective on spirituality. Might they suspect that the passing of my wife Elisa has prompted me to ponder these matters? Knowing that I philosophize about the deep questions of existence, do they feel that I might have insights to share? Do I give off an aura of spirituality? Is it something in the air, perhaps triggered by the seeming emergence of artificial intelligence?...</summary>
   </entry>
 </feed>
