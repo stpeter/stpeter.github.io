@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-05-11</modified>
+  <modified>2026-05-19</modified>
+  <entry>
+    <title>Questionable Treatment</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2042.html"/>
+    <id>tag:stpeter.im,2042</id>
+    <issued>2026-05-19</issued>
+    <modified>2026-05-19</modified>
+    <summary>Several people I respect have suggested to me that I read some of the many books authored by Byung-Chul Han (best known for The Burnout Society), so I bought a few that intrigued me and started with Vita Contemplativa since it appeared relevant to the writing of my book on Aristotle....</summary>
+  </entry>
   <entry>
     <title>Brief Translation Update</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2041.html"/>
@@ -49,13 +57,5 @@
     <issued>2026-04-21</issued>
     <modified>2026-04-21</modified>
     <summary>From reading my weblog, you might get the impression that I'm just another ivory-tower intellectual, philosophe, and artiste. It's true I started out that way after earning a degree in philosophy and ancient Greek, but over the course of my 30-year career in business and technology I learned quite a bit about the practicalities of life and slowly acquired traits and abilities that continue to stand me in good stead today, such as communication, negotiation, and public speaking....</summary>
-  </entry>
-  <entry>
-    <title>Preludes and Fugues</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2036.html"/>
-    <id>tag:stpeter.im,2036</id>
-    <issued>2026-04-19</issued>
-    <modified>2026-04-19</modified>
-    <summary>In my classical guitar studies of late I've been learning a Bach prelude and fugue (BWV 999 and 1000, although so far I have only the prelude in my fingers). This has inspired me to think about tweaking my lifelong philosophy project of writing half a dozen books on the art of living well, as I've done several times before since first articulating it about twelve years ago....</summary>
   </entry>
 </feed>
