@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-05-19</modified>
+  <modified>2026-05-26</modified>
+  <entry>
+    <title>Another Mountain</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2043.html"/>
+    <id>tag:stpeter.im,2043</id>
+    <issued>2026-05-26</issued>
+    <modified>2026-05-26</modified>
+    <summary>Over the last few months - exactly how many is foggy because lots of things are that way for me these days - I've been slowly re-reading the Essays of Michel de Montaigne. I was about halfway up this particular mountain (pun intended) when I realized that I really should have been taking notes on the ascent, as per my usual process of working through authors I'd like to encounter and write books about. Thus I've gone back down to the trailhead and I'm reading again from the beginning, but this time with pen in hand....</summary>
+  </entry>
   <entry>
     <title>Questionable Treatment</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2042.html"/>
@@ -49,13 +57,5 @@
     <issued>2026-04-21</issued>
     <modified>2026-04-21</modified>
     <summary>Thursday morning at our usual time of 8:30am PDT / 11:30am EDT / 15:30 UTC, Adrian Lory and I will hold dialogue #4 in our series of live conversations about psychology and philosophy. We conferred briefly today and decided on a few possible topics: philosophical perspectives on happiness (or at least my perspective, informed by the book I'm writing about Aristotle's conception of human fulfillment), Adrian's recent reflections on the nature of art (a topic I've been pondering of late as well), and the deep connections between art, myth, and religion. One thing is for sure: you can't say we shy away from the eternities! :-)...</summary>
-  </entry>
-  <entry>
-    <title>Meanwhile, Back at the Ranch...</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2037.html"/>
-    <id>tag:stpeter.im,2037</id>
-    <issued>2026-04-21</issued>
-    <modified>2026-04-21</modified>
-    <summary>From reading my weblog, you might get the impression that I'm just another ivory-tower intellectual, philosophe, and artiste. It's true I started out that way after earning a degree in philosophy and ancient Greek, but over the course of my 30-year career in business and technology I learned quite a bit about the practicalities of life and slowly acquired traits and abilities that continue to stand me in good stead today, such as communication, negotiation, and public speaking....</summary>
   </entry>
 </feed>
