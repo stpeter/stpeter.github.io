@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-05-26</modified>
+  <modified>2026-05-27</modified>
+  <entry>
+    <title>Dialogue #5</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2044.html"/>
+    <id>tag:stpeter.im,2044</id>
+    <issued>2026-05-27</issued>
+    <modified>2026-05-27</modified>
+    <summary>My friend Adrian Lory and I have scheduled our next Psy-Phi Dialogue for tomorrow at 8:30am PDT / 11:30am EDT / 15:30 UTC on Substack Live. To add some variety, this time around Adrian will be running the show. In appreciation for Adrian's assiduous attention to all things awe-inspiring and amazing, all topics will begin with the letter "A" and might include Aristotle, autism, art and aesthetics, awareness and attention, AI, areas of life, and any "aha moments" that arise as we amble along. ;-)...</summary>
+  </entry>
   <entry>
     <title>Another Mountain</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2043.html"/>
@@ -49,13 +57,5 @@
     <issued>2026-05-05</issued>
     <modified>2026-05-05</modified>
     <summary>Despite renewed commitments, local involvements, visits and calls with folks who care about me, and other sources of solace, lately I have been taking an inward turn. Although as previously mentioned I don't like to talk about myself much, after twenty-five years of blogging and the loss of my dear Elisa three months ago I am finding it helpful at times to use this weblog as something more like a diary, so I'll attempt to describe what's going on in my head and my heart....</summary>
-  </entry>
-  <entry>
-    <title>Dialogue #4</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2038.html"/>
-    <id>tag:stpeter.im,2038</id>
-    <issued>2026-04-21</issued>
-    <modified>2026-04-21</modified>
-    <summary>Thursday morning at our usual time of 8:30am PDT / 11:30am EDT / 15:30 UTC, Adrian Lory and I will hold dialogue #4 in our series of live conversations about psychology and philosophy. We conferred briefly today and decided on a few possible topics: philosophical perspectives on happiness (or at least my perspective, informed by the book I'm writing about Aristotle's conception of human fulfillment), Adrian's recent reflections on the nature of art (a topic I've been pondering of late as well), and the deep connections between art, myth, and religion. One thing is for sure: you can't say we shy away from the eternities! :-)...</summary>
   </entry>
 </feed>
