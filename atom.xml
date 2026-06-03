@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-05-27</modified>
+  <modified>2026-06-03</modified>
+  <entry>
+    <title>The Hard Work of Translation</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2045.html"/>
+    <id>tag:stpeter.im,2045</id>
+    <issued>2026-06-03</issued>
+    <modified>2026-06-03</modified>
+    <summary>Every morning since May 9th I've established a routine of waking up by 5:30am, feeding the dog, having a snack of skyr and homemade granola, and then sitting down to translate Aristotle for at least an hour and a half, accompanied by a mug of jasmine pearl tea and contemplative music from the likes of Bach and Palestrina. It's almost a sort of meditation, especially at that early hour when the world is so quiet....</summary>
+  </entry>
   <entry>
     <title>Dialogue #5</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2044.html"/>
@@ -49,13 +57,5 @@
     <issued>2026-05-09</issued>
     <modified>2026-05-09</modified>
     <summary>Yesterday morning I wrapped up a 48-hour writing sprint in which, after several weeks of concentrated research and reflection, I composed chapter four (on love and friendship) of my forthcoming book on Aristotle's conception of human fulfillment. As if that weren't enough, this morning I began work in earnest on my translation of Aristotle's Eudemian Ethics. At the same time that dear friends of mine are striding boldly into humanity's agentic future, I am taking an inward turn, cultivating my own contemplative counterculture, and delving ever more deeply into a thinker who lived almost 2500 years ago, using only my own mind, a few shelves of physical books, and for the translation pencil, paper, a large Greek dictionary, and a small statue of Aristotle (gifted by a friend), with whom I can confer when I hit an impasse....</summary>
-  </entry>
-  <entry>
-    <title>An Inward Turn</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2039.html"/>
-    <id>tag:stpeter.im,2039</id>
-    <issued>2026-05-05</issued>
-    <modified>2026-05-05</modified>
-    <summary>Despite renewed commitments, local involvements, visits and calls with folks who care about me, and other sources of solace, lately I have been taking an inward turn. Although as previously mentioned I don't like to talk about myself much, after twenty-five years of blogging and the loss of my dear Elisa three months ago I am finding it helpful at times to use this weblog as something more like a diary, so I'll attempt to describe what's going on in my head and my heart....</summary>
   </entry>
 </feed>
