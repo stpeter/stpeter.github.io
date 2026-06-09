@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-06-03</modified>
+  <modified>2026-06-09</modified>
+  <entry>
+    <title>Talk Cheapens</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2046.html"/>
+    <id>tag:stpeter.im,2046</id>
+    <issued>2026-06-09</issued>
+    <modified>2026-06-09</modified>
+    <summary>There is something garish about our garrulous society. Everything can be talked about, and everything is. No experience is so private, so personal, so serious, or so sacred that it cannot be endlessly dissected, vivisected, violated, and exposed. This strikes me as a distinctly ugly and unseemly way to live. Better and more beautiful was the attitude of the ancients, well described by Pierre Hadot on page 174 of his Selected Writings:...</summary>
+  </entry>
   <entry>
     <title>The Hard Work of Translation</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2045.html"/>
@@ -49,13 +57,5 @@
     <issued>2026-05-11</issued>
     <modified>2026-05-11</modified>
     <summary>Well, it took me about 8 hours over the course of a few days to translate the first page of Aristotle's Eudemian Ethics. Because there are 60 pages in the EE, as it's affectionately known (including the three "common books" shared with the Nicomachean Ethics), at this rate it should take me about 500 hours to complete the translation. That's not as long as I expected, and I'll probably gain speed as I make progress up the mountain because here at the start I'm thinking carefully about how I'll render certain words and phrases....</summary>
-  </entry>
-  <entry>
-    <title>Climbing Mount Aristotle</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2040.html"/>
-    <id>tag:stpeter.im,2040</id>
-    <issued>2026-05-09</issued>
-    <modified>2026-05-09</modified>
-    <summary>Yesterday morning I wrapped up a 48-hour writing sprint in which, after several weeks of concentrated research and reflection, I composed chapter four (on love and friendship) of my forthcoming book on Aristotle's conception of human fulfillment. As if that weren't enough, this morning I began work in earnest on my translation of Aristotle's Eudemian Ethics. At the same time that dear friends of mine are striding boldly into humanity's agentic future, I am taking an inward turn, cultivating my own contemplative counterculture, and delving ever more deeply into a thinker who lived almost 2500 years ago, using only my own mind, a few shelves of physical books, and for the translation pencil, paper, a large Greek dictionary, and a small statue of Aristotle (gifted by a friend), with whom I can confer when I hit an impasse....</summary>
   </entry>
 </feed>
