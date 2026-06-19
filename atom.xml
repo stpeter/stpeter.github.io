@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-06-09</modified>
+  <modified>2026-06-18</modified>
+  <entry>
+    <title>Change and Continuity</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2047.html"/>
+    <id>tag:stpeter.im,2047</id>
+    <issued>2026-06-18</issued>
+    <modified>2026-06-18</modified>
+    <summary>Some things stick in your mind. I recall a comment that a friend made fifteen or twenty years ago to the effect that after your spouse dies you shouldn't make any major changes for at least twelve months. Why he said that I don't know, but in my experience so far the comment doesn't ring true, at least not for me....</summary>
+  </entry>
   <entry>
     <title>Talk Cheapens</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2046.html"/>
@@ -49,13 +57,5 @@
     <issued>2026-05-19</issued>
     <modified>2026-05-19</modified>
     <summary>Several people I respect have suggested to me that I read some of the many books authored by Byung-Chul Han (best known for The Burnout Society), so I bought a few that intrigued me and started with Vita Contemplativa since it appeared relevant to the writing of my book on Aristotle....</summary>
-  </entry>
-  <entry>
-    <title>Brief Translation Update</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2041.html"/>
-    <id>tag:stpeter.im,2041</id>
-    <issued>2026-05-11</issued>
-    <modified>2026-05-11</modified>
-    <summary>Well, it took me about 8 hours over the course of a few days to translate the first page of Aristotle's Eudemian Ethics. Because there are 60 pages in the EE, as it's affectionately known (including the three "common books" shared with the Nicomachean Ethics), at this rate it should take me about 500 hours to complete the translation. That's not as long as I expected, and I'll probably gain speed as I make progress up the mountain because here at the start I'm thinking carefully about how I'll render certain words and phrases....</summary>
   </entry>
 </feed>
