@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-06-18</modified>
+  <modified>2026-06-19</modified>
+  <entry>
+    <title>Aristotle on Trial</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2048.html"/>
+    <id>tag:stpeter.im,2048</id>
+    <issued>2026-06-19</issued>
+    <modified>2026-06-19</modified>
+    <summary>In 323 BCE, Aristotle was charged by the Athenians with the capital offense of impiety (the same charge that led to their execution of Socrates 76 years earlier) - although modern scholars think that Aristotle's ties to Alexander the Great played a large role, since Aristotle was suspected of being a foreign agent for Macedonian interests and was fair game after Alexander's death earlier that year. To prevent the Athenians from "sinning twice against philosophy", as he put it, Aristotle fled to Chalkis, where a year later he died of natural causes at the age of 62....</summary>
+  </entry>
   <entry>
     <title>Change and Continuity</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2047.html"/>
@@ -49,13 +57,5 @@
     <issued>2026-05-26</issued>
     <modified>2026-05-26</modified>
     <summary>Over the last few months - exactly how many is foggy because lots of things are that way for me these days - I've been slowly re-reading the Essays of Michel de Montaigne. I was about halfway up this particular mountain (pun intended) when I realized that I really should have been taking notes on the ascent, as per my usual process of working through authors I'd like to encounter and write books about. Thus I've gone back down to the trailhead and I'm reading again from the beginning, but this time with pen in hand....</summary>
-  </entry>
-  <entry>
-    <title>Questionable Treatment</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2042.html"/>
-    <id>tag:stpeter.im,2042</id>
-    <issued>2026-05-19</issued>
-    <modified>2026-05-19</modified>
-    <summary>Several people I respect have suggested to me that I read some of the many books authored by Byung-Chul Han (best known for The Burnout Society), so I bought a few that intrigued me and started with Vita Contemplativa since it appeared relevant to the writing of my book on Aristotle....</summary>
   </entry>
 </feed>
