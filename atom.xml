@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-06-19</modified>
+  <modified>2026-06-23</modified>
+  <entry>
+    <title>Ethics Is What You Do</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2049.html"/>
+    <id>tag:stpeter.im,2049</id>
+    <issued>2026-06-23</issued>
+    <modified>2026-06-23</modified>
+    <summary>Recently a relative of mine observed that in many ways I'm a better Christian than a certain other member of the family who makes a great show of religion but isn't nearly as thoughtful, giving, and helpful as I am. My friend Adrian and I talked about a related topic in our most recent Psy-Phi Dialogue, but during our conversation I didn't have the reference, which I can share now: Peter Harrison's 2011 Gifford Lectures on natural theology, published as The Territories of Science and Religion and cited in Clare Carlisle's book Spinoza's Religion. Harrison uncovers the fact that the 16th and 17th centuries witnessed a substantive change from "Christian religion" as meaning how one behaves (equivalent to "Christian virtue") to "the Christian religion" as meaning what one believes (to be contrasted with, for instance, "the Jewish Religion"). This change has many implications that I could explore in depth, but I like to keep things short and sweet so I won't bore you with a philosophical and historical disquisition. Suffice it to say that I have long attempted to live by the aphorism that ethics is what you do, not what you profess. This is especially so in the personal world of your relationships with friends, family, neighbors, and colleagues. Back in my ideological youth I used to get worked up about other people's opinions (of which I had plenty myself!), but over time I've mellowed out in that regard while assiduously cultivating higher standards for myself with regard to behavior. I still have a long way to go, but I'm getting there......</summary>
+  </entry>
   <entry>
     <title>Aristotle on Trial</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2048.html"/>
@@ -49,13 +57,5 @@
     <issued>2026-05-27</issued>
     <modified>2026-05-27</modified>
     <summary>My friend Adrian Lory and I have scheduled our next Psy-Phi Dialogue for tomorrow at 8:30am PDT / 11:30am EDT / 15:30 UTC on Substack Live. To add some variety, this time around Adrian will be running the show. In appreciation for Adrian's assiduous attention to all things awe-inspiring and amazing, all topics will begin with the letter "A" and might include Aristotle, autism, art and aesthetics, awareness and attention, AI, areas of life, and any "aha moments" that arise as we amble along. ;-)...</summary>
-  </entry>
-  <entry>
-    <title>Another Mountain</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2043.html"/>
-    <id>tag:stpeter.im,2043</id>
-    <issued>2026-05-26</issued>
-    <modified>2026-05-26</modified>
-    <summary>Over the last few months - exactly how many is foggy because lots of things are that way for me these days - I've been slowly re-reading the Essays of Michel de Montaigne. I was about halfway up this particular mountain (pun intended) when I realized that I really should have been taking notes on the ascent, as per my usual process of working through authors I'd like to encounter and write books about. Thus I've gone back down to the trailhead and I'm reading again from the beginning, but this time with pen in hand....</summary>
   </entry>
 </feed>
