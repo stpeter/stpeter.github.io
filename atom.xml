@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-06-25</modified>
+  <modified>2026-06-26</modified>
+  <entry>
+    <title>Politics Is What You Do</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2051.html"/>
+    <id>tag:stpeter.im,2051</id>
+    <issued>2026-06-26</issued>
+    <modified>2026-06-26</modified>
+    <summary>If ethics is what you do, then it seems likely that politics is what you do, too. For instance, the other day I received two primary ballots from my county clerk's office (here in Colorado we have the option of voting in the Democratic primary or the Republican primary). Looking at all the names confirmed my commitment to abstain from voting for any of the candidates because none of these people can truly represent me and the rather out-of-the-mainstream way that I think about res publica. Then I had an additional realization: the most philosophical approach to politics is not to delegate my decision-making powers but to make my own decisions....</summary>
+  </entry>
   <entry>
     <title>Easy Writer</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2050.html"/>
@@ -49,13 +57,5 @@
     <issued>2026-06-09</issued>
     <modified>2026-06-09</modified>
     <summary>There is something garish about our garrulous society. Everything can be talked about, and everything is. No experience is so private, so personal, so serious, or so sacred that it cannot be endlessly dissected, vivisected, violated, and exposed. This strikes me as a distinctly ugly and unseemly way to live. Better and more beautiful was the attitude of the ancients, well described by Pierre Hadot on page 174 of his Selected Writings:...</summary>
-  </entry>
-  <entry>
-    <title>The Hard Work of Translation</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2045.html"/>
-    <id>tag:stpeter.im,2045</id>
-    <issued>2026-06-03</issued>
-    <modified>2026-06-03</modified>
-    <summary>Every morning since May 9th I've established a routine of waking up by 5:30am, feeding the dog, having a snack of skyr and homemade granola, and then sitting down to translate Aristotle for at least an hour and a half, accompanied by a mug of jasmine pearl tea and contemplative music from the likes of Bach and Palestrina. It's almost a sort of meditation, especially at that early hour when the world is so quiet....</summary>
   </entry>
 </feed>
