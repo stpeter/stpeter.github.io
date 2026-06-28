@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-06-26</modified>
+  <modified>2026-06-28</modified>
+  <entry>
+    <title>Freehearted Giving</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2052.html"/>
+    <id>tag:stpeter.im,2052</id>
+    <issued>2026-06-28</issued>
+    <modified>2026-06-28</modified>
+    <summary>Self-knowledge is difficult to acquire, but liberating once attained. Yet it happens, if at all, in a piecemeal fashion - something like the personal counterpart of what historian Carroll Quigley called, at the level of civilizations, "the gradual and communal search for truth". Recently I realized, while reflecting further on one of the soul workouts I completed six months ago, that I have become a very giving person. This comes as something of a surprise to me, because in my teens and early twenties I was very arrogant and self-absorbed. (I suppose many people are at that age, but it's something I regret - although, as I like to say, you're doing well if most of the things you regret doing happened before the age of 25.)...</summary>
+  </entry>
   <entry>
     <title>Politics Is What You Do</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2051.html"/>
@@ -49,13 +57,5 @@
     <issued>2026-06-18</issued>
     <modified>2026-06-18</modified>
     <summary>Some things stick in your mind. I recall a comment that a friend made fifteen or twenty years ago to the effect that after your spouse dies you shouldn't make any major changes for at least twelve months. Why he said that I don't know, but in my experience so far the comment doesn't ring true, at least not for me....</summary>
-  </entry>
-  <entry>
-    <title>Talk Cheapens</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2046.html"/>
-    <id>tag:stpeter.im,2046</id>
-    <issued>2026-06-09</issued>
-    <modified>2026-06-09</modified>
-    <summary>There is something garish about our garrulous society. Everything can be talked about, and everything is. No experience is so private, so personal, so serious, or so sacred that it cannot be endlessly dissected, vivisected, violated, and exposed. This strikes me as a distinctly ugly and unseemly way to live. Better and more beautiful was the attitude of the ancients, well described by Pierre Hadot on page 174 of his Selected Writings:...</summary>
   </entry>
 </feed>
