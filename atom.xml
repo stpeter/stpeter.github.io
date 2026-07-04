@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-06-28</modified>
+  <modified>2026-07-04</modified>
+  <entry>
+    <title>Halfway to Five Hundred</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2053.html"/>
+    <id>tag:stpeter.im,2053</id>
+    <issued>2026-07-04</issued>
+    <modified>2026-07-04</modified>
+    <summary>Most of reflections I've read on the 250th anniversary of the Declaration of Independence look back to the past, either to the founding or to the bicentennial celebrations in 1976 (yes, I'm old enough to remember seeing the tall ships on Long Island Sound from Sunset Park in my boyhood town of Sea Cliff, NY). Yet "semiquintentennial" means the anniversary that's halfway to the five-hundredth, so I'm thinking ahead to the year 2276....</summary>
+  </entry>
   <entry>
     <title>Freehearted Giving</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2052.html"/>
@@ -49,13 +57,5 @@
     <issued>2026-06-19</issued>
     <modified>2026-06-19</modified>
     <summary>In 323 BCE, Aristotle was charged by the Athenians with the capital offense of impiety (the same charge that led to their execution of Socrates 76 years earlier) - although modern scholars think that Aristotle's ties to Alexander the Great played a large role, since Aristotle was suspected of being a foreign agent for Macedonian interests and was fair game after Alexander's death earlier that year. To prevent the Athenians from "sinning twice against philosophy", as he put it, Aristotle fled to Chalkis, where a year later he died of natural causes at the age of 62....</summary>
-  </entry>
-  <entry>
-    <title>Change and Continuity</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2047.html"/>
-    <id>tag:stpeter.im,2047</id>
-    <issued>2026-06-18</issued>
-    <modified>2026-06-18</modified>
-    <summary>Some things stick in your mind. I recall a comment that a friend made fifteen or twenty years ago to the effect that after your spouse dies you shouldn't make any major changes for at least twelve months. Why he said that I don't know, but in my experience so far the comment doesn't ring true, at least not for me....</summary>
   </entry>
 </feed>
