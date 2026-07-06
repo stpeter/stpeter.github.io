@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-07-04</modified>
+  <modified>2026-07-06</modified>
+  <entry>
+    <title>The Singer and the Song</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2054.html"/>
+    <id>tag:stpeter.im,2054</id>
+    <issued>2026-07-06</issued>
+    <modified>2026-07-06</modified>
+    <summary>Lately I've been re-reading one of my favorite books: On Love by José Ortega y Gasset. I've long found Ortega's essays to be the most insightful analysis ever written regarding matters of the heart (and, with some reflection on the reader's part, by extension the love and creation of art). Ortega holds that the choices you make in the people you love and the artworks you treasure are deeply intertwined with your underlying vision of what matters in life, which he calls metaphysical sentiment. Just as Yeats wondered how we can know the dancer from the dance, Ortega wonders how we can know the singer from the song or the lover from the love or the thinker from the thoughts: for instance, in the context of talking about the philosophic conclusions of Stendhal and of Pío Baroja, he observes that "in the manner of songs they tell a truth, not about things, but about the singer."...</summary>
+  </entry>
   <entry>
     <title>Halfway to Five Hundred</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2053.html"/>
@@ -49,13 +57,5 @@
     <issued>2026-06-23</issued>
     <modified>2026-06-23</modified>
     <summary>Recently a relative of mine observed that in many ways I'm a better Christian than a certain other member of the family who makes a great show of religion but isn't nearly as thoughtful, giving, and helpful as I am. My friend Adrian and I talked about a related topic in our most recent Psy-Phi Dialogue, but during our conversation I didn't have the reference, which I can share now: Peter Harrison's 2011 Gifford Lectures on natural theology, published as The Territories of Science and Religion and cited in Clare Carlisle's book Spinoza's Religion. Harrison uncovers the fact that the 16th and 17th centuries witnessed a substantive change from "Christian religion" as meaning how one behaves (equivalent to "Christian virtue") to "the Christian religion" as meaning what one believes (to be contrasted with, for instance, "the Jewish religion"). This change has many implications that I could explore in depth, but I like to keep things short and sweet so I won't bore you with a philosophical and historical disquisition. Suffice it to say that I have long attempted to live by the aphorism that ethics is what you do, not what you profess. This is especially so in the personal world of your relationships with friends, family, neighbors, and colleagues. Back in my ideological youth I used to get worked up about other people's opinions (of which I had plenty myself!), but over time I've mellowed out in that regard while assiduously cultivating higher standards for myself with regard to behavior. I still have a long way to go, but I'm getting there......</summary>
-  </entry>
-  <entry>
-    <title>Aristotle on Trial</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2048.html"/>
-    <id>tag:stpeter.im,2048</id>
-    <issued>2026-06-19</issued>
-    <modified>2026-06-19</modified>
-    <summary>In 323 BCE, Aristotle was charged by the Athenians with the capital offense of impiety (the same charge that led to their execution of Socrates 76 years earlier) - although modern scholars think that Aristotle's ties to Alexander the Great played a large role, since Aristotle was suspected of being a foreign agent for Macedonian interests and was fair game after Alexander's death earlier that year. To prevent the Athenians from "sinning twice against philosophy", as he put it, Aristotle fled to Chalkis, where a year later he died of natural causes at the age of 62....</summary>
   </entry>
 </feed>
