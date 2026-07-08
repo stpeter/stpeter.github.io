@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-07-06</modified>
+  <modified>2026-07-08</modified>
+  <entry>
+    <title>Making and Giving</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2055.html"/>
+    <id>tag:stpeter.im,2055</id>
+    <issued>2026-07-08</issued>
+    <modified>2026-07-08</modified>
+    <summary>While I was giving that little concert recently, a neighborhood girl about seven or eight years old came to watch and listen with that look of wide-eyed fascination which you see only in children. It struck me that this might have been the first time she had ever witnessed someone making live music, so I gave her a big wink. ;-)...</summary>
+  </entry>
   <entry>
     <title>The Singer and the Song</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2054.html"/>
@@ -49,13 +57,5 @@
     <issued>2026-06-25</issued>
     <modified>2026-06-25</modified>
     <summary>It seems to be a truism that the real task of writing begins with the editing phase; indeed, apparently many writers slave over two, three, four, or more drafts before they're happy with the final product. Yet this is not my experience at all: almost everything I publish is a first draft. It's true that usually I think about a topic, often for quite a while, before putting pen to paper; with my forthcoming book about Aristotle I've even gone so far as to make lists of the points to cover in each chapter before sitting down to write. However, for me the composing itself flows quickly and easily. Instead of seeing the task of writing as removing the cruft, I prefer not to generate any cruft in the first place, which strikes me as much more straightforward. Am I a freak of nature or am I missing something essential? Then again, I don't consider myself to be a writer, so maybe it doesn't matter if I'm doing it all wrong......</summary>
-  </entry>
-  <entry>
-    <title>Ethics Is What You Do</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2049.html"/>
-    <id>tag:stpeter.im,2049</id>
-    <issued>2026-06-23</issued>
-    <modified>2026-06-23</modified>
-    <summary>Recently a relative of mine observed that in many ways I'm a better Christian than a certain other member of the family who makes a great show of religion but isn't nearly as thoughtful, giving, and helpful as I am. My friend Adrian and I talked about a related topic in our most recent Psy-Phi Dialogue, but during our conversation I didn't have the reference, which I can share now: Peter Harrison's 2011 Gifford Lectures on natural theology, published as The Territories of Science and Religion and cited in Clare Carlisle's book Spinoza's Religion. Harrison uncovers the fact that the 16th and 17th centuries witnessed a substantive change from "Christian religion" as meaning how one behaves (equivalent to "Christian virtue") to "the Christian religion" as meaning what one believes (to be contrasted with, for instance, "the Jewish religion"). This change has many implications that I could explore in depth, but I like to keep things short and sweet so I won't bore you with a philosophical and historical disquisition. Suffice it to say that I have long attempted to live by the aphorism that ethics is what you do, not what you profess. This is especially so in the personal world of your relationships with friends, family, neighbors, and colleagues. Back in my ideological youth I used to get worked up about other people's opinions (of which I had plenty myself!), but over time I've mellowed out in that regard while assiduously cultivating higher standards for myself with regard to behavior. I still have a long way to go, but I'm getting there......</summary>
   </entry>
 </feed>
