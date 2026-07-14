@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-07-08</modified>
+  <modified>2026-07-14</modified>
+  <entry>
+    <title>Enchantment and Surrender</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2056.html"/>
+    <id>tag:stpeter.im,2056</id>
+    <issued>2026-07-14</issued>
+    <modified>2026-07-14</modified>
+    <summary>Recently over lunch with a dear friend, we got to talking about the fact that many people simply aren't very good at being friends. Given our modern obsession with technique, we're likely to say that such people lack "friendship skills" and that maybe a paid seminar or a few life hacks will solve the problem; however, I think there's much more going on here, because it seems to me that many folks are constitutionally incapable of freehearted giving, investing in people, or cultivating what Aristotle called character friendship. Similarly, José Ortega y Gasset (in his book On Love) distinguishes romantic love as the "prototype and summit of all eroticisms" from lesser forms such as affection and passion, claiming that "love is an infrequent occurrence, a sentiment which only certain souls can hope to experience" and that "falling in love is a marvelous talent which some creatures possess, like the gift of composing verses, the spirit of sacrifice, melodic inspiration, personal bravery" and such. He writes:...</summary>
+  </entry>
   <entry>
     <title>Making and Giving</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2055.html"/>
@@ -49,13 +57,5 @@
     <issued>2026-06-26</issued>
     <modified>2026-06-26</modified>
     <summary>If ethics is what you do, then it seems likely that politics is what you do, too. For instance, the other day I received two primary ballots from my county clerk's office (here in Colorado we have the option of voting in the Democratic primary or the Republican primary). Looking at all the names confirmed my commitment to abstain from voting for any of the candidates because none of these people can truly represent me and the rather out-of-the-mainstream way that I think about res publica. Then I had an additional realization: the most philosophical approach to politics is not to delegate my decision-making powers but to make my own decisions....</summary>
-  </entry>
-  <entry>
-    <title>Easy Writer</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2050.html"/>
-    <id>tag:stpeter.im,2050</id>
-    <issued>2026-06-25</issued>
-    <modified>2026-06-25</modified>
-    <summary>It seems to be a truism that the real task of writing begins with the editing phase; indeed, apparently many writers slave over two, three, four, or more drafts before they're happy with the final product. Yet this is not my experience at all: almost everything I publish is a first draft. It's true that usually I think about a topic, often for quite a while, before putting pen to paper; with my forthcoming book about Aristotle I've even gone so far as to make lists of the points to cover in each chapter before sitting down to write. However, for me the composing itself flows quickly and easily. Instead of seeing the task of writing as removing the cruft, I prefer not to generate any cruft in the first place, which strikes me as much more straightforward. Am I a freak of nature or am I missing something essential? Then again, I don't consider myself to be a writer, so maybe it doesn't matter if I'm doing it all wrong......</summary>
   </entry>
 </feed>
