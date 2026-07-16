@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-07-15</modified>
+  <modified>2026-07-16</modified>
+  <entry>
+    <title>I Contain Multitudes</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2058.html"/>
+    <id>tag:stpeter.im,2058</id>
+    <issued>2026-07-16</issued>
+    <modified>2026-07-16</modified>
+    <summary>Ever since Elisa passed away in February, I've been engaging in a great deal of self-reflection (which hopefully has not devolved into navel-gazing). One thing I've realized is that, to quote Walt Whitman, I contain multitudes. Although I wouldn't exactly say that I contradict myself, I do possess traits and tendencies that on the surface might seem to be somewhat at odds. Consider the following pairs (some of which require explanation and qualification, which perhaps I'll do some other day):...</summary>
+  </entry>
   <entry>
     <title>Moon Haiku</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2057.html"/>
@@ -49,13 +57,5 @@
     <issued>2026-07-04</issued>
     <modified>2026-07-04</modified>
     <summary>Most of the reflections I've read on the 250th anniversary of the Declaration of Independence look back to the past, either to the founding or to the bicentennial celebrations in 1976 (yes, I'm old enough to remember seeing the tall ships on Long Island Sound from Sunset Park in my boyhood town of Sea Cliff, NY). Yet "semiquincentennial" means the anniversary that's halfway to the five-hundredth, so I'm thinking ahead to the year 2276....</summary>
-  </entry>
-  <entry>
-    <title>Freehearted Giving</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2052.html"/>
-    <id>tag:stpeter.im,2052</id>
-    <issued>2026-06-28</issued>
-    <modified>2026-06-28</modified>
-    <summary>Self-knowledge is difficult to acquire, but liberating once attained. Yet it happens, if at all, in a piecemeal fashion - something like the personal counterpart of what historian Carroll Quigley called, at the level of civilizations, "the gradual and communal search for truth". Recently I realized, while reflecting further on one of the soul workouts I completed six months ago, that I have become a very giving person. This comes as something of a surprise to me, because in my teens and early twenties I was very arrogant and self-absorbed. (I suppose many people are at that age, but it's something I regret - although, as I like to say, you're doing well if most of the things you regret doing happened before the age of 25.)...</summary>
   </entry>
 </feed>
