@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-07-16</modified>
+  <modified>2026-07-17</modified>
+  <entry>
+    <title>American Homer?</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2059.html"/>
+    <id>tag:stpeter.im,2059</id>
+    <issued>2026-07-17</issued>
+    <modified>2026-07-17</modified>
+    <summary>Before I likely disappear for a week or two, I wanted to mention that back in June I ran across (via The Hinternet) a little symposium in Plough magazine in which a number of writers and public intellectuals gave their opinion about which author might be the American Homer. Dana Gioia plunked for Robert Frost, A.E. Stallings for Laura Ingalls Wilder, Zena Hitz for Herman Melville, Ross Barkan for Hart Crane, Joseph Keegin for Walt Whitman, etc. You get the picture....</summary>
+  </entry>
   <entry>
     <title>I Contain Multitudes</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2058.html"/>
@@ -49,13 +57,5 @@
     <issued>2026-07-06</issued>
     <modified>2026-07-06</modified>
     <summary>Lately I've been re-reading one of my favorite books: On Love by José Ortega y Gasset. I've long found Ortega's essays to be the most insightful analysis ever written regarding matters of the heart (and, with some reflection on the reader's part, by extension the love and creation of art). Ortega holds that the choices you make in the people you love and the artworks you treasure are deeply intertwined with your underlying vision of what matters in life, which he calls metaphysical sentiment. Just as Yeats wondered how we can know the dancer from the dance, Ortega wonders how we can know the singer from the song or the lover from the love or the thinker from the thoughts: for instance, in the context of talking about the philosophic conclusions of Stendhal and of Pío Baroja, he observes that "in the manner of songs they tell a truth, not about things, but about the singer."...</summary>
-  </entry>
-  <entry>
-    <title>Halfway to Five Hundred</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2053.html"/>
-    <id>tag:stpeter.im,2053</id>
-    <issued>2026-07-04</issued>
-    <modified>2026-07-04</modified>
-    <summary>Most of the reflections I've read on the 250th anniversary of the Declaration of Independence look back to the past, either to the founding or to the bicentennial celebrations in 1976 (yes, I'm old enough to remember seeing the tall ships on Long Island Sound from Sunset Park in my boyhood town of Sea Cliff, NY). Yet "semiquincentennial" means the anniversary that's halfway to the five-hundredth, so I'm thinking ahead to the year 2276....</summary>
   </entry>
 </feed>
