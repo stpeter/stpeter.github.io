@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-08-06</modified>
+  <modified>2026-08-15</modified>
+  <entry>
+    <title>Aristotle's Eudemian Ethics</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2061.html"/>
+    <id>tag:stpeter.im,2061</id>
+    <issued>2026-08-15</issued>
+    <modified>2026-08-15</modified>
+    <summary>Three works on soulcraft have come down to us from antiquity under Aristotle's name: the Nicomachean Ethics, the Eudemian Ethics, and the Great Ethics (a.k.a. Magna Moralia). Scholars dispute the authenticity of the Great Ethics, which paradoxically is much shorter than the others, but the first two are accepted as authentic. For my "prelude and fugue" about Aristotle, I've been translating the Eudemian Ethics (the lesser-known "little brother" of the Nicomachean Ethics) in order to better understand Aristotle's perspective on the good life. To make this work-in-progress accessible to interested readers, I've decided to publish it serially here, which means I'll post one short chapter a week for the next 79 weeks (typically on Mondays). These will be my draft translations, subject to change as I harmonize and improve my renderings of the Greek text. I hope that some folks will find this to be a useful exercise. Although I'll refrain from providing explanatory notes on each chapter, questions and comments are welcome....</summary>
+  </entry>
   <entry>
     <title>What I Was Born For</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2060.html"/>
@@ -49,13 +57,5 @@
     <issued>2026-07-14</issued>
     <modified>2026-07-14</modified>
     <summary>Recently over lunch with a dear friend, we got to talking about the fact that many people simply aren't very good at being friends. Given our modern obsession with technique, we're likely to say that such people lack "friendship skills" and that maybe a paid seminar or a few life hacks will solve the problem; however, I think there's much more going on here, because it seems to me that many folks are constitutionally incapable of freehearted giving, investing in people, or cultivating what Aristotle called character friendship. Similarly, José Ortega y Gasset (in his book On Love) distinguishes romantic love as the "prototype and summit of all eroticisms" from lesser forms such as affection and passion, claiming that "love is an infrequent occurrence, a sentiment which only certain souls can hope to experience" and that "falling in love is a marvelous talent which some creatures possess, like the gift of composing verses, the spirit of sacrifice, melodic inspiration, personal bravery" and such. He writes:...</summary>
-  </entry>
-  <entry>
-    <title>Making and Giving</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2055.html"/>
-    <id>tag:stpeter.im,2055</id>
-    <issued>2026-07-08</issued>
-    <modified>2026-07-08</modified>
-    <summary>While I was giving that little concert recently, a neighborhood girl about seven or eight years old came to watch and listen with that look of wide-eyed fascination which you see only in children. It struck me that this might have been the first time she had ever witnessed someone making live music, so I gave her a big wink. ;-)...</summary>
   </entry>
 </feed>
