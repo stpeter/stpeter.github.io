@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-08-15</modified>
+  <modified>2026-08-17</modified>
+  <entry>
+    <title>Eudemian Ethics I.1</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2062.html"/>
+    <id>tag:stpeter.im,2062</id>
+    <issued>2026-08-17</issued>
+    <modified>2026-08-17</modified>
+    <summary>In the sacred precinct on the island of Delos, he who declared his opinion, distinguishing what's good and what's beautiful and what's enjoyable as not all existing in the same thing, inscribed the following verse at the entryway to the temple of Leto:...</summary>
+  </entry>
   <entry>
     <title>Aristotle's Eudemian Ethics</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2061.html"/>
@@ -49,13 +57,5 @@
     <issued>2026-07-15</issued>
     <modified>2026-07-15</modified>
     <summary>I've been posting some heavy stuff lately, so I figured I'd publish something lighter: ten haiku about the moon that I've written over the years. I love looking up at the sky (some would say I have my head in the clouds!) and the moon is a classic subject for Japanese haiku, so here goes....</summary>
-  </entry>
-  <entry>
-    <title>Enchantment and Surrender</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2056.html"/>
-    <id>tag:stpeter.im,2056</id>
-    <issued>2026-07-14</issued>
-    <modified>2026-07-14</modified>
-    <summary>Recently over lunch with a dear friend, we got to talking about the fact that many people simply aren't very good at being friends. Given our modern obsession with technique, we're likely to say that such people lack "friendship skills" and that maybe a paid seminar or a few life hacks will solve the problem; however, I think there's much more going on here, because it seems to me that many folks are constitutionally incapable of freehearted giving, investing in people, or cultivating what Aristotle called character friendship. Similarly, José Ortega y Gasset (in his book On Love) distinguishes romantic love as the "prototype and summit of all eroticisms" from lesser forms such as affection and passion, claiming that "love is an infrequent occurrence, a sentiment which only certain souls can hope to experience" and that "falling in love is a marvelous talent which some creatures possess, like the gift of composing verses, the spirit of sacrifice, melodic inspiration, personal bravery" and such. He writes:...</summary>
   </entry>
 </feed>
