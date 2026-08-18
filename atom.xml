@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-08-17</modified>
+  <modified>2026-08-18</modified>
+  <entry>
+    <title>Thinking in Six Directions</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2063.html"/>
+    <id>tag:stpeter.im,2063</id>
+    <issued>2026-08-18</issued>
+    <modified>2026-08-18</modified>
+    <summary>Here's a way of looking at life that I've wanted to write about for quite a while. If you envision your life as a long walk on a path (perhaps with a friend or two), six directions provide you with orientation: forward along the path before you, backward from whence you came, upward from the ground beneath your feet, downward from the sky above you, inward from the people at your side, and outward from yourself into the world. Exploring the metaphors, I think of these six directions in the following ways:...</summary>
+  </entry>
   <entry>
     <title>Eudemian Ethics I.1</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2062.html"/>
@@ -49,13 +57,5 @@
     <issued>2026-07-16</issued>
     <modified>2026-07-16</modified>
     <summary>Ever since Elisa passed away in February, I've been engaging in a great deal of self-reflection (which hopefully has not devolved into navel-gazing). One thing I've realized is that, to quote Walt Whitman, I contain multitudes. Although I wouldn't exactly say that I contradict myself, I do possess traits and tendencies that on the surface might seem to be somewhat at odds. Consider the following pairs (some of which require explanation and qualification, which perhaps I'll do some other day):...</summary>
-  </entry>
-  <entry>
-    <title>Moon Haiku</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2057.html"/>
-    <id>tag:stpeter.im,2057</id>
-    <issued>2026-07-15</issued>
-    <modified>2026-07-15</modified>
-    <summary>I've been posting some heavy stuff lately, so I figured I'd publish something lighter: ten haiku about the moon that I've written over the years. I love looking up at the sky (some would say I have my head in the clouds!) and the moon is a classic subject for Japanese haiku, so here goes....</summary>
   </entry>
 </feed>
