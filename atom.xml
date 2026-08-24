@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-08-22</modified>
+  <modified>2026-08-24</modified>
+  <entry>
+    <title>Eudemian Ethics I.2</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2065.html"/>
+    <id>tag:stpeter.im,2065</id>
+    <issued>2026-08-24</issued>
+    <modified>2026-08-24</modified>
+    <summary>(Previous: Eudemian Ethics I.1.)...</summary>
+  </entry>
   <entry>
     <title>The Best Way to Grieve Is to Give</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2064.html"/>
@@ -49,13 +57,5 @@
     <issued>2026-08-06</issued>
     <modified>2026-08-06</modified>
     <summary>Although today is my sixtieth birthday, I can't say I'm feeling exceptionally reflective, likely because I'm always thinking about my life anyway (without, I hope, overthinking it). That said, during the process of self-discovery I've been engaged in over the last few months, I've come to realize that there are three things I was born for back on August 6th, 1966: making music, seeking wisdom, and giving love. By way of contrast, it's true that I had a successful career as a technologist, but I never felt that I was born for that work despite the fact that I excelled at it, had some significant accomplishments, earned enough to retire at age fifty-five, and collaborated with so many wonderful people....</summary>
-  </entry>
-  <entry>
-    <title>American Homer?</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2059.html"/>
-    <id>tag:stpeter.im,2059</id>
-    <issued>2026-07-17</issued>
-    <modified>2026-07-17</modified>
-    <summary>Before I likely disappear for a week or two, I wanted to mention that back in June I ran across (via The Hinternet) a little symposium in Plough magazine in which a number of writers and public intellectuals gave their opinion about which author might be the American Homer. Dana Gioia plunked for Robert Frost, A.E. Stallings for Laura Ingalls Wilder, Zena Hitz for Herman Melville, Ross Barkan for Hart Crane, Joseph Keegin for Walt Whitman, etc. You get the picture....</summary>
   </entry>
 </feed>
