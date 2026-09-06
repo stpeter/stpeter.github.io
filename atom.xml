@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-09-05</modified>
+  <modified>2026-09-06</modified>
+  <entry>
+    <title>Two Things About Freedom</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2068.html"/>
+    <id>tag:stpeter.im,2068</id>
+    <issued>2026-09-06</issued>
+    <modified>2026-09-06</modified>
+    <summary>Following up on yesterday's post about José Ortega y Gasset on personal destiny, here are some related thoughts from Maurice Merleau-Ponty on personal freedom (excerpted from his essay "Cézanne's Doubt"):...</summary>
+  </entry>
   <entry>
     <title>Destiny Calling</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2067.html"/>
@@ -49,13 +57,5 @@
     <issued>2026-08-18</issued>
     <modified>2026-08-18</modified>
     <summary>Here's a way of looking at life that I've wanted to write about for quite a while. If you envision your life as a long walk on a path (perhaps with a friend or two), six directions provide you with orientation: forward along the path before you, backward from whence you came, upward from the ground beneath your feet, downward from the sky above you, inward from the people at your side, and outward from yourself into the world. Exploring the metaphors, I think of these six directions in the following ways:...</summary>
-  </entry>
-  <entry>
-    <title>Eudemian Ethics I.1</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2062.html"/>
-    <id>tag:stpeter.im,2062</id>
-    <issued>2026-08-17</issued>
-    <modified>2026-08-17</modified>
-    <summary>In the sacred precinct on the island of Delos, he who declared his opinion, distinguishing what's good and what's beautiful and what's enjoyable as not all existing in the same thing, inscribed the following verse at the entryway to the temple of Leto:...</summary>
   </entry>
 </feed>
