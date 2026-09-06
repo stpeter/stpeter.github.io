@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-08-24</modified>
+  <modified>2026-09-05</modified>
+  <entry>
+    <title>Destiny Calling</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2067.html"/>
+    <id>tag:stpeter.im,2067</id>
+    <issued>2026-09-05</issued>
+    <modified>2026-09-05</modified>
+    <summary>In previous journal entries, I've explored the lesser-known ideas of Spanish philosopher José Ortega y Gasset. Here I'd like to extend that series by looking at his insights into what we might call personal destiny, which can be found in his 1949 essay "In Search of Goethe from Within" (printed in the expanded 1968 edition of The Dehumanization of Art and Other Essays on Art, Culture, and Literature)....</summary>
+  </entry>
   <entry>
     <title>Eudemian Ethics I.3</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2066.html"/>
@@ -49,13 +57,5 @@
     <issued>2026-08-17</issued>
     <modified>2026-08-17</modified>
     <summary>In the sacred precinct on the island of Delos, he who declared his opinion, distinguishing what's good and what's beautiful and what's enjoyable as not all existing in the same thing, inscribed the following verse at the entryway to the temple of Leto:...</summary>
-  </entry>
-  <entry>
-    <title>Aristotle's Eudemian Ethics</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2061.html"/>
-    <id>tag:stpeter.im,2061</id>
-    <issued>2026-08-15</issued>
-    <modified>2026-08-15</modified>
-    <summary>Three works on soulcraft have come down to us from antiquity under Aristotle's name: the Nicomachean Ethics, the Eudemian Ethics, and the Great Ethics (a.k.a. Magna Moralia). Scholars dispute the authenticity of the Great Ethics, which paradoxically is much shorter than the others, but the first two are accepted as authentic. For my "prelude and fugue" about Aristotle, I've been translating the Eudemian Ethics (the lesser-known "little brother" of the Nicomachean Ethics) in order to better understand Aristotle's perspective on the good life. To make this work-in-progress accessible to interested readers, I've decided to publish it serially here, which means I'll post one short chapter a week for the next 79 weeks (typically on Mondays). These will be my draft translations, subject to change as I harmonize and improve my renderings of the Greek text. I hope that some folks will find this to be a useful exercise. Although I'll refrain from providing explanatory notes on each chapter, questions and comments are welcome....</summary>
   </entry>
 </feed>
