@@ -9,7 +9,31 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-09-07</modified>
+  <modified>2026-09-27</modified>
+  <entry>
+    <title>Eudemian Ethics I.7</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2073.html"/>
+    <id>tag:stpeter.im,2073</id>
+    <issued>2026-09-27</issued>
+    <modified>2026-09-27</modified>
+    <summary>(Previous: Eudemian Ethics I.6.)...</summary>
+  </entry>
+  <entry>
+    <title>Eudemian Ethics I.6</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2072.html"/>
+    <id>tag:stpeter.im,2072</id>
+    <issued>2026-09-22</issued>
+    <modified>2026-09-22</modified>
+    <summary>(Previous: Eudemian Ethics I.5.)...</summary>
+  </entry>
+  <entry>
+    <title>Eudemian Ethics I.5</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2071.html"/>
+    <id>tag:stpeter.im,2071</id>
+    <issued>2026-09-14</issued>
+    <modified>2026-09-14</modified>
+    <summary>(Previous: Eudemian Ethics I.4.)...</summary>
+  </entry>
   <entry>
     <title>Write Less, Live More</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2070.html"/>
@@ -33,29 +57,5 @@
     <issued>2026-09-06</issued>
     <modified>2026-09-06</modified>
     <summary>Following up on yesterday's post about José Ortega y Gasset on personal destiny, here are some related thoughts from Maurice Merleau-Ponty on personal freedom (excerpted from his essay "Cézanne's Doubt"):...</summary>
-  </entry>
-  <entry>
-    <title>Destiny Calling</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2067.html"/>
-    <id>tag:stpeter.im,2067</id>
-    <issued>2026-09-05</issued>
-    <modified>2026-09-05</modified>
-    <summary>In previous journal entries, I've explored the lesser-known ideas of Spanish philosopher José Ortega y Gasset. Here I'd like to extend that series by looking at his insights into what we might call personal destiny, which can be found in his 1949 essay "In Search of Goethe from Within" (printed in the expanded 1968 edition of The Dehumanization of Art and Other Essays on Art, Culture, and Literature)....</summary>
-  </entry>
-  <entry>
-    <title>Eudemian Ethics I.3</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2066.html"/>
-    <id>tag:stpeter.im,2066</id>
-    <issued>2026-08-24</issued>
-    <modified>2026-08-24</modified>
-    <summary>(Previous: Eudemian Ethics I.2.)...</summary>
-  </entry>
-  <entry>
-    <title>Eudemian Ethics I.2</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2065.html"/>
-    <id>tag:stpeter.im,2065</id>
-    <issued>2026-08-24</issued>
-    <modified>2026-08-24</modified>
-    <summary>(Previous: Eudemian Ethics I.1.)...</summary>
   </entry>
 </feed>
