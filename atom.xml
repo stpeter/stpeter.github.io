@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-09-27</modified>
+  <modified>2026-10-05</modified>
+  <entry>
+    <title>Eudemian Ethics I.8</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2075.html"/>
+    <id>tag:stpeter.im,2075</id>
+    <issued>2026-10-05</issued>
+    <modified>2026-10-05</modified>
+    <summary>(Previous: Eudemian Ethics I.7.)...</summary>
+  </entry>
   <entry>
     <title>Artificial Individuals</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2074.html"/>
@@ -49,13 +57,5 @@
     <issued>2026-09-07</issued>
     <modified>2026-09-07</modified>
     <summary>I seem to read less and less of what's being written these days, whether on the Internet or in contemporary books. So much generalized (and, with or without AI, easily generated) analysis of what ails the modern world. So much breathless, pseudo-scientific advice about grit and atomic habits and the like. So much navel-gazing and self-promotion. So much writing for the sake of writing, not greatness in wisdom and life. Words, words, words....</summary>
-  </entry>
-  <entry>
-    <title>Eudemian Ethics I.4</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2069.html"/>
-    <id>tag:stpeter.im,2069</id>
-    <issued>2026-09-07</issued>
-    <modified>2026-09-07</modified>
-    <summary>(Previous: Eudemian Ethics I.3.)...</summary>
   </entry>
 </feed>
