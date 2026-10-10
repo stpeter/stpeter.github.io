@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-10-05</modified>
+  <modified>2026-10-09</modified>
+  <entry>
+    <title>Facets</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2076.html"/>
+    <id>tag:stpeter.im,2076</id>
+    <issued>2026-10-09</issued>
+    <modified>2026-10-09</modified>
+    <summary>Two weeks ago today, some friends and I held a celebration of life at the Denver Botanic Gardens for my dear departed Elisa. I waited quite a while to schedule this gathering because Elisa never liked it when other people held such events too close in time to someone's passing. Everyone I've spoken with since then has commented on how beautiful the gathering was; if you ask me, that's because so many beautiful people were there to remember Elisa....</summary>
+  </entry>
   <entry>
     <title>Eudemian Ethics I.8</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2075.html"/>
@@ -49,13 +57,5 @@
     <issued>2026-09-14</issued>
     <modified>2026-09-14</modified>
     <summary>(Previous: Eudemian Ethics I.4.)...</summary>
-  </entry>
-  <entry>
-    <title>Write Less, Live More</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2070.html"/>
-    <id>tag:stpeter.im,2070</id>
-    <issued>2026-09-07</issued>
-    <modified>2026-09-07</modified>
-    <summary>I seem to read less and less of what's being written these days, whether on the Internet or in contemporary books. So much generalized (and, with or without AI, easily generated) analysis of what ails the modern world. So much breathless, pseudo-scientific advice about grit and atomic habits and the like. So much navel-gazing and self-promotion. So much writing for the sake of writing, not greatness in wisdom and life. Words, words, words....</summary>
   </entry>
 </feed>
