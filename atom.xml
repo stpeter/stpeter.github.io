@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-10-10</modified>
+  <modified>2026-10-11</modified>
+  <entry>
+    <title>Friendship Facets</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2078.html"/>
+    <id>tag:stpeter.im,2078</id>
+    <issued>2026-10-11</issued>
+    <modified>2026-10-11</modified>
+    <summary>In my experience, one of the beautiful things about friendship (broadly speaking - I've always liked the fact that the ancient Greek word φιλία covers a very wide range of personal relationships) is that each friend brings out different facets of my personality. And these facets can be quite particular: for instance, I am a musical person, but different friends of mine might prefer classical, folk, blues, jazz, rock, or pop, all of which appeal to me if the artists are good (as Duke Ellington said, "there are two kinds of music: the good kind and the other kind"!). Some friends might be more spontaneous, more emotionally sensitive, more organized, more philosophical, more creative, more athletic, or what have you - and they might bring out those qualities in myself when we interact or when they inspire me to try new things. This is why there really is an art of friendship and of great conversation. As I turn more and more away from abstractions and universals, I find myself giving ever closer attention to the private, personal, practical, passionate, and particular. This is where life really happens, and where I find the greatest wisdom and joy....</summary>
+  </entry>
   <entry>
     <title>Personality Facets</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2077.html"/>
@@ -49,13 +57,5 @@
     <issued>2026-09-27</issued>
     <modified>2026-09-27</modified>
     <summary>(Previous: Eudemian Ethics I.6.)...</summary>
-  </entry>
-  <entry>
-    <title>Eudemian Ethics I.6</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2072.html"/>
-    <id>tag:stpeter.im,2072</id>
-    <issued>2026-09-22</issued>
-    <modified>2026-09-22</modified>
-    <summary>(Previous: Eudemian Ethics I.5.)...</summary>
   </entry>
 </feed>
