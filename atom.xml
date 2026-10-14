@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-10-12</modified>
+  <modified>2026-10-14</modified>
+  <entry>
+    <title>Love, Attention, and Autonomy</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2082.html"/>
+    <id>tag:stpeter.im,2082</id>
+    <issued>2026-10-14</issued>
+    <modified>2026-10-14</modified>
+    <summary>We return to José Ortega y Gasset and another quote from his book What Is Philosophy?, simultaneously making a connection to his previously-cited book of essays On Love:...</summary>
+  </entry>
   <entry>
     <title>Eudemian Ethics II.1</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2081.html"/>
@@ -49,13 +57,5 @@
     <issued>2026-10-10</issued>
     <modified>2026-10-10</modified>
     <summary>Following up on yesterday's post about facets of personhood, I thought I'd write briefly about the more scientific topic of facets in personality psychology. Although I am far from an expert in this field, longtime readers know that I'm skeptical about the popular Myers-Briggs Type Indicator (MBTI) and prefer the five-factor "OCEAN" model of personality theory (although the six-factor "HEXACO" model seems quite good, too). The five factors are: Openness to Experience, Conscientiousness, Extraversion, Agreeableness, and Neuroticism (HEXACO adds a factor for Honesty and Humility)....</summary>
-  </entry>
-  <entry>
-    <title>Facets</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2076.html"/>
-    <id>tag:stpeter.im,2076</id>
-    <issued>2026-10-09</issued>
-    <modified>2026-10-09</modified>
-    <summary>Two weeks ago today, some friends and I held a celebration of life at the Denver Botanic Gardens for my dear departed Elisa. I waited quite a while to schedule this gathering because Elisa never liked it when other people held such events too close in time to someone's passing. Everyone I've spoken with since then has commented on how beautiful the gathering was; if you ask me, that's because so many beautiful people were there to remember Elisa....</summary>
   </entry>
 </feed>
