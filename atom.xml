@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-10-16</modified>
+  <modified>2026-10-17</modified>
+  <entry>
+    <title>Fulfillment and Attention</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2084.html"/>
+    <id>tag:stpeter.im,2084</id>
+    <issued>2026-10-17</issued>
+    <modified>2026-10-17</modified>
+    <summary>In Book X, Chapter 8 of the Nicomachean Ethics, Aristotle makes the puzzling claim that "eudaimonia extends just so far as theoria does"; much of the puzzle arises from the fact that in standard translations this is usually rendered as "happiness extends just so far as contemplation does", which according to some recent scholars implies that happiness consists primarily or exclusively in acts of contemplation. By contrast, I would render it as "fulfillment extends just so far as attending does" - still somewhat puzzling, but something that I think I can unpack in a more reasonable manner....</summary>
+  </entry>
   <entry>
     <title>Portfolio Rebalancing</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2083.html"/>
@@ -49,13 +57,5 @@
     <issued>2026-10-11</issued>
     <modified>2026-10-11</modified>
     <summary>In Chapter 11 of his book What Is Philosophy?, José Ortega y Gasset writes as follows:...</summary>
-  </entry>
-  <entry>
-    <title>Friendship Facets</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2078.html"/>
-    <id>tag:stpeter.im,2078</id>
-    <issued>2026-10-11</issued>
-    <modified>2026-10-11</modified>
-    <summary>In my experience, one of the beautiful things about friendship (broadly speaking - I've always liked the fact that the ancient Greek word φιλία covers a very wide range of personal relationships) is that each friend brings out different facets of my personality (sometimes latent facets or even facets I didn’t know I had!). And these facets can be quite particular: for instance, I am a musical person, but different friends of mine might prefer classical, folk, blues, jazz, rock, or pop, all of which appeal to me if the artists are good (as Duke Ellington said, "there are two kinds of music: the good kind and the other kind"!). Some friends might be more spontaneous, more emotionally sensitive, more organized, more philosophical, more creative, more athletic, or what have you - and they might bring out those qualities in myself when we interact or when they inspire me to try new things. This is why there really is an art of friendship and of great conversation. As I turn more and more away from abstractions and universals, I find myself giving ever closer attention to the private, personal, practical, passionate, and particular. This is where life really happens, and where I find the greatest wisdom and joy....</summary>
   </entry>
 </feed>
