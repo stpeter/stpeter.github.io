@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-10-18</modified>
+  <modified>2026-10-19</modified>
+  <entry>
+    <title>Eudemian Ethics II.2</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2086.html"/>
+    <id>tag:stpeter.im,2086</id>
+    <issued>2026-10-19</issued>
+    <modified>2026-10-19</modified>
+    <summary>(Previous: Eudemian Ethics II.1.)...</summary>
+  </entry>
   <entry>
     <title>Love and Truth</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2085.html"/>
@@ -49,13 +57,5 @@
     <issued>2026-10-12</issued>
     <modified>2026-10-12</modified>
     <summary>(Previous: Eudemian Ethics I.8.)...</summary>
-  </entry>
-  <entry>
-    <title>Knowing in Your Bones</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2080.html"/>
-    <id>tag:stpeter.im,2080</id>
-    <issued>2026-10-12</issued>
-    <modified>2026-10-12</modified>
-    <summary>In a comment on my last post, my friend Kurt Keefner wonders whether Socrates really should be considered a paradigm of the philosopher, since he never wrote a word - and philosophic arguments can't be properly weighed unless they're written down. It just so happens that this very topic was of great concern to Socrates and his student Plato - there's a reason why Plato wrote dialogues as representations of the true path to philosophical insight. In an essay on the philosopher as spiritual guide, Ilsetraut Hadot (wife of Pierre Hadot and a formidable scholar in her own right) just happens to have provided a compelling consideration of this matter, which I've been wanting to comment on for the last few months:...</summary>
   </entry>
 </feed>
