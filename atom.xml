@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-10-19</modified>
+  <modified>2026-10-26</modified>
+  <entry>
+    <title>Eudemian Ethics II.3</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2088.html"/>
+    <id>tag:stpeter.im,2088</id>
+    <issued>2026-10-26</issued>
+    <modified>2026-10-26</modified>
+    <summary>(Previous: Eudemian Ethics II.2.)...</summary>
+  </entry>
   <entry>
     <title>Fate, Freedom, and Beauty</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2087.html"/>
@@ -49,13 +57,5 @@
     <issued>2026-10-16</issued>
     <modified>2026-10-16</modified>
     <summary>Having recently rebalanced my financial portfolio, I remembered that I've been meaning to write about the ways in which I periodically rebalance my life portfolio, too. I first sketched out the idea of a life portfolio about eight years ago, asserting somewhat arbitrarily (because the areas of life can be sliced and diced in a variety of ways) that for my own purposes I think of my life pursuits as consisting of Health &amp; Vitality, Wealth &amp; Achievement, Love &amp; Caring, Character &amp; Self-Improvement, Wisdom &amp; Sagacity, and Beauty &amp; Creativity. As my life circumstances change, I tend to modify the weightings I assign to these different areas. Here are a few examples:...</summary>
-  </entry>
-  <entry>
-    <title>Love, Attention, and Autonomy</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2082.html"/>
-    <id>tag:stpeter.im,2082</id>
-    <issued>2026-10-14</issued>
-    <modified>2026-10-14</modified>
-    <summary>We return to José Ortega y Gasset and another quote from his book What Is Philosophy?, simultaneously making a connection to his previously-cited book of essays On Love:...</summary>
   </entry>
 </feed>
