@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-10-26</modified>
+  <modified>2026-10-30</modified>
+  <entry>
+    <title>Inside Out</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2089.html"/>
+    <id>tag:stpeter.im,2089</id>
+    <issued>2026-10-30</issued>
+    <modified>2026-10-30</modified>
+    <summary>Although I don't like to talk about myself, once in a while I venture to write in a more confessional mode, mostly because it helps me understand myself but also because friends have told me that they appreciate my personal insights. So here goes....</summary>
+  </entry>
   <entry>
     <title>Eudemian Ethics II.3</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2088.html"/>
@@ -49,13 +57,5 @@
     <issued>2026-10-17</issued>
     <modified>2026-10-17</modified>
     <summary>In Book X, Chapter 8 of the Nicomachean Ethics, Aristotle makes the puzzling claim that "eudaimonia extends just so far as theoria does"; much of the puzzle arises from the fact that in standard translations this is usually rendered as "happiness extends just so far as contemplation does", which according to some recent scholars implies that happiness consists primarily or exclusively in acts of contemplation. By contrast, I would render it as "fulfillment extends just so far as attending does" - still somewhat puzzling, but something that I think I can unpack in a more reasonable manner....</summary>
-  </entry>
-  <entry>
-    <title>Portfolio Rebalancing</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2083.html"/>
-    <id>tag:stpeter.im,2083</id>
-    <issued>2026-10-16</issued>
-    <modified>2026-10-16</modified>
-    <summary>Having recently rebalanced my financial portfolio, I remembered that I've been meaning to write about the ways in which I periodically rebalance my life portfolio, too. I first sketched out the idea of a life portfolio about eight years ago, asserting somewhat arbitrarily (because the areas of life can be sliced and diced in a variety of ways) that for my own purposes I think of my life pursuits as consisting of Health &amp; Vitality, Wealth &amp; Achievement, Love &amp; Caring, Character &amp; Self-Improvement, Wisdom &amp; Sagacity, and Beauty &amp; Creativity. As my life circumstances change, I tend to modify the weightings I assign to these different areas. Here are a few examples:...</summary>
   </entry>
 </feed>
