@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-10-30</modified>
+  <modified>2026-10-31</modified>
+  <entry>
+    <title>Umami</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2090.html"/>
+    <id>tag:stpeter.im,2090</id>
+    <issued>2026-10-31</issued>
+    <modified>2026-10-31</modified>
+    <summary>In one of our recent psy-phi dialogues, my friend Adrian Lory mentioned a book by Japanese-American psychologist Shige Oishi entitled Life in Three Dimensions. In addition to the dimensions of happiness and of meaning, Oishi adduces a third dimension of life experience: psychological richness. It's perhaps no coincidence that someone from Japan had this insight, because if you ask me richness is something like the psychological counterpart of umami in cooking: the savory taste produced by the proteins essential to life....</summary>
+  </entry>
   <entry>
     <title>Inside Out</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2089.html"/>
@@ -49,13 +57,5 @@
     <issued>2026-10-18</issued>
     <modified>2026-10-18</modified>
     <summary>In José Ortega y Gasset's book What Is Philosophy? can be found the following quote:...</summary>
-  </entry>
-  <entry>
-    <title>Fulfillment and Attention</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2084.html"/>
-    <id>tag:stpeter.im,2084</id>
-    <issued>2026-10-17</issued>
-    <modified>2026-10-17</modified>
-    <summary>In Book X, Chapter 8 of the Nicomachean Ethics, Aristotle makes the puzzling claim that "eudaimonia extends just so far as theoria does"; much of the puzzle arises from the fact that in standard translations this is usually rendered as "happiness extends just so far as contemplation does", which according to some recent scholars implies that happiness consists primarily or exclusively in acts of contemplation. By contrast, I would render it as "fulfillment extends just so far as attending does" - still somewhat puzzling, but something that I think I can unpack in a more reasonable manner....</summary>
   </entry>
 </feed>
