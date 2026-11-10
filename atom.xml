@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-11-09</modified>
+  <modified>2026-11-10</modified>
+  <entry>
+    <title>A Portrait of the Philosopher as a Young Man</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2094.html"/>
+    <id>tag:stpeter.im,2094</id>
+    <issued>2026-11-10</issued>
+    <modified>2026-11-10</modified>
+    <summary>The other day I found a photo of me reading Hobbes' Leviathan at the foot of Rodin's Thinker on the campus of Columbia University circa 1986 (the photo was used in advertisements for Columbia's Summer School in the New York Times). This brought back memories of my university studies and my unorthodox attitude toward philosophy even back then....</summary>
+  </entry>
   <entry>
     <title>Eudemian Ethics II.5</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2093.html"/>
@@ -49,13 +57,5 @@
     <issued>2026-10-30</issued>
     <modified>2026-10-30</modified>
     <summary>Although I don't like to talk about myself, once in a while I venture to write in a more confessional mode, mostly because it helps me understand myself but also because friends have told me that they appreciate my personal insights. So here goes....</summary>
-  </entry>
-  <entry>
-    <title>Eudemian Ethics II.3</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2088.html"/>
-    <id>tag:stpeter.im,2088</id>
-    <issued>2026-10-26</issued>
-    <modified>2026-10-26</modified>
-    <summary>(Previous: Eudemian Ethics II.2.)...</summary>
   </entry>
 </feed>
