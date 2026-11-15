@@ -9,7 +9,15 @@
   <tagline>The journal of Peter Saint-Andre - philosopher, technologist, musician.</tagline>
   <id>https://stpeter.im/journal/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2026-11-12</modified>
+  <modified>2026-11-16</modified>
+  <entry>
+    <title>Eudemian Ethics II.6</title>
+    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2096.html"/>
+    <id>tag:stpeter.im,2096</id>
+    <issued>2026-11-16</issued>
+    <modified>2026-11-16</modified>
+    <summary>(Previous: Eudemian Ethics II.5.)...</summary>
+  </entry>
   <entry>
     <title>Joyful, Meaningful, Beautiful</title>
     <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2095.html"/>
@@ -49,13 +57,5 @@
     <issued>2026-11-01</issued>
     <modified>2026-11-01</modified>
     <summary>Here is an intriguing quote from an early work by Jane Austen (Catharine, or The Bower):...</summary>
-  </entry>
-  <entry>
-    <title>Umami</title>
-    <link type="text/html" rel="alternate" href="https://stpeter.im/journal/2090.html"/>
-    <id>tag:stpeter.im,2090</id>
-    <issued>2026-10-31</issued>
-    <modified>2026-10-31</modified>
-    <summary>In one of our recent psy-phi dialogues, my friend Adrian Lory mentioned a book by Japanese-American psychologist Shige Oishi entitled Life in Three Dimensions. In addition to the dimensions of happiness and of meaning, Oishi adduces a third dimension of life experience: psychological richness. It's perhaps no coincidence that someone from Japan had this insight, because if you ask me richness is something like the psychological counterpart of umami in cooking: the savory taste produced by the proteins essential to life....</summary>
   </entry>
 </feed>
